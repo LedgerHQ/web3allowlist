@@ -1,0 +1,84 @@
+{
+    "dappwhitelist":{
+         "Opensea": {
+        "domain": "opensea.io",
+        "chain" : "ethereum",
+        "token" : "null"
+        },
+        "LooksRare": {
+        "domain": "looksrare.org",
+        "chain" : "ethereum",
+        "token" : "null"
+        },
+         "1inch": {
+        "domain": "app.1inch.io",
+        "chain" : "ethereum",
+        "token" : "1INCH"
+        },
+        "Rarible": {
+        "domain": "rarible.com",
+        "chain" : "ethereum",
+        "token" : "RARI"
+        },
+        "Curve": {
+        "domain": "curve.fi",
+        "chain" : "ethereum",
+        "token" : "CRV"
+        },
+        "Oasis": {
+        "domain": "oasis.app",
+        "chain" : "ethereum",
+        "token" : "MKR"
+        },
+        "Uniswap": {
+        "domain": "app.uniswap.org",
+        "chain" : "ethereum",
+        "token" : "UNI"
+        },
+        "Paraswap": {
+        "domain": "app.paraswap.io",
+        "chain" : "ethereum",
+        "token" : "PSP"
+        },
+        "Convex": {
+        "domain": "convexfinance.com",
+        "chain" : "ethereum",
+        "token" : "CVX"
+        },
+        "Lido": {
+        "domain": "stake.lido.fi",
+        "chain" : "ethereum",
+        "token" : "LDO"
+        },
+        "Aave": {
+        "domain": "app.aave.com",
+        "chain" : "ethereum",
+        "token" : "AAVE"
+        },
+        "Compound": {
+        "domain": "app.compound.finance",
+        "chain" : "ethereum",
+        "token" : "COMP"
+        },
+        "Balancer": {
+        "domain": "app.balancer.fi",
+        "chain" : "ethereum",
+        "token" : "BAL"
+        },
+        "Yearn": {
+        "domain": "yearn.finance",
+        "chain" : "ethereum",
+        "token" : "YFI"
+        },
+        "Sushi": {
+        "domain": "app.sushi.com",
+        "chain" : "ethereum",
+        "token" : "SUSHI"
+        },
+        "MagicEden": {
+        "domain": "magiceden.io",
+        "chain" : "solana",
+        "token" : "null"
+        },
+    }
+}

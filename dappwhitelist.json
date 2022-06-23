@@ -220,6 +220,7 @@
           "domain": "app.paraswap.io",
           "token": "PSP",
           "contracts": [
+            { "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57" },
             { "address": "0x1bd435f3c054b6e901b7b108a0ab7617c808677b" },
             { "address": "0x86969d29f5fd327e1009ba66072be22db6017cc6" },
             { "address": "0x9509665d015bfe3c77aa5ad6ca20c8afa1d98989" },

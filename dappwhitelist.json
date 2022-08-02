@@ -210,6 +210,7 @@
           "domain": "app.uniswap.org",
           "token": "UNI",
           "contracts": [
+            { "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2" },
             { "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984" },
             { "address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d" },
             { "address": "0x090d4613473dee047c3f2706764f49e0821d256e" },

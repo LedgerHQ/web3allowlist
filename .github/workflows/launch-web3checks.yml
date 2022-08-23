@@ -3,7 +3,7 @@ name: launch web3checks-backend ci
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
 
 jobs:

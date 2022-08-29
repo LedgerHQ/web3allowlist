@@ -6441,6 +6441,14 @@
             { "address": "0x11be6f5520fee8e867e20af9c9d2c8a09b909b83" },
             { "address": "0x8d90113a1e286a5ab3e496fbd1853f265e5913c6" }
           ]
+        },
+        {
+          "name": "SWFT AllChain Bridge",
+          "domain": "allchainbridge.com",
+          "token": null,
+          "contracts": [
+            { "address": "0x92e929d8b2c8430bcaf4cd87654789578bb2b786" }
+          ]
         }
       ],
       "solana": [

@@ -6380,6 +6380,15 @@
             { "address": "0x69Cf8871F61FB03f540bC519dd1f1D4682Ea0bF6" },
             { "address": "0x20F780A973856B93f63670377900C1d2a50a77c4" }
           ]
+        },
+        {
+          "name": "genie",
+          "domain": "genie.xyz",
+          "token": null,
+          "contracts": [
+            { "address": "0x2af4b707e1DCe8fC345f38CfeeAA2421e54976d5" },
+            { "address": "0x0a267cf51ef038fc00e71801f5a524aec06e4f07" }
+          ]
         }
       ],
       "solana": [

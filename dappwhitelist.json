@@ -6491,6 +6491,18 @@
             { "address": "0xb4a81261b16b92af0b9f7c4a83f1e885132d81e4" },
             { "address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9" }
           ]
+        },
+        {
+          "name": "CoW Swap",
+          "domain": "cowswap.exchange",
+          "token": null,
+          "contracts": [
+            { "address": "0x9008D19f58AAbD9eD0D60971565AA8510560ab41" },
+            { "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67" },
+            { "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE" },
+            { "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67" },
+            { "address": "0xC92E8bdf79f0507f65a392b0ab4667716BFE0110" }
+          ]
         }
       ],
       "solana": [

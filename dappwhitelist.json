@@ -6366,6 +6366,21 @@
             { "address": "0xcDA72070E455bb31C7690a170224Ce43623d0B6f" }
           ]
         },
+        {
+          "name": "Element Market",
+          "domain": "element.market",
+          "token": null,
+          "contracts": [
+            { "address": "0x74d8e56924909731d0e65f954fc439fa04634a61" },
+            { "address": "0x87f8388195728e9497aA11715A352472984607a2" },
+            { "address": "0x9B49Ee1B204F62Fc2AA1A88f267c2cf815c28755" },
+            { "address": "0x4Fde78d3C8718f093f6Eb3699e3Ed8d091498dF9" },
+            { "address": "0x10e6d9E9B746ed71fA728C92D41b401f05f2cf4E" },
+            { "address": "0x2317D8B224328644759319DFFA2A5da77C72e0e9" },
+            { "address": "0x69Cf8871F61FB03f540bC519dd1f1D4682Ea0bF6" },
+            { "address": "0x20F780A973856B93f63670377900C1d2a50a77c4" }
+          ]
+        }
       ],
       "solana": [
         {

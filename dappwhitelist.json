@@ -6337,6 +6337,16 @@
             { "address": "0x21c48840bb382c9e15120a7c9b9a6cf99a5d1a93" },
             { "address": "0x168d3fcbb4213fc91d5c40acc302bfccd89112aa" }
           ]
+        },
+        {
+          "name": "Gem",
+          "domain": "gem.xyz",
+          "token": null,
+          "contracts": [
+            { "address": "0x00000000A50BB64b4BbEcEB18715748DfacE08af" },
+            { "address": "0x0000000035634B55f3D99B071B5A354f48e10BEF" },
+            { "address": "0x83C8F28c26bF6aaca652Df1DbBE0e1b56F8baBa2" }
+          ]
         }
       ],
       "solana": [

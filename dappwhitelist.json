@@ -6347,6 +6347,15 @@
             { "address": "0x0000000035634B55f3D99B071B5A354f48e10BEF" },
             { "address": "0x83C8F28c26bF6aaca652Df1DbBE0e1b56F8baBa2" }
           ]
+        },
+        {
+          "name": "X2Y2",
+          "domain": "x2y2.io",
+          "token": null,
+          "contracts": [
+            { "address": "0x74312363e45DCaBA76c59ec49a7Aa8A65a67EeD3" },
+            { "address": "0x56dd5bbede9bfdb10a2845c4d70d4a2950163044" }
+          ]
         }
       ],
       "solana": [

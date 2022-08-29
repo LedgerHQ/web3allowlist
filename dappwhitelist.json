@@ -6470,6 +6470,14 @@
             { "address": "0x40ec5B33f54e0E8A33A975908C5BA1c14e5BbbDf" },
             { "address": "0xA0c68C638235ee32657e8f720a23ceC1bFc77C77" }
           ]
+        },
+        {
+          "name": "HEX",
+          "domain": "hex.com",
+          "token": "HEX",
+          "contracts": [
+            { "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39" }
+          ]
         }
       ],
       "solana": [

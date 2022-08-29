@@ -6410,6 +6410,19 @@
             { "address": "0xb8901acB165ed027E32754E0FFe830802919727f" },
             { "address": "0xb98454270065A31D71Bf635F6F7Ee6A518dFb849" }
           ]
+        },
+        {
+          "name": "DODO",
+          "domain": "app.dodoex.io",
+          "token": null,
+          "contracts": [
+            { "address": "0x3a97247df274a17c59a3bd12735ea3fcdfb49950" },
+            { "address": "0x5336edE8F971339F6c0e304c66ba16F1296A2Fbe" },
+            { "address": "0x72d220cE168C4f361dD4deE5D826a01AD8598f6C" },
+            { "address": "0x6fdDB76c93299D985f4d3FC7ac468F9A168577A4" },
+            { "address": "0xa356867fDCEa8e71AEaF87805808803806231FdC" },
+            { "address": "0xa2398842F37465f89540430bDC00219fA9E4D28a" }
+          ]
         }
       ],
       "solana": [

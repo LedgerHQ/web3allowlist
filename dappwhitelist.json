@@ -6423,6 +6423,14 @@
             { "address": "0xa356867fDCEa8e71AEaF87805808803806231FdC" },
             { "address": "0xa2398842F37465f89540430bDC00219fA9E4D28a" }
           ]
+        },
+        {
+          "name": "Transit Swap",
+          "domain": "transit.finance",
+          "token": null,
+          "contracts": [
+            { "address": "0xc8d7899f22bc4995c8176e3f2a5ba3f5e87d95e5" }
+          ]
         }
       ],
       "solana": [

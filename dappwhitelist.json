@@ -6356,7 +6356,16 @@
             { "address": "0x74312363e45DCaBA76c59ec49a7Aa8A65a67EeD3" },
             { "address": "0x56dd5bbede9bfdb10a2845c4d70d4a2950163044" }
           ]
-        }
+        },
+        {
+          "name": "Foundation",
+          "domain": "foundation.app",
+          "token": null,
+          "contracts": [
+            { "address": "0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405" },
+            { "address": "0xcDA72070E455bb31C7690a170224Ce43623d0B6f" }
+          ]
+        },
       ],
       "solana": [
         {

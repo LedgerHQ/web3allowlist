@@ -6513,6 +6513,14 @@
             { "address": "0x921Fd42f147B26b51AA3c7fa3F2E2Ce7704c2858" },
             { "address": "0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38" }
           ]
+        },
+        {
+          "name": "Bungee",
+          "domain": "bungee.exchange",
+          "token": null,
+          "contracts": [
+            { "address": "0xc30141B657f4216252dc59Af2e7CdB9D8792e1B0" }
+          ]
         }
       ],
       "solana": [

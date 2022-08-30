@@ -6524,7 +6524,7 @@
         },
         {
           "name": "Swapr",
-          "domain": "swapr.eth.link",
+          "domain": "swapr.eth.limo",
           "token": "SWPR",
           "contracts": [
             { "address": "0xd34971BaB6E5E356fd250715F5dE0492BB070452" },		

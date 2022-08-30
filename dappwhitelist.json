@@ -6337,6 +6337,226 @@
             { "address": "0x21c48840bb382c9e15120a7c9b9a6cf99a5d1a93" },
             { "address": "0x168d3fcbb4213fc91d5c40acc302bfccd89112aa" }
           ]
+        },
+        {
+          "name": "Gem",
+          "domain": "gem.xyz",
+          "token": null,
+          "contracts": [
+            { "address": "0x00000000A50BB64b4BbEcEB18715748DfacE08af" },
+            { "address": "0x0000000035634B55f3D99B071B5A354f48e10BEF" },
+            { "address": "0x83C8F28c26bF6aaca652Df1DbBE0e1b56F8baBa2" }
+          ]
+        },
+        {
+          "name": "X2Y2",
+          "domain": "x2y2.io",
+          "token": null,
+          "contracts": [
+            { "address": "0x74312363e45DCaBA76c59ec49a7Aa8A65a67EeD3" },
+            { "address": "0x56dd5bbede9bfdb10a2845c4d70d4a2950163044" }
+          ]
+        },
+        {
+          "name": "Foundation",
+          "domain": "foundation.app",
+          "token": null,
+          "contracts": [
+            { "address": "0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405" },
+            { "address": "0xcDA72070E455bb31C7690a170224Ce43623d0B6f" }
+          ]
+        },
+        {
+          "name": "Element Market",
+          "domain": "element.market",
+          "token": null,
+          "contracts": [
+            { "address": "0x74d8e56924909731d0e65f954fc439fa04634a61" },
+            { "address": "0x87f8388195728e9497aA11715A352472984607a2" },
+            { "address": "0x9B49Ee1B204F62Fc2AA1A88f267c2cf815c28755" },
+            { "address": "0x4Fde78d3C8718f093f6Eb3699e3Ed8d091498dF9" },
+            { "address": "0x10e6d9E9B746ed71fA728C92D41b401f05f2cf4E" },
+            { "address": "0x2317D8B224328644759319DFFA2A5da77C72e0e9" },
+            { "address": "0x69Cf8871F61FB03f540bC519dd1f1D4682Ea0bF6" },
+            { "address": "0x20F780A973856B93f63670377900C1d2a50a77c4" }
+          ]
+        },
+        {
+          "name": "genie",
+          "domain": "genie.xyz",
+          "token": null,
+          "contracts": [
+            { "address": "0x2af4b707e1DCe8fC345f38CfeeAA2421e54976d5" },
+            { "address": "0x0a267cf51ef038fc00e71801f5a524aec06e4f07" }
+          ]
+        },
+        {
+          "name": "TokenTrove",
+          "domain": "tokentrove.com",
+          "token": null,
+          "contracts": [
+            { "address": "0x080bf510fcbf18b91105470639e9561022937712" },
+            { "address": "0x4ef40d1bf0983899892946830abf99eca2dbc5ce" }
+          ]
+        },
+        {
+          "name": "Hop",
+          "domain": "app.hop.exchange",
+          "token": null,
+          "contracts": [
+            { "address": "0x3E4a3a4796d16c0Cd582C382691998f7c06420B6" },
+            { "address": "0x22B1Cbb8D98a01a3B71D034BB899775A76Eb1cc2" },
+            { "address": "0x3d4Cc8A61c7528Fd86C55cfe061a78dCBA48EDd1" },
+            { "address": "0xb8901acB165ed027E32754E0FFe830802919727f" },
+            { "address": "0xb98454270065A31D71Bf635F6F7Ee6A518dFb849" }
+          ]
+        },
+        {
+          "name": "DODO",
+          "domain": "app.dodoex.io",
+          "token": null,
+          "contracts": [
+            { "address": "0x3a97247df274a17c59a3bd12735ea3fcdfb49950" },
+            { "address": "0x5336edE8F971339F6c0e304c66ba16F1296A2Fbe" },
+            { "address": "0x72d220cE168C4f361dD4deE5D826a01AD8598f6C" },
+            { "address": "0x6fdDB76c93299D985f4d3FC7ac468F9A168577A4" },
+            { "address": "0xa356867fDCEa8e71AEaF87805808803806231FdC" },
+            { "address": "0xa2398842F37465f89540430bDC00219fA9E4D28a" }
+          ]
+        },
+        {
+          "name": "Transit Swap",
+          "domain": "transit.finance",
+          "token": null,
+          "contracts": [
+            { "address": "0xc8d7899f22bc4995c8176e3f2a5ba3f5e87d95e5" }
+          ]
+        },
+        {
+          "name": "Tokenlon",
+          "domain": "tokenlon.im",
+          "token": "LON",
+          "contracts": [
+            { "address": "0xdc6c91b569c98f9f6f74d90f9beff99fdaf4248b" },
+            { "address": "0x11be6f5520fee8e867e20af9c9d2c8a09b909b83" },
+            { "address": "0x8d90113a1e286a5ab3e496fbd1853f265e5913c6" }
+          ]
+        },
+        {
+          "name": "SWFT AllChain Bridge",
+          "domain": "allchainbridge.com",
+          "token": null,
+          "contracts": [
+            { "address": "0x92e929d8b2c8430bcaf4cd87654789578bb2b786" }
+          ]
+        },
+        {
+          "name": "MetaMask Swap",
+          "domain": "metamask.io",
+          "token": null,
+          "contracts": [
+            { "address": "0x881D40237659C251811CEC9c364ef91dC08D300C" },
+            { "address": "0xF326e4dE8F66A0BDC0970b79E0924e33c79f1915" }
+          ]
+        },
+        {
+          "name": "Polygon POS Bridge",
+          "domain": "wallet.polygon.technology",
+          "token": null,
+          "contracts": [
+            { "address": "0xA68D85dF56E733A06443306A095646317B5Fa633" },
+            { "address": "0x401F6c983eA34274ec46f84D70b31C151321188b" },
+            { "address": "0x8484Ef722627bf18ca5Ae6BcF031c23E6e922B30" },
+            { "address": "0x40ec5B33f54e0E8A33A975908C5BA1c14e5BbbDf" },
+            { "address": "0xA0c68C638235ee32657e8f720a23ceC1bFc77C77" }
+          ]
+        },
+        {
+          "name": "HEX",
+          "domain": "hex.com",
+          "token": "HEX",
+          "contracts": [
+            { "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39" }
+          ]
+        },
+        {
+          "name": "ShibaSwap",
+          "domain": "shibaswap.com",
+          "token": "SHIB",
+          "contracts": [
+            { "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce" },
+            { "address": "0x27c70cd1946795b66be9d954418546998b546634" },
+            { "address": "0xf7a0383750fef5abace57cc4c9ff98e3790202b3" },
+            { "address": "0xa57d319b3cf3ad0e4d19770f71e63cf847263a0b" },
+            { "address": "0xb4a81261b16b92af0b9f7c4a83f1e885132d81e4" },
+            { "address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9" }
+          ]
+        },
+        {
+          "name": "CoW Swap",
+          "domain": "cowswap.exchange",
+          "token": null,
+          "contracts": [
+            { "address": "0x9008D19f58AAbD9eD0D60971565AA8510560ab41" },
+            { "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67" },
+            { "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE" },
+            { "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67" },
+            { "address": "0xC92E8bdf79f0507f65a392b0ab4667716BFE0110" }
+          ]
+        },
+        {
+          "name": "The Sandbox Marketplace",
+          "domain": "sandbox.game",
+          "token": "SAND",
+          "contracts": [
+            { "address": "0xa342f5D851E866E18ff98F351f2c6637f4478dB5" },
+            { "address": "0x921Fd42f147B26b51AA3c7fa3F2E2Ce7704c2858" },
+            { "address": "0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38" }
+          ]
+        },
+        {
+          "name": "Bungee",
+          "domain": "bungee.exchange",
+          "token": null,
+          "contracts": [
+            { "address": "0xc30141B657f4216252dc59Af2e7CdB9D8792e1B0" }
+          ]
+        },
+        {
+          "name": "Swapr",
+          "domain": "swapr.eth.link",
+          "token": "SWPR",
+          "contracts": [
+            { "address": "0xd34971BaB6E5E356fd250715F5dE0492BB070452" },		
+            { "address": "0xb9960d9bca016e9748be75dd52f02188b9d0829f" },		
+            { "address": "0xC6130400C1e3cD7b352Db75055dB9dD554E00Ef0" },		
+            { "address": "0x288879b3CaFA044dB6Ba18ee638BBC1a233F8548" },		
+            { "address": "0x156F0568a6cE827e5d39F6768A5D24B694e1EA7b" },		
+            { "address": "0x010946a9189f4fa8d6bf01d2fa32e0edf3d6e03b" },		
+            { "address": "0x04e9644c7b5c82280fe95f515b7c4ad18a72db83" },		
+            { "address": "0x0e18852ee5ce266e2ce6f4844ba04cd9cd11af5b" },		
+            { "address": "0x15d37a2c7e4a88adb0ef5a6c85866a54d261201d" },		
+            { "address": "0x1d9e9118c8ac62360364b659035bd87d110691e7" },		
+            { "address": "0x3ad1754fd7b22af9f9ce66a068e146749aae2d61" },		
+            { "address": "0x3fff4a26a98b730c9027d7ab70a2e89916cacd52" },		
+            { "address": "0x46575017362add18630dd99246bca8f853b80ede" },		
+            { "address": "0x5e71f9438cf3f4e2aac987e6ff9994a05317a06a" },		
+            { "address": "0x67bf56e4cb13363cc1a5f243e51354e7b72a8930" },		
+            { "address": "0x6e68f1b08024b35e175be750dd94cd84942fe851" },		
+            { "address": "0x7515be43d16f871588adc135d58a9c30a71eb34f" },		
+            { "address": "0x83dd8227c5ef121f2ae99c6f1df0aa9e914448ce" },		
+            { "address": "0x98f29f527c8e0ecc67a3c2d5567833bee01f2a12" },		
+            { "address": "0x9bb6275ab5245f124ece93a9f379615717813ed0" },		
+            { "address": "0xae8e0495b5784ce114a5a5095a00c19780984caf" },		
+            { "address": "0xb0dc4b36e0b4d2e3566d2328f6806ea0b76b4f13" },		
+            { "address": "0xde7ffb785148eba591a88adc00546051afe0430b" },		
+            { "address": "0xe22c8fc10d30463c63a079580e5ccffa42f17511" },		
+            { "address": "0x068a593ed20fac229c527be81765c7fc497c3fd8" },		
+            { "address": "0x45da2d2013e7043f2dfd4bd2ecb0de5f7cf55726" },		
+            { "address": "0x47f3302b1827f27e4d823f2667c034c99e5f2c29" },		
+            { "address": "0x5f6812ddfd8d02097fb5e42da3e881e6fe6247a7" },		
+            { "address": "0x627ff06e3be50295d60cda25b3b54ff2962b4f20" }		
+          ]
         }
       ],
       "solana": [

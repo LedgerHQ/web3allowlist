@@ -6521,6 +6521,42 @@
           "contracts": [
             { "address": "0xc30141B657f4216252dc59Af2e7CdB9D8792e1B0" }
           ]
+        },
+        {
+          "name": "Swapr",
+          "domain": "swapr.eth.link",
+          "token": "SWPR",
+          "contracts": [
+            { "address": "0xd34971BaB6E5E356fd250715F5dE0492BB070452" },		
+            { "address": "0xb9960d9bca016e9748be75dd52f02188b9d0829f" },		
+            { "address": "0xC6130400C1e3cD7b352Db75055dB9dD554E00Ef0" },		
+            { "address": "0x288879b3CaFA044dB6Ba18ee638BBC1a233F8548" },		
+            { "address": "0x156F0568a6cE827e5d39F6768A5D24B694e1EA7b" },		
+            { "address": "0x010946a9189f4fa8d6bf01d2fa32e0edf3d6e03b" },		
+            { "address": "0x04e9644c7b5c82280fe95f515b7c4ad18a72db83" },		
+            { "address": "0x0e18852ee5ce266e2ce6f4844ba04cd9cd11af5b" },		
+            { "address": "0x15d37a2c7e4a88adb0ef5a6c85866a54d261201d" },		
+            { "address": "0x1d9e9118c8ac62360364b659035bd87d110691e7" },		
+            { "address": "0x3ad1754fd7b22af9f9ce66a068e146749aae2d61" },		
+            { "address": "0x3fff4a26a98b730c9027d7ab70a2e89916cacd52" },		
+            { "address": "0x46575017362add18630dd99246bca8f853b80ede" },		
+            { "address": "0x5e71f9438cf3f4e2aac987e6ff9994a05317a06a" },		
+            { "address": "0x67bf56e4cb13363cc1a5f243e51354e7b72a8930" },		
+            { "address": "0x6e68f1b08024b35e175be750dd94cd84942fe851" },		
+            { "address": "0x7515be43d16f871588adc135d58a9c30a71eb34f" },		
+            { "address": "0x83dd8227c5ef121f2ae99c6f1df0aa9e914448ce" },		
+            { "address": "0x98f29f527c8e0ecc67a3c2d5567833bee01f2a12" },		
+            { "address": "0x9bb6275ab5245f124ece93a9f379615717813ed0" },		
+            { "address": "0xae8e0495b5784ce114a5a5095a00c19780984caf" },		
+            { "address": "0xb0dc4b36e0b4d2e3566d2328f6806ea0b76b4f13" },		
+            { "address": "0xde7ffb785148eba591a88adc00546051afe0430b" },		
+            { "address": "0xe22c8fc10d30463c63a079580e5ccffa42f17511" },		
+            { "address": "0x068a593ed20fac229c527be81765c7fc497c3fd8" },		
+            { "address": "0x45da2d2013e7043f2dfd4bd2ecb0de5f7cf55726" },		
+            { "address": "0x47f3302b1827f27e4d823f2667c034c99e5f2c29" },		
+            { "address": "0x5f6812ddfd8d02097fb5e42da3e881e6fe6247a7" },		
+            { "address": "0x627ff06e3be50295d60cda25b3b54ff2962b4f20" }		
+          ]
         }
       ],
       "solana": [

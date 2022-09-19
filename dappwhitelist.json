@@ -219,7 +219,7 @@
         },
         {
           "name": "Paraswap",
-          "domain": "app.paraswap.io",
+          "domain": "*.paraswap.io",
           "token": "PSP",
           "contracts": [
             { "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57" },

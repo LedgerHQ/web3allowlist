@@ -1,0 +1,19 @@
+## Changes
+
+- Dapp(s)
+  - added : ...
+  - removed : ...
+  - updated : ...
+  
+- Contract(s)
+  - added : ...
+  - removed : ...
+  - updated : ...
+
+## Reason
+
+<!-- Explain in clear terms the reason of the afore described changes : 
+  - Why are they needed ? 
+  - Who asked for them ? 
+  - What checks have been made to ensure they are safe ?
+-->

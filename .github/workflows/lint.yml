@@ -11,10 +11,12 @@ name: Lint
 #############################
 on:
   push:
-    branches-ignore: [master, main]
+    branches-ignore: 
+      - main
     # Remove the line above to run when pushing to master
   pull_request:
-    branches: [master, main]
+    branches: 
+      - main
 
 ###############
 # Set the Job #
@@ -49,3 +51,6 @@ jobs:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # since we are only interested in linting the allowlist JSON file
+          VALIDATE_MARKDOWN: false
+          VALIDATE_NATURAL_LANGUAGE: false 

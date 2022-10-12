@@ -1,5 +1,5 @@
 {
-  "whitelist": {
+  "allowlist": {
     "ethereum": [
       {
         "name": "Opensea",

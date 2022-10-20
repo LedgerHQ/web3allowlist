@@ -1,4 +1,5 @@
 {
+  "$schema": "./allowlist.schema.json",
   "allowlist": {
     "ethereum": [
       {

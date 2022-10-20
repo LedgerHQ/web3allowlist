@@ -1,0 +1,81 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$ref": "#/definitions/root",
+  "definitions": {
+    "root": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "allowlist": {
+          "$ref": "#/definitions/Allowlist"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "allowlist",
+        "$schema"
+      ],
+      "title": "root"
+    },
+    "Allowlist": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "$ref": "#/definitions/Dapp"
+        }
+      },
+      "title": "Allowlist"
+    },
+    "Dapp": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "token": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "contracts": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Contract"
+          }
+        }
+      },
+      "required": [
+        "contracts",
+        "domain",
+        "name",
+        "token"
+      ],
+      "title": "Dapp"
+    },
+    "Contract": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "address": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "address"
+      ],
+      "title": "Contract"
+    }
+  }
+}

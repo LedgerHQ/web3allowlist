@@ -6660,6 +6660,15 @@
           { "address": " 0x13ad61aa8f695ce64711a51a6feccb48a275aaf8" },
           { "address": " 0x374026a48d777cb0ffdccdb9a919c0aa7ce8a0fc" }
         ]
+      },
+      {
+        "name": "Scam education dapp",
+        "domain": "scam-education.web.app",
+        "token":null,
+        "contracts": [
+          {"address": "0x5531Cc6980831ee1FA9B138892d681c5dE4eAB90"},
+          {"address": "0x8629a9Bd0c4E286075e819733DD6663e10636F3c"}
+        ]
       }
     ],
     "solana": [

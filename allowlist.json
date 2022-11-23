@@ -6832,6 +6832,17 @@
         ]
       },
       {
+        "name": "Zora",
+        "domain": "zora.co",
+        "token":null,
+        "contracts": [
+          { "address": "0x850A7c6fE2CF48eea1393554C8A3bA23f20CC401" },
+          { "address": "0x909e9efE4D87d1a6018C2065aE642b6D0447bc91" },
+          { "address": "0xCCA379FDF4Beda63c4bB0e2A3179Ae62c8716794" },
+          { "address": "0x9641169A1374b77E052E1001c5a096C29Cd67d35" }
+        ]
+      },
+      {
         "name": "KyberSwap",
         "domain": "kyberswap.com",
         "token":null,

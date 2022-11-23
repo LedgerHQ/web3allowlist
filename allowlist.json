@@ -226,7 +226,18 @@
           { "address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d" },
           { "address": "0x090d4613473dee047c3f2706764f49e0821d256e" },
           { "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45" },
-          { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" }
+          { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" },
+          { "address": "0x1F98431c8aD98523631AE4a59f267346ea31F984" },
+          { "address": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696" },
+          { "address": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2" },
+          { "address": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573" },
+          { "address": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6" },
+          { "address": "0xE592427A0AEce92De3Edee1F18E0157C05861564" },
+          { "address": "0x42B24A95702b9986e82d421cC3568932790A48Ec" },
+          { "address": "0x91ae842A5Ffd8d12023116943e72A606179294f3" },
+          { "address": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785" },
+          { "address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88" },
+          { "address": "0xA5644E29708357803b5A882D272c41cC0dF92B34" }
         ]
       },
       {
@@ -6369,7 +6380,11 @@
         "token": null,
         "contracts": [
           { "address": "0x74312363e45DCaBA76c59ec49a7Aa8A65a67EeD3" },
-          { "address": "0x56dd5bbede9bfdb10a2845c4d70d4a2950163044" }
+          { "address": "0x56dd5bbede9bfdb10a2845c4d70d4a2950163044" },
+          { "address": "0xf849de01b080adc3a814fabe1e2087475cf2e354" },
+          { "address": "0x6d7812d41a08bc2a910b562d8b56411964a4ed88" },
+          { "address": "0xc2f44bc508b6b50047a2f3afb1984ed105070be1" },
+          { "address": "0x6d11992a247ae0d726cb967a70fc981e8308b723" }
         ]
       },
       {
@@ -6581,7 +6596,8 @@
         "contracts": [
           { "address": " 0x314159265dD8dbb310642f98f50C066173C1259b" },
           { "address": " 0x6090a6e47849629b7245dfa1ca21d94cd15878ef" },
-          { "address": " 0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85" }
+          { "address": " 0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85" },
+          { "address": " 0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e" }
         ]
       },
       {

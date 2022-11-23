@@ -6814,6 +6814,104 @@
           {"address": "0x5531Cc6980831ee1FA9B138892d681c5dE4eAB90"},
           {"address": "0x8629a9Bd0c4E286075e819733DD6663e10636F3c"}
         ]
+      },
+      {
+        "name": "KyberSwap",
+        "domain": "kyberswap.com",
+        "token":null,
+        "contracts": [
+          { "address": "0x0d125c15d54ca1f8a813c74a81aee34ebb508c1f" },
+        { "address": "0x1982131c7d6959ff7768ee39c023ad002d8c9759" },
+        { "address": "0x1c87257f5e8609940bc751a07bb085bb7f8cdbe6" },
+        { "address": "0x1cf68bbc2b6d3c6cfe1bd3590cf0e10b06a05f17" },
+        { "address": "0x2b1c7b41f6a8f2b2bc45c3233a5d5fb3cd6dc9a8" },
+        { "address": "0x306121f1344ac5f84760998484c0176d7bfb7134" },
+        { "address": "0x31de05f28568e3d3d612bfa6a78b356676367470" },
+        { "address": "0x49bdd8854481005bba4acebabf6e06cd5f6312e9" },
+        { "address": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a" },
+        { "address": "0x61639d6ec06c13a96b5eb9560b359d7c648c7759" },
+        { "address": "0x63825c174ab367968ec60f061753d3bbd36a0d8f" },
+        { "address": "0x6a65e062ce8290007301296f3c6ae446af7bdeec" },
+        { "address": "0x798abda6cc246d0edba912092a2a3dbd3d11191b" },
+        { "address": "0x7c66550c9c730b6fdd4c03bc2e73c5462c5f7acc" },
+        { "address": "0x818e6fecd516ecc3849daf6845e3ec868087b755" },
+        { "address": "0x833e4083b7ae46cea85695c4f7ed25cdad8886de" },
+        { "address": "0x97d7126b6ff7c4d95601912f4cdf790a3cd1edab" },
+        { "address": "0x9aab3f75489902f3a48495025729a0af77d4b11e" },
+        { "address": "0xa1c0fa73c39cfbcc11ec9eb1afc665aba9996e2c" },
+        { "address": "0xc1e7dfe73e1598e3910ef4c7845b68a9ab6f4c83" },
+        { "address": "0xc8fb12402cb16970f3c5f4b48ff68eb9d1289301" },
+        { "address": "0xc93239b33239a901143e15473e4a852a0d92c53b" },
+        { "address": "0xce9874c42dce7fffbe5e48b026ff1182733266cb" },
+        { "address": "0xd343d5dba2fba55eef58189619c05e33cab95ca1" },
+        { "address": "0xd3d2b5643e506c6d9b7099e9116d7aaa941114fe" },
+        { "address": "0xd7ab1699280980e756c446769b4c0f04550f88c9" },
+        { "address": "0xecf0bdb7b3f349abfd68c3563678124c5e8aaea3" },
+        { "address": "0xf4c408835de8c68232f4746b5ed598608b17e98d" },
+        { "address": "0xfab5186a194588f5ad5074bd52659302906b4522" }
+        ]
+      },
+      {
+        "name": "DeFi Plaza",
+        "domain": "defiplaza.net",
+        "token":null,
+        "contracts": [
+          {"address": "0xe68c1d72340aeefe5be76eda63ae2f4bc7514110"},
+          {"address": "0x2f57430a6ceda85a67121757785877b4a71b8e6d"}
+        ]
+      },
+      {
+        "name": "Kleros",
+        "domain": "kleros.io",
+        "token":null,
+        "contracts": [
+          { "address": "0x988b3A538b618C7A603e1c11Ab82Cd16dbE28069" },
+        { "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d" },
+        { "address": "0xe5bcEa6F87aAEe4a81f64dfDB4d30d400e0e5cf4" },
+        { "address": "0xcf1f07713d5193fae5c1653c9f61953d048bece4" },
+        { "address": "0xA3B02bA6E10F55fb177637917B1b472da0110CcC" },
+        { "address": "0xda47f3252bb03c5c7950d7bb2fd32637fc5ad943" },
+        { "address": "0x180eba68d164c3f8c3f6dc354125ebccf4dfcb86" },
+        { "address": "0x90992fb4E15ce0C59aEFfb376460Fda4Ee19C879" },
+        { "address": "0x0d67440946949FE293B45c52eFD8A9b3d51e2522" },
+        { "address": "0xebcf3bca271b26ae4b162ba560e243055af0e679" },
+        { "address": "0x916deab80dfbc7030277047cd18b233b3ce5b4ab" },
+        { "address": "0xCb4Aae35333193232421E86Cd2E9b6C91f3B125F" },
+        { "address": "0xd47f72a2d1d0e91b0ec5e5f5d02b2dc26d00a14d" },
+        { "address": "0xd47f72a2d1d0e91b0ec5e5f5d02b2dc26d00a14d" },
+        { "address": "0x728cba71a3723caab33ea416cb46e2cc9215a596" },
+        { "address": "0xf72cfd1b34a91a64f9a98537fe63fbab7530adca" },
+        { "address": "0x2f0895732bfacdcf2fdb19962fe609d0da695f21" },
+        { "address": "0x79d0464ec27f67663dadf761432fc8dd0aea3d49" },
+        { "address": "0xe0e1bc8C6cd1B81993e2Fcfb80832d814886eA38" },
+        { "address": "0xC5E9dDebb09Cd64DfaCab4011A0D5cEDaf7c9BDb" },
+        { "address": "0xa27bfea336bc7058ff1297eeff2732389f8b208f" },
+        { "address": "0x2b59500ad441bf5accf8ff89449552b6487132e0" },
+        { "address": "0x82458d1c812d7c930bb3229c9e159cbabd9aa8cb" },
+        { "address": "0x54f1f7b58c1Dc646a6c639C5d909B62652129b33" },
+        { "address": "0x460f688f655610de5e3d92beb7892fa200b9060d" },
+        { "address": "0xFEe86325d5C96AE9E20EaBe7B157813c67bBccFA" },
+        { "address": "0x5Cd1ff55282db11e526Fe13fA0F7C014f74acF11" },
+        { "address": "0xf8D4c1436ACA89A5DEEf36F06f662bAdfEb5AE63" },
+        { "address": "0x48032Ad54DB49d8E0d4f135A687b98E5731961f9" },
+        { "address": "0x0Bc3B51673dCdF3b45c628066761dA7331E8fBA2" },
+        { "address": "0xa3E4348BDDc32AfcedC5e088e0E21FD6154A0180" },
+        { "address": "0xaB0D90943A58b1A64c0171Ee8e743d9998Be6AC3" }
+        ]
+      },
+      {
+        "name": "Euler Finance",
+        "domain": "euler.finance",
+        "token":null,
+        "contracts": [
+          {"address": "0x27182842E098f60e3D576794A5bFFb0777E025d3"},
+          {"address": "0x3520d5a913427E6F0D6A83E07ccD4A4da316e4d3"},
+          {"address": "0xf43ce1d09050BAfd6980dD43Cde2aB9F18C85b34"},
+          {"address": "0x59828FdF7ee634AaaD3f58B19fDBa3b03E2D9d80"},
+          {"address": "0x7123C8cBBD76c5C7fCC9f7150f23179bec0bA341"},
+          {"address": "0x542ACC8E1db037d6008587aBfB1B7fB44014c629"},
+          {"address": "0xAF68CFba29D0e15490236A5631cA9497e035CD39"}
+        ]
       }
     ],
     "solana": [

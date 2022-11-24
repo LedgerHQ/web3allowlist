@@ -37,6 +37,8 @@ The allowlist is a JSON file with the following format :
 }
 ```
 
+
+
 ## Contributing
 
 Domains and contracts on this allowlist are added by hand. Any contributions are welcome, just open a PR and ask a review from CODEOWNERS.

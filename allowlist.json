@@ -18,8 +18,6 @@
           { "address": "0x00000000006c3852cbef3e08e8df289169ede581" },
           { "address": "0x7f268357a8c2552623316e2562d90e642bb538e5" },
           { "address": "0x7e1e3334130355799f833ffec2d731bca3e68af6" },
-          { "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2" },
-          { "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48" },
           { "address": "0x00000000F9490004C11Cef243f5400493c00Ad63" },
           { "address": "0x0000007b02230091a7ed01230072f7006a004d60" },
           { "address": "0x1E0049783F008A0085193E00003D00cd54003c71" },
@@ -42,7 +40,6 @@
           { "address": "0x59728544b08ab483533076417fbbb2fd0b17ce3a" },
           { "address": "0x9cc58bf22a173c0fa8791c13df396d18185d62b2" },
           { "address": "0xbcd7254a1d759efa08ec7c3291b2e85c5dcc12ce" },
-          { "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e" },
           { "address": "0x7358182024c9f1b2e6b0153e60bf6156b7ef4906" },
           { "address": "0x55010472a93921a117aad9b055c141060c8d8022" },
           { "address": "0x66466107d9cae4da0176a699406419003f3c27a8" },
@@ -58,7 +55,6 @@
         "token": "1INCH",
         "contracts": [
           { "address": "0x111111125434b319222cdbf8c261674adb56f3ae" },
-          { "address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c" },
           { "address": "0x11111112542d85b3ef69ae05771c2dccff4faa26" },
           { "address": "0xdb38ae75c5f44276803345f7f02e95a0aeef5944" },
           { "address": "0x1111111254fb6c44bac0bed2854e76f90643097d" },
@@ -66,13 +62,11 @@
           { "address": "0xe069cb01d06ba617bcdf789bf2ff0d5e5ca20c71" },
           { "address": "0x5e89f8d81c74e311458277ea1be3d3247c7cd7d1" },
           { "address": "0xbaf9a5d4b0052359326a6cdab54babaa3a3a9643" },
-          { "address": "0x111111111117dc0aa78b770fa6a738034120c302" },
           { "address": "0x11799622f4d98a24514011e8527b969f7488ef47" },
           { "address": "0xae00455eac003408a2f10e895fbc6c6445535d56" },
           { "address": "0xe295ad71242373c37c5fda7b57f26f9ea1088afe" },
           { "address": "0x5fe3b8b19949c04da3f578c6468f3d444cd7a9bb" },
           { "address": "0x7e1e3334130355799f833ffec2d731bca3e68af6" },
-          { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" },
           { "address": "0x1111111254eeb25477b68fb85ed929f73a960582" },
           { "address": "0x119c71d3bbac22029622cbaec24854d3d32d2828" }
         ]
@@ -82,17 +76,12 @@
         "domain": "rarible.com",
         "token": "RARI",
         "contracts": [
-          { "address": "0xb66a603f4cfe17e3d27b87a8bfcad319856518b8" },
-          { "address": "0xf6793da657495ffeff9ee6350824910abc21356c" },
           { "address": "0x3482549fca7511267c9ef7089507c0f16ea1dcc1" },
           { "address": "0x81243681078bee8e251d02ee6872b1eaa6dd982a" },
           { "address": "0x6d9dd3547baf4c190ab89e0103c363feaf325eca" },
           { "address": "0xcd4ec7b66fbc029c116ba9ffb3e59351c20b5b06" },
           { "address": "0x9757f2d2b135150bbeb65308d4a91804107cd8d6" },
           { "address": "0xea90cfad1b8e030b8fd3e63d22074e0aeb8e0dcd" },
-          { "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf" },
-          { "address": "0x60f80121c31a0d46b5279700f9df786054aa5ee5" },
-          { "address": "0xd07dc4262bcdbf85190c01c996b4c06a461d2430" },
           { "address": "0x1cf0df2a5a20cd61d68d4489eebbf85b8d39e18a" },
           { "address": "0xfdff6b56cce39482032b27140252ff4f16432785" },
           { "address": "0x7e1e3334130355799f833ffec2d731bca3e68af6" },
@@ -120,7 +109,6 @@
           { "address": "0x845838df265dcd2c412a1dc9e959c7d08537f8a2" },
           { "address": "0xeb21209ae4c2c9ff2a86aca31e123764a3b6bc06" },
           { "address": "0xa2b47e3d5c44877cca798226b7b8118f9bfb7a56" },
-          { "address": "0xd533a949740bb3306d119cc777fa900ba034cd52" },
           { "address": "0xc1db00a8e5ef7bfa476395cdbcc98235477cde4e" },
           { "address": "0x2f50d538606fa9edd2b11e2446beb18c9d5846bb" },
           { "address": "0xa50ccc70b6a011cffddf45057e39679379187287" },
@@ -150,18 +138,14 @@
           { "address": "0x52ea46506b9cc5ef470c5bf89f17dc28bb35d85c" },
           { "address": "0xbbc81d23ea2c3ec7e56d39296f0cbb648873a5d3" },
           { "address": "0x45f783cce6b7ff23b2ab2d70e416cdb7d6055f51" },
-          { "address": "0xfa712ee4788c042e2b7bb55e6cb8ec569c4530c1" },
-          { "address": "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8" }
-        ]
+          { "address": "0xfa712ee4788c042e2b7bb55e6cb8ec569c4530c1" }        ]
       },
       {
         "name": "Oasis",
         "domain": "oasis.app",
         "token": "MKR",
         "contracts": [
-          { "address": "0x6b175474e89094c44da98b954eedeac495271d0f" },
           { "address": "0x39755357759ce0d7f32dc8dc45414cca409ae24e" },
-          { "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2" },
           { "address": "0x5ef30b9986345249bc32d8928b7ee64de9435e39" },
           { "address": "0x448a5065aebb8e423f0896e6c5d525c040f59af3" },
           { "address": "0xbda109309f9fafa6dd6a9cb9f1df4085b27ee8ef" },
@@ -209,7 +193,6 @@
           { "address": "0x5e227ad1969ea493b43f840cff78d08a6fc17796" },
           { "address": "0x8ee7d9235e01e6b42345120b5d270bdb763624c7" },
           { "address": "0x793ebbe21607e4f04788f89c7a9b97320773ec59" },
-          { "address": "0xc66ea802717bfb9833400264dd12c2bceaa34a6d" },
           { "address": "0xb4eb54af9cc7882df0121d26c5b97e802915abe6" },
           { "address": "0x81fe72b5a8d1a857d176c3e7d5bd2679a9b85763" },
           { "address": "0x54003dbf6ae6cba6ddae571ccdc34d834b44ab1e" },
@@ -225,10 +208,7 @@
           { "address": "0xbf72da2bd84c5170618fbe5914b0eca9638d5eb5" },
           { "address": "0x794e6e91555438afc3ccf1c5076a74f42133d08d" },
           { "address": "0x14fbca95be7e99c15cc2996c6c9d841e54b79425" },
-          { "address": "0xb7ac09c2c0217b07d7c103029b4918a2c401eecb" },
-          { "address": "0xf53ad2c6851052a81b42133467480961b2321c09" },
-          { "address": "0x59adcf176ed2f6788a41b8ea4c4904518e62b6a4" },
-          { "address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359" }
+          { "address": "0xb7ac09c2c0217b07d7c103029b4918a2c401eecb" }
         ]
       },
       {
@@ -237,7 +217,6 @@
         "token": "UNI",
         "contracts": [
           { "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2" },
-          { "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984" },
           { "address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d" },
           { "address": "0x090d4613473dee047c3f2706764f49e0821d256e" },
           { "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45" },
@@ -282,7 +261,6 @@
           { "address": "0x92cf9e5e4d1dfbf7da0d2bb3e884a68416a65070" },
           { "address": "0x5f465e9fcffc217c5849906216581a657cd60605" },
           { "address": "0x8014595f2ab54cd7c604b00e9fb932176fdc86ae" },
-          { "address": "0xd18140b4b819b895a3dba5442f959fa44994af50" },
           { "address": "0xcf50b810e57ac33b91dcf525c6ddd9881b139332" },
           { "address": "0xe096ccec4a1d36f191189fe61e803d8b2044dfc3" },
           { "address": "0x3fe65692bfcd0e6cf84cb1e7d24108e434a7587e" },
@@ -350,15 +328,7 @@
         "token": "AAVE",
         "contracts": [
           { "address": "0x317625234562b1526ea2fac4030ea499c5291de4" },
-          { "address": "0xba3d9687cf50fe253cd2e1cfeede1d6787344ed5" },
-          { "address": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b" },
-          { "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9" },
           { "address": "0xf7dba49d571745d9d7fcb56225b05bea803ebf3c" },
-          { "address": "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00" },
-          { "address": "0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1" },
-          { "address": "0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8" },
-          { "address": "0xa361718326c15715591c299427c62086f69923d9" },
-          { "address": "0x8dae6cb04688c62d939ed9b68d32bc62e49970b1" },
           { "address": "0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d" },
           { "address": "0x028171bca77440897b824ca71d1c56cac55b68a3" },
           { "address": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef" },

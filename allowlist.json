@@ -220,7 +220,6 @@
           { "address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d" },
           { "address": "0x090d4613473dee047c3f2706764f49e0821d256e" },
           { "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45" },
-          { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" },
           { "address": "0x1F98431c8aD98523631AE4a59f267346ea31F984" },
           { "address": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696" },
           { "address": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2" },
@@ -231,7 +230,9 @@
           { "address": "0x91ae842A5Ffd8d12023116943e72A606179294f3" },
           { "address": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785" },
           { "address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88" },
-          { "address": "0xA5644E29708357803b5A882D272c41cC0dF92B34" }
+          { "address": "0xA5644E29708357803b5A882D272c41cC0dF92B34" },
+          { "address": "0x0000000052BE00bA3a005edbE83a0fB9aaDB964C" },
+          { "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3" }
         ]
       },
       {
@@ -244,7 +245,6 @@
           { "address": "0x86969d29f5fd327e1009ba66072be22db6017cc6" },
           { "address": "0x9509665d015bfe3c77aa5ad6ca20c8afa1d98989" },
           { "address": "0xf90e98f3d8dce44632e5020abf2e122e0f99dfab" },
-          { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" },
           { "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae" },
           { "address": "0xeF13101C5bbD737cFb2bF00Bbd38c626AD6952F7" }
         ]
@@ -3446,7 +3446,13 @@
           { "address": "0xf6b9dfe6bc42ed2eab44d6b829017f7b78b29f88" },
           { "address": "0xf8768814b88281de4f532a3beefa5b85b69b9324" },
           { "address": "0xfbeb78a723b8087fd2ea7ef1afec93d35e8bed42" },
-          { "address": "0xfd0877d9095789caf24c98f7cce092fa8e120775" }
+          { "address": "0xfd0877d9095789caf24c98f7cce092fa8e120775" },
+          { "address": "0x50c1a2eA0a861A967D9d0FFE2AE4012c2E053804" },
+          { "address": "0xFEB4acf3df3cDEA7399794D0869ef76A6EfAff52" },
+          { "address": "0x16388463d60FFE0661Cf7F1f31a7D658aC790ff7" },
+          { "address": "0x846e211e8ba920B353FB717631C015cf04061Cc9" },
+          { "address": "0x93A62dA5a14C80f265DAbC077fCEE437B1a0Efde" },
+          { "address": "0xDDCea799fF1699e98EDF118e0629A974Df7DF012" }
         ]
       },
       {
@@ -6659,9 +6665,7 @@
         "token": null,
         "contracts": [
           { "address": "0x881D40237659C251811CEC9c364ef91dC08D300C" },
-          { "address": "0xF326e4dE8F66A0BDC0970b79E0924e33c79f1915" },
-          { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" }
-        ]
+          { "address": "0xF326e4dE8F66A0BDC0970b79E0924e33c79f1915" }        ]
       },
       {
         "name": "Polygon POS Bridge",
@@ -6693,8 +6697,7 @@
           { "address": "0xf7a0383750fef5abace57cc4c9ff98e3790202b3" },
           { "address": "0xa57d319b3cf3ad0e4d19770f71e63cf847263a0b" },
           { "address": "0xb4a81261b16b92af0b9f7c4a83f1e885132d81e4" },
-          { "address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9" },
-          { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" }
+          { "address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9" }
         ]
       },
       {
@@ -6707,7 +6710,6 @@
           { "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE" },
           { "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67" },
           { "address": "0xC92E8bdf79f0507f65a392b0ab4667716BFE0110" },
-          { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" },
           { "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41" },
           { "address": "0x2c4c28ddbdac9c5e7055b4c863b72ea0149d8afe" },
           { "address": "0xc92e8bdf79f0507f65a392b0ab4667716bfe0110" }
@@ -6766,8 +6768,7 @@
           { "address": "0x45da2d2013e7043f2dfd4bd2ecb0de5f7cf55726" },
           { "address": "0x47f3302b1827f27e4d823f2667c034c99e5f2c29" },
           { "address": "0x5f6812ddfd8d02097fb5e42da3e881e6fe6247a7" },
-          { "address": "0x627ff06e3be50295d60cda25b3b54ff2962b4f20" },
-          { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" }
+          { "address": "0x627ff06e3be50295d60cda25b3b54ff2962b4f20" }
         ]
       },
       {
@@ -6989,6 +6990,102 @@
           { "address": "0x4f2bc163c8758d7f88771496f7b0afde767045f3" },
           { "address": "0xceb90e4c17d626be0facd78b79c9c87d7ca181b3" },
           { "address": "0x9deb29c9a4c7a88a3c0257393b7f3335338d9a9d" }
+        ]
+      },
+      {
+        "name": "Mooniswap",
+        "domain": "mooniswap.exchange",
+        "token":null,
+        "contracts": [
+          { "address": "0xbAF9A5d4b0052359326A6CDAb54BABAa3a3A9643" }
+        ]
+      },
+      {
+        "name": "Ledger Market",
+        "domain": "market.ledger.com",
+        "token":null,
+        "contracts": [
+          { "address": "0x20ecda43fdd84290c50dec35fe03b35f9bf2c6dc" },
+          { "address": "0x2e2dac881480c15b8b7b9e1539fbd34954f37c0e" },
+          { "address": "0x93298d9c3ec890fbaa5c5bd619413a1f1da5ffb8" },
+          { "address": "0x0f77625b76e3831914d47a5034323290f9ce8a9e" },
+          { "address": "0x33c6eec1723b12c46732f7ab41398de45641fa42" },
+          { "address": "0xfbe497da7e2886bcde9535730e3c28772b065903" }
+        ]
+      },
+      {
+        "name": "Liquity",
+        "domain": "liquity.org",
+        "token":null,
+        "contracts": [
+          { "address": "0xDf9Eb223bAFBE5c5271415C75aeCD68C21fE3D7F" },
+          { "address": "0x24179CD81c9e782A4096035f7eC97fB8B783e007" },
+          { "address": "0xA39739EF8b0231DbFA0DcdA07d7e29faAbCf4bb2" },
+          { "address": "0x3D32e8b97Ed5881324241Cf03b2DA5E2EBcE5521" },
+          { "address": "0xD8c9D9071123a059C6E0A945cF0e0c82b508d816" },
+          { "address": "0x896a3F03176f05CFbb4f006BfCd8723F2B0D741C" },
+          { "address": "0xE84251b93D9524E0d2e621Ba7dc7cb3579F997C0" },
+          { "address": "0x2eBeF24dA09489218Ba2BECb01867F6DaAeDcD4B" },
+          { "address": "0x4f9Fbb3f1E99B56e0Fe2892e623Ed36A76Fc605d" },
+          { "address": "0x4c517D4e2C851CA76d7eC94B805269Df0f2201De" },
+          { "address": "0x8FdD3fbFEb32b28fb73555518f8b361bCeA741A6" },
+          { "address": "0x66017D22b0f8556afDd19FC67041899Eb65a21bb" },
+          { "address": "0x9555b042F969E561855e5F28cB1230819149A8d9" },
+          { "address": "0xd37a77E71ddF3373a79BE2eBB76B6c4808bDF0d5" },
+          { "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0" },
+          { "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D" },
+          { "address": "0xFc92d0E9Fa35df17E3A6d9F40716ca2cE749922B" },
+          { "address": "0xF20EF17b889b437C151eB5bA15A47bFc62bfF469" },
+          { "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819" }
+        ]
+      },
+      {
+        "name": "dYdX",
+        "domain": "dydx.exchange",
+        "token":null,
+        "contracts": [
+          { "address": "0x07aBe965500A49370D331eCD613c7AC47dD6e547" },
+          { "address": "0x1c50c582c7066049C560Bca20416b1d9E0dfb003" },
+          { "address": "0x09403FD14510F8196F7879eF514827CD76960B5d" },
+          { "address": "0xE883b3efdaE637fC599b467478a23199778F2cCf" },
+          { "address": "0x4525D2B71f7f018c9EBddFcD336852A85404e75B" },
+          { "address": "0x8B90515C7a99b7Edd97702c04d1E3666281De1B0" },
+          { "address": "0x5DDC23dEE470AEc28D51721b4E3A25f9399166EC" },
+          { "address": "0x538038E526517680735568f9C5342c6E68bbDA12" },
+          { "address": "0xcD37221C53b5208a2D7eabc7d5051B98D8030424" },
+          { "address": "0x78456DE31f5978C44E1595DD2F49AfD1B71fd377" },
+          { "address": "0x3ea6F88eC8F7b24Bb3Ad206fa80124210e8e28F3" },
+          { "address": "0xaC14B70adBf42bedE4E4c7Ef67E8CB618b0D4506" },
+          { "address": "0x1d3ccceEE6d9f9c3b79ed5fAdD98E32B5d48b22E" },
+          { "address": "0xa4e4A9ae84882BE5049E450A3500ba1CD012F0C5" },
+          { "address": "0x5f428e427096D5085D8d95D64d90f3e7c13C92Fb" },
+          { "address": "0xb9689e3F25c16173a552a7ac0dD5c1F6D47FCC88" },
+          { "address": "0x9b1289dd794F10AF38A3117fE933836D685f7339" },
+          { "address": "0xEc4870B8Dd7979bfc7c5E6220893B3A5dD646F0C" },
+          { "address": "0x05f370CA0B6c156845f73A9115F35edCdE052803" },
+          { "address": "0xA179038Ae1534E4492164BA38ac809e29770ca5F" },
+          { "address": "0xfe66fB327CbECe4697DC9f9ef091B2f8710775b7" },
+          { "address": "0xD47743b863039DFF52B4d836426894a9b012310d" },
+          { "address": "0xA0d885316Be23dE8bB19E7C53F6d483279E3467D" },
+          { "address": "0x17ac4cC32696987CEa1737343188716b1D827E7B" },
+          { "address": "0x29a199a49aF8d657C110418C2b0D2F932b025dE7" }
+        ]
+      },
+      {
+        "name": "XY Finance",
+        "domain": "xy.finance",
+        "token":null,
+        "contracts": [
+          { "address": "0x935BbF5c69225E3EDa7C3aA542A7Baa5c5c30094" }
+        ]
+      },
+      {
+        "name": "NFT20",
+        "domain": "nft20.io",
+        "token":null,
+        "contracts": [
+          { "address": "0x0f4676178b5c53Ae0a655f1B19A96387E4b8B5f2" },
+          { "address": "0x7824948612d5F6d3dBC54d1c1173715B997403a1" }
         ]
       }
     ],

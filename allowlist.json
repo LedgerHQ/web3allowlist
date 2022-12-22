@@ -7087,6 +7087,128 @@
           { "address": "0x0f4676178b5c53Ae0a655f1B19A96387E4b8B5f2" },
           { "address": "0x7824948612d5F6d3dBC54d1c1173715B997403a1" }
         ]
+      },
+      {
+        "name": "Blur",
+        "domain": "blur.io",
+        "token":null,
+        "contracts": [
+          { "address": "0x000000000000Ad05Ccc4F10045630fb830B95127" }
+        ]
+      },
+      {
+        "name": "Manifold",
+        "domain": "manifold.xyz",
+        "token":null,
+        "contracts": [
+          { "address": "0x2d3fC875de7Fe7Da43AD0afa0E7023c9B91D06b1" },
+          { "address": "0x6bf5ed59dE0E19999d264746843FF931c0133090" },
+          { "address": "0x0385603ab55642cb4Dd5De3aE9e306809991804f" },
+          { "address": "0xaD2184FB5DBcfC05d8f056542fB25b04fa32A95D" }
+        ]
+      },
+      {
+        "name": "RTFKT",
+        "domain": "rtfkt.com",
+        "token":null,
+        "contracts": [
+          { "address": "0x12eA19217C65F36385bB030D00525c1034E2F0Af" },
+          { "address": "0x623FC4F577926c0aADAEf11a243754C546C1F98c" }
+        ]
+      },
+      {
+        "name": "Coinbase",
+        "domain": "coinbase.com",
+        "token":null,
+        "contracts": [
+          { "address": "0x71660c4005BA85c37ccec55d0C4493E66Fe775d3" },
+          { "address": "0x503828976D22510aad0201ac7EC88293211D23Da" },
+          { "address": "0xddfAbCdc4D8FfC6d5beaf154f18B778f892A0740" },
+          { "address": "0x3cD751E6b0078Be393132286c442345e5DC49699" },
+          { "address": "0xb5d85CBf7cB3EE0D56b3bB207D5Fc4B82f43F511" },
+          { "address": "0xeB2629a2734e272Bcc07BDA959863f316F4bD4Cf" },
+          { "address": "0xA090e606E30bD747d4E6245a1517EbE430F0057e" },
+          { "address": "0xf6874c88757721a02f47592140905c4336dfbc61" },
+          { "address": "0x881d4032abe4188e2237efcd27ab435e81fc6bb1" },
+          { "address": "0xd2276af80582cac230edc4c42e9a9c096f3c09aa" },
+          { "address": "0xd688aea8f7d450909ade10c47faa95707b0682d9" },
+          { "address": "0x02466e547bfdab679fc49e96bbfc62b9747d997c" },
+          { "address": "0x6b76f8b1e9e59913bfe758821887311ba1805cab" }
+        ]
+      },
+      {
+        "name": "Pre Mint",
+        "domain": "premint.xyz",
+        "token":null,
+        "contracts":[] // There are no contracts associated to this domain; we keep this entry to enable fuzzy matching
+      },
+      {
+        "name": "Moonbirds",
+        "domain": "moonbirds.xyz",
+        "token":null,
+        "contracts":[] // There are no contracts associated to this domain; we keep this entry to enable fuzzy matching
+      },
+      {
+        "name": "Axie Infinity",
+        "domain": "axieinfinity.com",
+        "token":null,
+        "contracts":[] // There are no contracts associated to this domain; we keep this entry to enable fuzzy matching
+      
+      },
+      {
+        "name": "Azuki",
+        "domain": "azuki.com",
+        "token":null,
+        "contracts":[] // There are no contracts associated to this domain; we keep this entry to enable fuzzy matching
+
+      },
+      {
+        "name": "Doodles",
+        "domain": "doodles.app",
+        "token":null,
+        "contracts":[] // There are no contracts associated to this domain; we keep this entry to enable fuzzy matching
+
+      },
+      {
+        "name": "Yuga Labs",
+        "domain": "yuga.com",
+        "token":null,
+        "contracts":[] // There are no contracts associated to this domain; we keep this entry to enable fuzzy matching
+
+      },
+      {
+        "name": "Kucoin",
+        "domain": "kucoin.com",
+        "token":null,
+        "contracts":[] // There are no contracts associated to this domain; we keep this entry to enable fuzzy matching
+
+      },
+      {
+        "name": "DeFi Kingdoms",
+        "domain": "defikingdoms.com",
+        "token":null,
+        "contracts": [] // There are no contracts associated to this domain; we keep this entry to enable fuzzy matching
+      },
+      {
+        "name": "Wallet Connect",
+        "domain": "walletconnect.com",
+        "token":null,
+        "contracts": [] // There are no contracts associated to this domain; we keep this entry to enable fuzzy matching
+      },
+      {
+        "name": "Ethereum Naming Service",
+        "domain": "ens.domains",
+        "token":null,
+        "contracts": [
+          { "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e" },
+          { "address": "0x314159265dD8dbb310642f98f50C066173C1259b" }
+        ]
+      },
+      {
+        "name": "Etherscan",
+        "domain": "etherscan.io",
+        "token":null,
+        "contracts": [] // There are no contracts associated to this domain; we keep this entry to enable fuzzy matching
       }
     ],
     "solana": [

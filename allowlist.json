@@ -7141,7 +7141,7 @@
         "domain": "premint.xyz",
         "token":null,
         "contracts":[
-          
+
         ]
       },
       {
@@ -7151,15 +7151,14 @@
         "contracts":[
 
         ]
-
       },
       {
         "name": "Axie Infinity",
         "domain": "axieinfinity.com",
-        "token":null,,
-        "contracts":[]
+        "token":null,
+        "contracts":[
 
-      
+        ]      
       },
       {
         "name": "Azuki",
@@ -7174,7 +7173,7 @@
       {
         "name": "Doodles",
         "domain": "doodles.app",
-        "token":null,,
+        "token":null,
         "contracts":[
 
         ]
@@ -7184,7 +7183,7 @@
       {
         "name": "Yuga Labs",
         "domain": "yuga.com",
-        "token":null,,
+        "token":null,
         "contracts":[
 
         ]
@@ -7195,7 +7194,9 @@
         "name": "Kucoin",
         "domain": "kucoin.com",
         "token":null,
+        "contracts":[
 
+        ]
       },
       {
         "name": "DeFi Kingdoms",

@@ -1,0 +1,64 @@
+{
+  "$id": "https://ledger.com/allowlist.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "A representation of a ledger allowlist",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "allowAllSubdomains": {
+      "type": "boolean",
+      "description": "If true, all subdomain are allowed"
+    },
+    "name": {
+      "type": "string",
+      "description": "The name of the allowlist"
+    },
+    "domain": {
+      "type": "string",
+      "description": "The domain of the allowlist"
+    },
+    "$schema": {
+      "type": "string",
+      "description": "The schema of the allowlist"
+    },
+    "subdomains": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "description": {
+      "type": "string",
+      "description": "A description of the allowlist"
+    },
+    "chains": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/chain"
+      }
+    }
+  },
+  "required": [ "name", "domain", "chains" ],
+  "$defs": {
+    "chain": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/contract"
+      }
+    },
+    "contract": {
+      "type": "object",
+      "properties": {
+        "address": {
+          "type": "string",
+          "description": "The address of the contract"
+        },
+        "description": {
+          "type": "string",
+          "description": "A description of the contract"
+        }
+      },
+      "required": [ "address" ]
+    }
+  }
+}

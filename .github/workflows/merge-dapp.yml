@@ -1,0 +1,54 @@
+name: build unified dapp file
+on: [push]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    name: Parser modified files
+    steps:
+      - uses: actions/checkout@v2
+      - uses: VirtusLab/scala-cli-setup@main
+        with:
+          jvm: adopt:11
+          apps: sbtn bloop ammonite
+      - uses: jitterbit/get-changed-files@v1
+      - run: |
+          amm scripts/validate.sc ${{ steps.files.outputs.all }}
+
+  # build_file:
+  #   name: build unified dapp file
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Check out the repo
+  #       uses: actions/checkout@v2
+  #     - name: setup python
+  #       uses: actions/setup-python@v2
+  #       with:
+  #         python-version: 3.8
+  #     - name: Run script
+  #       uses: jannekem/run-python-script-action@v1
+  #       with:
+  #         script: |
+  #           import os, json, shutil
+  #           with open("all-dapp-allowlist.json", "w+") as t:
+  #             t.truncate(0)
+  #             t.write('[')
+  #             sep=False
+  #             for dapp in os.scandir('dapps'):
+  #               if dapp.is_dir():
+  #                 filename = dapp.path + '/dapp-allowlist.json'
+  #                 with open(filename, "r") as f:
+  #                   content = f.read()
+  #                   if sep:
+  #                     t.write(',\n')
+  #                   t.write(content)
+  #                   sep = True
+  #             t.write(']\n')
+  #     - name: push file to main
+  #       uses: EndBug/add-and-commit@v9
+  #       with:
+  #         add: "all-dapp-allowlist.json"
+  #         committer_name: Github action
+  #         committer_email: nobody@ledger.fr
+  #         default_author: github_actor
+  #         message: "Update unified dapp file"
+  #         push: true

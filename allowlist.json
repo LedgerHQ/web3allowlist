@@ -6487,7 +6487,7 @@
       },
       {
         "name": "Gem",
-        "domain": "gem.xyz",
+        "domain": "www.gem.xyz",
         "token": null,
         "contracts": [
           { "address": "0x00000000A50BB64b4BbEcEB18715748DfacE08af" },

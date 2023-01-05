@@ -1,0 +1,8 @@
+{
+  "name" : "Azuki",
+  "domain" : "azuki.com",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

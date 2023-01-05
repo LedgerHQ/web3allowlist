@@ -1,0 +1,11 @@
+{
+  "name" : "SWFT AllChain Bridge",
+  "domain" : "allchainbridge.com",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0x92e929d8b2c8430bcaf4cd87654789578bb2b786"
+      }
+    ]
+  }
+}

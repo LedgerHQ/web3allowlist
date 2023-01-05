@@ -1,0 +1,8 @@
+{
+  "name" : "Doodles",
+  "domain" : "doodles.app",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name" : "Sudoswap",
+  "domain" : "sudoswap.xyz",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0x432f962D8209781da23fB37b6B59ee15dE7d9841"
+      },
+      {
+        "address" : "0x5B6aC51d9B1CeDE0068a1B26533CAce807f883Ee"
+      },
+      {
+        "address" : "0xb16c1342E617A5B6E4b631EB114483FDB289c0A4"
+      },
+      {
+        "address" : "0x2b2e8cda09bba9660dca5cb6233787738ad68329"
+      }
+    ]
+  }
+}

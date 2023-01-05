@@ -1,0 +1,53 @@
+{
+  "name" : "1inch",
+  "domain" : "app.1inch.io",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0x111111125434b319222cdbf8c261674adb56f3ae"
+      },
+      {
+        "address" : "0x11111112542d85b3ef69ae05771c2dccff4faa26"
+      },
+      {
+        "address" : "0xdb38ae75c5f44276803345f7f02e95a0aeef5944"
+      },
+      {
+        "address" : "0x1111111254fb6c44bac0bed2854e76f90643097d"
+      },
+      {
+        "address" : "0x11111254369792b2ca5d084ab5eea397ca8fa48b"
+      },
+      {
+        "address" : "0xe069cb01d06ba617bcdf789bf2ff0d5e5ca20c71"
+      },
+      {
+        "address" : "0x5e89f8d81c74e311458277ea1be3d3247c7cd7d1"
+      },
+      {
+        "address" : "0xbaf9a5d4b0052359326a6cdab54babaa3a3a9643"
+      },
+      {
+        "address" : "0x11799622f4d98a24514011e8527b969f7488ef47"
+      },
+      {
+        "address" : "0xae00455eac003408a2f10e895fbc6c6445535d56"
+      },
+      {
+        "address" : "0xe295ad71242373c37c5fda7b57f26f9ea1088afe"
+      },
+      {
+        "address" : "0x5fe3b8b19949c04da3f578c6468f3d444cd7a9bb"
+      },
+      {
+        "address" : "0x7e1e3334130355799f833ffec2d731bca3e68af6"
+      },
+      {
+        "address" : "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address" : "0x119c71d3bbac22029622cbaec24854d3d32d2828"
+      }
+    ]
+  }
+}

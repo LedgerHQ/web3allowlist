@@ -1,0 +1,29 @@
+{
+  "name" : "Crypto.com DeFi Swap",
+  "domain" : "crypto.com",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+      },
+      {
+        "address" : "0x6aba3e56aeb3b95ad64161103d793fac5f6ce4f7"
+      },
+      {
+        "address" : "0x26388d599a677c6a8bcc4c113f0a34e6ced9493d"
+      },
+      {
+        "address" : "0x0a3c6eec8408bded9000da65afdb8a8fda99e253"
+      },
+      {
+        "address" : "0x4f2bc163c8758d7f88771496f7b0afde767045f3"
+      },
+      {
+        "address" : "0xceb90e4c17d626be0facd78b79c9c87d7ca181b3"
+      },
+      {
+        "address" : "0x9deb29c9a4c7a88a3c0257393b7f3335338d9a9d"
+      }
+    ]
+  }
+}

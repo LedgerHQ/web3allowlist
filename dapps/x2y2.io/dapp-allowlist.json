@@ -1,0 +1,26 @@
+{
+  "name" : "X2Y2",
+  "domain" : "x2y2.io",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0x74312363e45DCaBA76c59ec49a7Aa8A65a67EeD3"
+      },
+      {
+        "address" : "0x56dd5bbede9bfdb10a2845c4d70d4a2950163044"
+      },
+      {
+        "address" : "0xf849de01b080adc3a814fabe1e2087475cf2e354"
+      },
+      {
+        "address" : "0x6d7812d41a08bc2a910b562d8b56411964a4ed88"
+      },
+      {
+        "address" : "0xc2f44bc508b6b50047a2f3afb1984ed105070be1"
+      },
+      {
+        "address" : "0x6d11992a247ae0d726cb967a70fc981e8308b723"
+      }
+    ]
+  }
+}

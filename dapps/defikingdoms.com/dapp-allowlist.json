@@ -1,0 +1,8 @@
+{
+  "name" : "DeFi Kingdoms",
+  "domain" : "defikingdoms.com",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

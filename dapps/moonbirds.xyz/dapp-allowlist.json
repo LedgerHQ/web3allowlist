@@ -1,0 +1,8 @@
+{
+  "name" : "Moonbirds",
+  "domain" : "moonbirds.xyz",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

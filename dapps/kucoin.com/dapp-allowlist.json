@@ -1,0 +1,8 @@
+{
+  "name" : "Kucoin",
+  "domain" : "kucoin.com",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

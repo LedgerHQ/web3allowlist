@@ -1,0 +1,8 @@
+{
+  "name" : "Wallet Connect",
+  "domain" : "walletconnect.com",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

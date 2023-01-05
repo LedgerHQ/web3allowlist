@@ -32,7 +32,9 @@ val allowList = parseLegacy[Model.DomainAllowList](pwd / "allowlist.json")
             None,
             site.domain,
             site.domains,
-            Map(chain -> site.contracts)
+            Map(
+              chain -> site.contracts.map(c => c.copy(address = c.address.trim))
+            )
           )
         }
       case _ => Nil

@@ -1,0 +1,11 @@
+{
+  "name" : "Mooniswap",
+  "domain" : "mooniswap.exchange",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0xbAF9A5d4b0052359326A6CDAb54BABAa3a3A9643"
+      }
+    ]
+  }
+}

@@ -19,30 +19,7 @@ jobs:
           jvm: adopt:11
           apps: sbtn bloop ammonite
       - run: |
-          amm scripts/validate.sc
-      - name: setup python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
-      - name: Run script
-        uses: jannekem/run-python-script-action@v1
-        with:
-          script: |
-            import os, json, shutil
-            with open("all-dapp-allowlist.json", "w+") as t:
-              t.truncate(0)
-              t.write('[')
-              sep=False
-              for dapp in os.scandir('dapps'):
-                if dapp.is_dir():
-                  filename = dapp.path + '/dapp-allowlist.json'
-                  with open(filename, "r") as f:
-                    content = f.read()
-                    if sep:
-                      t.write(',\n')
-                    t.write(content)
-                    sep = True
-              t.write(']\n')
+          amm scripts/validate-and-merge.sc
       - name: push file to main
         uses: EndBug/add-and-commit@v9
         with:

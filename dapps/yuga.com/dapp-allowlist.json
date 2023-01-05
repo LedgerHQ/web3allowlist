@@ -1,0 +1,8 @@
+{
+  "name" : "Yuga Labs",
+  "domain" : "yuga.com",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

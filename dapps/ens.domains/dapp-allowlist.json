@@ -1,0 +1,14 @@
+{
+  "name" : "Ethereum Naming Service",
+  "domain" : "ens.domains",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
+      },
+      {
+        "address" : "0x314159265dD8dbb310642f98f50C066173C1259b"
+      }
+    ]
+  }
+}

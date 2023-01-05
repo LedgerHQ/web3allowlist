@@ -1,0 +1,8 @@
+{
+  "name" : "Axie Infinity",
+  "domain" : "axieinfinity.com",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

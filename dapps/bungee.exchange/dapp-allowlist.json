@@ -1,0 +1,11 @@
+{
+  "name" : "Bungee",
+  "domain" : "bungee.exchange",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0xc30141B657f4216252dc59Af2e7CdB9D8792e1B0"
+      }
+    ]
+  }
+}

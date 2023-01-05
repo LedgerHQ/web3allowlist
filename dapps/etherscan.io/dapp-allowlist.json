@@ -1,0 +1,8 @@
+{
+  "name" : "Etherscan",
+  "domain" : "etherscan.io",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

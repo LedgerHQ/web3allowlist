@@ -1,0 +1,8 @@
+{
+  "name" : "Pre Mint",
+  "domain" : "premint.xyz",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

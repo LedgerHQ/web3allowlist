@@ -3,8 +3,7 @@
   "name": "Opensea",
   "domain": "opensea.io",
   "description": "Opensea is a marketplace for buying and selling digital collectibles.",
-  "allowAllSubdomains": false,
-  "subdomains": [ "app", "www" ],
+  "subdomains": [ "app.opensea.io", "www.opensea.io" ],
   "chains": {
     "ethereum": [
       { "address": "0x939c8d89ebc11fa45e576215e2353673ad0ba18a" },

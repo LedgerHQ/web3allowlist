@@ -5,23 +5,60 @@ import $ivy.`com.lihaoyi::ammonite-ops:2.4.0`
 
 import ammonite.ops._
 import io.circe.jawn._
-import io.circe.Decoder
+import io.circe._
+import io.circe.syntax._
 import io.circe.generic.semiauto._
 
 import java.nio.channels.Channels
 
-(ls ! pwd / 'dapps)
+import $file.Model
+
+val dapps = (ls ! pwd / 'dapps)
   .filter(_.isDir)
   .map(_ / "dapp-allowlist.json")
-  .foreach { path =>
+  .map { path =>
     println(s"Validating ${path}.")
-    validate[DappAllowList](path) match {
+    validate[Model.DappAllowList](path) match {
       case Left(error) =>
         println(s"Error: ${error.getMessage}")
         sys.exit(1)
-      case Right(_) =>
+      case Right(dapp) =>
+        dapp
     }
   }
+
+dapps.foreach { dapp =>
+  println(s"Validated ${dapp.name}.")
+}
+
+val allowlist: Map[String, List[Model.WebSite]] = dapps
+  .flatMap(dal =>
+    dal.chains.map { case (chain, contracts) =>
+      (
+        chain,
+        Model.WebSite(
+          dal.name,
+          dal.domain,
+          dal.subdomains,
+          contracts
+        )
+      )
+    }
+  )
+  .foldLeft(Map.empty[String, List[Model.WebSite]]) { case (acc, (chain, ws)) =>
+    acc.get(chain) match {
+      case None    => acc + (chain -> List(ws))
+      case Some(l) => acc + (chain -> (ws :: l))
+    }
+  }
+
+val legacyFile = Model.DomainAllowList(allowlist)
+
+println(legacyFile)
+
+val writer = new java.io.PrintWriter("allowlist-bis.json")
+writer.write(legacyFile.asJson.spaces2)
+writer.close()
 
 def validate[A](
     path: os.Path
@@ -29,24 +66,4 @@ def validate[A](
   val chan =
     Channels.newChannel(path.getInputStream)
   decodeChannel[A](chan)
-}
-
-final case class Contract(address: String)
-
-object Contract {
-  implicit val decoder: Decoder[Contract] = deriveDecoder
-}
-
-final case class DappAllowList(
-    name: String,
-    domain: String,
-    description: Option[String],
-    allowAllSubdomains: Boolean,
-    subdomains: Option[List[String]],
-    chains: Map[String, List[Contract]]
-)
-
-object DappAllowList {
-
-  implicit val decoder: Decoder[DappAllowList] = deriveDecoder
 }

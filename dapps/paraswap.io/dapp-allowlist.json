@@ -2,8 +2,7 @@
     "$schema": "../dapp-allowlist.schema.json",
     "name": "Paraswap",
     "description": "Paraswap is a decentralized exchange aggregator",
-    "domain": "paraswap.io",
-    "allowAllSubdomains": true,
+    "domain": "*.paraswap.io",
     "chains": {
         "ethereum": [
             { "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57" },

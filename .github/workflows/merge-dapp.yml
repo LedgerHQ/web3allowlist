@@ -2,6 +2,7 @@ name: Unified dapp file
 on:
   push:
     branches:
+      - "*"
       - "!main"
     paths-ignore:
       - "allowlist.json"

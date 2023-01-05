@@ -1,7 +1,7 @@
 {
     "$schema": "../dapp-allowlist.schema.json",
     "name": "Paraswap",
-    "description": "Paraswap is a decentralized exchange aggregator that allows users to swap tokens on multiple DEXs in a single transaction. Paraswap is airdropping 1000 DAI to users who sign up for the platform and complete a swap.",
+    "description": "Paraswap is a decentralized exchange aggregator",
     "domain": "paraswap.io",
     "allowAllSubdomains": true,
     "chains": {

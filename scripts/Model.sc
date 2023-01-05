@@ -18,15 +18,18 @@ object Contract {
 
 final case class DappAllowList(
     name: String,
-    domain: String,
     description: Option[String],
-    subdomains: Option[List[String]],
+    domain: String,
+    subdomains: Option[Seq[String]],
     chains: Map[String, List[Contract]]
 )
 
 object DappAllowList {
 
-  implicit val decoder: Decoder[DappAllowList] = deriveDecoder
+  implicit val decoder: Decoder[DappAllowList] =
+    deriveDecoder
+  implicit val encoder: Encoder[DappAllowList] =
+    deriveEncoder[DappAllowList].mapJson(_.dropNullValues)
 }
 
 final case class DomainAllowList(allowlist: Map[String, List[WebSite]])
@@ -34,7 +37,8 @@ final case class DomainAllowList(allowlist: Map[String, List[WebSite]])
 object DomainAllowList {
 
   implicit val decoder: Decoder[DomainAllowList] = deriveDecoder
-  implicit val encoder: Encoder[DomainAllowList] = deriveEncoder
+  implicit val encoder: Encoder[DomainAllowList] =
+    deriveEncoder[DomainAllowList].mapJson(_.dropNullValues)
 }
 
 final case class WebSite(
@@ -46,5 +50,6 @@ final case class WebSite(
 
 object WebSite {
   implicit val decoder: Decoder[WebSite] = deriveDecoder
-  implicit val encoder: Encoder[WebSite] = deriveEncoder
+  implicit val encoder: Encoder[WebSite] =
+    deriveEncoder[WebSite].mapJson(_.dropNullValues)
 }

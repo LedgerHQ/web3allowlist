@@ -1,8 +1,8 @@
 name: Unified dapp file
 on:
-  pull_request:
+  push:
     branches:
-      - main
+      - "!main"
     paths-ignore:
       - "allowlist.json"
       - "all-dapp-allowlist.json"

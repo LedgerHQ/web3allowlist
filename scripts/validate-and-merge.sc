@@ -13,53 +13,51 @@ import java.nio.channels.Channels
 
 import $file.Model
 
-val dapps = (ls ! pwd / 'dapps)
-  .filter(_.isDir)
-  .map(_ / "dapp-allowlist.json")
-  .map { path =>
-    println(s"Validating ${path}.")
-    validate[Model.DappAllowList](path) match {
-      case Left(error) =>
-        println(s"Error: ${error.getMessage}")
-        sys.exit(1)
-      case Right(dapp) =>
-        dapp
+@main
+def main(output: String): Unit = {
+
+  val dapps = (ls ! pwd / 'dapps)
+    .filter(_.isDir)
+    .map(_ / "dapp-allowlist.json")
+    .map { path =>
+      println(s"Validating ${path}.")
+      validate[Model.DappAllowList](path) match {
+        case Left(error) =>
+          println(s"Error: ${error.getMessage}")
+          sys.exit(1)
+        case Right(dapp) =>
+          dapp
+      }
     }
-  }
 
-dapps.foreach { dapp =>
-  println(s"Validated ${dapp.name}.")
-}
-
-val allowlist: Map[String, List[Model.WebSite]] = dapps
-  .flatMap(dal =>
-    dal.chains.map { case (chain, contracts) =>
-      (
-        chain,
-        Model.WebSite(
-          dal.name,
-          dal.domain,
-          dal.subdomains,
-          contracts
+  val allowlist: Map[String, List[Model.WebSite]] = dapps
+    .flatMap(dal =>
+      dal.chains.map { case (chain, contracts) =>
+        (
+          chain,
+          Model.WebSite(
+            dal.name,
+            dal.domain,
+            dal.subdomains,
+            contracts
+          )
         )
-      )
+      }
+    )
+    .foldLeft(Map.empty[String, List[Model.WebSite]]) {
+      case (acc, (chain, ws)) =>
+        acc.get(chain) match {
+          case None    => acc + (chain -> List(ws))
+          case Some(l) => acc + (chain -> (ws :: l))
+        }
     }
-  )
-  .foldLeft(Map.empty[String, List[Model.WebSite]]) { case (acc, (chain, ws)) =>
-    acc.get(chain) match {
-      case None    => acc + (chain -> List(ws))
-      case Some(l) => acc + (chain -> (ws :: l))
-    }
-  }
 
-val legacyFile = Model.DomainAllowList(allowlist)
+  val legacyFile = Model.DomainAllowList(allowlist)
 
-println(legacyFile)
-
-val writer = new java.io.PrintWriter("allowlist-bis.json")
-writer.write(legacyFile.asJson.spaces2)
-writer.close()
-
+  val writer = new java.io.PrintWriter(output)
+  writer.write(legacyFile.asJson.spaces2)
+  writer.close()
+}
 def validate[A](
     path: os.Path
 )(implicit dec: Decoder[A]): Either[io.circe.Error, A] = {

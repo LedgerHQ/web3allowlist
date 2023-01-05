@@ -26,7 +26,6 @@ val allowList = parseLegacy[Model.DomainAllowList](pwd / "allowlist.json")
         sites.map { site =>
           println(s"  Site: ${site.name}")
           println(s"    Domain: ${site.domain}")
-          println(s"    Domains: ${site.domains}")
           Model.DappAllowList(
             site.name,
             None,
@@ -40,7 +39,6 @@ val allowList = parseLegacy[Model.DomainAllowList](pwd / "allowlist.json")
       case _ => Nil
     }
 }).foreach { dapp =>
-  println(s"Validated ${dapp.name}.")
   val domain =
     if (dapp.domain.startsWith("*.")) dapp.domain.drop(2) else dapp.domain
   mkdir ! pwd / 'dapps / domain

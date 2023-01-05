@@ -19,7 +19,7 @@ jobs:
           jvm: adopt:11
           apps: sbtn bloop ammonite
       - run: |
-          amm scripts/validate-and-merge.sc
+          amm scripts/validate-and-merge.sc --output all-dapp-allowlist.json
       - name: push file to main
         uses: EndBug/add-and-commit@v9
         with:

@@ -85,8 +85,6 @@
           { "address": "0x1cf0df2a5a20cd61d68d4489eebbf85b8d39e18a" },
           { "address": "0xfdff6b56cce39482032b27140252ff4f16432785" },
           { "address": "0x7e1e3334130355799f833ffec2d731bca3e68af6" },
-          { "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2" },
-          { "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48" },
           { "address": "0x00000000006c3852cbEf3e08E8dF289169EdE581" },
           { "address": "0xc9154424B823b10579895cCBE442d41b9Abd96Ed" },
           { "address": "0x4fee7b061c97c9c496b01dbce9cdb10c02f0a0be" },
@@ -216,7 +214,6 @@
         "domain": "app.uniswap.org",
         "token": "UNI",
         "contracts": [
-          { "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2" },
           { "address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d" },
           { "address": "0x090d4613473dee047c3f2706764f49e0821d256e" },
           { "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45" },
@@ -6481,8 +6478,7 @@
           { "address": "0xb7e170c1935a5b4f6224392a28eb34b5cc3ec346" },
           { "address": "0x73971a8c654b7703060ca70e39bc293c64a08138" },
           { "address": "0x21c48840bb382c9e15120a7c9b9a6cf99a5d1a93" },
-          { "address": "0x168d3fcbb4213fc91d5c40acc302bfccd89112aa" },
-          { "address": "0xdac17f958d2ee523a2206206994597c13d831ec7" }
+          { "address": "0x168d3fcbb4213fc91d5c40acc302bfccd89112aa" }
         ]
       },
       {

@@ -1,5 +1,4 @@
 // Description: Validate and merge the CLI
-// GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 //> using scala "3.2.1"
 //> using repository "https://NOBODY:{{ GITHUB_TOKEN }}@maven.pkg.github.com/LedgerHQ/_"
 //> using lib "io.circe::circe-generic:0.14.3"

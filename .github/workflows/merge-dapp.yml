@@ -18,7 +18,11 @@ jobs:
         with:
           jvm: adopt:11
           apps: sbtn bloop ammonite
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
+          perl -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' scripts/validate-and-merge-cli.sc
+          amm scripts/validate-and-merge-cli.sc --output all-dapp-allowlist.json
           amm scripts/validate-and-merge.sc --output all-dapp-allowlist.json
       - name: push file to main
         uses: EndBug/add-and-commit@v9

@@ -7228,6 +7228,14 @@
         "contracts": [
 
         ]
+      },
+      {
+        "name": "Mint.fun",
+        "domain": "mint.fun",
+        "token":null,
+        "contracts": [
+        
+        ]
       }
     ],
     "solana": [

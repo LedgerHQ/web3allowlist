@@ -15,6 +15,10 @@ import io.circe.syntax.*
 import io.circe.generic.semiauto.*
 import co.ledger.circe.CustomDecodingFailure
 import java.nio.channels.Channels
+import scala.util.Try
+import scala.util.Failure
+import scala.util.Success
+import scala.util.Using
 
 @main
 def main(output: String): Unit = {
@@ -25,19 +29,18 @@ def main(output: String): Unit = {
     .map { path =>
       println(s"Validating ${path}.")
       validate[DappAllowList](path) match {
-        case Left(error) =>
-          error match {
+        case Failure(error) =>
+          sys.error(s"Could not validate file: ${path}")
+        case Success(Left(error)) =>
+          val errorMessage = error match {
             case decodingFailure: DecodingFailure =>
-              Console.err.println(
-                s"Error: ${CustomDecodingFailure.showDecodingFailure.show(decodingFailure)}"
-              )
-
+              s"Error: ${CustomDecodingFailure.showDecodingFailure.show(decodingFailure)}"
             case _ =>
-              Console.err.println(s"Error: ${error}")
+              s"Error: ${error}"
           }
+          Console.err.println(s"Invalid file ${path} - ${errorMessage}")
           sys.exit(1)
-        case Right(dapp) =>
-          dapp
+        case Success(Right(dapp)) => dapp
       }
     }
 
@@ -64,16 +67,17 @@ def main(output: String): Unit = {
 
   val legacyFile = DomainAllowList(allowlist)
 
-  val writer = new java.io.PrintWriter(output)
-  writer.write(legacyFile.asJson.spaces2)
-  writer.close()
+  Using(new java.io.PrintWriter(output)) { writer =>
+    writer.write(legacyFile.asJson.spaces2)
+  }
 }
 def validate[A](
     path: os.Path
-)(implicit dec: Decoder[A]): Either[io.circe.Error, A] = {
-  val chan =
-    Channels.newChannel(path.getInputStream)
-  decodeChannel[A](chan)
+)(implicit dec: Decoder[A]): Try[Either[io.circe.Error, A]] = {
+  Using(Channels.newChannel(path.getInputStream)) { chan =>
+    decodeChannel[A](chan)
+  }
+
 }
 
 final case class Contract(address: String)

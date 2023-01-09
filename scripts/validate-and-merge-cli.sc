@@ -18,6 +18,7 @@ import scala.util.Try
 import scala.util.Failure
 import scala.util.Success
 import scala.util.Using
+import scala.collection.immutable.SortedMap
 
 @main
 def main(output: String): Unit = {
@@ -42,6 +43,8 @@ def main(output: String): Unit = {
         case Success(Right(dapp)) => dapp
       }
     }
+    .sortBy(_.name.toLowerCase)
+    .reverse
 
   val allowlist: Map[String, List[WebSite]] = dapps
     .flatMap(dal =>
@@ -57,14 +60,15 @@ def main(output: String): Unit = {
         )
       }
     )
-    .foldLeft(Map.empty[String, List[WebSite]]) { case (acc, (chain, ws)) =>
-      acc.get(chain) match {
-        case None    => acc + (chain -> List(ws))
-        case Some(l) => acc + (chain -> (ws :: l))
-      }
+    .foldLeft(SortedMap.empty[String, List[WebSite]]) {
+      case (acc, (chain, ws)) =>
+        acc.get(chain) match {
+          case None    => acc + (chain -> List(ws))
+          case Some(l) => acc + (chain -> (ws :: l))
+        }
     }
 
-  val legacyFile = DomainAllowList(allowlist)
+  val legacyFile = DomainAllowList("./allowlist.schema.json", allowlist)
 
   Using(new java.io.PrintWriter(output)) { writer =>
     writer.write(legacyFile.asJson.spaces2)
@@ -102,7 +106,10 @@ object DappAllowList {
     deriveEncoder[DappAllowList].mapJson(_.dropNullValues)
 }
 
-final case class DomainAllowList(allowlist: Map[String, List[WebSite]])
+final case class DomainAllowList(
+    `$schema`: String,
+    allowlist: Map[String, List[WebSite]]
+)
 
 object DomainAllowList {
 

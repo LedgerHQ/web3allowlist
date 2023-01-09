@@ -23,6 +23,10 @@ jobs:
       - name: Validation and merging
         env:
           GITHUB_TOKEN: ${{ secrets.CI_BOT_TOKEN }}
+        #
+        # Small hack to inject out GitHub packages token.
+        #    https://github.com/VirtusLab/scala-cli/issues/1464
+        #
         run: |
           perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' scripts/validate-and-merge-cli.sc
           scala-cli scripts/validate-and-merge-cli.sc --main-class main -- all-dapp-allowlist.json

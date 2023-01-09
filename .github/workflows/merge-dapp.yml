@@ -14,6 +14,9 @@ jobs:
     name: Parser dapps files
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: coursier/cache-action@v6.3
       - uses: VirtusLab/scala-cli-setup@main
         with:
           jvm: zulu:19

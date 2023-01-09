@@ -1,0 +1,8 @@
+{
+  "name" : "Mint.fun",
+  "domain" : "mint.fun",
+  "chains" : {
+    "ethereum" : [
+    ]
+  }
+}

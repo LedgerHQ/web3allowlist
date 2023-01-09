@@ -5,12 +5,118 @@
 //> using lib "io.circe::circe-generic:0.14.3"
 //> using lib "io.circe::circe-parser:0.14.3"
 //> using lib "com.lihaoyi::os-lib:0.9.0"
-//> using lib "co.ledger::tracing-commons:2.0.1"
+//> using lib "co.ledger::backend-commons-circe:1.7.1"
 
 import os.*
+import language.deprecated.symbolLiterals
+import io.circe.jawn.*
+import io.circe.*
+import io.circe.syntax.*
+import io.circe.generic.semiauto.*
+import co.ledger.circe.CustomDecodingFailure
+import java.nio.channels.Channels
 
 @main
 def main(output: String): Unit = {
-  println(output)
-  println(os.pwd)
+
+  val dapps = list(pwd / 'dapps)
+    .filter(os.isDir)
+    .map(_ / "dapp-allowlist.json")
+    .map { path =>
+      println(s"Validating ${path}.")
+      validate[DappAllowList](path) match {
+        case Left(error) =>
+          error match {
+            case decodingFailure: DecodingFailure =>
+              Console.err.println(
+                s"Error: ${CustomDecodingFailure.showDecodingFailure.show(decodingFailure)}"
+              )
+
+            case _ =>
+              Console.err.println(s"Error: ${error}")
+          }
+          sys.exit(1)
+        case Right(dapp) =>
+          dapp
+      }
+    }
+
+  val allowlist: Map[String, List[WebSite]] = dapps
+    .flatMap(dal =>
+      dal.chains.map { case (chain, contracts) =>
+        (
+          chain,
+          WebSite(
+            dal.name,
+            dal.domain,
+            dal.subdomains,
+            contracts
+          )
+        )
+      }
+    )
+    .foldLeft(Map.empty[String, List[WebSite]]) { case (acc, (chain, ws)) =>
+      acc.get(chain) match {
+        case None    => acc + (chain -> List(ws))
+        case Some(l) => acc + (chain -> (ws :: l))
+      }
+    }
+
+  val legacyFile = DomainAllowList(allowlist)
+
+  val writer = new java.io.PrintWriter(output)
+  writer.write(legacyFile.asJson.spaces2)
+  writer.close()
+}
+def validate[A](
+    path: os.Path
+)(implicit dec: Decoder[A]): Either[io.circe.Error, A] = {
+  val chan =
+    Channels.newChannel(path.getInputStream)
+  decodeChannel[A](chan)
+}
+
+final case class Contract(address: String)
+
+object Contract {
+  implicit val decoder: Decoder[Contract] = deriveDecoder
+  implicit val encoder: Encoder[Contract] = deriveEncoder
+}
+
+final case class DappAllowList(
+    name: String,
+    description: Option[String],
+    domain: String,
+    subdomains: Option[Seq[String]],
+    chains: Map[String, List[Contract]]
+)
+
+object DappAllowList {
+
+  implicit val decoder: Decoder[DappAllowList] =
+    deriveDecoder
+  implicit val encoder: Encoder[DappAllowList] =
+    deriveEncoder[DappAllowList].mapJson(_.dropNullValues)
+}
+
+final case class DomainAllowList(allowlist: Map[String, List[WebSite]])
+
+object DomainAllowList {
+
+  implicit val decoder: Decoder[DomainAllowList] = deriveDecoder
+  implicit val encoder: Encoder[DomainAllowList] =
+    deriveEncoder[DomainAllowList].mapJson(_.dropNullValues)
+}
+
+final case class WebSite(
+    name: String,
+    domain: String,
+    domains: Option[Seq[String]],
+    contracts: List[Contract]
+)
+
+object WebSite {
+  implicit val decoder: Decoder[WebSite] = deriveDecoder
+  implicit val encoder: Encoder[WebSite] =
+    deriveEncoder[WebSite].mapJson(_.dropNullValues)
 }

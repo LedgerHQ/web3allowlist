@@ -24,7 +24,6 @@ jobs:
         run: |
           perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' scripts/validate-and-merge-cli.sc
           scala-cli scripts/validate-and-merge-cli.sc --main-class main -- all-dapp-allowlist.json
-          amm scripts/validate-and-merge.sc --output all-dapp-allowlist.json
 
       - name: push file to main
         uses: EndBug/add-and-commit@v9

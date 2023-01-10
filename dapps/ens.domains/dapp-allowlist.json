@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Ethereum Naming Service",
   "domain" : "ens.domains",
   "chains" : {

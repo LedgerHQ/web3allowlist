@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Blur",
   "domain" : "blur.io",
   "chains" : {

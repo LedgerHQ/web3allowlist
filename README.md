@@ -10,7 +10,7 @@ The aim of this allowlist is to give positive feedback to end users when they in
 
 ## Format
 
-The allowlist is a JSON file with the following format :
+The global allowlist is a JSON file with the following format :
 
 ```json
 {
@@ -38,5 +38,7 @@ The allowlist is a JSON file with the following format :
 ```
 
 ## Contributing
+
+Allow list are split by website aka dApp, then blockchain, and each blockchain has a list of dApps. Each dApp has a list of contracts.
 
 Domains and contracts on this allowlist are added by hand. Any contributions are welcome, just open a PR and ask a review from CODEOWNERS.

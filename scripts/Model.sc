@@ -17,6 +17,7 @@ object Contract {
 }
 
 final case class DappAllowList(
+    `$schema`: String,
     name: String,
     description: Option[String],
     domain: String,

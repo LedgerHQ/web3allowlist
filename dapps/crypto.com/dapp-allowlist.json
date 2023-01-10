@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Crypto.com DeFi Swap",
   "domain" : "crypto.com",
   "chains" : {

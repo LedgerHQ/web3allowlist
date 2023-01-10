@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Paraswap",
   "domain" : "*.paraswap.io",
   "chains" : {

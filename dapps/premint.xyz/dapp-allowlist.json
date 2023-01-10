@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Pre Mint",
   "domain" : "premint.xyz",
   "chains" : {

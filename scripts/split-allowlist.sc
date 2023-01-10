@@ -26,6 +26,7 @@ val allowList = parseLegacy[Model.DomainAllowList](pwd / "allowlist.json")
           println(s"  Site: ${site.name}")
           println(s"    Domain: ${site.domain}")
           Model.DappAllowList(
+            "../dapp-allowlist.schema.json",
             site.name,
             None,
             site.domain,

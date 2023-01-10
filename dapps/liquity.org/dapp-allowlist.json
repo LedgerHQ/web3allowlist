@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Liquity",
   "domain" : "liquity.org",
   "chains" : {

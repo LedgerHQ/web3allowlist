@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Axie Infinity",
   "domain" : "axieinfinity.com",
   "chains" : {

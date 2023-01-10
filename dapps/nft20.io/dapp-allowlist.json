@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "NFT20",
   "domain" : "nft20.io",
   "chains" : {

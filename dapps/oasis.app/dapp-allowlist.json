@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Oasis",
   "domain" : "oasis.app",
   "chains" : {

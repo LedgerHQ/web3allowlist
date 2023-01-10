@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "X2Y2",
   "domain" : "x2y2.io",
   "chains" : {

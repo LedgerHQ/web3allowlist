@@ -1,4 +1,5 @@
 {
+  "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Tokenlon",
   "domain" : "tokenlon.im",
   "chains" : {

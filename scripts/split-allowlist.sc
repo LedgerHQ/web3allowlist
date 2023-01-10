@@ -10,7 +10,7 @@ import io.circe.syntax._
 import io.circe.generic.semiauto._
 
 import java.nio.channels.Channels
-
+import scala.util.Using
 import $file.Model
 
 val allowList = parseLegacy[Model.DomainAllowList](pwd / "allowlist.json")
@@ -19,7 +19,6 @@ val allowList = parseLegacy[Model.DomainAllowList](pwd / "allowlist.json")
     println(s"Error: ${error.getMessage}")
     sys.exit(1)
   case Right(allowList) =>
-    println(allowList)
     allowList.allowlist.flatMap {
       case (chain, sites) if chain == "ethereum" =>
         println(s"Chain: ${chain}")
@@ -42,12 +41,13 @@ val allowList = parseLegacy[Model.DomainAllowList](pwd / "allowlist.json")
   val domain =
     if (dapp.domain.startsWith("*.")) dapp.domain.drop(2) else dapp.domain
   mkdir ! pwd / 'dapps / domain
-  val writer = new java.io.PrintWriter(
-    (pwd / 'dapps / domain / "dapp-allowlist.json").toString
-  )
-  writer.write(dapp.asJson.spaces2)
-  writer.close()
-
+  Using(
+    new java.io.PrintWriter(
+      (pwd / 'dapps / domain / "dapp-allowlist.json").toString
+    )
+  ) { writer =>
+    writer.write(dapp.asJson.spaces2)
+  }
 }
 
 def parseLegacy[A](

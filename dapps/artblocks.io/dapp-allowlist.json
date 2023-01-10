@@ -1,0 +1,16 @@
+{
+  "schemaVersion" : 1,
+  "$schema" : "../dapp-allowlist.schema.json",
+  "name" : "Artblocks",
+  "domain" : "artblocks.io",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0x059EDD72Cd353dF5106D2B9cC5ab83a52287aC3a"
+      },
+      {
+        "address" : "0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270"
+      }
+    ]
+  }
+}

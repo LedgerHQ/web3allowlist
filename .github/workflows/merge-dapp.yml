@@ -1,0 +1,42 @@
+name: Unified dapp file
+on:
+  push:
+    branches:
+      - "*"
+      - "!main"
+    paths-ignore:
+      - "allowlist.json"
+      - "all-dapp-allowlist.json"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    name: Parser dapps files
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: coursier/cache-action@v6
+      - uses: VirtusLab/scala-cli-setup@main
+        with:
+          jvm: zulu:19
+      - name: Validation and merging
+        env:
+          GITHUB_TOKEN: ${{ secrets.CI_BOT_TOKEN }}
+        #
+        # Small hack to inject out GitHub packages token.
+        #    https://github.com/VirtusLab/scala-cli/issues/1464
+        #
+        run: |
+          perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' scripts/validate-and-merge-cli.sc
+          scala-cli scripts/validate-and-merge-cli.sc --main-class main -- all-dapp-allowlist.json
+
+      - name: push file to main
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "all-dapp-allowlist.json"
+          committer_name: Github action
+          committer_email: nobody@ledger.fr
+          default_author: github_actor
+          message: "Update unified dapp file"
+          push: true

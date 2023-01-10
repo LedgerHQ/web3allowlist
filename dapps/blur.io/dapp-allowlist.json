@@ -1,0 +1,13 @@
+{
+  "schemaVersion" : 1,
+  "$schema" : "../dapp-allowlist.schema.json",
+  "name" : "Blur",
+  "domain" : "blur.io",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0x000000000000Ad05Ccc4F10045630fb830B95127"
+      }
+    ]
+  }
+}

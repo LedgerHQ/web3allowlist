@@ -1,0 +1,25 @@
+{
+  "schemaVersion" : 1,
+  "$schema" : "../dapp-allowlist.schema.json",
+  "name" : "Polygon POS Bridge",
+  "domain" : "wallet.polygon.technology",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address" : "0xA68D85dF56E733A06443306A095646317B5Fa633"
+      },
+      {
+        "address" : "0x401F6c983eA34274ec46f84D70b31C151321188b"
+      },
+      {
+        "address" : "0x8484Ef722627bf18ca5Ae6BcF031c23E6e922B30"
+      },
+      {
+        "address" : "0x40ec5B33f54e0E8A33A975908C5BA1c14e5BbbDf"
+      },
+      {
+        "address" : "0xA0c68C638235ee32657e8f720a23ceC1bFc77C77"
+      }
+    ]
+  }
+}

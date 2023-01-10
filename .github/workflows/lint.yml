@@ -11,7 +11,7 @@ name: Lint
 #############################
 on:
   pull_request:
-    branches: 
+    branches:
       - main
 
 ###############
@@ -49,4 +49,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # since we are only interested in linting the allowlist JSON file
           VALIDATE_MARKDOWN: false
-          VALIDATE_NATURAL_LANGUAGE: false 
+          VALIDATE_NATURAL_LANGUAGE: false

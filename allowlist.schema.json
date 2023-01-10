@@ -59,8 +59,7 @@
       "required": [
         "contracts",
         "domain",
-        "name",
-        "token"
+        "name"
       ],
       "title": "Dapp"
     },

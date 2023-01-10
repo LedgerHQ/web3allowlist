@@ -1,4 +1,5 @@
 {
+  "schemaVersion" : 1,
   "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Hop",
   "domain" : "app.hop.exchange",

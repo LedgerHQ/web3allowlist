@@ -5,6 +5,14 @@
   "type": "object",
   "additionalProperties": false,
   "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "description": "The schema of the allowlist"
+    },
+    "$schema": {
+      "type": "string",
+      "description": "The schema of the allowlist"
+    },
     "name": {
       "type": "string",
       "description": "The name of the allowlist"
@@ -12,10 +20,6 @@
     "domain": {
       "type": "string",
       "description": "The domain of the allowlist"
-    },
-    "$schema": {
-      "type": "string",
-      "description": "The schema of the allowlist"
     },
     "subdomains": {
       "type": "array",

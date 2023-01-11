@@ -15,5 +15,5 @@ jobs:
           DRY_RUN: "false"
           RETRY_COUNT: "5"
           RETRY_SLEEP: "300" # in milliseconds
-          MERGE_CONFLICT_ACTION: "fail"
+          MERGE_CONFLICT_ACTION: "ignore"
           PR_READY_STATE: "ready_for_review"

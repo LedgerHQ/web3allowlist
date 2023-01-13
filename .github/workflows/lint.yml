@@ -46,7 +46,7 @@ jobs:
         env:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CI_BOT_TOKEN }}
           # since we are only interested in linting the allowlist JSON file
           VALIDATE_MARKDOWN: false
           VALIDATE_NATURAL_LANGUAGE: false

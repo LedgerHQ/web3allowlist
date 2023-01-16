@@ -10614,6 +10614,21 @@
         ]
       },
       {
+        "name" : "SuperRare",
+        "domain" : "superrare.com",
+        "contracts" : [
+          {
+            "address" : "0xb2D39DA392f19edB27639b92adFe7EdFcC96391b"
+          },
+          {
+            "address" : "0x65B49f7AEE40347f5A90b714be4eF086f3fe5E2C"
+          },
+          {
+            "address" : "0xeA6113EE24DC292CA152c854D5A303244B1DEdcf"
+          }
+        ]
+      },
+      {
         "name" : "Sushi",
         "domain" : "app.sushi.com",
         "contracts" : [

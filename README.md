@@ -39,7 +39,7 @@ The global allowlist is a JSON file with the following format :
 
 ## Contributing
 
-Allow list are per by dApp aka website, then blockchain, and each blockchain has a list of dApps.
+Allow lists are per by dApp aka webdomain, then blockchain, and each blockchain has a list of contracts.
 
 Each dApp has a list of contracts.
 

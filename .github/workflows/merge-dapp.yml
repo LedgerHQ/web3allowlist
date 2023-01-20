@@ -35,7 +35,7 @@ jobs:
         #    https://github.com/VirtusLab/scala-cli/issues/1464
         #
         run: |
-          perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' scripts/validate-and-merge-cli.sc
+          perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' .github/scripts/validate-and-merge-cli.sc
           scala-cli .github/scripts/validate-and-merge-cli.sc --main-class main -- all-dapp-allowlist.json
 
       - name: Commit and push merged list

@@ -1,3 +1,5 @@
 scripts/.scala-build/
 .scala-build/
 
+.metals/*
+.vscode/*

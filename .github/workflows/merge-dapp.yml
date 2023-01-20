@@ -1,17 +1,23 @@
-name: Unified dapp file
+name: merge-dapp-lists
+
 on:
-  push:
-    branches:
-      - "*"
-      - "!main"
-    paths-ignore:
-      - "allowlist.json"
-      - "all-dapp-allowlist.json"
+  workflow_call:
+    inputs: 
+      message:
+        description: 'Commit message'
+        required: true
+        type: string
+  workflow_dispatch:
+    inputs:
+      message:
+        description: 'Commit message'
+        required: true
+        type: string
 
 jobs:
-  validate:
+  merge:
     runs-on: ubuntu-latest
-    name: Parser dapps files
+    name: Merge dApps assets lists
     steps:
       - uses: actions/checkout@v3
         with:
@@ -20,7 +26,7 @@ jobs:
       - uses: VirtusLab/scala-cli-setup@main
         with:
           jvm: zulu:19
-      - name: Validation and merging
+      - name: Validate and merge assets lists
         env:
           GITHUB_TOKEN: ${{ secrets.CI_BOT_TOKEN }}
         #
@@ -29,14 +35,12 @@ jobs:
         #
         run: |
           perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' scripts/validate-and-merge-cli.sc
-          scala-cli scripts/validate-and-merge-cli.sc --main-class main -- all-dapp-allowlist.json
+          scala-cli .github/scripts/validate-and-merge-cli.sc --main-class main -- all-dapp-allowlist.json
 
-      - name: push file to main
+      - name: Commit and push merged list
         uses: EndBug/add-and-commit@v9
         with:
           add: "all-dapp-allowlist.json"
-          committer_name: Github action
-          committer_email: nobody@ledger.fr
           default_author: github_actor
-          message: "Update unified dapp file"
+          message: "${{ inputs.message }}"
           push: true

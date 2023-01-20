@@ -2,17 +2,20 @@ name: merge-dapp-lists
 
 on:
   workflow_call:
-    inputs: 
+    inputs:
       message:
-        description: 'Commit message'
+        description: "Commit message"
         required: true
         type: string
   workflow_dispatch:
     inputs:
       message:
-        description: 'Commit message'
+        description: "Commit message"
         required: true
         type: string
+
+env:
+  GITHUB_TOKEN: ${{ secrets.CI_BOT_TOKEN }}
 
 jobs:
   merge:
@@ -27,14 +30,12 @@ jobs:
         with:
           jvm: zulu:19
       - name: Validate and merge assets lists
-        env:
-          GITHUB_TOKEN: ${{ secrets.CI_BOT_TOKEN }}
         #
         # Small hack to inject our GitHub packages token.
         #    https://github.com/VirtusLab/scala-cli/issues/1464
         #
         run: |
-          perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' .github/scripts/validate-and-merge-cli.sc
+          perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' scripts/validate-and-merge-cli.sc
           scala-cli .github/scripts/validate-and-merge-cli.sc --main-class main -- all-dapp-allowlist.json
 
       - name: Commit and push merged list

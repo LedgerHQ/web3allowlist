@@ -2,7 +2,7 @@
   "schemaVersion" : 1,
   "$schema" : "../dapp-allowlist.schema.json",
   "name" : "Zerion",
-  "domain" : "zerion.io",
+  "domain" : "*.zerion.io",
   "chains" : {
     "ethereum" : [
       {

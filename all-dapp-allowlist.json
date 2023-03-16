@@ -9552,6 +9552,18 @@
         ]
       },
       {
+        "name" : "Enigma Economy",
+        "domain" : "enigmaeconomy.com",
+        "contracts": [
+          {
+            "address": "0x6395fe593dff3231ea7c33e3941c96fc9aa8e3b8"
+          },
+          {
+            "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+          }
+        ]
+      },
+      {
         "name" : "Ethereum Naming Service",
         "domain" : "*.ens.domains",
         "contracts" : [

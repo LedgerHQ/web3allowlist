@@ -10206,6 +10206,15 @@
         ]
       },
       {
+        "name" : "Metashima",
+        "domain" : "metashima.com",
+        "contracts": [
+          {
+            "address": "0xf1e7d7ed030feb809e6f81e294b4b03c02bff964"
+          }
+        ]
+      },
+      {
         "name": "Mint.fun",
         "domain": "mint.fun",
         "contracts": []

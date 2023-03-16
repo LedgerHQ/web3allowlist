@@ -1,0 +1,19 @@
+{
+  "schemaVersion" : 1,
+  "$schema" : "../dapp-allowlist.schema.json",
+  "name" : "Sunflower Land",
+  "domain" : "sunflower-land.com",
+  "chains" : {
+    "ethereum" : [
+      {
+        "address": "0x3f2f4aa023c6ed149d342229afac6e140e149114"
+      },
+      {
+        "address": "0x22f39ff254ac5c46eb5a010634423e450fc58699"
+      },
+      {
+        "address": "0x1f477673d165f058781bb254c6d96897fbce42f0"
+      }
+    ]
+  }
+}

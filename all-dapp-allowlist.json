@@ -10485,6 +10485,18 @@
         ]
       },
       {
+        "name" : "overlord",
+        "domain" : "overlord.xyz",
+        "contracts": [
+          {
+            "address": "0x5946aeaab44e65eb370ffaa6a7ef2218cff9b47d"
+          },
+          {
+            "address": "0xfe8c6d19365453d26af321d0e8c910428c23873f"
+          }
+        ]
+      },
+      {
         "name" : "Pancakeswap",
         "domain" : "pancakeswap.finance",
         "contracts": [

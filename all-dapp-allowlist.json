@@ -9541,13 +9541,16 @@
       },
       {
         "name" : "Ethereum Naming Service",
-        "domain" : "ens.domains",
+        "domain" : "*.ens.domains",
         "contracts" : [
           {
             "address" : "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
           },
           {
             "address" : "0x314159265dD8dbb310642f98f50C066173C1259b"
+          },
+          {
+            "address": "0x283Af0B28c62C092C9727F1Ee09c02CA627EB7F5"
           }
         ]
       },
@@ -9611,6 +9614,9 @@
           },
           {
             "address" : "0x7e1e3334130355799f833ffec2d731bca3e68af6"
+          },
+          {
+            "address" : "0x35ca26a7a7f3ca98f3e60bd94c139c892e45b6c3"
           }
         ]
       },
@@ -10133,6 +10139,15 @@
           },
           {
             "address" : "0xa46f952645d4deec07a7cd98d1ec9ec888d4b61e"
+          },
+          {
+            "address": "0x7581871e1c11f85ec7f02382632b8574fad11b22"
+          },
+          {
+            "address": "0x23a553a150ab2f5f88c01c0449b672d9f7efeb36"
+          },
+          {
+            "address": "0xe7d3982e214f9dfd53d23a7f72851a7044072250"
           }
         ]
       },
@@ -10439,6 +10454,9 @@
           },
           {
             "address" : "0x00005EA00Ac477B1030CE78506496e8C2dE24bf5"
+          },
+          {
+            "address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
           }
         ]
       },

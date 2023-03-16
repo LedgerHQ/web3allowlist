@@ -10793,6 +10793,12 @@
         ]
       },
       {
+        "name" : "Revoke",
+        "domain" : "revoke.cash",
+        "contracts" : [
+        ]
+      },
+      {
         "name" : "RTFKT",
         "domain" : "rtfkt.com",
         "contracts" : [

@@ -1,0 +1,9 @@
+{
+  "schemaVersion" : 1,
+  "$schema" : "../dapp-allowlist.schema.json",
+  "name" : "Revoke",
+  "domain" : "revoke.cash",
+  "chains" : {
+    "ethereum" : []
+  }
+}

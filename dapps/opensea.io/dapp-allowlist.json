@@ -1,7 +1,7 @@
 {
   "schemaVersion" : 1,
   "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Opensea",
+  "name" : "OpenSea",
   "domain" : "opensea.io",
   "chains" : {
     "ethereum" : [

@@ -9643,27 +9643,6 @@
         ]
       },
       {
-        "name": "Gem",
-        "domain": "www.gem.xyz",
-        "contracts": [
-          {
-            "address": "0x00000000A50BB64b4BbEcEB18715748DfacE08af"
-          },
-          {
-            "address": "0x0000000035634B55f3D99B071B5A354f48e10BEF"
-          },
-          {
-            "address": "0x83C8F28c26bF6aaca652Df1DbBE0e1b56F8baBa2"
-          },
-          {
-            "address": "0x7e1e3334130355799f833ffec2d731bca3e68af6"
-          },
-          {
-            "address": "0x35ca26a7a7f3ca98f3e60bd94c139c892e45b6c3"
-          }
-        ]
-      },
-      {
         "name": "genie",
         "domain": "genie.xyz",
         "contracts": [
@@ -10206,8 +10185,8 @@
         ]
       },
       {
-        "name" : "Metashima",
-        "domain" : "metashima.com",
+        "name": "Metashima",
+        "domain": "metashima.com",
         "contracts": [
           {
             "address": "0xf1e7d7ed030feb809e6f81e294b4b03c02bff964"
@@ -10444,7 +10423,7 @@
         ]
       },
       {
-        "name": "Opensea",
+        "name": "OpenSea",
         "domain": "opensea.io",
         "contracts": [
           {
@@ -10789,6 +10768,27 @@
         "name": "Pre Mint",
         "domain": "premint.xyz",
         "contracts": []
+      },
+      {
+        "name": "OpenSea Pro",
+        "domain": "pro.opensea.io",
+        "contracts": [
+          {
+            "address": "0x00000000A50BB64b4BbEcEB18715748DfacE08af"
+          },
+          {
+            "address": "0x0000000035634B55f3D99B071B5A354f48e10BEF"
+          },
+          {
+            "address": "0x83C8F28c26bF6aaca652Df1DbBE0e1b56F8baBa2"
+          },
+          {
+            "address": "0x7e1e3334130355799f833ffec2d731bca3e68af6"
+          },
+          {
+            "address": "0x35ca26a7a7f3ca98f3e60bd94c139c892e45b6c3"
+          }
+        ]
       },
       {
         "name": "Rarible",

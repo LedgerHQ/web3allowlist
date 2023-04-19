@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "$schema": "../dapp-allowlist.schema.json",
+    "name": "Numoen",
+    "domain": "app.numoen.com",
+    "chains":
+    {
+        "polygon":
+        [
+            {
+                "address": "0x6a931466f6c79724cb5e78eab6e493b6af189ff0"
+            }
+        ]
+    }
+}

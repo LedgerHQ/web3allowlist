@@ -5,7 +5,7 @@
     "domain": "app.arcade.xyz",
     "chains":
     {
-        "polygon":
+        "ethereum":
         [
             {
                 "address": "0x4c52ca29388a8a854095fd2beb83191d68dc840b"

@@ -1,0 +1,21 @@
+{
+    "schemaVersion": 1,
+    "$schema": "../dapp-allowlist.schema.json",
+    "name": "Zeroswap",
+    "domain": "app.zeroswap.io",
+    "chains":
+    {
+        "polygon":
+        [
+            {
+                "address": "0x2b6bd6a84f97051805969c12985b739551cbb0aa"
+            }
+        ],
+        "ethereum":
+        [
+            {
+                "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+            }
+        ]
+    }
+}

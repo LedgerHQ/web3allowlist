@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tigris",
+  "domain": "app.tigris.trade",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x1e17288b6bec5c432d0ab7bb16fe37c0d094a67d"
+      }
+    ]
+  }
+}

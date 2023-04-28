@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tranchess",
+  "domain": "tranchess.com",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xd5396f6d8173bd0a8f64c68d81b41a39162673ee"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x10e02a656b5f9de2c44c687787c36a2c4801cc40"
+      }
+    ]
+  }
+}

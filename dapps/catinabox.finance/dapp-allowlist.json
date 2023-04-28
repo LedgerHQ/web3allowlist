@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Catinabox",
+  "domain": "catinabox.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x7f0a0c7149a46bf943ccd412da687144b49c6014"
+      }
+    ]
+  }
+}

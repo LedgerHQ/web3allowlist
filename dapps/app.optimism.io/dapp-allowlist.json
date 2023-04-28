@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Optimism",
+  "domain": "app.optimism.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1"
+      }
+    ]
+  }
+}

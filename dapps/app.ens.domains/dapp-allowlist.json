@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ens",
+  "domain": "app.ens.domains",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x283af0b28c62c092c9727f1ee09c02ca627eb7f5"
+      }
+    ]
+  }
+}

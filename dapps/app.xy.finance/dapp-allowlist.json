@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Xy",
+  "domain": "app.xy.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x4315f344a905dc21a08189a117efd6e1fca37d57"
+      }
+    ]
+  }
+}

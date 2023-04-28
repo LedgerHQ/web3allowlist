@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dydx",
+  "domain": "trade.dydx.exchange",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x8e8bd01b5a9eb272cc3892a2e40e64a716aa2a40"
+      }
+    ]
+  }
+}

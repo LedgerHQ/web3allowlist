@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Orbitchain",
+  "domain": "bridge.orbitchain.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x1bf68a9d1eaee7826b3593c20a0ca93293cb489a"
+      }
+    ]
+  }
+}

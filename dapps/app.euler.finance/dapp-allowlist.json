@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Euler",
+  "domain": "app.euler.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x1b808f49add4b8c6b5117d9681cf7312fcf0dc1d"
+      }
+    ]
+  }
+}

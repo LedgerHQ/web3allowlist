@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Kleros",
+  "domain": "curate.kleros.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xba0304273a54dfec1fc7f4bccbf4b15519aecf15"
+      }
+    ]
+  }
+}

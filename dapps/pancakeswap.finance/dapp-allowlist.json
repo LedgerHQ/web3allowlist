@@ -1,12 +1,23 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Pancakeswap",
-  "domain" : "pancakeswap.finance",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Pancakeswap",
+  "domain": "pancakeswap.finance",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0xeff92a263d31888d860bd50809a8d171709b7b1c"
+        "address": "0xeff92a263d31888d860bd50809a8d171709b7b1c"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x17539cca21c7933df5c980172d22659b8c345c5a"
+      },
+      {
+        "address": "0xfeacb05b373f1a08e68235ba7fc92636b92ced01"
+      },
+      {
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
       }
     ]
   }

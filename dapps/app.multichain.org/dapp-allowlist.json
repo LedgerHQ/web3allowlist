@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Multichain",
+  "domain": "app.multichain.org",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xba8da9dcf11b50b03fd5284f164ef5cdef910705"
+      }
+    ]
+  }
+}

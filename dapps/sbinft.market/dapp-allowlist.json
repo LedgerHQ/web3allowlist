@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Sbinft",
+  "domain": "sbinft.market",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x08d12249846a786813f9b34c04e021c2060cfb62"
+      }
+    ]
+  }
+}

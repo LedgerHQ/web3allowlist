@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Benddao",
+  "domain": "www.benddao.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x3b968d2d299b895a5fcf3bba7a64ad0f566e6f88"
+      }
+    ]
+  }
+}

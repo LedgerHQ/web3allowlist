@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Fluxfinance",
+  "domain": "fluxfinance.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x465a5a630482f3abd6d3b84b39b29b07214d19e5"
+      }
+    ]
+  }
+}

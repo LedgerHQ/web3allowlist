@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cyberconnect",
+  "domain": "cyberconnect.me",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x2723522702093601e6360cae665518c4f63e9da6"
+      }
+    ]
+  }
+}

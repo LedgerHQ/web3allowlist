@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Thena",
+  "domain": "thena.fi",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xd4ae6eca985340dd434d38f470accce4dc78d109"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Offshift",
+  "domain": "app.offshift.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x207793a5a08e1da37b44c874a5006d32cf1d52c8"
+      }
+    ]
+  }
+}

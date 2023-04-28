@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Nftx",
+  "domain": "nftx.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x941a6d105802cccaa06de58a13a6f49ebdcd481c"
+      }
+    ]
+  }
+}

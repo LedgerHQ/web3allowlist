@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Sturdy",
+  "domain": "app.sturdy.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x9f72dc67cec672bb99e3d02cbea0a21536a2b657"
+      }
+    ]
+  }
+}

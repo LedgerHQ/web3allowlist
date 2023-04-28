@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Portalbridge",
+  "domain": "www.portalbridge.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x3ee18b2214aff97000d974cf647e7c347e8fa585"
+      }
+    ]
+  }
+}

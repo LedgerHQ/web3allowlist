@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eterney",
+  "domain": "eterney.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x99c227e601ee11f37849233170ea05354d97ccdd"
+      }
+    ]
+  }
+}

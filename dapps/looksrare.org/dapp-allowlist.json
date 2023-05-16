@@ -1,51 +1,51 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "LooksRare",
-  "domain" : "looksrare.org",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "LooksRare",
+  "domain": "looksrare.org",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x3ab16af1315dc6c95f83cbf522fecf98d00fd9ba"
+        "address": "0x3ab16af1315dc6c95f83cbf522fecf98d00fd9ba"
       },
       {
-        "address" : "0xa35dce3e0e6ceb67a30b8d7f4aee721c949b5970"
+        "address": "0xa35dce3e0e6ceb67a30b8d7f4aee721c949b5970"
       },
       {
-        "address" : "0xc881addf409ee2c4b6bbc8b607c2c5cafab93d25"
+        "address": "0xc881addf409ee2c4b6bbc8b607c2c5cafab93d25"
       },
       {
-        "address" : "0xff6c307226343fcf96af2f6b5b05f63f717e68cb"
+        "address": "0xff6c307226343fcf96af2f6b5b05f63f717e68cb"
       },
       {
-        "address" : "0x59728544b08ab483533076417fbbb2fd0b17ce3a"
+        "address": "0x59728544b08ab483533076417fbbb2fd0b17ce3a"
       },
       {
-        "address" : "0x9cc58bf22a173c0fa8791c13df396d18185d62b2"
+        "address": "0x9cc58bf22a173c0fa8791c13df396d18185d62b2"
       },
       {
-        "address" : "0xbcd7254a1d759efa08ec7c3291b2e85c5dcc12ce"
+        "address": "0xbcd7254a1d759efa08ec7c3291b2e85c5dcc12ce"
       },
       {
-        "address" : "0x7358182024c9f1b2e6b0153e60bf6156b7ef4906"
+        "address": "0x7358182024c9f1b2e6b0153e60bf6156b7ef4906"
       },
       {
-        "address" : "0x55010472a93921a117aad9b055c141060c8d8022"
+        "address": "0x55010472a93921a117aad9b055c141060c8d8022"
       },
       {
-        "address" : "0x66466107d9cae4da0176a699406419003f3c27a8"
+        "address": "0x66466107d9cae4da0176a699406419003f3c27a8"
       },
       {
-        "address" : "0x86f909f70813cdb1bc733f4d97dc6b03b8e7e8f3"
+        "address": "0x86f909f70813cdb1bc733f4d97dc6b03b8e7e8f3"
       },
       {
-        "address" : "0x58d83536d3efedb9f7f2a1ec3bdaad2b1a4dd98c"
+        "address": "0x58d83536d3efedb9f7f2a1ec3bdaad2b1a4dd98c"
       },
       {
-        "address" : "0x56244bb70cbd3ea9dc8007399f61dfc065190031"
+        "address": "0x56244bb70cbd3ea9dc8007399f61dfc065190031"
       },
       {
-        "address" : "0xfed24ec7e22f573c2e08aef55aa6797ca2b3a051"
+        "address": "0xfed24ec7e22f573c2e08aef55aa6797ca2b3a051"
       }
     ]
   }

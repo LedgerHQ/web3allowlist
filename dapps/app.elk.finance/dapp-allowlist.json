@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Elk",
+  "domain": "app.elk.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xb5e9f6c58f548cee53257304e287b23757effca1"
+      }
+    ]
+  }
+}

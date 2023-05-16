@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Unsheth",
+  "domain": "unsheth.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x7461092aa5234b42a17ee8cc51cfde6ef4becbc7"
+      }
+    ]
+  }
+}

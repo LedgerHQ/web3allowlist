@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eth",
+  "domain": "tornadocash.eth.link",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xd90e2f925da726b50c4ed8d0fb90ad053324f31b"
+      }
+    ]
+  }
+}

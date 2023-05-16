@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Defiplaza",
+  "domain": "app.defiplaza.net",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xe68c1d72340aeefe5be76eda63ae2f4bc7514110"
+      }
+    ]
+  }
+}

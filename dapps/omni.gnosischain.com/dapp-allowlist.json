@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gnosischain",
+  "domain": "omni.gnosischain.com",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dforce",
+  "domain": "app.dforce.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x5acd75f21659a59ffab9aebaf350351a8bfaabc0"
+      },
+      {
+        "address": "0x8c3984fb0f649c304d68db69457dbf137d156d7a"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xd57e1425837567f74a35d07669b23bfb67aa4a93"
+      },
+      {
+        "address": "0x0188a68f5b0d86816c261cb6a7e380366651e284"
+      }
+    ]
+  }
+}

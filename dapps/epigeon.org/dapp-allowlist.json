@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Epigeon",
+  "domain": "epigeon.org",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xaf496ac0c015f5ce7a973cd9ac8e9fc53e4d9053"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ethereumbillboard",
+  "domain": "ethereumbillboard.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x93f1d0c970f76ceebbd54b17a62c77e7b6e3be36"
+      }
+    ]
+  }
+}

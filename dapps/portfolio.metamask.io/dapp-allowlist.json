@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Metamask",
+  "domain": "portfolio.metamask.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x82e0b8cdd80af5930c4452c684e71c861148ec8a"
+      },
+      {
+        "address": "0x881d40237659c251811cec9c364ef91dc08d300c"
+      },
+      {
+        "address": "0x67054183db455d74839d1ea11f7e497350f64c71"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x1a1ec25dc08e98e5e93f1104b5e5cdd298707d31"
+      }
+    ]
+  }
+}

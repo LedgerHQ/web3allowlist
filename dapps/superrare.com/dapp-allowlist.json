@@ -1,18 +1,21 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "SuperRare",
-  "domain" : "superrare.com",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "SuperRare",
+  "domain": "superrare.com",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0xb2D39DA392f19edB27639b92adFe7EdFcC96391b"
+        "address": "0xb2D39DA392f19edB27639b92adFe7EdFcC96391b"
       },
       {
-        "address" : "0x65B49f7AEE40347f5A90b714be4eF086f3fe5E2C"
+        "address": "0x65B49f7AEE40347f5A90b714be4eF086f3fe5E2C"
       },
       {
-        "address" : "0xeA6113EE24DC292CA152c854D5A303244B1DEdcf"
+        "address": "0xeA6113EE24DC292CA152c854D5A303244B1DEdcf"
+      },
+      {
+        "address": "0x6d7c44773c52d396f43c2d511b81aa168e9a7a42"
       }
     ]
   }

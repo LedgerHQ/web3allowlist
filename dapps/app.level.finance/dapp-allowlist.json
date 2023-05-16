@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Level",
+  "domain": "app.level.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xf584a17df21afd9de84f47842eceaf6042b1bb5b"
+      },
+      {
+        "address": "0x4a46649ec023df2dcf18ee381281408b3432428b"
+      }
+    ]
+  }
+}

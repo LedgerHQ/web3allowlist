@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Nftfi",
+  "domain": "app.nftfi.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x8252df1d8b29057d1afe3062bf5a64d503152bc8"
+      }
+    ]
+  }
+}

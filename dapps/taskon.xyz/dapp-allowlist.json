@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Taskon",
+  "domain": "taskon.xyz",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x35ac13efaab970f32269b61e4704f4377ce7a0ad"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Inverse",
+  "domain": "inverse.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x6c31147e995074ea6aad2fbe95060b0aef7363e1"
+      }
+    ]
+  }
+}

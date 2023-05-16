@@ -1,12 +1,12 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Bungee",
-  "domain" : "bungee.exchange",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bungee",
+  "domain": "bungee.exchange",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0xc30141B657f4216252dc59Af2e7CdB9D8792e1B0"
+        "address": "0xc30141b657f4216252dc59af2e7cdb9d8792e1b0"
       }
     ]
   }

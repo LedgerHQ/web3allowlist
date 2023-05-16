@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Connext",
+  "domain": "bridge.connext.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x7e4490e97c8243d844719f26a0b47fd5a59fdc2e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Changelly",
+  "domain": "changelly.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x1aaad07998466cd3eb8140827dddb37570be1e63"
+      }
+    ]
+  }
+}

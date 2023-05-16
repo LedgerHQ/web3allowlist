@@ -1,60 +1,82 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Uniswap",
-  "domain" : "app.uniswap.org",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Uniswap",
+  "domain": "app.uniswap.org",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x7a250d5630b4cf539739df2c5dacb4c659f2488d"
+        "address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d"
       },
       {
-        "address" : "0x090d4613473dee047c3f2706764f49e0821d256e"
+        "address": "0x090d4613473dee047c3f2706764f49e0821d256e"
       },
       {
-        "address" : "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
       },
       {
-        "address" : "0x1F98431c8aD98523631AE4a59f267346ea31F984"
+        "address": "0x1F98431c8aD98523631AE4a59f267346ea31F984"
       },
       {
-        "address" : "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696"
+        "address": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696"
       },
       {
-        "address" : "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2"
+        "address": "0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2"
       },
       {
-        "address" : "0xbfd8137f7d1516D3ea5cA83523914859ec47F573"
+        "address": "0xbfd8137f7d1516D3ea5cA83523914859ec47F573"
       },
       {
-        "address" : "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6"
+        "address": "0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6"
       },
       {
-        "address" : "0xE592427A0AEce92De3Edee1F18E0157C05861564"
+        "address": "0xE592427A0AEce92De3Edee1F18E0157C05861564"
       },
       {
-        "address" : "0x42B24A95702b9986e82d421cC3568932790A48Ec"
+        "address": "0x42B24A95702b9986e82d421cC3568932790A48Ec"
       },
       {
-        "address" : "0x91ae842A5Ffd8d12023116943e72A606179294f3"
+        "address": "0x91ae842A5Ffd8d12023116943e72A606179294f3"
       },
       {
-        "address" : "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785"
+        "address": "0xEe6A57eC80ea46401049E92587E52f5Ec1c24785"
       },
       {
-        "address" : "0xC36442b4a4522E871399CD717aBDD847Ab11FE88"
+        "address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88"
       },
       {
-        "address" : "0xA5644E29708357803b5A882D272c41cC0dF92B34"
+        "address": "0xA5644E29708357803b5A882D272c41cC0dF92B34"
       },
       {
-        "address" : "0x0000000052BE00bA3a005edbE83a0fB9aaDB964C"
+        "address": "0x0000000052BE00bA3a005edbE83a0fB9aaDB964C"
       },
       {
-        "address" : "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+        "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
       },
       {
-        "address" : "0xEf1c6E67703c7BD7107eed8303Fbe6EC2554BF6B"
+        "address": "0xEf1c6E67703c7BD7107eed8303Fbe6EC2554BF6B"
+      },
+      {
+        "address": "0x4c60051384bd2d3c01bfc845cf5f4b44bcbe9de5"
+      },
+      {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      {
+        "address": "0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x5dc88340e1c5c6366864ee415d6034cadd1a9897"
+      },
+      {
+        "address": "0x7b8a01b39d58278b5de7e48c8449c9f4f5170613"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x4c60051384bd2d3c01bfc845cf5f4b44bcbe9de5"
       }
     ]
   }

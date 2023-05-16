@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Drips",
+  "domain": "drips.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x78df097ca1ec714727ab6c2bd479ce1a0f5d58d1"
+      }
+    ]
+  }
+}

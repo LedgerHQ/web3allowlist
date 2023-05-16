@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Biswap",
+  "domain": "biswap.org",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x3a6d8ca21d1cf76f653a67577fa0d27453350dd8"
+      }
+    ]
+  }
+}

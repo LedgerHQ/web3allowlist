@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Jpegd",
+  "domain": "jpegd.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xb271d2c9e693dde033d97f8a3c9911781329e4ca"
+      }
+    ]
+  }
+}

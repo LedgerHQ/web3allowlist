@@ -1,24 +1,27 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Hop",
-  "domain" : "app.hop.exchange",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Hop",
+  "domain": "app.hop.exchange",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x3E4a3a4796d16c0Cd582C382691998f7c06420B6"
+        "address": "0x3E4a3a4796d16c0Cd582C382691998f7c06420B6"
       },
       {
-        "address" : "0x22B1Cbb8D98a01a3B71D034BB899775A76Eb1cc2"
+        "address": "0x22B1Cbb8D98a01a3B71D034BB899775A76Eb1cc2"
       },
       {
-        "address" : "0x3d4Cc8A61c7528Fd86C55cfe061a78dCBA48EDd1"
+        "address": "0x3d4Cc8A61c7528Fd86C55cfe061a78dCBA48EDd1"
       },
       {
-        "address" : "0xb8901acB165ed027E32754E0FFe830802919727f"
+        "address": "0xb8901acB165ed027E32754E0FFe830802919727f"
       },
       {
-        "address" : "0xb98454270065A31D71Bf635F6F7Ee6A518dFb849"
+        "address": "0xb98454270065A31D71Bf635F6F7Ee6A518dFb849"
+      },
+      {
+        "address": "0xb8901acb165ed027e32754e0ffe830802919727f"
       }
     ]
   }

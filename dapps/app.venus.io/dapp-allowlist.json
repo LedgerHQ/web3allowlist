@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Venus",
+  "domain": "app.venus.io",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x17f4a746a7bf05c3e24a2bb7d7d25e4d3e5bbe3e"
+      }
+    ]
+  }
+}

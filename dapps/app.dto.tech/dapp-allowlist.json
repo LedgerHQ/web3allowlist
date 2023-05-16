@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dto",
+  "domain": "app.dto.tech",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x5dba0d54d6819a7088d2da758b6b8a4e1e7281a1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cow",
+  "domain": "swap.cow.fi",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x40a50cf069e992aa4536211b23f286ef88752187"
+      }
+    ]
+  }
+}

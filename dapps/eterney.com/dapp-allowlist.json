@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "$schema": "../dapp-allowlist.schema.json",
-  "name": "Airswap",
-  "domain": "www.airswap.io",
+  "name": "Eterney",
+  "domain": "eterney.com",
   "chains": {
     "ethereum": [
       {
-        "address": "0x3a0e257568cc9c6c5d767d5dc0cd8a9ac69cc3ae"
+        "address": "0x99c227e601ee11f37849233170ea05354d97ccdd"
       }
     ]
   }

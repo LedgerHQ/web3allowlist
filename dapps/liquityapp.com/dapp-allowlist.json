@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "$schema": "../dapp-allowlist.schema.json",
-  "name": "Inverse",
-  "domain": "www.inverse.finance",
+  "name": "Liquityapp",
+  "domain": "liquityapp.com",
   "chains": {
     "ethereum": [
       {
-        "address": "0x6c31147e995074ea6aad2fbe95060b0aef7363e1"
+        "address": "0x24179cd81c9e782a4096035f7ec97fb8b783e007"
       }
     ]
   }

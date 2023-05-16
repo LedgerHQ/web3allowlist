@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "$schema": "../dapp-allowlist.schema.json",
-  "name": "Ankr",
-  "domain": "www.ankr.com",
+  "name": "Linoswap",
+  "domain": "linoswap.io",
   "chains": {
     "ethereum": [
       {
-        "address": "0x84db6ee82b7cf3b47e8f19270abde5718b936670"
+        "address": "0xfad14f413f297d1190eb3f86ea88e6b2e78f7896"
       }
     ]
   }

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "$schema": "../dapp-allowlist.schema.json",
-  "name": "Bungee",
-  "domain": "www.bungee.exchange",
+  "name": "Ankr",
+  "domain": "ankr.com",
   "chains": {
     "ethereum": [
       {
-        "address": "0xc30141b657f4216252dc59af2e7cdb9d8792e1b0"
+        "address": "0x84db6ee82b7cf3b47e8f19270abde5718b936670"
       }
     ]
   }

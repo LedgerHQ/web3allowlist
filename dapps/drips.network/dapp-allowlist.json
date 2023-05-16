@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "$schema": "../dapp-allowlist.schema.json",
-  "name": "Epigeon",
-  "domain": "www.epigeon.org",
+  "name": "Drips",
+  "domain": "drips.network",
   "chains": {
     "ethereum": [
       {
-        "address": "0xaf496ac0c015f5ce7a973cd9ac8e9fc53e4d9053"
+        "address": "0x78df097ca1ec714727ab6c2bd479ce1a0f5d58d1"
       }
     ]
   }

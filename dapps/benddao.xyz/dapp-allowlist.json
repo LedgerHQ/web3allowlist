@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "$schema": "../dapp-allowlist.schema.json",
-  "name": "Drips",
-  "domain": "www.drips.network",
+  "name": "Benddao",
+  "domain": "benddao.xyz",
   "chains": {
     "ethereum": [
       {
-        "address": "0x78df097ca1ec714727ab6c2bd479ce1a0f5d58d1"
+        "address": "0x3b968d2d299b895a5fcf3bba7a64ad0f566e6f88"
       }
     ]
   }

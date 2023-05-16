@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "$schema": "../dapp-allowlist.schema.json",
   "name": "Sushi",
-  "domain": "www.sushi.com",
+  "domain": "sushi.com",
   "chains": {
     "gnosis": [
       {

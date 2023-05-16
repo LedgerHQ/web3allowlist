@@ -73,9 +73,9 @@ Note that:
  * `name` is the name of the dApp.
  * `domain` is the domain of the dApp
    * without the protocol (e.g. `mydapp.com`).
-   * subdomains are not allowed by default (e.g. `mydapp.com` and `www.mydapp.com` are not the same dApp).
+   * subdomains are not allowed by default (e.g. `mydapp.com` and `mydapp.com` are not the same dApp).
    * the domain is case insensitive (e.g. `mydapp.com` and `MYDAPP.COM` are the same dApp).
-   * if all subdomains are allowed, the domain should be `*.mydapp.com` (e.g. `app.myapp.com` and `www.mydapp.com` are the same dApp).
+   * if all subdomains are allowed, the domain should be `*.mydapp.com` (e.g. `app.myapp.com` and `mydapp.com` are the same dApp).
    * use `"subdomains": ["app1", "app2"]`,
  if only a specific subdomains is allowed.
  * `chains` is a map of blockchain to a list of contracts.

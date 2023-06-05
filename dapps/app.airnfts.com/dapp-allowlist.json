@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Airnfts",
+  "domain": "app.airnfts.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xcd494673999194365033d7a287af9f0a3b163874"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xf5db804101d8600c26598a1ba465166c33cdaa4b"
+      }
+    ]
+  }
+}

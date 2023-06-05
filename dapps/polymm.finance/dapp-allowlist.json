@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Polymm",
+  "domain": "polymm.finance",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x7e5e5957de93d00c352df75159fbc37d5935f8bf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Usecyan",
+  "domain": "dapp.usecyan.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x460e0cd087033a73e1bc5c071711f1f27884968a"
+      }
+    ]
+  }
+}

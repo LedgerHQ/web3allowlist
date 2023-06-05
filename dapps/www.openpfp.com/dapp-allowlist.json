@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Openpfp",
+  "domain": "www.openpfp.com",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x3b11562dc5edbf3889157e71c7ae6754d7adea79"
+      }
+    ]
+  }
+}

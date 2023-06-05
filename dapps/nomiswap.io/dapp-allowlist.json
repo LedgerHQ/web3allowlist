@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Nomiswap",
+  "domain": "nomiswap.io",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x13147820401f455e3318db8686958d457ad2e7b0"
+      }
+    ]
+  }
+}

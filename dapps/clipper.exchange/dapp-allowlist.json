@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Clipper",
+  "domain": "clipper.exchange",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x6bfce69d1df30fd2b2c8e478edec9daa643ae3b8"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x655edce464cc797526600a462a8154650eee4b77"
+      },
+      {
+        "address": "0x12bb166f997146d3d33645146eedbc4a923195d7"
+      }
+    ]
+  }
+}

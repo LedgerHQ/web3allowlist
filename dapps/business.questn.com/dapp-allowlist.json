@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Questn",
+  "domain": "business.questn.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x7c838b25092925d0155a8358475bfe6c19921d9e"
+      }
+    ]
+  }
+}

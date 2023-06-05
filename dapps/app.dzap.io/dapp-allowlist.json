@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dzap",
+  "domain": "app.dzap.io",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x3af3cc4930ef88f4afe0b695ac95c230e1a108ec"
+      },
+      {
+        "address": "0x603b31bbe692adcd522e280019f72b7919d6167c"
+      }
+    ]
+  }
+}

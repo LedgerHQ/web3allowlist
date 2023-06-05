@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Lunafi",
+  "domain": "www.app.lunafi.io",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x14e849b39ca7de7197763b6254ee57edbe0f3375"
+      }
+    ]
+  }
+}

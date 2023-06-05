@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Coincollect",
+  "domain": "app.coincollect.org",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xcc2a5477978a23282b80a66aaa2903b71f702040"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Fujidao",
+  "domain": "www.fujidao.org",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xd0dc4cc10fcf3fee2bf5310c0e4e097b60f097d3"
+      },
+      {
+        "address": "0x6e16394cbf840fc599fa3d9e5d1e90949c32a4f5"
+      }
+    ]
+  }
+}

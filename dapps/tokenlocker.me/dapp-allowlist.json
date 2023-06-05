@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tokenlocker",
+  "domain": "tokenlocker.me",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x4adff2f8da3fcdc80dc2f1e6f32c2b26baa27048"
+      }
+    ]
+  }
+}

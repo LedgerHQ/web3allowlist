@@ -1,12 +1,15 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Mooniswap",
-  "domain" : "mooniswap.exchange",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mooniswap",
+  "domain": "mooniswap.exchange",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0xbAF9A5d4b0052359326A6CDAb54BABAa3a3A9643"
+        "address": "0xbAF9A5d4b0052359326A6CDAb54BABAa3a3A9643"
+      },
+      {
+        "address": "0x61bb2fda13600c497272a8dd029313afdb125fd3"
       }
     ]
   }

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Caviar",
+  "domain": "www.caviar.sh",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xf4fe3d529977583b0a6f4e7131645d0bac9ba1f4"
+      }
+    ]
+  }
+}

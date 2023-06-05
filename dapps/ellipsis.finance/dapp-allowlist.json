@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ellipsis",
+  "domain": "ellipsis.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xe014a89c9788dafde603a13f2f01390610382471"
+      }
+    ]
+  }
+}

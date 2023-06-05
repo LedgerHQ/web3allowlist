@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Saddle",
+  "domain": "saddle.exchange",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xa6018520eaacc06c30ff2e1b3ee2c7c22e64196a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Wardenswap",
+  "domain": "www.wardenswap.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x39f97198c5dbc193eb962c4b3b7e447091a18eab"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x030b8b7bf245e762736e65c0903295447b898c30"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x451ef8d6b645a60115eb8b8bea76b39c0c761004"
+      }
+    ]
+  }
+}

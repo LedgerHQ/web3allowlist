@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Sushi",
+  "domain": "www.sushi.com",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x1e9b24073183d5c6b7ae5fb4b8f0b1dd83fdc77a"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x827179dd56d07a7eea32e3873493835da2866976"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Unic",
+  "domain": "www.app.unic.ly",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xe6e90bc9f3b95cdb69f48c7bfdd0ede1386b135a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "1hive",
+  "domain": "1hive.io",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x53f224f83b2b2365caf4178f52c234da1ecf392f"
+      }
+    ]
+  }
+}

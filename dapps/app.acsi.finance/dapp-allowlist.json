@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Acsi",
+  "domain": "app.acsi.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xa82f327bbbf0667356d2935c6532d164b06ceced"
+      }
+    ]
+  }
+}

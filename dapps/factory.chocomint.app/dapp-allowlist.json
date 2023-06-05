@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Chocomint",
+  "domain": "factory.chocomint.app",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xea968e6ac95a95c68bf66decc803a1b2848cdc4a"
+      }
+    ]
+  }
+}

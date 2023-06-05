@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Openleverage",
+  "domain": "bnb.openleverage.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x73fb88fff5f22ea7276f73832c6334696b7a3541"
+      }
+    ]
+  }
+}

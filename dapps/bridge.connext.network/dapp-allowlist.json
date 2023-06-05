@@ -8,6 +8,11 @@
       {
         "address": "0x7e4490e97c8243d844719f26a0b47fd5a59fdc2e"
       }
+    ],
+    "gnosis": [
+      {
+        "address": "0x5bb83e95f63217cda6ae3d181ba580ef377d2109"
+      }
     ]
   }
 }

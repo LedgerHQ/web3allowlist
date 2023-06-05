@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bogged",
+  "domain": "app.bogged.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x6e43700d87e289f6feb77d07235f2fc6b548f51b"
+      }
+    ]
+  }
+}

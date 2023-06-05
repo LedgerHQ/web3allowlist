@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Woo",
+  "domain": "fi.woo.org",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x7eb8d4ccfdbd9df8d3520e9c5b5edf6a5cbe4cad"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x9dd5dd86b978f17628f01307a83347d9ec9b0699"
+      }
+    ]
+  }
+}

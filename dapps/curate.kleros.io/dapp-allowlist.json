@@ -8,6 +8,14 @@
       {
         "address": "0xba0304273a54dfec1fc7f4bccbf4b15519aecf15"
       }
+    ],
+    "gnosis": [
+      {
+        "address": "0x76944a2678a0954a610096ee78e8ceb8d46d5922"
+      },
+      {
+        "address": "0x957a53a994860be4750810131d9c876b2f52d6e1"
+      }
     ]
   }
 }

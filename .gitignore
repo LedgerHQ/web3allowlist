@@ -3,3 +3,4 @@ scripts/.scala-build/
 .DS_Store
 .metals/*
 .vscode/*
+.github/scripts/.bsp

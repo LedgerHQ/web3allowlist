@@ -88,7 +88,7 @@ This PR will be reviewed by the CODEOWNERS of this repository. If the PR is appr
 
 Effectively, the allowlist is a JSON file that is generated from the dApp allowlist files.
 
-This cache is updated every 1 hours.
+This cache is updated every hour.
 
 ## License
 

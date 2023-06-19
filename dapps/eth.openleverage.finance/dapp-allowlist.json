@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Openleverage",
+  "domain": "eth.openleverage.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xa6c4bb39f031cc74d4bd005a764e152970762561"
+      }
+    ]
+  }
+}

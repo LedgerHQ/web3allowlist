@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Betswirl",
+  "domain": "app.betswirl.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x31edcd915e695adaf782c482b9816613b347ac8c"
+      }
+    ]
+  }
+}

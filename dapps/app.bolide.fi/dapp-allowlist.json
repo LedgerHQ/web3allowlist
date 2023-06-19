@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bolide",
+  "domain": "app.bolide.fi",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xf1f25a26499b023200b3f9a30a8ecee87b031ee1"
+      }
+    ]
+  }
+}

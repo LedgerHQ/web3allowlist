@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Notional",
+  "domain": "notional.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x1344a36a1b56144c3bc62e7757377d288fde0369"
+      }
+    ]
+  }
+}

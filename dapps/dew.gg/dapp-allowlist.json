@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dew",
+  "domain": "dew.gg",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x5e06c349a4a1b8dde8da31e0f167d1cb1d99967c"
+      }
+    ]
+  }
+}

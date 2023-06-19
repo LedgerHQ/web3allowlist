@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cryptomultisender",
+  "domain": "cryptomultisender.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xb8615ad742c604e2920a82fdfcdd6cd93c56b4b7"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xbbba5ba03d948d0a4cc010ca03d3b6e1b14f7098"
+      }
+    ]
+  }
+}

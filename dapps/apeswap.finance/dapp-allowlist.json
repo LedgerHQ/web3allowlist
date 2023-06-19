@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Apeswap",
+  "domain": "apeswap.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xcf0febd3f17cef5b47b0cd257acf6025c5bff3b7"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x5f509a3c3f16df2fba7bf84dee1efbce6bb85587"
+      }
+    ]
+  }
+}

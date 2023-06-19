@@ -23,6 +23,20 @@
       {
         "address": "0xb8901acb165ed027e32754e0ffe830802919727f"
       }
+    ],
+    "gnosis": [
+      {
+        "address": "0x49094a1b3463c4e2e82ca41b8e6a023bdd6e222f"
+      },
+      {
+        "address": "0x6c928f435d1f3329babb42d69ccf043e3900ecf1"
+      },
+      {
+        "address": "0x76b22b8c1079a44f1211d867d68b1eda76a635a7"
+      },
+      {
+        "address": "0x03d7f750777ec48d39d080b020d83eb2cb4e3547"
+      }
     ]
   }
 }

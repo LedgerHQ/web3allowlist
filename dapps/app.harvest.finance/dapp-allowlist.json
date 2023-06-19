@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Harvest",
+  "domain": "app.harvest.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x7fb69e8fb1525ceec03783ffd8a317bafbdfd394"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x919df3adbf5cfc9fcfd43198edfe5aa5561cb456"
+      }
+    ]
+  }
+}

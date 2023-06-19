@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Superfluid",
+  "domain": "app.superfluid.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xc22bea0be9872d8b7b3933cec70ece4d53a900da"
+      }
+    ]
+  }
+}

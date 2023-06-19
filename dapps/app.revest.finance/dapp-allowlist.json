@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Revest",
+  "domain": "app.revest.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x9f551f75db1c301236496a2b4f7cecb2d1b2b242"
+      }
+    ]
+  }
+}

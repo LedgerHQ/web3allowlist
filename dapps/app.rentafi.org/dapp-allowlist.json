@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Rentafi",
+  "domain": "app.rentafi.org",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x651647ee8bc055e950241cf112fea964a0000827"
+      }
+    ]
+  }
+}

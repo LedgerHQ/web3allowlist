@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Slingshot",
+  "domain": "app.slingshot.finance",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x07e56b727e0eacfa53823977599905024c2de4f0"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x5e2361cd711de7efe2a85045b643271a64262d40"
+      },
+      {
+        "address": "0xa46fd59672434d1917972f1469565baeb57ed204"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x224b239b8bb896f125bd77eb334e302a318d9e33"
+      }
+    ]
+  }
+}

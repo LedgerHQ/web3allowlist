@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Pinksale",
+  "domain": "pinksale.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x5d00661ea3c9b8f095520573b9b940b6febcfd8b"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xd2a52f45c74b358abe1428bc43f0ce9ddf130780"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xb803b0e5e7457b135085e896fd7a3398b266cd43"
+      }
+    ]
+  }
+}

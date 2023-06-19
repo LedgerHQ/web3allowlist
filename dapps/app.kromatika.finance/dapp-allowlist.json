@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Kromatika",
+  "domain": "app.kromatika.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xd1fdf0144be118c30a53e1d08cc1e61d600e508e"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x03f490ae5b59e428e6692059d0dca1b87ed42ae1"
+      }
+    ]
+  }
+}

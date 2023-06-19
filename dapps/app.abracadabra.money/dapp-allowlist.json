@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Abracadabra",
+  "domain": "app.abracadabra.money",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xd96f48665a1410c0cd669a88898eca36b9fc2cce"
+      }
+    ]
+  }
+}

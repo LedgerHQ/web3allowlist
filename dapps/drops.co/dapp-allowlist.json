@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Drops",
+  "domain": "drops.co",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x0a1ef7fed1b691253f9367daf682ba08a9d2fd9c"
+      }
+    ]
+  }
+}

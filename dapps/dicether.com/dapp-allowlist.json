@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dicether",
+  "domain": "dicether.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xa867bf8447ec6f614ea996057e3d769b76a8aa0e"
+      }
+    ]
+  }
+}

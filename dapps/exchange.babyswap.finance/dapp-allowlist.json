@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Babyswap",
+  "domain": "exchange.babyswap.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x8317c460c22a9958c27b4b6403b98d2ef4e2ad32"
+      }
+    ]
+  }
+}

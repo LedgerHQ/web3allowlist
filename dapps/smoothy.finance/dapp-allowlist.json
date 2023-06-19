@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Smoothy",
+  "domain": "smoothy.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xe5859f4efc09027a9b718781dcb2c6910cac6e91"
+      }
+    ]
+  }
+}

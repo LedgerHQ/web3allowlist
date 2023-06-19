@@ -7,6 +7,25 @@
     "ethereum": [
       {
         "address": "0x4315f344a905dc21a08189a117efd6e1fca37d57"
+      },
+      {
+        "address": "0x7268bcf71afe37818cb2deb609f62db164131090"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xe50c544189a9528204ca39b987b722e724e25834"
+      },
+      {
+        "address": "0x7d26f09d4e2d032efa0729fc31a4c2db8a2394b1"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x62bb13464af3a502aa894890b390c2be68e7ed90"
+      },
+      {
+        "address": "0x0c988b66edef267d04f100a879db86cdb7b9a34f"
       }
     ]
   }

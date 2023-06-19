@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tonpound",
+  "domain": "app.tonpound.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x1775286cbe9db126a95abf52c58a3214fca26803"
+      }
+    ]
+  }
+}

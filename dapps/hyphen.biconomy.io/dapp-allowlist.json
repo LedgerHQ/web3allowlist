@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Biconomy",
+  "domain": "hyphen.biconomy.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x2a5c2568b10a0e826bfa892cf21ba7218310180b"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xebab24f13de55789ec1f3ffe99a285754e15f7b9"
+      }
+    ]
+  }
+}

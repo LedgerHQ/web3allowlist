@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Plexus",
+  "domain": "plexus.app",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xb1b3ab4327020959d1243536cfed69fa21b8c0c6"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xe5f17f9dfb6d229619c9b36df5efe38c439ba509"
+      }
+    ]
+  }
+}

@@ -19,6 +19,11 @@
       {
         "address": "0x1a1ec25dc08e98e5e93f1104b5e5cdd298707d31"
       }
+    ],
+    "bsc": [
+      {
+        "address": "0x1a1ec25dc08e98e5e93f1104b5e5cdd298707d31"
+      }
     ]
   }
 }

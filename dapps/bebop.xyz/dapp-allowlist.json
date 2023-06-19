@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bebop",
+  "domain": "bebop.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xbeb09beb09e95e6febf0d6eeb1d0d46d1013cc3c"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      }
+    ]
+  }
+}

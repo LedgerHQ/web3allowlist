@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Rocketpool",
+  "domain": "stake.rocketpool.net",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xdd3f50f8a6cafbe9b31a427582963f465e745af8"
+      }
+    ]
+  }
+}

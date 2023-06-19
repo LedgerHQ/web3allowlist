@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Pandora",
+  "domain": "pandora.digital",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xf7e5756da9e2e8c6f2254eaa20f7a4e7e09646e2"
+      }
+    ]
+  }
+}

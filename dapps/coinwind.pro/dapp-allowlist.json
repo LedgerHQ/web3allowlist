@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Coinwind",
+  "domain": "coinwind.pro",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x274c51cd70ba046fca5b11cf9439ea5ece60fec3"
+      }
+    ]
+  }
+}

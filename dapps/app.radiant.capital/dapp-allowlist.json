@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Radiant",
+  "domain": "app.radiant.capital",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x8a226b70dceb9656eb75545424400128fcef9d9e"
+      }
+    ]
+  }
+}

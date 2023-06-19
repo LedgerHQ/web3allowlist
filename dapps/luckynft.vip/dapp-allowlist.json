@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Luckynft",
+  "domain": "luckynft.vip",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x2d052e5dc5a4b515f1794e91af3fef65cdc8eeb7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eth",
+  "domain": "honeyswap.1hive.eth.limo",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x1c232f01118cb8b424793ae03f870aa7d0ac7f77"
+      }
+    ]
+  }
+}

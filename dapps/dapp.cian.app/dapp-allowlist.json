@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cian",
+  "domain": "dapp.cian.app",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x1cb9cf5439dced63d8f5b7f1a5bf9834d8076a9a"
+      }
+    ]
+  }
+}

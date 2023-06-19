@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Croissant",
+  "domain": "poly.croissant.games",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x98acc6da534ec99d1e7b065f045eaafab4467dea"
+      }
+    ]
+  }
+}

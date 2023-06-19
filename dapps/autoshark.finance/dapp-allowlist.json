@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Autoshark",
+  "domain": "autoshark.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xb0eeb0632bab15f120735e5838908378936bd484"
+      }
+    ]
+  }
+}

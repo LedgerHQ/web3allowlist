@@ -1,15 +1,18 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Figures",
-  "domain" : "figures.art",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Figures",
+  "domain": "figures.art",
+  "chains": {
+    "ethereum": [
       {
         "address": "0x3A3548e060Be10c2614d0a4Cb0c03CC9093fD799"
       },
       {
         "address": "0xBc9003C48b5693DE60a061B9e6a887B31e7B2B3F"
+      },
+      {
+        "address": "0x3a3548e060be10c2614d0a4cb0c03cc9093fd799"
       }
     ]
   }

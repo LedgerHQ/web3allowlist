@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Across",
+  "domain": "v2.across.to",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x5c7bcd6e7de5423a257d81b442095a1a6ced35c5"
+      },
+      {
+        "address": "0xc186fa914353c44b2e33ebe05f21846f1048beda"
+      }
+    ]
+  }
+}

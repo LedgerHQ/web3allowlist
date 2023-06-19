@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Onx",
+  "domain": "app.onx.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x72c40ef11c61f91d579a67e653b9ed5197bc9d46"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ottopia",
+  "domain": "ottopia.app",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xc1b43121e0946adef2ad169d6cb994064e275085"
+      }
+    ]
+  }
+}

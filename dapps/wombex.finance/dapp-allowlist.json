@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Wombex",
+  "domain": "wombex.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xf1fe1a695b4c3e2297a37523e3675603c0892b00"
+      }
+    ]
+  }
+}

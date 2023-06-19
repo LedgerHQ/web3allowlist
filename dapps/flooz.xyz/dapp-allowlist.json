@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Flooz",
+  "domain": "flooz.xyz",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x7bd336d7d5172939961f6693ca5ed58ccab37f51"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Burgerswap",
+  "domain": "burgerswap.org",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xe08ab553720a46c071475838a6cc8d98d1afb891"
+      }
+    ]
+  }
+}

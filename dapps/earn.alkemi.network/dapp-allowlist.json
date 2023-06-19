@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Alkemi",
+  "domain": "earn.alkemi.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x4822d9172e5b76b9db37b75f5552f9988f98a888"
+      }
+    ]
+  }
+}

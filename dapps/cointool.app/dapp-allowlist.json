@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cointool",
+  "domain": "cointool.app",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x552595e6b6a82b1b8d420d8f6b245165555b9fd4"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xcec8f07014d889442d7cf3b477b8f72f8179ea09"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xc82ba627ba29fc4da2d3343e2f0a2d40119c2885"
+      }
+    ]
+  }
+}

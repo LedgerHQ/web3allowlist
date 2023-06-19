@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zharta",
+  "domain": "app.zharta.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x6474ab1b56b47bc26ba8cb471d566b8cc528f308"
+      }
+    ]
+  }
+}

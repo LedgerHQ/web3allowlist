@@ -1,7 +1,8 @@
-import $ivy.`io.circe::circe-generic:0.14.3`
-import $ivy.`io.circe::circe-parser:0.14.3`
-import $ivy.`com.lihaoyi::os-lib:0.9.0`
-import $ivy.`com.lihaoyi::ammonite-ops:2.4.0`
+//> using scala "3.3.0"
+//> using lib io.circe::circe-generic:0.14.3
+//> using lib io.circe::circe-parser:0.14.3
+//> using lib com.lihaoyi::os-lib:0.9.0
+//> using lib com.lihaoyi::ammonite-ops:2.4.0
 
 import ammonite.ops._
 import io.circe.jawn._

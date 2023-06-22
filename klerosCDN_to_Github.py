@@ -1,11 +1,11 @@
-# Use "git reset --hard HEAD && git clean -fd" to reset the directory back to the original state if it's needed to repeat a run
-#
+# Use "git reset --hard HEAD && git clean -fd" to reset the directory back
+# to the original state if it's needed to repeat a run
 import json
 import os
 import re
 from datetime import datetime
-import requests
 
+import requests
 
 # Helper function to deduce the website name from the domain
 
@@ -39,7 +39,10 @@ def send_graphql_query(url, query):
 url = "https://api.thegraph.com/subgraphs/name/kleros/legacy-curate-xdai"
 query = """
 {
-  litems(first:1000 where:{registry:"0x957a53a994860be4750810131d9c876b2f52d6e1", status_in:[Registered], disputed:false}) {
+  litems(first:1000 where:{
+    registry:"0x957a53a994860be4750810131d9c876b2f52d6e1",
+    status_in:[Registered],
+    disputed:false}) {
     itemID
     key0
     key1
@@ -52,9 +55,13 @@ response_data = send_graphql_query(url, query)
 
 query_results = response_data["data"]["litems"]
 
-# Step 2: Extract the key1 (domain) and key0 (EVM address) values from the query results
+# Step 2: Extract the key1 (domain) and key0 (EVM address)
+#  values from the query results
 domain_address_map = {}
-chain_id_map = {"1": "ethereum", "137": "polygon", "100": "gnosis", "56": "bsc"}
+chain_id_map = {"1": "ethereum", 
+                "137": "polygon", 
+                "100": "gnosis", 
+                "56": "bsc"}
 
 # For logging purposes
 added_domains = set()
@@ -89,7 +96,8 @@ for item in query_results:
         print(item)
         print(e)
 
-# Steps 3-5: Check the 'dapps' directory, update or create the dapp-allowlist.json files
+# Steps 3-5: Check the 'dapps' directory, update
+# or create the dapp-allowlist.json files
 dapps_directory = "dapps"
 log_entries = []
 

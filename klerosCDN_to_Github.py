@@ -13,31 +13,32 @@ import re
 
 def deduce_website_name(domain):
     # Remove subdomain, if any
-    domain_parts = domain.split('.')
+    domain_parts = domain.split(".")
     if len(domain_parts) > 2:
-        domain = '.'.join(domain_parts[-2:])
+        domain = ".".join(domain_parts[-2:])
 
     # Remove TLD (e.g., .com, .io, .fi, .org) using regex
-    name_without_tld = re.sub(r'\.[^.]*$', '', domain)
+    name_without_tld = re.sub(r"\.[^.]*$", "", domain)
 
     # Capitalize the first letter of the website name
     website_name = name_without_tld.capitalize()
 
     return website_name
 
+
 # Helper function to send the GraphQL query
 
 
 def send_graphql_query(url, query):
-    headers = {'Content-Type': 'application/json'}
-    data = json.dumps({'query': query})
+    headers = {"Content-Type": "application/json"}
+    data = json.dumps({"query": query})
     response = requests.post(url, headers=headers, data=data)
     return response.json()
 
 
 # Step 1: Poll the endpoint and store the results
 url = "https://api.thegraph.com/subgraphs/name/kleros/legacy-curate-xdai"
-query = '''
+query = """
 {
   litems(first:1000 where:{registry:"0x957a53a994860be4750810131d9c876b2f52d6e1", status_in:[Registered], disputed:false}) {
     itemID
@@ -46,16 +47,15 @@ query = '''
     key2
   }
 }
-'''
+"""
 
 response_data = send_graphql_query(url, query)
 
-query_results = response_data['data']['litems']
+query_results = response_data["data"]["litems"]
 
 # Step 2: Extract the key1 (domain) and key0 (EVM address) values from the query results
 domain_address_map = {}
-chain_id_map = {'1': 'ethereum', '137': 'polygon',
-                '100': 'gnosis', '56': 'bsc'}
+chain_id_map = {"1": "ethereum", "137": "polygon", "100": "gnosis", "56": "bsc"}
 
 # For logging purposes
 added_domains = set()
@@ -64,12 +64,12 @@ added_contracts = set()
 
 for item in query_results:
     try:
-        domain = item['key1'].strip()
+        domain = item["key1"].strip()
         # remove www. subdomain as per Ledger's requirements
-        if domain.startswith('www.'):
+        if domain.startswith("www."):
             domain = domain[4:]
 
-        eip_155_info = item['key0'].split(':')
+        eip_155_info = item["key0"].split(":")
         chain_id = eip_155_info[1]
         address = eip_155_info[2].lower()
 
@@ -96,7 +96,6 @@ log_entries = []
 
 
 for domain, chains in domain_address_map.items():
-
     domain_directory = os.path.join(dapps_directory, domain)
     allowlist_file_path = os.path.join(domain_directory, "dapp-allowlist.json")
 
@@ -105,8 +104,7 @@ for domain, chains in domain_address_map.items():
 
         added_domains.add(domain)
 
-    file_action = "Appended" if os.path.exists(
-        allowlist_file_path) else "New file"
+    file_action = "Appended" if os.path.exists(allowlist_file_path) else "New file"
 
     if os.path.exists(allowlist_file_path):
         with open(allowlist_file_path, "r") as allowlist_file:
@@ -117,7 +115,7 @@ for domain, chains in domain_address_map.items():
             "$schema": "../dapp-allowlist.schema.json",
             "name": deduce_website_name(domain),
             "domain": domain,
-            "chains": {}
+            "chains": {},
         }
 
     for chain, addresses in chains.items():
@@ -125,16 +123,22 @@ for domain, chains in domain_address_map.items():
             allowlist_data["chains"][chain] = []
 
         for address in addresses:
-            if not any(existing_addr["address"] == address for existing_addr in allowlist_data["chains"][chain]):
+            if not any(
+                existing_addr["address"] == address
+                for existing_addr in allowlist_data["chains"][chain]
+            ):
                 allowlist_data["chains"][chain].append({"address": address})
 
-                if domain not in added_domains:  # appending only if it's not a new domain
+                if (
+                    domain not in added_domains
+                ):  # appending only if it's not a new domain
                     updated_domains.add(domain)
 
                 added_contracts.add(f"{domain}:{chain}:{address}")
 
                 log_entries.append(
-                    f"{allowlist_file_path} ->> {address} ({chain}) ({file_action})")
+                    f"{allowlist_file_path} ->> {address} ({chain}) ({file_action})"
+                )
 
     with open(allowlist_file_path, "w") as allowlist_file:
         json.dump(allowlist_data, allowlist_file, indent=2)

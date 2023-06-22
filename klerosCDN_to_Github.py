@@ -58,10 +58,7 @@ query_results = response_data["data"]["litems"]
 # Step 2: Extract the key1 (domain) and key0 (EVM address)
 #  values from the query results
 domain_address_map = {}
-chain_id_map = {"1": "ethereum", 
-                "137": "polygon", 
-                "100": "gnosis", 
-                "56": "bsc"}
+chain_id_map = {"1": "ethereum", "137": "polygon", "100": "gnosis", "56": "bsc"}
 
 # For logging purposes
 added_domains = set()
@@ -175,7 +172,10 @@ summary = f"""## Changes
   - updated : ...
 
 ## Reason
-Adding {len(added_domains)} new domains and {len(added_contracts)} new dapp->chain->contract entries from the Ledger CDN registry on Kleros Curate (https://curate.kleros.io/tcr/100/0x957a53a994860be4750810131d9c876b2f52d6e1?registered=true) up till {current_datetime} UTC.
+Adding {len(added_domains)} new domains and {len(added_contracts)} new \
+    dapp->chain->contract entries from the Ledger CDN registry on \
+        Kleros Curate (https://curate.kleros.io/tcr/100/0x957a53a994860be4750810131d9c876b2f52d6e1?registered=true) \
+            up till {current_datetime} UTC.
 """
 
 with open("PR_comments.txt", "w") as log_file:

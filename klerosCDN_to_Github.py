@@ -1,12 +1,11 @@
 # Use "git reset --hard HEAD && git clean -fd" to reset the directory back to the original state if it's needed to repeat a run
 #
-
-from datetime import datetime
-import os
 import json
+import os
+import re
+from datetime import datetime
 import requests
 
-import re
 
 # Helper function to deduce the website name from the domain
 

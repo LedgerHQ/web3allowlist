@@ -4,3 +4,5 @@ scripts/.scala-build/
 .metals/*
 .vscode/*
 .github/scripts/.bsp
+Kleros_update_logs.txt
+PR_comments.txt

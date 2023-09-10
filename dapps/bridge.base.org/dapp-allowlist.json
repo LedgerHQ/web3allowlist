@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Base",
+  "domain": "bridge.base.org",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x49048044d57e1c92a77f79988d21fa8faf74e97e"
+      }
+    ]
+  }
+}

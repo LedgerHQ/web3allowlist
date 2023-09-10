@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Starknet",
+  "domain": "starkgate.starknet.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xae0ee0a63a2ce6baeeffe56e7714fb4efe48d419"
+      }
+    ]
+  }
+}

@@ -36,7 +36,7 @@ jobs:
         #
         run: |
           perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' .github/scripts/validate-and-merge-cli.scala
-          scala-cli --power config github.token "env:GITHUB_TOKEN"
+            scala-cli --power config repositories.credentials maven.pkg.github.com/LedgerHQ value:PrivateToken env:GITHUB_TOKEN
           scala-cli .github/scripts/validate-and-merge-cli.scala --main-class main -- all-dapp-allowlist.json
 
       - name: Commit and push merged list

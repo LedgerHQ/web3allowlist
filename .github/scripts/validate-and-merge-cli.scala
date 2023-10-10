@@ -1,6 +1,6 @@
 // Description: Validate and merge the CLI
 //> using scala "3.3.0"
-//> using repository "https://maven.pkg.github.com/LedgerHQ"
+//> using repository "https://maven.pkg.github.com/LedgerHQ/backend-commons"
 //> using lib "io.circe::circe-generic:0.14.3"
 //> using lib "io.circe::circe-parser:0.14.3"
 //> using lib "com.lihaoyi::os-lib:0.9.0"

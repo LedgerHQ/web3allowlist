@@ -58,7 +58,26 @@ query_results = response_data["data"]["litems"]
 # Step 2: Extract the key1 (domain) and key0 (EVM address)
 #  values from the query results
 domain_address_map = {}
-chain_id_map = {"1": "ethereum", "137": "polygon", "100": "gnosis", "56": "bsc"}
+chain_id_map = {
+    "1": "ethereum",
+    "56": "bsc",
+    "100": "gnosis",
+    "137": "polygon",
+    "8453": "base",
+    "42161": "arbitrum",
+    "1284": "moonbeam",
+    "59144": "linea",
+    "10": "optimism",
+    "250": "fantom",
+    "1285": "moonriver",
+    "43114": "avalanche",
+    "25": "cronos",
+    "199": "bittorrent",
+    "1101": "polygonzkevm",
+    "1111": "wemix",
+    "534352": "scroll",
+    "42220": "celo",
+}
 
 # For logging purposes
 added_domains = set()

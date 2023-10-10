@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Linea",
+  "domain": "bridge.linea.build",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xd19d4b5d358258f05d7b411e21a1460d11b0876f"
+      }
+    ]
+  }
+}

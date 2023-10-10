@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Defillama",
+  "domain": "swap.defillama.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0xb31d1b1ea48ce4bf10ed697d44b747287e785ad4"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0xf6a94dfd0e6ea9ddfdffe4762ad4236576136613"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
+      },
+      {
+        "address": "0x40a50cf069e992aa4536211b23f286ef88752187"
+      }
+    ]
+  }
+}

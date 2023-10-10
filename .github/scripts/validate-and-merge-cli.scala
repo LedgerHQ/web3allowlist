@@ -4,7 +4,7 @@
 //> using lib "io.circe::circe-generic:0.14.3"
 //> using lib "io.circe::circe-parser:0.14.3"
 //> using lib "com.lihaoyi::os-lib:0.9.0"
-//> using lib "co.ledger::backend-commons-circe:1.7.1"
+//> using lib "co.ledger::backend-commons-circe:3.1.1"
 
 import os.*
 import language.deprecated.symbolLiterals

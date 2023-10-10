@@ -6,3 +6,4 @@ scripts/.scala-build/
 .github/scripts/.bsp
 Kleros_update_logs.txt
 PR_comments.txt
+.bsp

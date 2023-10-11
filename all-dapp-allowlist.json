@@ -9506,6 +9506,15 @@
         ]
       },
       {
+        "name" : "Base",
+        "domain" : "bridge.base.org",
+        "contracts" : [
+          {
+            "address" : "0x49048044d57e1c92a77f79988d21fa8faf74e97e"
+          }
+        ]
+      },
+      {
         "name" : "Bebop",
         "domain" : "bebop.xyz",
         "contracts" : [
@@ -10079,6 +10088,21 @@
         ]
       },
       {
+        "name" : "Defillama",
+        "domain" : "swap.defillama.com",
+        "contracts" : [
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+          },
+          {
+            "address" : "0xf6a94dfd0e6ea9ddfdffe4762ad4236576136613"
+          }
+        ]
+      },
+      {
         "name" : "Defiplaza",
         "domain" : "app.defiplaza.net",
         "contracts" : [
@@ -10417,6 +10441,15 @@
         "contracts" : [
           {
             "address" : "0xa1207f3bba224e2c9c3c6d5af63d0eb1582ce587"
+          }
+        ]
+      },
+      {
+        "name" : "Eigenlayer",
+        "domain" : "mint.eigenlayer.xyz",
+        "contracts" : [
+          {
+            "address" : "0x8d0802559775c70fb505f22988a4fd4a4f6d3b62"
           }
         ]
       },
@@ -11158,6 +11191,15 @@
           },
           {
             "address" : "0x007132343cA619C5449297507B26c3f85e80D1b1"
+          }
+        ]
+      },
+      {
+        "name" : "Linea",
+        "domain" : "bridge.linea.build",
+        "contracts" : [
+          {
+            "address" : "0xd19d4b5d358258f05d7b411e21a1460d11b0876f"
           }
         ]
       },
@@ -12427,6 +12469,15 @@
         "contracts" : [
           {
             "address" : "0x150f94b44927f078737562f0fcf3c95c01cc2376"
+          }
+        ]
+      },
+      {
+        "name" : "Starknet",
+        "domain" : "starkgate.starknet.io",
+        "contracts" : [
+          {
+            "address" : "0xae0ee0a63a2ce6baeeffe56e7714fb4efe48d419"
           }
         ]
       },
@@ -21731,6 +21782,15 @@
         ]
       },
       {
+        "name" : "Thegraph",
+        "domain" : "thegraph.com",
+        "contracts" : [
+          {
+            "address" : "0xf55041e37e12cd407ad00ce2910b8269b01263b9"
+          }
+        ]
+      },
+      {
         "name" : "Tokemak",
         "domain" : "app.tokemak.xyz",
         "contracts" : [
@@ -22685,6 +22745,15 @@
         ]
       },
       {
+        "name" : "Zksync",
+        "domain" : "portal.zksync.io",
+        "contracts" : [
+          {
+            "address" : "0x32400084c286cf3e17e7b677ea9583e60a000324"
+          }
+        ]
+      },
+      {
         "name" : "Zora",
         "domain" : "zora.co",
         "contracts" : [
@@ -22699,6 +22768,9 @@
           },
           {
             "address" : "0x9641169A1374b77E052E1001c5a096C29Cd67d35"
+          },
+          {
+            "address" : "0x1a0ad011913a150f69f6a19df447a0cfd9551054"
           }
         ]
       },
@@ -22768,6 +22840,18 @@
         ]
       },
       {
+        "name" : "Defillama",
+        "domain" : "swap.defillama.com",
+        "contracts" : [
+          {
+            "address" : "0x1111111254fb6c44bac0bed2854e76f90643097d"
+          },
+          {
+            "address" : "0x40a50cf069e992aa4536211b23f286ef88752187"
+          }
+        ]
+      },
+      {
         "name" : "Eth",
         "domain" : "honeyswap.1hive.eth.limo",
         "contracts" : [
@@ -22830,6 +22914,12 @@
           },
           {
             "address" : "0x957a53a994860be4750810131d9c876b2f52d6e1"
+          },
+          {
+            "address" : "0x70533554fe5c17caf77fe530f77eab933b92af60"
+          },
+          {
+            "address" : "0x66260c69d03837016d88c9877e61e08ef74c59f2"
           }
         ]
       },
@@ -22976,6 +23066,18 @@
         "contracts" : [
           {
             "address" : "0x046b71694b3b659f491247167eda42e0556123cf"
+          }
+        ]
+      },
+      {
+        "name" : "Defillama",
+        "domain" : "swap.defillama.com",
+        "contracts" : [
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          },
+          {
+            "address" : "0xb31d1b1ea48ce4bf10ed697d44b747287e785ad4"
           }
         ]
       },

@@ -96,6 +96,15 @@
         ]
       },
       {
+        "name" : "Bnbchain",
+        "domain" : "opbnb-bridge.bnbchain.org",
+        "contracts" : [
+          {
+            "address" : "0xf05f0e4362859c3331cb9395cbc201e3fa6757ea"
+          }
+        ]
+      },
+      {
         "name" : "Bogged",
         "domain" : "app.bogged.finance",
         "contracts" : [
@@ -168,6 +177,24 @@
         ]
       },
       {
+        "name" : "Defillama",
+        "domain" : "swap.defillama.com",
+        "contracts" : [
+          {
+            "address" : "0x1111111254fb6c44bac0bed2854e76f90643097d"
+          },
+          {
+            "address" : "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          },
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+          }
+        ]
+      },
+      {
         "name" : "Dforce",
         "domain" : "app.dforce.network",
         "contracts" : [
@@ -207,6 +234,33 @@
         ]
       },
       {
+        "name" : "Hashflow",
+        "domain" : "app.hashflow.com",
+        "contracts" : [
+          {
+            "address" : "0x0acffb0fb2cddd9bd35d03d359f3d899e32facc9"
+          }
+        ]
+      },
+      {
+        "name" : "Jumper",
+        "domain" : "jumper.exchange",
+        "contracts" : [
+          {
+            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+          }
+        ]
+      },
+      {
+        "name" : "KyberSwap",
+        "domain" : "kyberswap.com",
+        "contracts" : [
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ]
+      },
+      {
         "name" : "Level",
         "domain" : "app.level.finance",
         "contracts" : [
@@ -215,6 +269,15 @@
           },
           {
             "address" : "0x4a46649ec023df2dcf18ee381281408b3432428b"
+          }
+        ]
+      },
+      {
+        "name" : "Matcha",
+        "domain" : "matcha.xyz",
+        "contracts" : [
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
           }
         ]
       },
@@ -260,6 +323,9 @@
         "contracts" : [
           {
             "address" : "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+          },
+          {
+            "address" : "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
           }
         ]
       },
@@ -381,11 +447,32 @@
         ]
       },
       {
+        "name" : "Sushi",
+        "domain" : "sushi.com",
+        "contracts" : [
+          {
+            "address" : "0xd36990d74b947ec4ad9f52fe3d49d14addb51e44"
+          }
+        ]
+      },
+      {
         "name" : "Thena",
         "domain" : "thena.fi",
         "contracts" : [
           {
             "address" : "0xd4ae6eca985340dd434d38f470accce4dc78d109"
+          },
+          {
+            "address" : "0x327dd3208f0bcf590a66110acb6e5e6941a4efa0"
+          },
+          {
+            "address" : "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          },
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          },
+          {
+            "address" : "0x3a1d0952809f4948d15ebce8d345962a282c4fcb"
           }
         ]
       },
@@ -425,6 +512,9 @@
           },
           {
             "address" : "0x7b8a01b39d58278b5de7e48c8449c9f4f5170613"
+          },
+          {
+            "address" : "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
           }
         ]
       },
@@ -434,6 +524,12 @@
         "contracts" : [
           {
             "address" : "0x17f4a746a7bf05c3e24a2bb7d7d25e4d3e5bbe3e"
+          },
+          {
+            "address" : "0x8938e6da30b59c1e27d5f70a94688a89f7c815a4"
+          },
+          {
+            "address" : "0xa07c5b74c9b40447a954e1466938b865b6bbea36"
           }
         ]
       },
@@ -482,6 +578,30 @@
           },
           {
             "address" : "0x7d26f09d4e2d032efa0729fc31a4c2db8a2394b1"
+          }
+        ]
+      },
+      {
+        "name" : "Zapper",
+        "domain" : "zapper.xyz",
+        "contracts" : [
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          },
+          {
+            "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          }
+        ]
+      },
+      {
+        "name" : "Zkbridge",
+        "domain" : "zkbridge.com",
+        "contracts" : [
+          {
+            "address" : "0xc4742f0628a0e9961cc64d85854aa053bd54829d"
+          },
+          {
+            "address" : "0x679ba62df3b68f84bc86c5c7fec72f4aa58133a9"
           }
         ]
       }
@@ -1090,6 +1210,9 @@
         "contracts" : [
           {
             "address" : "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f"
+          },
+          {
+            "address" : "0xc4448b71118c9071bcb9734a0eac55d18a153949"
           }
         ]
       },
@@ -9569,6 +9692,15 @@
         ]
       },
       {
+        "name" : "Boba",
+        "domain" : "gateway.boba.network",
+        "contracts" : [
+          {
+            "address" : "0xdc1664458d2f0b6090bea60a8793a4e66c2f1c00"
+          }
+        ]
+      },
+      {
         "name" : "Brewlabs",
         "domain" : "earn.brewlabs.info",
         "contracts" : [
@@ -9948,6 +10080,15 @@
       },
       {
         "name" : "Curve",
+        "domain" : "crvusd.curve.fi",
+        "contracts" : [
+          {
+            "address" : "0xa920de414ea4ab66b97da1bfe9e6eca7d4219635"
+          }
+        ]
+      },
+      {
+        "name" : "Curve",
         "domain" : "curve.fi",
         "contracts" : [
           {
@@ -10066,6 +10207,18 @@
           },
           {
             "address" : "0x99a58482bd75cbab83b27ec03ca68ff489b5788f"
+          },
+          {
+            "address" : "0x7f86bf177dd4f3494b841a37e810a34dd56c829b"
+          },
+          {
+            "address" : "0x3993d34e7e99abf6b6f367309975d1360222d446"
+          },
+          {
+            "address" : "0x4ebdf703948ddcea3b11f675b4d1fba9d2414a14"
+          },
+          {
+            "address" : "0xdc24316b9ae028f1497c275eb9192a3ea0f67022"
           }
         ]
       },
@@ -10099,6 +10252,9 @@
           },
           {
             "address" : "0xf6a94dfd0e6ea9ddfdffe4762ad4236576136613"
+          },
+          {
+            "address" : "0x1111111254fb6c44bac0bed2854e76f90643097d"
           }
         ]
       },
@@ -10446,6 +10602,15 @@
       },
       {
         "name" : "Eigenlayer",
+        "domain" : "app.eigenlayer.xyz",
+        "contracts" : [
+          {
+            "address" : "0x91e677b07f7af907ec9a428aafa9fc14a0d3a338"
+          }
+        ]
+      },
+      {
+        "name" : "Eigenlayer",
         "domain" : "mint.eigenlayer.xyz",
         "contracts" : [
           {
@@ -10684,6 +10849,9 @@
         "contracts" : [
           {
             "address" : "0x25e9aca5951262241290841b6f863d59d37dc4f0"
+          },
+          {
+            "address" : "0xbafa44efe7901e04e39dad13167d089c559c1138"
           }
         ]
       },
@@ -10727,11 +10895,29 @@
         ]
       },
       {
+        "name" : "Gnosischain",
+        "domain" : "omnibridge.gnosischain.com",
+        "contracts" : [
+          {
+            "address" : "0xa6439ca0fcba1d0f80df0be6a17220fed9c9038a"
+          }
+        ]
+      },
+      {
         "name" : "Harvest",
         "domain" : "app.harvest.finance",
         "contracts" : [
           {
             "address" : "0x7fb69e8fb1525ceec03783ffd8a317bafbdfd394"
+          }
+        ]
+      },
+      {
+        "name" : "Hashflow",
+        "domain" : "app.hashflow.com",
+        "contracts" : [
+          {
+            "address" : "0xf6a94dfd0e6ea9ddfdffe4762ad4236576136613"
           }
         ]
       },
@@ -11393,6 +11579,24 @@
         ]
       },
       {
+        "name" : "Mantle",
+        "domain" : "bridge.mantle.xyz",
+        "contracts" : [
+          {
+            "address" : "0x95fc37a27a2f68e3a647cdc081f0a89bb47c3012"
+          }
+        ]
+      },
+      {
+        "name" : "Matcha",
+        "domain" : "matcha.xyz",
+        "contracts" : [
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ]
+      },
+      {
         "name" : "Metamask",
         "domain" : "portfolio.metamask.io",
         "contracts" : [
@@ -11714,6 +11918,15 @@
         ]
       },
       {
+        "name" : "Okx",
+        "domain" : "okx.com",
+        "contracts" : [
+          {
+            "address" : "0x3b3ae790df4f312e745d270119c6052904fb6790"
+          }
+        ]
+      },
+      {
         "name" : "Onx",
         "domain" : "app.onx.finance",
         "contracts" : [
@@ -11803,6 +12016,9 @@
           },
           {
             "address" : "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+          },
+          {
+            "address" : "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
           }
         ]
       },
@@ -12172,6 +12388,9 @@
           },
           {
             "address" : "0xa0c68c638235ee32657e8f720a23cec1bfc77c77"
+          },
+          {
+            "address" : "0x2a3dd3eb832af982ec71669e178424b10dca2ede"
           }
         ]
       },
@@ -12214,6 +12433,15 @@
         "contracts" : [
           {
             "address" : "0xc5e9ddebb09cd64dfacab4011a0d5cedaf7c9bdb"
+          }
+        ]
+      },
+      {
+        "name" : "Publicgoods",
+        "domain" : "bridge.publicgoods.network",
+        "contracts" : [
+          {
+            "address" : "0xd0204b9527c1ba7bd765fa5ccd9355d38338272b"
           }
         ]
       },
@@ -12283,6 +12511,15 @@
         "contracts" : [
           {
             "address" : "0x651647ee8bc055e950241cf112fea964a0000827"
+          }
+        ]
+      },
+      {
+        "name" : "Revert",
+        "domain" : "revert.finance",
+        "contracts" : [
+          {
+            "address" : "0xae8999da4d81cb81b42288b12176fe20d7ead578"
           }
         ]
       },
@@ -12415,6 +12652,9 @@
           },
           {
             "address" : "0xa46fd59672434d1917972f1469565baeb57ed204"
+          },
+          {
+            "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
           }
         ]
       },
@@ -21743,6 +21983,15 @@
         ]
       },
       {
+        "name" : "Swellnetwork",
+        "domain" : "app.swellnetwork.io",
+        "contracts" : [
+          {
+            "address" : "0xf951e335afb289353dc249e82926178eac7ded78"
+          }
+        ]
+      },
+      {
         "name" : "SWFT AllChain Bridge",
         "domain" : "allchainbridge.com",
         "contracts" : [
@@ -22000,6 +22249,9 @@
           },
           {
             "address" : "0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
+          },
+          {
+            "address" : "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
           }
         ]
       },
@@ -22598,6 +22850,18 @@
         ]
       },
       {
+        "name" : "Zapper",
+        "domain" : "zapper.xyz",
+        "contracts" : [
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          },
+          {
+            "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          }
+        ]
+      },
+      {
         "name" : "Zerion",
         "domain" : "app.zerion.io",
         "contracts" : [
@@ -22745,6 +23009,24 @@
         ]
       },
       {
+        "name" : "Zkbridge",
+        "domain" : "zkbridge.com",
+        "contracts" : [
+          {
+            "address" : "0xf69aa09bafd475c892617344591cbb493b7f0a2e"
+          }
+        ]
+      },
+      {
+        "name" : "Zksync",
+        "domain" : "lite.zksync.io",
+        "contracts" : [
+          {
+            "address" : "0xabea9132b05a70803a4e85094fd0e1800777fbef"
+          }
+        ]
+      },
+      {
         "name" : "Zksync",
         "domain" : "portal.zksync.io",
         "contracts" : [
@@ -22805,6 +23087,15 @@
       },
       {
         "name" : "Agave",
+        "domain" : "agave.finance",
+        "contracts" : [
+          {
+            "address" : "0x36a644cc38ae257136eeca5919800f364d73fefc"
+          }
+        ]
+      },
+      {
+        "name" : "Agave",
         "domain" : "app.agave.finance",
         "contracts" : [
           {
@@ -22831,11 +23122,44 @@
         ]
       },
       {
+        "name" : "Bungee",
+        "domain" : "bungee.exchange",
+        "contracts" : [
+          {
+            "address" : "0xbe51d38547992293c89cc589105784ab60b004a9"
+          }
+        ]
+      },
+      {
         "name" : "Connext",
         "domain" : "bridge.connext.network",
         "contracts" : [
           {
             "address" : "0x5bb83e95f63217cda6ae3d181ba580ef377d2109"
+          }
+        ]
+      },
+      {
+        "name" : "Cow",
+        "domain" : "swap.cow.fi",
+        "contracts" : [
+          {
+            "address" : "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+          },
+          {
+            "address" : "0x40a50cf069e992aa4536211b23f286ef88752187"
+          }
+        ]
+      },
+      {
+        "name" : "Curve",
+        "domain" : "curve.fi",
+        "contracts" : [
+          {
+            "address" : "0xe3fff29d4dc930ebb787fecd49ee5963dadf60b6"
+          },
+          {
+            "address" : "0xe6358f6a45b502477e83cc1cda759f540e4459ee"
           }
         ]
       },
@@ -22938,6 +23262,27 @@
         "contracts" : [
           {
             "address" : "0x1e9b24073183d5c6b7ae5fb4b8f0b1dd83fdc77a"
+          },
+          {
+            "address" : "0xbbde1d67297329148fe1ed5e6b00114842728e65"
+          }
+        ]
+      },
+      {
+        "name" : "Swapr",
+        "domain" : "swapr.eth.limo",
+        "contracts" : [
+          {
+            "address" : "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+          },
+          {
+            "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          },
+          {
+            "address" : "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
+          },
+          {
+            "address" : "0xe43e60736b1cb4a75ad25240e2f9a62bff65c0c0"
           }
         ]
       }
@@ -23003,6 +23348,9 @@
         "contracts" : [
           {
             "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          },
+          {
+            "address" : "0xac313d7491910516e06fbfc2a0b5bb49bb072d91"
           }
         ]
       },
@@ -23043,6 +23391,15 @@
         ]
       },
       {
+        "name" : "Connext",
+        "domain" : "bridge.connext.network",
+        "contracts" : [
+          {
+            "address" : "0x11984dc4465481512eb5b777e44061c158cf2259"
+          }
+        ]
+      },
+      {
         "name" : "Croissant",
         "domain" : "poly.croissant.games",
         "contracts" : [
@@ -23057,6 +23414,33 @@
         "contracts" : [
           {
             "address" : "0xb8615ad742c604e2920a82fdfcdd6cd93c56b4b7"
+          }
+        ]
+      },
+      {
+        "name" : "Curve",
+        "domain" : "curve.fi",
+        "contracts" : [
+          {
+            "address" : "0x2a426b3bb4fa87488387545f15d01d81352732f9"
+          },
+          {
+            "address" : "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+          },
+          {
+            "address" : "0x3d8eadb739d1ef95dd53d718e4810721837c69c1"
+          },
+          {
+            "address" : "0x225fb4176f0e20cdb66b4a3df70ca3063281e855"
+          },
+          {
+            "address" : "0x445fe580ef8d70ff569ab36e80c647af338db351"
+          },
+          {
+            "address" : "0x5ab5c56b9db92ba45a0b46a207286cd83c15c939"
+          },
+          {
+            "address" : "0x1d8b86e3d88cdb2d34688e87e72f388cb541b7c8"
           }
         ]
       },
@@ -23078,6 +23462,12 @@
           },
           {
             "address" : "0xb31d1b1ea48ce4bf10ed697d44b747287e785ad4"
+          },
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0x1111111254fb6c44bac0bed2854e76f90643097d"
           }
         ]
       },
@@ -23112,6 +23502,15 @@
         ]
       },
       {
+        "name" : "Hashflow",
+        "domain" : "app.hashflow.com",
+        "contracts" : [
+          {
+            "address" : "0x72550597dc0b2e0bec24e116add353599eff2e35"
+          }
+        ]
+      },
+      {
         "name" : "Idex",
         "domain" : "exchange.idex.io",
         "contracts" : [
@@ -23139,6 +23538,15 @@
         ]
       },
       {
+        "name" : "KyberSwap",
+        "domain" : "kyberswap.com",
+        "contracts" : [
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ]
+      },
+      {
         "name" : "Lunafi",
         "domain" : "app.lunafi.io",
         "contracts" : [
@@ -23159,6 +23567,15 @@
       {
         "name" : "Magiceden",
         "domain" : "magiceden.io",
+        "contracts" : [
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ]
+      },
+      {
+        "name" : "Matcha",
+        "domain" : "matcha.xyz",
         "contracts" : [
           {
             "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
@@ -23210,6 +23627,9 @@
         "contracts" : [
           {
             "address" : "0x00000000006c3852cbef3e08e8df289169ede581"
+          },
+          {
+            "address" : "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
           }
         ]
       },
@@ -23304,6 +23724,36 @@
         ]
       },
       {
+        "name" : "Stargate",
+        "domain" : "stargate.finance",
+        "contracts" : [
+          {
+            "address" : "0x45a01e4e04f14f7a4a6702c74187c5f6222033cd"
+          }
+        ]
+      },
+      {
+        "name" : "Sushi",
+        "domain" : "sushi.com",
+        "contracts" : [
+          {
+            "address" : "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+          },
+          {
+            "address" : "0xe7eb31f23a5befeeff76dbd2ed6adc822568a5d2"
+          }
+        ]
+      },
+      {
+        "name" : "Swapr",
+        "domain" : "swapr.eth.limo",
+        "contracts" : [
+          {
+            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+          }
+        ]
+      },
+      {
         "name" : "Taskon",
         "domain" : "taskon.xyz",
         "contracts" : [
@@ -23327,6 +23777,9 @@
         "contracts" : [
           {
             "address" : "0x4c60051384bd2d3c01bfc845cf5f4b44bcbe9de5"
+          },
+          {
+            "address" : "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
           }
         ]
       },
@@ -23370,11 +23823,32 @@
         ]
       },
       {
+        "name" : "Zapper",
+        "domain" : "zapper.xyz",
+        "contracts" : [
+          {
+            "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          },
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ]
+      },
+      {
         "name" : "Zeroswap",
         "domain" : "app.zeroswap.io",
         "contracts" : [
           {
             "address" : "0x2b6bd6a84f97051805969c12985b739551cbb0aa"
+          }
+        ]
+      },
+      {
+        "name" : "Zkbridge",
+        "domain" : "zkbridge.com",
+        "contracts" : [
+          {
+            "address" : "0xed17e645aa1aab0851a0d61b6dcadcaf2177d066"
           }
         ]
       }

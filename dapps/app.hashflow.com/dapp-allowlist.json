@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Hashflow",
+  "domain": "app.hashflow.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x72550597dc0b2e0bec24e116add353599eff2e35"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xf6a94dfd0e6ea9ddfdffe4762ad4236576136613"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x0acffb0fb2cddd9bd35d03d359f3d899e32facc9"
+      }
+    ]
+  }
+}

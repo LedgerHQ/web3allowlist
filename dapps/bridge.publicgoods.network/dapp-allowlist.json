@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Publicgoods",
+  "domain": "bridge.publicgoods.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xd0204b9527c1ba7bd765fa5ccd9355d38338272b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zksync",
+  "domain": "lite.zksync.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xabea9132b05a70803a4e85094fd0e1800777fbef"
+      }
+    ]
+  }
+}

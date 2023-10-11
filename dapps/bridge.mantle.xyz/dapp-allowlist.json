@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mantle",
+  "domain": "bridge.mantle.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x95fc37a27a2f68e3a647cdc081f0a89bb47c3012"
+      }
+    ]
+  }
+}

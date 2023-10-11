@@ -11,6 +11,14 @@
       {
         "address": "0xc92e8bdf79f0507f65a392b0ab4667716bfe0110"
       }
+    ],
+    "gnosis": [
+      {
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      },
+      {
+        "address": "0x40a50cf069e992aa4536211b23f286ef88752187"
+      }
     ]
   }
 }

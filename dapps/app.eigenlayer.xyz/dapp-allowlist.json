@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eigenlayer",
+  "domain": "app.eigenlayer.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x91e677b07f7af907ec9a428aafa9fc14a0d3a338"
+      }
+    ]
+  }
+}

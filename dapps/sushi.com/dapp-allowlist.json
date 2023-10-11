@@ -7,11 +7,27 @@
     "gnosis": [
       {
         "address": "0x1e9b24073183d5c6b7ae5fb4b8f0b1dd83fdc77a"
+      },
+      {
+        "address": "0xbbde1d67297329148fe1ed5e6b00114842728e65"
       }
     ],
     "ethereum": [
       {
         "address": "0x827179dd56d07a7eea32e3873493835da2866976"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+      },
+      {
+        "address": "0xe7eb31f23a5befeeff76dbd2ed6adc822568a5d2"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xd36990d74b947ec4ad9f52fe3d49d14addb51e44"
       }
     ]
   }

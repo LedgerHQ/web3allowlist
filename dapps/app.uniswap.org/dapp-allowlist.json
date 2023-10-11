@@ -64,6 +64,9 @@
       },
       {
         "address": "0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b"
+      },
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
       }
     ],
     "bsc": [
@@ -72,11 +75,17 @@
       },
       {
         "address": "0x7b8a01b39d58278b5de7e48c8449c9f4f5170613"
+      },
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
       }
     ],
     "polygon": [
       {
         "address": "0x4c60051384bd2d3c01bfc845cf5f4b44bcbe9de5"
+      },
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
       }
     ]
   }

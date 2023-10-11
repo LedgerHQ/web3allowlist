@@ -10,6 +10,12 @@
       },
       {
         "address": "0xb31d1b1ea48ce4bf10ed697d44b747287e785ad4"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
       }
     ],
     "ethereum": [
@@ -21,6 +27,9 @@
       },
       {
         "address": "0xf6a94dfd0e6ea9ddfdffe4762ad4236576136613"
+      },
+      {
+        "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
       }
     ],
     "gnosis": [
@@ -29,6 +38,20 @@
       },
       {
         "address": "0x40a50cf069e992aa4536211b23f286ef88752187"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
+      },
+      {
+        "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
       }
     ]
   }

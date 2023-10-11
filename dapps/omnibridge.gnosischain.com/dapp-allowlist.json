@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gnosischain",
+  "domain": "omnibridge.gnosischain.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xa6439ca0fcba1d0f80df0be6a17220fed9c9038a"
+      }
+    ]
+  }
+}

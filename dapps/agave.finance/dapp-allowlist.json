@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Agave",
+  "domain": "agave.finance",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x36a644cc38ae257136eeca5919800f364d73fefc"
+      }
+    ]
+  }
+}

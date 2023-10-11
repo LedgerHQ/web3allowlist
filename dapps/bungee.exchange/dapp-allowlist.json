@@ -12,9 +12,17 @@
     "polygon": [
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0xac313d7491910516e06fbfc2a0b5bb49bb072d91"
       }
     ],
     "bsc": [
+      {
+        "address": "0xbe51d38547992293c89cc589105784ab60b004a9"
+      }
+    ],
+    "gnosis": [
       {
         "address": "0xbe51d38547992293c89cc589105784ab60b004a9"
       }

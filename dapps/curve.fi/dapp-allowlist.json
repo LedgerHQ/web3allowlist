@@ -121,6 +121,49 @@
       },
       {
         "address": "0x99a58482bd75cbab83b27ec03ca68ff489b5788f"
+      },
+      {
+        "address": "0x7f86bf177dd4f3494b841a37e810a34dd56c829b"
+      },
+      {
+        "address": "0x3993d34e7e99abf6b6f367309975d1360222d446"
+      },
+      {
+        "address": "0x4ebdf703948ddcea3b11f675b4d1fba9d2414a14"
+      },
+      {
+        "address": "0xdc24316b9ae028f1497c275eb9192a3ea0f67022"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x2a426b3bb4fa87488387545f15d01d81352732f9"
+      },
+      {
+        "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+      },
+      {
+        "address": "0x3d8eadb739d1ef95dd53d718e4810721837c69c1"
+      },
+      {
+        "address": "0x225fb4176f0e20cdb66b4a3df70ca3063281e855"
+      },
+      {
+        "address": "0x445fe580ef8d70ff569ab36e80c647af338db351"
+      },
+      {
+        "address": "0x5ab5c56b9db92ba45a0b46a207286cd83c15c939"
+      },
+      {
+        "address": "0x1d8b86e3d88cdb2d34688e87e72f388cb541b7c8"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xe3fff29d4dc930ebb787fecd49ee5963dadf60b6"
+      },
+      {
+        "address": "0xe6358f6a45b502477e83cc1cda759f540e4459ee"
       }
     ]
   }

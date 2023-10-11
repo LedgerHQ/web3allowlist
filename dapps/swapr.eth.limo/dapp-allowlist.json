@@ -95,6 +95,25 @@
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
       }
+    ],
+    "polygon": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
+      },
+      {
+        "address": "0xe43e60736b1cb4a75ad25240e2f9a62bff65c0c0"
+      }
     ]
   }
 }

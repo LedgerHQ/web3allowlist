@@ -7,6 +7,9 @@
     "ethereum": [
       {
         "address": "0x25e9aca5951262241290841b6f863d59d37dc4f0"
+      },
+      {
+        "address": "0xbafa44efe7901e04e39dad13167d089c559c1138"
       }
     ]
   }

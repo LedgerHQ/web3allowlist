@@ -29,14 +29,18 @@ jobs:
       - uses: VirtusLab/scala-cli-setup@main
         with:
           jvm: zulu:19
+
+      - name: Setup gh packages for scala-cli
+        run: |
+          scala-cli --power config repositories.credentials "maven.pkg.github.com" value:PrivateToken env:GITHUB_TOKEN
+          
       - name: Validate and merge assets lists
         #
         # Small hack to inject our GitHub packages token.
         #    https://github.com/VirtusLab/scala-cli/issues/1464
         #
+        # perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' .github/scripts/validate-and-merge-cli.scala
         run: |
-          perl -i -pe 's/{{ GITHUB_TOKEN }}/$ENV{GITHUB_TOKEN}/' .github/scripts/validate-and-merge-cli.scala
-          scala-cli --power config repositories.credentials "https://maven.pkg.github.com/LedgerHQ" value:PrivateToken env:GITHUB_TOKEN
           scala-cli config --dump
           scala-cli .github/scripts/validate-and-merge-cli.scala --main-class main -- all-dapp-allowlist.json
 

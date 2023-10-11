@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zkbridge",
+  "domain": "zkbridge.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xed17e645aa1aab0851a0d61b6dcadcaf2177d066"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xc4742f0628a0e9961cc64d85854aa053bd54829d"
+      },
+      {
+        "address": "0x679ba62df3b68f84bc86c5c7fec72f4aa58133a9"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xf69aa09bafd475c892617344591cbb493b7f0a2e"
+      }
+    ]
+  }
+}

@@ -64,16 +64,25 @@
       },
       {
         "address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+      },
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
       }
     ],
     "polygon": [
       {
         "address": "0x00000000006c3852cbef3e08e8df289169ede581"
+      },
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
       }
     ],
     "bsc": [
       {
         "address": "0x00000000000001ad428e4906ae43d8f9852d0dd6"
+      },
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
       }
     ]
   }

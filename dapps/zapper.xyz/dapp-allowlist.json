@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zapper",
+  "domain": "zapper.xyz",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ]
+  }
+}

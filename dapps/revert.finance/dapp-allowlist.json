@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Revert",
+  "domain": "revert.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xae8999da4d81cb81b42288b12176fe20d7ead578"
+      }
+    ]
+  }
+}

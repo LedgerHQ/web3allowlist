@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Swellnetwork",
+  "domain": "app.swellnetwork.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xf951e335afb289353dc249e82926178eac7ded78"
+      }
+    ]
+  }
+}

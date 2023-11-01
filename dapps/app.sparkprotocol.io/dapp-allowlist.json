@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Sparkprotocol",
+  "domain": "app.sparkprotocol.io",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xbd7d6a9ad7865463de44b05f04559f65e3b11704"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xbd7d6a9ad7865463de44b05f04559f65e3b11704"
+      }
+    ]
+  }
+}

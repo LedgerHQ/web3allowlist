@@ -12,6 +12,9 @@
     "gnosis": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e"
       }
     ],
     "ethereum": [

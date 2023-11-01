@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zora",
+  "domain": "bridge.zora.energy",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x1a0ad011913a150f69f6a19df447a0cfd9551054"
+      }
+    ]
+  }
+}

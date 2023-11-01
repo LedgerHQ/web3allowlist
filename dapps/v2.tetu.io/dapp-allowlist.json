@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tetu",
+  "domain": "v2.tetu.io",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xa60e6329016364dde8bc6eb4e8b7976e2a9a24ab"
+      }
+    ]
+  }
+}

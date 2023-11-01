@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Pearl",
+  "domain": "pearl.exchange",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xcc25c0fd84737f44a7d38649b69491bbf0c7f083"
+      }
+    ]
+  }
+}

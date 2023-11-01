@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zkasino",
+  "domain": "play.zkasino.io",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x0a112b111eb22d1cc0af42ff68398a55e0b69a16"
+      }
+    ]
+  }
+}

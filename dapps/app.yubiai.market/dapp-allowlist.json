@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Yubiai",
+  "domain": "app.yubiai.market",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xaeecfa44639b61d2e0a9534d918789d94a24a9de"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Holograph",
+  "domain": "app.holograph.xyz",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x4f92ae4960a6ac49fa88bcf9d6d4b8c53f626a55"
+      },
+      {
+        "address": "0x282d299ae68f40becc3c2a440e2894750b82de88"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x282d299ae68f40becc3c2a440e2894750b82de88"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x282d299ae68f40becc3c2a440e2894750b82de88"
+      }
+    ]
+  }
+}

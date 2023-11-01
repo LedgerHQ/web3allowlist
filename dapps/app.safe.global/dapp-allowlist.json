@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Safe",
+  "domain": "app.safe.global",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xa6b71e26c5e0845f74c812102ca7114b6a896ab2"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xa6b71e26c5e0845f74c812102ca7114b6a896ab2"
+      }
+    ]
+  }
+}

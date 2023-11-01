@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Apollox",
+  "domain": "apollox.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0"
+      }
+    ]
+  }
+}

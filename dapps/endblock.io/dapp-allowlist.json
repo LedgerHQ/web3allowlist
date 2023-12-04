@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Endblock",
+  "domain": "endblock.io",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x41efb86536cae97ebe3211dcf952888843768240"
+      },
+      {
+        "address": "0x199e6897b92d3235d63a6808e6edf985a6f2f6cc"
+      },
+      {
+        "address": "0x689adc42d1beb0efc166396d3c433079b451dd88"
+      },
+      {
+        "address": "0xb968b0c6152d3414b2a41539b9877409c7c5b8e8"
+      },
+      {
+        "address": "0x3d712ee26e407dc383a451466b7a93a42094dba1"
+      }
+    ]
+  }
+}

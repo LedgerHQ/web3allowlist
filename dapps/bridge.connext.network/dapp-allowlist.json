@@ -17,6 +17,20 @@
     "polygon": [
       {
         "address": "0x11984dc4465481512eb5b777e44061c158cf2259"
+      },
+      {
+        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+      },
+      {
+        "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "address": "0xcd401c10afa37d641d2f594852da94c700e4f2ce"
       }
     ]
   }

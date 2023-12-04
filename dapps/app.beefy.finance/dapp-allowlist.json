@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Beefy",
+  "domain": "app.beefy.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x6be4741ab0ad233e4315a10bc783a7b923386b71"
+      }
+    ]
+  }
+}

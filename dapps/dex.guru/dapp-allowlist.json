@@ -7,6 +7,45 @@
     "ethereum": [
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0xbeb09000fa59627dc02bb55448ac1893eaa501a5"
       }
     ]
   }

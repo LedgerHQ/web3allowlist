@@ -7,6 +7,27 @@
     "polygon": [
       {
         "address": "0x0a112b111eb22d1cc0af42ff68398a55e0b69a16"
+      },
+      {
+        "address": "0xe922a4ad0a406036197661505c3e8dc3b1d327e2"
+      },
+      {
+        "address": "0xd971c0407ae346bdb87bdb6bfc1efcd0f229faa0"
+      },
+      {
+        "address": "0xb7bf384142a7f82976e65e692fd4af7b833aede5"
+      },
+      {
+        "address": "0x658d831192bf5008e89ab57b373d8c8c7e6f480e"
+      },
+      {
+        "address": "0x5a6b562d1dd4aebe36bf04b3de29749167d7f672"
+      },
+      {
+        "address": "0xa45abc5a7f236b93809bb3228dd6e0b267b26fc4"
+      },
+      {
+        "address": "0x1109a2d47c6ee842d81bf4d4a36504d4eeb3c8c7"
       }
     ]
   }

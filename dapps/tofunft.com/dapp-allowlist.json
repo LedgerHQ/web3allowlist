@@ -8,6 +8,16 @@
       {
         "address": "0x449d05c544601631785a7c062dcdff530330317e"
       }
+    ],
+    "polygon": [
+      {
+        "address": "0x7bc8b1b5aba4df3be9f9a32dae501214dc0e4f3f"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x7bc8b1b5aba4df3be9f9a32dae501214dc0e4f3f"
+      }
     ]
   }
 }

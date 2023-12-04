@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cryptoblades",
+  "domain": "app.cryptoblades.io",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x39bea96e13453ed52a734b6aceed4c41f57b2271"
+      }
+    ]
+  }
+}

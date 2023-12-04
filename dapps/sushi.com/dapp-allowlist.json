@@ -10,11 +10,35 @@
       },
       {
         "address": "0xbbde1d67297329148fe1ed5e6b00114842728e65"
+      },
+      {
+        "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e"
+      },
+      {
+        "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83"
+      },
+      {
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      },
+      {
+        "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6"
+      },
+      {
+        "address": "0x7a4af156379f512de147ed3b96393047226d923f"
       }
     ],
     "ethereum": [
       {
         "address": "0x827179dd56d07a7eea32e3873493835da2866976"
+      },
+      {
+        "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+      },
+      {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      },
+      {
+        "address": "0x5550d13389bb70f45fcef58f19f6b6e87f6e747d"
       }
     ],
     "polygon": [
@@ -23,11 +47,20 @@
       },
       {
         "address": "0xe7eb31f23a5befeeff76dbd2ed6adc822568a5d2"
+      },
+      {
+        "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+      },
+      {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
       }
     ],
     "bsc": [
       {
         "address": "0xd36990d74b947ec4ad9f52fe3d49d14addb51e44"
+      },
+      {
+        "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
       }
     ]
   }

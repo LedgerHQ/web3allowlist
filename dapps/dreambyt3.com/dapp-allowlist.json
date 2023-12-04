@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dreambyt3",
+  "domain": "dreambyt3.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xc2c862322e9c97d6244a3506655da95f05246fd8"
+      }
+    ]
+  }
+}

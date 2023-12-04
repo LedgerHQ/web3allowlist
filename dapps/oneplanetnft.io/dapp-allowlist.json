@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Oneplanetnft",
+  "domain": "oneplanetnft.io",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xf44a68462e2c76a0e9b56dcdc4f7bc734108e7f9"
+      }
+    ]
+  }
+}

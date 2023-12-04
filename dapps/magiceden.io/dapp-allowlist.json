@@ -7,6 +7,9 @@
     "polygon": [
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
       }
     ]
   }

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Metavault",
+  "domain": "metavault.trade",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      },
+      {
+        "address": "0x8251e5ebc2d2c20f6a116144800d569faf75d746"
+      },
+      {
+        "address": "0x8991c17593a6fa3f9ea46e4a9fe87272921593b3"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      }
+    ]
+  }
+}

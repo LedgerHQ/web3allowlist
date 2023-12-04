@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Uncx",
+  "domain": "app.uncx.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x0fd433e474ecb81005ac906e0bcfab66e1d49371"
+      }
+    ]
+  }
+}

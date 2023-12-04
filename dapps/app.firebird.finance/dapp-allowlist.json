@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Firebird",
+  "domain": "app.firebird.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      },
+      {
+        "address": "0x55d398326f99059ff775485246999027b3197955"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      },
+      {
+        "address": "0xe0c38b2a8d09aad53f1c67734b9a95e43d5981c0"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      },
+      {
+        "address": "0xb31d1b1ea48ce4bf10ed697d44b747287e785ad4"
+      }
+    ]
+  }
+}

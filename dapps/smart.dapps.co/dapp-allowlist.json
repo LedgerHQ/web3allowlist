@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dapps",
+  "domain": "smart.dapps.co",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xca4245ed565ac6e27e799a39366f775ce6522ad5"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x60c71cb65c5c0648b7fce7abff60d9b876b52cd7"
+      }
+    ]
+  }
+}

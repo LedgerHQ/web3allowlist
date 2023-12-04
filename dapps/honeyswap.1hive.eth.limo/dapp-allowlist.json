@@ -7,6 +7,18 @@
     "gnosis": [
       {
         "address": "0x1c232f01118cb8b424793ae03f870aa7d0ac7f77"
+      },
+      {
+        "address": "0x6093aebac87d62b1a5a4ceec91204e35020e38be"
+      },
+      {
+        "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0xe43e60736b1cb4a75ad25240e2f9a62bff65c0c0"
       }
     ]
   }

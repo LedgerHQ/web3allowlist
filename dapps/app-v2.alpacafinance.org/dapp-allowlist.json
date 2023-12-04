@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Alpacafinance",
+  "domain": "app-v2.alpacafinance.org",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xd20b887654db8dc476007bdca83d22fa51e93407"
+      }
+    ]
+  }
+}

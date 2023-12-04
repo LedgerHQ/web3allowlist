@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Polyflip",
+  "domain": "play.polyflip.io",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xed7dc802a54ab2c8ea9779a62ee1d8a10e5b5f90"
+      },
+      {
+        "address": "0xe5e7e2182961ee87653e22df932ca28e852b1449"
+      },
+      {
+        "address": "0xdb2add865f27d4b0b50744a39e62dfa2bc2952c1"
+      },
+      {
+        "address": "0xfe11735b0ef940c131e69de9b740527644dad4f9"
+      }
+    ]
+  }
+}

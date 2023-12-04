@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Reservoir",
+  "domain": "explorer.reservoir.tools",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      },
+      {
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      },
+      {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      },
+      {
+        "address": "0xc2c862322e9c97d6244a3506655da95f05246fd8"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      },
+      {
+        "address": "0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5"
+      },
+      {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      }
+    ]
+  }
+}

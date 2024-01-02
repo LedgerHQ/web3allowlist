@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Oxchange",
+  "domain": "dapp.oxchange.finance",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x9b4d3882c1503399a731251ace5f2937c849a478"
+      }
+    ]
+  }
+}

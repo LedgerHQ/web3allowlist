@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dx",
+  "domain": "dx.app",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xf1fd44fd4f4360c1c92f736f1472c1bbdd95460c"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xf1fd44fd4f4360c1c92f736f1472c1bbdd95460c"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xf1fd44fd4f4360c1c92f736f1472c1bbdd95460c"
+      }
+    ]
+  }
+}

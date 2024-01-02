@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Getluckytoday",
+  "domain": "getluckytoday.io",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xd3c104f51a428d9def7dd9df754c93865340c51a"
+      }
+    ]
+  }
+}

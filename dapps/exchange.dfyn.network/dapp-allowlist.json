@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dfyn",
+  "domain": "exchange.dfyn.network",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x791d56d007af3bd9a62c1a938444282ee3124e0c"
+      }
+    ]
+  }
+}

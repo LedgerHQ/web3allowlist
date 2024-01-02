@@ -68,6 +68,9 @@
       },
       {
         "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      },
+      {
+        "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83"
       }
     ],
     "bsc": [
@@ -91,6 +94,9 @@
       },
       {
         "address": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
       }
     ]
   }

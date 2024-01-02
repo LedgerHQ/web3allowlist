@@ -15,11 +15,17 @@
       },
       {
         "address": "0x679ba62df3b68f84bc86c5c7fec72f4aa58133a9"
+      },
+      {
+        "address": "0x51187757342914e7d94fffd95ccca4f440fe0e06"
       }
     ],
     "ethereum": [
       {
         "address": "0xf69aa09bafd475c892617344591cbb493b7f0a2e"
+      },
+      {
+        "address": "0x89a56ff41a4be1360f780c5abfba8fd7eced2c7a"
       }
     ]
   }

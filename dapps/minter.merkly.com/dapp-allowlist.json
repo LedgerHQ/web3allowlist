@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Merkly",
+  "domain": "minter.merkly.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x0e1f20075c90ab31fc2dd91e536e6990262cf76d"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x556f119c7433b2232294fb3de267747745a1dab4"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xafa5f9313f1f2b599173f24807a882f498be118c"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xef1eae0457e8d56a003d781569489bc5466e574b"
+      }
+    ]
+  }
+}

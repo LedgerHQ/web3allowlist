@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "O3swap",
+  "domain": "o3swap.com",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x0689be64c84299622b3744c32af5bc9b3e45e2d5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bullbear",
+  "domain": "bullbear.fun",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x1a12788fff6bd3c5be603c9a2d7a71485f2122b9"
+      }
+    ]
+  }
+}

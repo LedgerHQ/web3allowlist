@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cian",
+  "domain": "vault.cian.app",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x22cdae94f135b310d2ffb01e8af05f10092a3d0b"
+      }
+    ]
+  }
+}

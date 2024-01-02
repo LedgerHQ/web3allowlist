@@ -7,6 +7,12 @@
     "polygon": [
       {
         "address": "0x98acc6da534ec99d1e7b065f045eaafab4467dea"
+      },
+      {
+        "address": "0x68a0f33cceb2f7d3635e04dcc5fca2b176108a07"
+      },
+      {
+        "address": "0xc464d0706041100929c19da48c19cb86c97a68a4"
       }
     ]
   }

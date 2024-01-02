@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Polycub",
+  "domain": "polycub.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xef79881df640b42bda6a84ac9435611ec6bb51a4"
+      }
+    ]
+  }
+}

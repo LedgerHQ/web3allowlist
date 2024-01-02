@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Fp",
+  "domain": "fp.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+      }
+    ]
+  }
+}

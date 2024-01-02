@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Toaster",
+  "domain": "toaster.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      }
+    ]
+  }
+}

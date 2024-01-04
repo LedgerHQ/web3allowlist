@@ -8,6 +8,33 @@
       {
         "address": "0xd152f549545093347a162dce210e7293f1452150"
       }
+    ],
+    "polygon": [
+      {
+        "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+      },
+      {
+        "address": "0xd152f549545093347a162dce210e7293f1452150"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xd152f549545093347a162dce210e7293f1452150"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83"
+      },
+      {
+        "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e"
+      },
+      {
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      },
+      {
+        "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6"
+      }
     ]
   }
 }

@@ -1,9 +1,58 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Revoke",
-  "domain" : "revoke.cash",
-  "chains" : {
-    "ethereum" : []
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Revoke",
+  "domain": "revoke.cash",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x881d40237659c251811cec9c364ef91dc08d300c"
+      },
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      },
+      {
+        "address": "0x000000000000ad05ccc4f10045630fb830b95127"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      },
+      {
+        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      },
+      {
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      },
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      },
+      {
+        "address": "0x1a1ec25dc08e98e5e93f1104b5e5cdd298707d31"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      }
+    ]
   }
 }

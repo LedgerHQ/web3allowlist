@@ -152,6 +152,16 @@
       {
         "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
       }
+    ],
+    "bsc": [
+      {
+        "address": "0x0656fd85364d03b103ceeda192fb2d3906a6ac15"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x39e3e49c99834c9573c9fc7ff5a4b226cd7b0e63"
+      }
     ]
   }
 }

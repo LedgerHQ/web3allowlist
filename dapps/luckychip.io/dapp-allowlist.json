@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Luckychip",
+  "domain": "luckychip.io",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x45218ede6f026f0994c55b6fa3554a8ea989f819"
+      }
+    ]
+  }
+}

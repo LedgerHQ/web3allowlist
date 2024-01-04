@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Space",
+  "domain": "space.id",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      }
+    ]
+  }
+}

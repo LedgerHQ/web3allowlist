@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Position",
+  "domain": "position.exchange",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x77a3a4b832763a34a9757c1a1279be633222ce6b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Belt",
+  "domain": "belt.fi",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x9696094b4491023eeb720a7475158f81f47bb77d"
+      }
+    ]
+  }
+}

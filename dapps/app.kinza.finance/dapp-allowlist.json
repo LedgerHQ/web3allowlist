@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Kinza",
+  "domain": "app.kinza.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xcc650b486f723c924370656b509a82bd69526739"
+      }
+    ]
+  }
+}

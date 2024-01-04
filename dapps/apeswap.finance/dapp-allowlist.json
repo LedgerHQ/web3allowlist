@@ -7,11 +7,54 @@
     "bsc": [
       {
         "address": "0xcf0febd3f17cef5b47b0cd257acf6025c5bff3b7"
+      },
+      {
+        "address": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "address": "0x7e060d0e0563fbd4cd2b3b845a992eab31e47f8b"
+      },
+      {
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "ethereum": [
       {
         "address": "0x5f509a3c3f16df2fba7bf84dee1efbce6bb85587"
+      },
+      {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      },
+      {
+        "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      },
+      {
+        "address": "0x236290f7da54465bf7a26f279d2b3553e5402780"
       }
     ]
   }

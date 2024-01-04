@@ -451,6 +451,20 @@
       },
       {
         "address": "0xeffc18fc3b7eb8e676dac549e0c693ad50d1ce31"
+      },
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0xd322a49006fc828f9b5b37ab215f99b4e5cab19c"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0x1e4b7a6b903680eab0c5dabcb8fd429cd2a9598c"
       }
     ]
   }

@@ -8,6 +8,16 @@
       {
         "address": "0x5d22045daceab03b158031ecb7d9d06fad24609b"
       }
+    ],
+    "polygon": [
+      {
+        "address": "0xba4eee20f434bc3908a0b18da496348657133a7e"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xb80a582fa430645a043bb4f6135321ee01005fef"
+      }
     ]
   }
 }

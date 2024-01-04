@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Apex",
+  "domain": "pro.apex.exchange",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x10434755cfdcd34539db91c81ab0e07f96d44aa7"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xe95b3dc78c0881dea17a69bafc6cfeb8d891e9de"
+      },
+      {
+        "address": "0x379c15156b527d6e693bed60d1fbb44ce46046b8"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xe29304af265641a49f55294f7e5ba5010eba4497"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Insurace",
+  "domain": "app.insurace.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x88ef6f235a4790292068646e79ee563339c796a0"
+      }
+    ]
+  }
+}

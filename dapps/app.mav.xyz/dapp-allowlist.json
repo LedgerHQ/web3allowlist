@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mav",
+  "domain": "app.mav.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xbbf1ee38152e9d8e3470dc47947eaa65dca94913"
+      }
+    ]
+  }
+}

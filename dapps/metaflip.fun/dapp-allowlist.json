@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Metaflip",
+  "domain": "metaflip.fun",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x1ebdea878a8c18ea03fad2711316cf7beb804eaa"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Philand",
+  "domain": "quest.philand.xyz",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xc6e5240054dbe92bde25546cf0c72dc499c41ca8"
+      }
+    ]
+  }
+}

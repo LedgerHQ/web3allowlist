@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Quickswap",
+  "domain": "quickswap.exchange",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff"
+      },
+      {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      },
+      {
+        "address": "0x598ca33b7f5fab560ddc8e76d94a4b4aa52566d7"
+      },
+      {
+        "address": "0xf5b509bb0909a69b1c207e495f687a596c168e12"
+      }
+    ]
+  }
+}

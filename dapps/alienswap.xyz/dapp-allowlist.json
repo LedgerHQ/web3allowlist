@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Alienswap",
+  "domain": "alienswap.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      },
+      {
+        "address": "0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5"
+      }
+    ]
+  }
+}

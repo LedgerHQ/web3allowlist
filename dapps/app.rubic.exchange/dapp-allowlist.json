@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Rubic",
+  "domain": "app.rubic.exchange",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      },
+      {
+        "address": "0x3335733c454805df6a77f825f266e136fb4a3333"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x3335733c454805df6a77f825f266e136fb4a3333"
+      },
+      {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x3335733c454805df6a77f825f266e136fb4a3333"
+      }
+    ]
+  }
+}

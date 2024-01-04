@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Realt",
+  "domain": "app.levinswap.realt.community",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83"
+      },
+      {
+        "address": "0xb18d4f69627f8320619a696202ad2c430cef7c53"
+      },
+      {
+        "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6"
+      },
+      {
+        "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e"
+      },
+      {
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      }
+    ]
+  }
+}

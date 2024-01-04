@@ -25,6 +25,19 @@
       },
       {
         "address": "0xb4e7b8946fa2b35912cc0581772cccd69a33000c"
+      },
+      {
+        "address": "0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xb3e3dfcb2d9f3dde16d78b9e6eb3538eb32b5ae1"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x25956fd0a5fe281d921b1bb3499fc8d5efea6201"
       }
     ]
   }

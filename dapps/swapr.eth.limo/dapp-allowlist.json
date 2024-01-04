@@ -103,6 +103,15 @@
       },
       {
         "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      },
+      {
+        "address": "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f"
+      },
+      {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
       }
     ],
     "polygon": [
@@ -120,6 +129,15 @@
       },
       {
         "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff"
+      },
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
       }
     ],
     "gnosis": [
@@ -137,6 +155,9 @@
       },
       {
         "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address": "0x1c232f01118cb8b424793ae03f870aa7d0ac7f77"
       }
     ],
     "bsc": [
@@ -151,6 +172,9 @@
       },
       {
         "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address": "0x55d398326f99059ff775485246999027b3197955"
       }
     ]
   }

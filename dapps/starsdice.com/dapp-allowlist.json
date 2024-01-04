@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Starsdice",
+  "domain": "starsdice.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x3c482fe5f64802fb80cc871b12bf78f59f8bdc46"
+      }
+    ]
+  }
+}

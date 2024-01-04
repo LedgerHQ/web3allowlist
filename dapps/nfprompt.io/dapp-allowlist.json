@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Nfprompt",
+  "domain": "nfprompt.io",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x4cb680a2589d742c30556e359a352f9c511eef54"
+      }
+    ]
+  }
+}

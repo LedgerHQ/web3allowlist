@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Summer",
+  "domain": "summer.fi",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xf7b75183a2829843db06266c114297dfbfaee2b6"
+      }
+    ]
+  }
+}

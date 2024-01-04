@@ -7,6 +7,12 @@
     "bsc": [
       {
         "address": "0x5d00661ea3c9b8f095520573b9b940b6febcfd8b"
+      },
+      {
+        "address": "0x6c55757429742c866e0c2b3a7283c5220ba1c533"
+      },
+      {
+        "address": "0xc94032481e5ad2821f9f862ffec94333088cc42f"
       }
     ],
     "polygon": [

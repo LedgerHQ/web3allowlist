@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Roulether",
+  "domain": "roulether.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x56873fc1d09792375657f2c03b48c961139fd891"
+      }
+    ]
+  }
+}

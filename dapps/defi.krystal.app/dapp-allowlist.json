@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Krystal",
+  "domain": "defi.krystal.app",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x051dc16b2ecb366984d1074dcc07c342a9463999"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x70270c228c5b4279d1578799926873aa72446ccd"
+      }
+    ]
+  }
+}

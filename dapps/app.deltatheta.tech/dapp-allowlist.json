@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Deltatheta",
+  "domain": "app.deltatheta.tech",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xaa7ecc898de7db6185bc4934464c54b23d6cd6ae"
+      }
+    ]
+  }
+}

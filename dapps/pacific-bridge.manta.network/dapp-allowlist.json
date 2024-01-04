@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Manta",
+  "domain": "pacific-bridge.manta.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x3b95bc951ee0f553ba487327278cac44f29715e5"
+      }
+    ]
+  }
+}

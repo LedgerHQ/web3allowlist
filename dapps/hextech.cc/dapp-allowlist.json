@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Hextech",
+  "domain": "hextech.cc",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x424f1ea67d7fa79c76253c44043c7d78e69c4708"
+      }
+    ]
+  }
+}

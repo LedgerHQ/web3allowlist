@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gravityfinance",
+  "domain": "gravityfinance.io",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x57de98135e8287f163c59ca4ff45f1341b680248"
+      }
+    ]
+  }
+}

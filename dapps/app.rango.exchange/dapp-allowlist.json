@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Rango",
+  "domain": "app.rango.exchange",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+      }
+    ]
+  }
+}

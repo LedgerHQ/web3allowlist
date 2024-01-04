@@ -466,6 +466,11 @@
       {
         "address": "0x1e4b7a6b903680eab0c5dabcb8fd429cd2a9598c"
       }
+    ],
+    "gnosis": [
+      {
+        "address": "0xb7e51aa2a5f4dd478f183a593f67637ed6f1d1d9"
+      }
     ]
   }
 }

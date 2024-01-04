@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Nice2win",
+  "domain": "nice2win.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x28b564c1ff243970d8d67e440e03e060517ff54c"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x478b3c6cf6176295df822f24c3fa42487cf6d734"
+      }
+    ]
+  }
+}

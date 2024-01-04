@@ -35,6 +35,11 @@
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
+    ],
+    "polygon": [
+      {
+        "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      }
     ]
   }
 }

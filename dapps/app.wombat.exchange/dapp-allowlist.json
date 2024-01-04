@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Wombat",
+  "domain": "app.wombat.exchange",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x19609b03c976cca288fbdae5c21d4290e9a4add7"
+      }
+    ]
+  }
+}

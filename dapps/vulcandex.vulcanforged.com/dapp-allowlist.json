@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Vulcanforged",
+  "domain": "vulcandex.vulcanforged.com",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xfe0e493564db7ae23a7b6ea07f2c633ee8f25f22"
+      }
+    ]
+  }
+}

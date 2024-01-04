@@ -7,6 +7,22 @@
     "ethereum": [
       {
         "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
+      },
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
       }
     ]
   }

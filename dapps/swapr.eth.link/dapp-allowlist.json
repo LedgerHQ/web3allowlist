@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eth",
+  "domain": "swapr.eth.link",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address": "0xd9e1ce17f2641f24ae83637ab66a2cca9c378b9f"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xe43e60736b1cb4a75ad25240e2f9a62bff65c0c0"
+      }
+    ]
+  }
+}

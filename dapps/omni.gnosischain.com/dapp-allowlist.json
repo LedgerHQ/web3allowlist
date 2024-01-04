@@ -8,6 +8,14 @@
       {
         "address": "0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3"
       }
+    ],
+    "ethereum": [
+      {
+        "address": "0x88ad09518695c6c3712ac10a214be5109a655671"
+      },
+      {
+        "address": "0x4c36d2919e407f0cc2ee3c993ccf8ac26d9ce64e"
+      }
     ]
   }
 }

@@ -37,6 +37,14 @@
       {
         "address": "0x03d7f750777ec48d39d080b020d83eb2cb4e3547"
       }
+    ],
+    "polygon": [
+      {
+        "address": "0xb2f7d27b21a69a033f85c42d5eb079043baadc81"
+      },
+      {
+        "address": "0x884d1aa15f9957e1aeaa86a82a72e49bc2bfcbe3"
+      }
     ]
   }
 }

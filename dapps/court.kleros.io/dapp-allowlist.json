@@ -7,6 +7,14 @@
     "gnosis": [
       {
         "address": "0x9c1da9a04925bdfdedf0f6421bc7eea8305f9002"
+      },
+      {
+        "address": "0xcb3231aba3b451343e0fddfc45883c842f223846"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xdbc3088dfebc3cc6a84b0271dade2696db00af38"
       }
     ]
   }

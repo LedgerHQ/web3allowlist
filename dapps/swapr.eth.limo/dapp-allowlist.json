@@ -94,11 +94,32 @@
       },
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
       }
     ],
     "polygon": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      },
+      {
+        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
       }
     ],
     "gnosis": [
@@ -113,6 +134,23 @@
       },
       {
         "address": "0xe43e60736b1cb4a75ad25240e2f9a62bff65c0c0"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+      },
+      {
+        "address": "0x3a6d8ca21d1cf76f653a67577fa0d27453350dd8"
+      },
+      {
+        "address": "0x10ed43c718714eb63d5aa57b78b54704e256024e"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
       }
     ]
   }

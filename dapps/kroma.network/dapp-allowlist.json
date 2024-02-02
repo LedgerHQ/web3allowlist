@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Kroma",
+  "domain": "kroma.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x31f648572b67e60ec6eb8e197e1848cc5f5558de"
+      }
+    ]
+  }
+}

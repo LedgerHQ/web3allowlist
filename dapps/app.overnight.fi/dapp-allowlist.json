@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Overnight",
+  "domain": "app.overnight.fi",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
+      }
+    ]
+  }
+}

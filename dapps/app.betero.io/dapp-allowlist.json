@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Betero",
+  "domain": "app.betero.io",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x9ead4027e4d6e91ca1cea053d6ccf638c17b86c9"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x9ead4027e4d6e91ca1cea053d6ccf638c17b86c9"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x9ead4027e4d6e91ca1cea053d6ccf638c17b86c9"
+      }
+    ]
+  }
+}

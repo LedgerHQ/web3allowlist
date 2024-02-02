@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Renzoprotocol",
+  "domain": "app.renzoprotocol.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x74a09653a083691711cf8215a6ab074bb4e99ef5"
+      }
+    ]
+  }
+}

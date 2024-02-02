@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Odos",
+  "domain": "app.odos.xyz",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x4e3288c9ca110bcc82bf38f09a7b425c095d92bf"
+      }
+    ]
+  }
+}

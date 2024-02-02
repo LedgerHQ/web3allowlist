@@ -13,14 +13,31 @@
       },
       {
         "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
     ],
     "gnosis": [
       {
         "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
     ],
     "polygon": [
+      {
+        "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
       {
         "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
       }

@@ -62,6 +62,31 @@
       {
         "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0xeb94eca012ec0bbb254722fdda2ce7475875a52b"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xfb70ad5a200d784e7901230e6875d91d5fa6b68c"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x09bd2a33c47746ff03b86bce4e885d03c74a8e8c"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x83ec81ae54dd8dca17c3dd4703141599090751d1"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x8f54301f315c56c112d492d9443047d4745dbe9e"
+      }
     ]
   }
 }

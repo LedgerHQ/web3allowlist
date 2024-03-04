@@ -182,6 +182,28 @@
       {
         "address": "0x55d398326f99059ff775485246999027b3197955"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0xdef1abe32c034e558cdd535791643c58a13acc10"
+      },
+      {
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      },
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x530476d5583724a89c8841eb6da76e7af4c0f17e"
+      }
     ]
   }
 }

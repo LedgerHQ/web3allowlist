@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Joepegs",
+  "domain": "joepegs.com",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xae079eda901f7727d0715aff8f82ba8295719977"
+      },
+      {
+        "address": "0xd1b4367dd9f235f9ee61878019d66e31511e98ee"
+      }
+    ]
+  }
+}

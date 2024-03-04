@@ -18,6 +18,31 @@
       {
         "address": "0x4e3288c9ca110bcc82bf38f09a7b425c095d92bf"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xd0c22a5435f4e8e5770c1fafb5374015fc12f7cd"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+      }
     ]
   }
 }

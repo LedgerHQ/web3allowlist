@@ -102,6 +102,24 @@
       {
         "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
       }
+    ],
+    "avalanche": [
+      {
+        "address": "0x82635af6146972cd6601161c4472ffe97237d292"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
+      },
+      {
+        "address": "0xcb1355ff08ab38bbce60111f1bb2b784be25d7e8"
+      }
     ]
   }
 }

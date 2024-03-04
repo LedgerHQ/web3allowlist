@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Wigoswap",
+  "domain": "wigoswap.io",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0x5023882f4d1ec10544fcb2066abe9c1645e95aa0"
+      }
+    ]
+  }
+}

@@ -25,6 +25,19 @@
       {
         "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
       }
+    ],
+    "avalanche": [
+      {
+        "address": "0xb4315e873dbcf96ffd0acd8ea43f689d8c20fb30"
+      },
+      {
+        "address": "0x46ba84780f9a7b34c8b0e24df07a260fa952195d"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xb4315e873dbcf96ffd0acd8ea43f689d8c20fb30"
+      }
     ]
   }
 }

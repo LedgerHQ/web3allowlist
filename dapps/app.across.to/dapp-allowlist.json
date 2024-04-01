@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Across",
+  "domain": "app.across.to",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+      }
+    ]
+  }
+}

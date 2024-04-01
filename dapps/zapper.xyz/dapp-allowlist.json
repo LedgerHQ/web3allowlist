@@ -27,6 +27,37 @@
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xdef189deaef76e379df891899eb5a00a94cbc250"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
     ]
   }
 }

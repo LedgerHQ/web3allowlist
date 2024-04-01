@@ -18,6 +18,37 @@
     "gnosis": [
       {
         "address": "0xe43e60736b1cb4a75ad25240e2f9a62bff65c0c0"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x3a6d8ca21d1cf76f653a67577fa0d27453350dd8"
+      },
+      {
+        "address": "0x10ed43c718714eb63d5aa57b78b54704e256024e"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff"
       }
     ]
   }

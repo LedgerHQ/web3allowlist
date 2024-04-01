@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Universalchains",
+  "domain": "universalchains.io",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x950100d75f0308fbd0953f25c6b108238e11321f"
+      }
+    ]
+  }
+}

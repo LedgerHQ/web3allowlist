@@ -31,6 +31,16 @@
       {
         "address": "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
       }
+    ],
+    "base": [
+      {
+        "address": "0x678aa4bf4e210cf2166753e054d5b7c31cc7fa86"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x32226588378236fd0c7c4053999f88ac0e5cac77"
+      }
     ]
   }
 }

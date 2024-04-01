@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Camelot",
+  "domain": "app.camelot.exchange",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+      },
+      {
+        "address": "0xc873fecbd354f5a56e00e710b90ef4201db2448d"
+      }
+    ]
+  }
+}

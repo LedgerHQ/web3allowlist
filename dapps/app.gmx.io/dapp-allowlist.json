@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gmx",
+  "domain": "app.gmx.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x7c68c7866a64fa2160f78eeae12217ffbf871fa8"
+      },
+      {
+        "address": "0xabbc5f99639c9b6bcb58544ddf04efa6802f4064"
+      }
+    ]
+  }
+}

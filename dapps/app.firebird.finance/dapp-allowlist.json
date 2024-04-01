@@ -10,6 +10,9 @@
       },
       {
         "address": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "address": "0x92e4f29be975c1b1eb72e77de24dccf11432a5bd"
       }
     ],
     "ethereum": [
@@ -26,6 +29,31 @@
       },
       {
         "address": "0xb31d1b1ea48ce4bf10ed697d44b747287e785ad4"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xe0c38b2a8d09aad53f1c67734b9a95e43d5981c0"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x0c6134abc08a1eafc3e2dc9a5ad023bb08da86c3"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x0c6134abc08a1eafc3e2dc9a5ad023bb08da86c3"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xe0c38b2a8d09aad53f1c67734b9a95e43d5981c0"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x20f0b18bdde8e3dd0e42c173062ebdd05c421151"
       }
     ]
   }

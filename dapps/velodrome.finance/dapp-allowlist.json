@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Velodrome",
+  "domain": "velodrome.finance",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0x8379b00e8fab18a10d87ccbd28fbd796367244c6"
+      },
+      {
+        "address": "0xe75e41ae504237e572385c802ca62cc6dc52b9f8"
+      },
+      {
+        "address": "0x7a389809c2956380675185a4f8a6883062cd25cf"
+      },
+      {
+        "address": "0x9d4736ec60715e71afe72973f7885dcbc21ea99b"
+      },
+      {
+        "address": "0x97f6db9edeb35a8af499f82b415b89e3a958d5fc"
+      },
+      {
+        "address": "0x2f434cad1525c38ff21aa60dd55e8a2c924fe1bf"
+      },
+      {
+        "address": "0x7badc248637906008698d828a76f8538b3a9b8eb"
+      },
+      {
+        "address": "0xa062ae8a9c5e11aaa026fc2670b0d65ccc8b2858"
+      }
+    ]
+  }
+}

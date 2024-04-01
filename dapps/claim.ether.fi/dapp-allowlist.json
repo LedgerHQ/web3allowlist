@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ether",
+  "domain": "claim.ether.fi",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x93fff4028927f53f708534397ed349b9cd4e2f9f"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Benqi",
+  "domain": "staking.benqi.fi",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be"
+      }
+    ]
+  }
+}

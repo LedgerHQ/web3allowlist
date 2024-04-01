@@ -45,6 +45,19 @@
       {
         "address": "0x884d1aa15f9957e1aeaa86a82a72e49bc2bfcbe3"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0x9dd8685463285ad5a94d2c128bda3c5e8a6173c8"
+      },
+      {
+        "address": "0x266e2dc3c4c59e42aa07afee5b09e964cffe6778"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x10541b07d8ad2647dc6cd67abd4c03575dade261"
+      }
     ]
   }
 }

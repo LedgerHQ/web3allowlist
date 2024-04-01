@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Symbiosis",
+  "domain": "app.symbiosis.finance",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xf7e96217347667064dee8f20db747b1c7df45dde"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xf621fb08bbe51af70e7e0f4ea63496894166ff7f"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x691df9c4561d95a4a726313089c8536dd682b946"
+      }
+    ]
+  }
+}

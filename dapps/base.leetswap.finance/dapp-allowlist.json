@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Leetswap",
+  "domain": "base.leetswap.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0xd3ea3bc1f5a3f881bd6ce9761cba5a0833a5d737"
+      }
+    ]
+  }
+}

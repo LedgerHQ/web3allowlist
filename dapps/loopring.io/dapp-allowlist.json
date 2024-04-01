@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Loopring",
+  "domain": "loopring.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x0baba1ad5be3a5c0a66e7ac838a129bf948f1ea4"
+      }
+    ]
+  }
+}

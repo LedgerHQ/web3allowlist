@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Extrafi",
+  "domain": "app.extrafi.io",
+  "chains": {
+    "base": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      },
+      {
+        "address": "0xbb505c54d71e9e599cb8435b4f0ceec05fc71cbd"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ]
+  }
+}

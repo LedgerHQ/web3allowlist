@@ -8,6 +8,19 @@
       {
         "address": "0x8a226b70dceb9656eb75545424400128fcef9d9e"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xab04c0841f39596c9f18a981a2bd32f63ab7a817"
+      },
+      {
+        "address": "0xbb5ca40b2f7af3b1ff5dbce0e9cc78f8bfa817ce"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xc46963a9eaf81f5beb0b11413687f87a874e2d13"
+      }
     ]
   }
 }

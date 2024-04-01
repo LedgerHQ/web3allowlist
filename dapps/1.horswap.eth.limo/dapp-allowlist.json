@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eth",
+  "domain": "1.horswap.eth.limo",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x198ef79f1f515f02dfe9e3115ed9fc07183f02fc"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Letsgethai",
+  "domain": "letsgethai.com",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0xbafbcdbfbb1569722253ed4d491d2fb3b5e03a27"
+      }
+    ]
+  }
+}

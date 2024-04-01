@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zyberswap",
+  "domain": "app.zyberswap.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Sonne",
+  "domain": "sonne.finance",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0x8cd6b19a07d754bf36adeee79edf4f2134a8f571"
+      }
+    ]
+  }
+}

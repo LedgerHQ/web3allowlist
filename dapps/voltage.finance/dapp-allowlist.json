@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Voltage",
+  "domain": "voltage.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x51849f05090b222ffc329dc8825de0d7e26f84a1"
+      }
+    ]
+  }
+}

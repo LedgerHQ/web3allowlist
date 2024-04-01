@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Wagmi",
+  "domain": "app.wagmi.com",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0x660fc63608a4641267e958ee254dc0a275d0ed6e"
+      }
+    ]
+  }
+}

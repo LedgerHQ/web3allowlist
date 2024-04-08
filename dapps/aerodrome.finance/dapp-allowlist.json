@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Aerodrome",
+  "domain": "aerodrome.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0x16613524e02ad97edfef371bc883f2f5d6c480a5"
+      },
+      {
+        "address": "0xcf77a3ba9a5ca399b7c97c74d54e5b1beb874e43"
+      },
+      {
+        "address": "0x227f65131a261548b057215bb1d5ab2997964c7d"
+      }
+    ]
+  }
+}

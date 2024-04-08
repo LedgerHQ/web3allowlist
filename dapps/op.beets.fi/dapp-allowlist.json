@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Beets",
+  "domain": "op.beets.fi",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+      }
+    ]
+  }
+}

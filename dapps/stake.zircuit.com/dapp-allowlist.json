@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zircuit",
+  "domain": "stake.zircuit.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xf047ab4c75cebf0eb9ed34ae2c186f3611aeafa6"
+      }
+    ]
+  }
+}

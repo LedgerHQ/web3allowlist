@@ -29,6 +29,32 @@
       {
         "address": "0xbe51d38547992293c89cc589105784ab60b004a9"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xc0e02aa55d10e38855e13b64a8e1387a04681a00"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x040993fbf458b95871cd2d73ee2e09f4af6d56bb"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0x5800249621da520adfdca16da20d8a5fc0f814d8"
+      }
     ]
   }
 }

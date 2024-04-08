@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Velocimeter",
+  "domain": "velocimeter.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+      }
+    ]
+  }
+}

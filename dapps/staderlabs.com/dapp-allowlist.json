@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Staderlabs",
+  "domain": "staderlabs.com",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x7276241a669489e4bbb76f63d2a43bfe63080f2f"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xcf5ea1b38380f6af39068375516daf40ed70d299"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xfd225c9e6601c9d38d8f98d8731bf59efcf8c0e3"
+      }
+    ]
+  }
+}

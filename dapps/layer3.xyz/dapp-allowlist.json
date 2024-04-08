@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Layer3",
+  "domain": "layer3.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ]
+  }
+}

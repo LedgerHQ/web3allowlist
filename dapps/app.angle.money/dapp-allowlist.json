@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Angle",
+  "domain": "app.angle.money",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
+      }
+    ]
+  }
+}

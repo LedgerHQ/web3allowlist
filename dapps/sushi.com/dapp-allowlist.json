@@ -25,6 +25,9 @@
       },
       {
         "address": "0x7a4af156379f512de147ed3b96393047226d923f"
+      },
+      {
+        "address": "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e"
       }
     ],
     "ethereum": [
@@ -39,6 +42,9 @@
       },
       {
         "address": "0x5550d13389bb70f45fcef58f19f6b6e87f6e747d"
+      },
+      {
+        "address": "0xe43ca1dee3f0fc1e2df73a0745674545f11a59f5"
       }
     ],
     "polygon": [
@@ -61,6 +67,37 @@
       },
       {
         "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+      },
+      {
+        "address": "0x33d91116e0370970444b0281ab117e161febfcdd"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xeb94eca012ec0bbb254722fdda2ce7475875a52b"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xfb70ad5a200d784e7901230e6875d91d5fa6b68c"
+      },
+      {
+        "address": "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x09bd2a33c47746ff03b86bce4e885d03c74a8e8c"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x83ec81ae54dd8dca17c3dd4703141599090751d1"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x8f54301f315c56c112d492d9443047d4745dbe9e"
       }
     ]
   }

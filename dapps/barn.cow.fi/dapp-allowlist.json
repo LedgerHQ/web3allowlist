@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cow",
+  "domain": "barn.cow.fi",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xd02de8da0b71e1b59489794f423fabba2adc4d93"
+      }
+    ]
+  }
+}

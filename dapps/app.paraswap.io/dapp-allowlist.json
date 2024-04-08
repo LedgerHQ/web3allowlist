@@ -18,6 +18,21 @@
       {
         "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
       }
+    ],
+    "fantom": [
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      }
     ]
   }
 }

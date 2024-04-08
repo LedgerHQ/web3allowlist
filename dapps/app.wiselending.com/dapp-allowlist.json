@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Wiselending",
+  "domain": "app.wiselending.com",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x4a56dcd67e66102e6a877de8bf2e903df5e18978"
+      }
+    ]
+  }
+}

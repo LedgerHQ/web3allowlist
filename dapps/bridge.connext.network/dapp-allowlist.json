@@ -44,6 +44,24 @@
       {
         "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x20c2a9430baa7251eb9143cbe80ac3968893d06c"
+      },
+      {
+        "address": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xb0eef3e1de973d045c3858e072c540299585252d"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xace3d3fa125be4da12c59c865c588b98564900b7"
+      }
     ]
   }
 }

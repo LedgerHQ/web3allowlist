@@ -8,6 +8,31 @@
       {
         "address": "0x6571d6be3d8460cf5f7d6711cd9961860029d85f"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+      }
     ]
   }
 }

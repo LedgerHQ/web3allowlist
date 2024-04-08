@@ -27,6 +27,21 @@
       {
         "address": "0x89a56ff41a4be1360f780c5abfba8fd7eced2c7a"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0x24bbc063def30ae81aecc659b97a8b2562b2afcd"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x87a659d0433f21e257f5d252fe163e1341ddce81"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xc9d0b733adaa1f851639ca47a9a2d8a6c8572bdb"
+      }
     ]
   }
 }

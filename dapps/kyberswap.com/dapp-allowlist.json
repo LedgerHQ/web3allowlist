@@ -105,6 +105,26 @@
       {
         "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      }
     ]
   }
 }

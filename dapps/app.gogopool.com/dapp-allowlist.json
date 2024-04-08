@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gogopool",
+  "domain": "app.gogopool.com",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xa25eaf2906fa1a3a13edac9b9657108af7b703e3"
+      }
+    ]
+  }
+}

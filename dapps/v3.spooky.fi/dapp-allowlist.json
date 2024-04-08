@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Spooky",
+  "domain": "v3.spooky.fi",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0x6ab0ca9c94fde313a3a1d34a8247ae6065bd2e73"
+      }
+    ]
+  }
+}

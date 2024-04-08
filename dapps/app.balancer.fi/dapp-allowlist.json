@@ -8366,6 +8366,31 @@
       {
         "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
       }
+    ],
+    "gnosis": [
+      {
+        "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+      }
     ]
   }
 }

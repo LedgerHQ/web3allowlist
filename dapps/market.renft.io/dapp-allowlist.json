@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Renft",
+  "domain": "market.renft.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xa8d3f65b6e2922fed1430b77ac2b557e1fa8da4a"
+      }
+    ]
+  }
+}

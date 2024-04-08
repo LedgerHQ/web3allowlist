@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Xswap",
+  "domain": "xswap.link",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+      }
+    ]
+  }
+}

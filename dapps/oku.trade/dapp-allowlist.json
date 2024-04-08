@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Oku",
+  "domain": "oku.trade",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x4c60051384bd2d3c01bfc845cf5f4b44bcbe9de5"
+      }
+    ]
+  }
+}

@@ -8,6 +8,26 @@
       {
         "address": "0x0689be64c84299622b3744c32af5bc9b3e45e2d5"
       }
+    ],
+    "bsc": [
+      {
+        "address": "0x21a2a1b97e8dbbfe87165b3d438023120a0af9c1"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x5f806cde48e6ac70f446e9421377ba230b43e7f3"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xca2462c4203259e0ae1c21c0849e3fed71be6cc6"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x28775721763c9a5aaa348145831f9379d20884a1"
+      }
     ]
   }
 }

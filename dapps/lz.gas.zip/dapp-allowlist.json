@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gas",
+  "domain": "lz.gas.zip",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xbf94ed69281709958c8f60bc15cd1bb6badcd4a4"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xbf94ed69281709958c8f60bc15cd1bb6badcd4a4"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xbf94ed69281709958c8f60bc15cd1bb6badcd4a4"
+      }
+    ]
+  }
+}

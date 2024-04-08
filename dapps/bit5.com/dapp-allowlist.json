@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bit5",
+  "domain": "bit5.com",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x4b17f5ef7f6ccdd06105f0a260c0e39ec6376007"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x4b17f5ef7f6ccdd06105f0a260c0e39ec6376007"
+      }
+    ]
+  }
+}

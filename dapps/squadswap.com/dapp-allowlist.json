@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Squadswap",
+  "domain": "squadswap.com",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x8b0c61843dc450637e88e524666f5fe18ccc727b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ape",
+  "domain": "ape.bond",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ]
+  }
+}

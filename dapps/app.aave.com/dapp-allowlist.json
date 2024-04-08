@@ -471,6 +471,30 @@
       {
         "address": "0xb7e51aa2a5f4dd478f183a593f67637ed6f1d1d9"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0xe9e52021f4e11dead8661812a0a6c8627aba2a54"
+      },
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0x2dec8bce3471ed65b1bb558fa28439d45bf446d0"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0xecd4bd3121f9fd604ffac631bf6d41ec12f1fafb"
+      }
     ]
   }
 }

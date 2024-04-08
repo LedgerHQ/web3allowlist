@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Spiritswap",
+  "domain": "spiritswap.finance",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0x41d59d665c9f8e2bcd501317f41fefeb7bb18f28"
+      }
+    ]
+  }
+}

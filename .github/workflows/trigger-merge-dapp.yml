@@ -8,6 +8,7 @@ on:
       - ".github/scripts/validate-and-merge-cli.scala"
       - ".github/workflows/merge-dapp.yml"
       - "dapps/**/*.json"
+  workflow_dispatch:
 
 
 jobs:

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Whirlprivacy",
+  "domain": "whirlprivacy.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x35ec5f1ae635f5483331f54088ecec816ea78fb1"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x35ec5f1ae635f5483331f54088ecec816ea78fb1"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x35ec5f1ae635f5483331f54088ecec816ea78fb1"
+      }
+    ]
+  }
+}

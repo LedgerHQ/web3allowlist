@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "W3swap",
+  "domain": "bsc.w3swap.link",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xf29ace1fe5f36389d0dde450a0195a30c3770245"
+      }
+    ]
+  }
+}

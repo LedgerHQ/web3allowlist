@@ -8,6 +8,11 @@
       {
         "address": "0xa67aa293642c4e02d1b9f360b007c0dbdc451a08"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xa19fd5ab6c8dcffa2a295f78a5bb4ac543aaf5e3"
+      }
     ]
   }
 }

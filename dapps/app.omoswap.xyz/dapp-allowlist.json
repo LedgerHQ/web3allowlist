@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Omoswap",
+  "domain": "app.omoswap.xyz",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x959dc4977a028485f6870c98d8b741f69f764ae7"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x65c497f7572f6e86c89ce0ebb02ebd57db45c4df"
+      }
+    ]
+  }
+}

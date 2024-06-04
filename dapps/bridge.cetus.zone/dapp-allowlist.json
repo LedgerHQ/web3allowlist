@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cetus",
+  "domain": "bridge.cetus.zone",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x48b6101128c0ed1e208b7c910e60542a2ee6f476"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x610d4dfac3ec32e0be98d18ddb280dacd76a1889"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x0e082f06ff657d94310cb8ce8b0d9a04541d8052"
+      }
+    ]
+  }
+}

@@ -100,6 +100,9 @@
       },
       {
         "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+      },
+      {
+        "address": "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
       }
     ],
     "fantom": [
@@ -117,6 +120,9 @@
       },
       {
         "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xd0c22a5435f4e8e5770c1fafb5374015fc12f7cd"
       }
     ],
     "arbitrum": [
@@ -188,6 +194,14 @@
       },
       {
         "address": "0x59c7c832e96d2568bea6db468c1aadcbbda08a52"
+      },
+      {
+        "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
       }
     ]
   }

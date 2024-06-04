@@ -8,6 +8,26 @@
       {
         "address": "0x3b3ae790df4f312e745d270119c6052904fb6790"
       }
+    ],
+    "bsc": [
+      {
+        "address": "0x9333c74bdd1e118634fe5664aca7a9710b108bab"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xa748d6573aca135af68f2635be60cb80278bd855"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xf332761c673b59b21ff6dfa8ada44d78c12def09"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+      }
     ]
   }
 }

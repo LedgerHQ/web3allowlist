@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Rai",
+  "domain": "soswap.rai.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0xd55a4d54f39baf26da2f3ee7be9a6388c15f9831"
+      }
+    ]
+  }
+}

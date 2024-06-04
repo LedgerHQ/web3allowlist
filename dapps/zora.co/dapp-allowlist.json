@@ -20,6 +20,11 @@
       {
         "address": "0x1a0ad011913a150f69f6a19df447a0cfd9551054"
       }
+    ],
+    "base": [
+      {
+        "address": "0x05490ae02f71d2f3d1c96a7e62b44a1b2348c66b"
+      }
     ]
   }
 }

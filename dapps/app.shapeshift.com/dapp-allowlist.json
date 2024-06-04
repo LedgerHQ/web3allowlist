@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Shapeshift",
+  "domain": "app.shapeshift.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xd37bbe5744d730a1d98d8dc97c42f0ca46ad7146"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xb30ec53f98ff5947ede720d32ac2da7e52a5f56b"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ]
+  }
+}

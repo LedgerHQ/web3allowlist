@@ -17,11 +17,80 @@
     "ethereum": [
       {
         "address": "0xafa5f9313f1f2b599173f24807a882f498be118c"
+      },
+      {
+        "address": "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
+      },
+      {
+        "address": "0xf5379e7515b5678ada4866b1cd191b95182461c0"
       }
     ],
     "bsc": [
       {
         "address": "0xef1eae0457e8d56a003d781569489bc5466e574b"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xafa5f9313f1f2b599173f24807a882f498be118c"
+      },
+      {
+        "address": "0x1812d05671eefa040ac605a0198476ded081d520"
+      },
+      {
+        "address": "0x2a5c54c625220cb2166c94dd9329be1f8785977d"
+      },
+      {
+        "address": "0xd7ba4057f43a7c4d4a34634b2a3151a60bf78f0d"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x8a555e4fc287650f5e8ca1778a35dd44e893d6aa"
+      },
+      {
+        "address": "0xef62b433ca3ac8b151c4a255de3ed3da4e60add2"
+      },
+      {
+        "address": "0x85fd2da31262d26471c738ce357a3767635a0956"
+      },
+      {
+        "address": "0xaa58e77238f0e4a565343a89a79b4addd744d649"
+      },
+      {
+        "address": "0x233888f5dc1d3c0360b559abc029675290dafa70"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
+      },
+      {
+        "address": "0xe030543b943bdcd6559711ec8d344389c66e1d56"
+      },
+      {
+        "address": "0x70ea00ab512d13dac5001c968f8d2263d179e2d2"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x97337a9710beb17b8d77ca9175defba5e9afe62e"
+      },
+      {
+        "address": "0xf56605276cefffe32dfd8b6bf80b93c2a6840136"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x6bf98654205b1ac38645880ae20fc00b0bb9ffca"
+      },
+      {
+        "address": "0x0cb0354e9c51960a7875724343dfc37b93d32609"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0xc20a842e1fc2681920c1a190552a2f13c46e7fcf"
       }
     ]
   }

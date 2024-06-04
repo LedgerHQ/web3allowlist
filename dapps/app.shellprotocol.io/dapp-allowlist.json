@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Shellprotocol",
+  "domain": "app.shellprotocol.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x96b4f4e401ccd70ec850c1cf8b405ad58fd5fb7a"
+      }
+    ]
+  }
+}

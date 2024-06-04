@@ -22,6 +22,14 @@
     "base": [
       {
         "address": "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+      },
+      {
+        "address": "0x09aea4b2242abc8bb4bb78d537a67a245a7bec64"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x9295ee1d8c5b022be115a2ad3c30c72e34e7f096"
       }
     ]
   }

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Airpuff",
+  "domain": "app.airpuff.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xe543eba28a3793d5ae747a2164a306db1767cdae"
+      },
+      {
+        "address": "0xec69aac84d3081aa6f4636c5dbd3d7c2c2f42a9c"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x6295248f578bfa9c057a3e1182bed27121530e7a"
+      }
+    ]
+  }
+}

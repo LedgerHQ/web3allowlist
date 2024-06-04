@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Magpiefi",
+  "domain": "app.magpiefi.xyz",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+      },
+      {
+        "address": "0x1f030e4f3302670794f355afc0d30f4ae30641a0"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xbd96bca0d3a4fcc18dc44d333a7851c513772289"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+      },
+      {
+        "address": "0xbd96bca0d3a4fcc18dc44d333a7851c513772289"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+      }
+    ]
+  }
+}

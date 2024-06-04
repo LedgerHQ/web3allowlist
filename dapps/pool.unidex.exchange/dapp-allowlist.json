@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Unidex",
+  "domain": "pool.unidex.exchange",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x4baba27338e80ed571353f7e98d1cc4fbbcf46e4"
+      }
+    ]
+  }
+}

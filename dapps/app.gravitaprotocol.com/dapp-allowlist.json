@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gravitaprotocol",
+  "domain": "app.gravitaprotocol.com",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487"
+      }
+    ]
+  }
+}

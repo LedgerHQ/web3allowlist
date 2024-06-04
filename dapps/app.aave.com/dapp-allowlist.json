@@ -470,6 +470,12 @@
     "gnosis": [
       {
         "address": "0xb7e51aa2a5f4dd478f183a593f67637ed6f1d1d9"
+      },
+      {
+        "address": "0xb50201558b00496a145fe76f7424749556e326d8"
+      },
+      {
+        "address": "0xfe76366a986b72c3f2923e05e6ba07b7de5401e4"
       }
     ],
     "optimism": [
@@ -478,6 +484,9 @@
       },
       {
         "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0x794a61358d6845594f94dc1db02a252b5b4814ad"
       }
     ],
     "avalanche": [
@@ -494,6 +503,9 @@
       },
       {
         "address": "0xecd4bd3121f9fd604ffac631bf6d41ec12f1fafb"
+      },
+      {
+        "address": "0x794a61358d6845594f94dc1db02a252b5b4814ad"
       }
     ]
   }

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Primestaked",
+  "domain": "app.primestaked.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xe592427a0aece92de3edee1f18e0157c05861564"
+      }
+    ]
+  }
+}

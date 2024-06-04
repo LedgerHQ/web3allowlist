@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Instadapp",
+  "domain": "fluid.instadapp.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x90551c1795392094fe6d29b758eccd233cfaa260"
+      }
+    ]
+  }
+}

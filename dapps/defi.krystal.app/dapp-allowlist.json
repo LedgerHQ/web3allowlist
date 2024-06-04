@@ -13,6 +13,16 @@
       {
         "address": "0x70270c228c5b4279d1578799926873aa72446ccd"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x864f01c5e46b0712643b956bca607bf883e0dbc5"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x70270c228c5b4279d1578799926873aa72446ccd"
+      }
     ]
   }
 }

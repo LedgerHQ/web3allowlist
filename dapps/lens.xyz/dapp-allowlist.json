@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Lens",
+  "domain": "lens.xyz",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x0b5e6100243f793e480de6088de6ba70aa9f3872"
+      }
+    ]
+  }
+}

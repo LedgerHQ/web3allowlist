@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tarot",
+  "domain": "tarot.to",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x6108feaa628155b073150f408d0b390ec3121834"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x466ebd9ec2027776fa11a982e9bbe4f67aa6e86b"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x8d92b5f12c1beba3583861e9c3067d088bc2ff05"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x8184fa7dd835efd2ddf90a3072efff4928405990"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x11876c56204b2e1e9763a802b7f15fc942ebf1ac"
+      }
+    ]
+  }
+}

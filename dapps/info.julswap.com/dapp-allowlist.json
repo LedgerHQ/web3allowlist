@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Julswap",
+  "domain": "info.julswap.com",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xbd67d157502a23309db761c41965600c2ec788b2"
+      }
+    ]
+  }
+}

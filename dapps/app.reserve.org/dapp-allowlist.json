@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Reserve",
+  "domain": "app.reserve.org",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xffa151ad0a0e2e40f39f9e5e9f87cf9e45e819dd"
+      }
+    ]
+  }
+}

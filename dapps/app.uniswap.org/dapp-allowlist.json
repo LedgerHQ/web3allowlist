@@ -106,11 +106,26 @@
     "avalanche": [
       {
         "address": "0x82635af6146972cd6601161c4472ffe97237d292"
+      },
+      {
+        "address": "0x655c406ebfa14ee2006250925e54ec43ad184f8b"
+      },
+      {
+        "address": "0x4dae2f939acf50408e13d58534ff8c2776d45265"
       }
     ],
     "base": [
       {
         "address": "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
+      },
+      {
+        "address": "0x03a520b32c04bf3beef7beb72e919cf822ed34f1"
+      },
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+      },
+      {
+        "address": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24"
       }
     ],
     "optimism": [
@@ -119,6 +134,22 @@
       },
       {
         "address": "0xcb1355ff08ab38bbce60111f1bb2b784be25d7e8"
+      },
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      },
+      {
+        "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x3d79edaabc0eab6f08ed885c05fc0b014290d95a"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88"
       }
     ]
   }

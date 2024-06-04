@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Vaultka",
+  "domain": "vaultka.com",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x8a98929750e6709af765f976c6bddb5bffe6c06c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Unidex",
+  "domain": "app.unidex.exchange",
+  "chains": {
+    "base": [
+      {
+        "address": "0x59c7c832e96d2568bea6db468c1aadcbbda08a52"
+      },
+      {
+        "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0xc4729e56b831d74bbc18797e0e17a295fa77488c"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xdef1abe32c034e558cdd535791643c58a13acc10"
+      },
+      {
+        "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+      },
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xd5ec61bca0af24ad06be431585a0920142c98890"
+      },
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x50f9bde1c76bba997a5d6e7fefff695ec8536194"
+      },
+      {
+        "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+      },
+      {
+        "address": "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
+      },
+      {
+        "address": "0xbeb09000fa59627dc02bb55448ac1893eaa501a5"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xdef189deaef76e379df891899eb5a00a94cbc250"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      }
+    ]
+  }
+}

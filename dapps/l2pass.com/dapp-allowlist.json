@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "L2pass",
+  "domain": "l2pass.com",
+  "chains": {
+    "base": [
+      {
+        "address": "0x222228060e7efbb1d78bb5d454581910e3922222"
+      },
+      {
+        "address": "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x222228060e7efbb1d78bb5d454581910e3922222"
+      },
+      {
+        "address": "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x222228060e7efbb1d78bb5d454581910e3922222"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+      },
+      {
+        "address": "0x222228060e7efbb1d78bb5d454581910e3922222"
+      }
+    ]
+  }
+}

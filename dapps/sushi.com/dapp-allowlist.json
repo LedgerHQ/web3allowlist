@@ -28,6 +28,9 @@
       },
       {
         "address": "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
       }
     ],
     "ethereum": [
@@ -70,6 +73,9 @@
       },
       {
         "address": "0x33d91116e0370970444b0281ab117e161febfcdd"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
       }
     ],
     "optimism": [
@@ -88,16 +94,36 @@
     "arbitrum": [
       {
         "address": "0x09bd2a33c47746ff03b86bce4e885d03c74a8e8c"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
       }
     ],
     "base": [
       {
         "address": "0x83ec81ae54dd8dca17c3dd4703141599090751d1"
+      },
+      {
+        "address": "0x80c7dd17b01855a6d2347444a0fcc36136a314de"
+      },
+      {
+        "address": "0x0389879e0156033202c44bf784ac18fc02edee4f"
       }
     ],
     "avalanche": [
       {
         "address": "0x8f54301f315c56c112d492d9443047d4745dbe9e"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959"
       }
     ]
   }

@@ -7,6 +7,25 @@
     "fantom": [
       {
         "address": "0x31f63a33141ffee63d4b26755430a390acdd8a4d"
+      },
+      {
+        "address": "0x7c9fc5741288cdfdd83ceb07f3ea7e22618d79d2"
+      },
+      {
+        "address": "0x9c9c920e51778c4abf727b8bb223e78132f00aa4"
+      },
+      {
+        "address": "0xb39d21718e24de36fdd8c5c73e928b5eff33d6c2"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xcafd2f0a35a4459fa40c0517e17e6fa2939441ca"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xcafd2f0a35a4459fa40c0517e17e6fa2939441ca"
       }
     ]
   }

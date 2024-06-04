@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Stcelo",
+  "domain": "app.stcelo.xyz",
+  "chains": {
+    "celo": [
+      {
+        "address": "0x0239b96d10a434a56cc9e09383077a0490cf9398"
+      }
+    ]
+  }
+}

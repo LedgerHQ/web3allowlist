@@ -7,6 +7,9 @@
     "ethereum": [
       {
         "address": "0x150f94b44927f078737562f0fcf3c95c01cc2376"
+      },
+      {
+        "address": "0x77b2043768d28e9c9ab44e1abfc95944bce57931"
       }
     ],
     "polygon": [
@@ -22,6 +25,19 @@
     "optimism": [
       {
         "address": "0xb49c4e680174e331cb0a7ff3ab58afc9738d5f8b"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x138eb30f73bc423c6455c53df6d89cb01d9ebc63"
+      },
+      {
+        "address": "0x4a364f8c717caad9a442737eb7b8a55cc6cf18d8"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xdc181bd607330aeebef6ea62e03e5e1fb4b6f7c7"
       }
     ]
   }

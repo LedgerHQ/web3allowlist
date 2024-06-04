@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Decent",
+  "domain": "app.decent.xyz",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x21f6ec768058ca2b3701099f7cea4c9a8cd63015"
+      }
+    ]
+  }
+}

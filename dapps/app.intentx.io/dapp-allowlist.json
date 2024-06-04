@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Intentx",
+  "domain": "app.intentx.io",
+  "chains": {
+    "base": [
+      {
+        "address": "0x8ab178c07184ffd44f0adff4ea2ce6cfc33f3b86"
+      }
+    ]
+  }
+}

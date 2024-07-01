@@ -8,6 +8,37 @@
       {
         "address": "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x16cd38b1b54e7abf307cb2697e2d9321e843d5aa"
+      },
+      {
+        "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+      },
+      {
+        "address": "0x840b25c87b626a259ca5ac32124fa752f0230a72"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0xf1ddcaca7d17f8030ab2eb54f2d9811365efe123"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x2859a4ebcb58c8dd5cac1419c4f63a071b642b20"
+      }
     ]
   }
 }

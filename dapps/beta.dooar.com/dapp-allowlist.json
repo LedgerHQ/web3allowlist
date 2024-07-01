@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dooar",
+  "domain": "beta.dooar.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x53e0e51b5ed9202110d7ecd637a4581db8b9879f"
+      }
+    ]
+  }
+}

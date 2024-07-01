@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bigint",
+  "domain": "bigint.co",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x9d8fb238e51653314815c3e14bf008aa8fe9304e"
+      }
+    ]
+  }
+}

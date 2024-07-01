@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Velocore",
+  "domain": "zksync.velocore.xyz",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0xf5e67261cb357edb6c7719fefafaab280cb5e2a6"
+      }
+    ]
+  }
+}

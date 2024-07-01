@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tinyworlds",
+  "domain": "app.tinyworlds.io",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x96eade4c5ca5251caa7801ed38fada4807f63cbe"
+      },
+      {
+        "address": "0x390e1ba132ed9ff3394d8aa484983cc8c85f8149"
+      },
+      {
+        "address": "0xe159610b7ba269dc03b4316b0d9e1d06aad237a7"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x8be40208096458e94d14c7d6aaaf3d38d0fa61cc"
+      },
+      {
+        "address": "0xa7dee58771232b14fd0e22763dba87963f3dec83"
+      }
+    ]
+  }
+}

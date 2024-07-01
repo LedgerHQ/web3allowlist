@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Owlto",
+  "domain": "owlto.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x872fc5fed2d1261aba4e234a47f473c9a3da2724"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x26637c9fdbd5ecdd76a9e21db7ea533e1b0713b6"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xd48e3caf0d948203434646a3f3e80f8ee18007dc"
+      }
+    ]
+  }
+}

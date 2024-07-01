@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Goal3",
+  "domain": "portal.goal3.xyz",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x6f60788d4e852f9bd193da479a97e2839f0fbcec"
+      }
+    ]
+  }
+}

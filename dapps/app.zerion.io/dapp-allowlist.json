@@ -78,6 +78,14 @@
       {
         "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0xe4c82643a4f9fd288322cc6fbd7c48ab068b38d3"
+      },
+      {
+        "address": "0xadde7028e7ec226777e5dea5d53f6457c21ec7d6"
+      }
     ]
   }
 }

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Sound",
+  "domain": "sound.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0x000000000001a36777f9930aaeff623771b13e70"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x000000000001a36777f9930aaeff623771b13e70"
+      }
+    ]
+  }
+}

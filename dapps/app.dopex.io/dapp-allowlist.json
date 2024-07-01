@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dopex",
+  "domain": "app.dopex.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x501b03bdb431154b8df17bf1c00756e3a8f21744"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tevaera",
+  "domain": "tevaera.com",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0xd29aa7bdd3cbb32557973dad995a3219d307721f"
+      }
+    ]
+  }
+}

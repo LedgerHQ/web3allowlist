@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zknation",
+  "domain": "vote.zknation.io",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e"
+      }
+    ]
+  }
+}

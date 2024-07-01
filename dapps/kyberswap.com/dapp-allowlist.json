@@ -125,6 +125,11 @@
       {
         "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x3f95ef3f2eaca871858dbe20a93c01daf6c2e923"
+      }
     ]
   }
 }

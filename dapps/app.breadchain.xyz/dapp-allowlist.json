@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Breadchain",
+  "domain": "app.breadchain.xyz",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xa555d5344f6fb6c65da19e403cb4c1ec4a1a5ee3"
+      }
+    ]
+  }
+}

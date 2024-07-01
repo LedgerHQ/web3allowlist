@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Euclidfinance",
+  "domain": "euclidfinance.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x26803cb8bd2916eb58c3610cab50077a96d29947"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Harmony",
+  "domain": "bridge.harmony.one",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x1edb8bded80e1b87ed19ee7d97ee80b4fdb615c1"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x128aedc7f41ffb82131215e1722d8366faad0cd4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Masa",
+  "domain": "app.masa.finance",
+  "chains": {
+    "celo": [
+      {
+        "address": "0x6aa37df2392007209c54a2162bef21623705dc22"
+      }
+    ]
+  }
+}

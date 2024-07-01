@@ -10,6 +10,9 @@
       },
       {
         "address": "0x7268bcf71afe37818cb2deb609f62db164131090"
+      },
+      {
+        "address": "0x57ea46759fed1b47c200a9859e576239a941df76"
       }
     ],
     "bsc": [
@@ -26,6 +29,43 @@
       },
       {
         "address": "0x0c988b66edef267d04f100a879db86cdb7b9a34f"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x7a6e01880693093abaccf442fcbed9e0435f1030"
+      },
+      {
+        "address": "0x91474fe836bbbe63ef72de2846244928860bce1b"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x73ce60416035b8d7019f6399778c14ccf5c9c7a1"
+      },
+      {
+        "address": "0xd195070107d853e55dad9a2e6e7e970c400e67b8"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xe4e156167cc9c7ac4abd8d39d203a5495f775547"
+      },
+      {
+        "address": "0x935283a00fbf8e40fd2f8c432a488f6addc8db67"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x2c86f0ff75673d489b7d72d9986929a2b0ed596c"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xd1ae4594e47c153ae98f09e0c9267fb74447fea3"
+      },
+      {
+        "address": "0x33383265290421c704c6b09f4bf27ce574dc4203"
       }
     ]
   }

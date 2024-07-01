@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Delegate",
+  "domain": "delegate.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x00000000000000447e69651d841bd8d104bed493"
+      },
+      {
+        "address": "0x1e0049783f008a0085193e00003d00cd54003c71"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x00000000000076a84fef008cdabe6409d2fe638b"
+      }
+    ]
+  }
+}

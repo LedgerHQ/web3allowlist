@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Knightswap",
+  "domain": "dark.knightswap.financial",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0x045312c737a6b7a115906be0ad0ef53a6aa38106"
+      }
+    ]
+  }
+}

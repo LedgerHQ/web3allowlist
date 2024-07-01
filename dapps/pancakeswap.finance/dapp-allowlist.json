@@ -16,6 +16,9 @@
       },
       {
         "address": "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
+      },
+      {
+        "address": "0x65b382653f7c31bc0af67f188122035461ec9c76"
       }
     ],
     "bsc": [
@@ -30,16 +33,36 @@
       },
       {
         "address": "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
+      },
+      {
+        "address": "0x1a0a18ac4becddbd6389559687d1a73d8927e416"
+      },
+      {
+        "address": "0xfa249caa1d16f75fa159f7dfbac0cc5eab48ceff"
       }
     ],
     "base": [
       {
         "address": "0x678aa4bf4e210cf2166753e054d5b7c31cc7fa86"
+      },
+      {
+        "address": "0xfe6508f0015c778bdcc1fb5465ba5ebe224c9912"
       }
     ],
     "arbitrum": [
       {
         "address": "0x32226588378236fd0c7c4053999f88ac0e5cac77"
+      },
+      {
+        "address": "0xfe6508f0015c778bdcc1fb5465ba5ebe224c9912"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xf8b59f3c3ab33200ec80a8a58b2aa5f5d2a8944c"
+      },
+      {
+        "address": "0xdaee41e335322c85ff2c5a6745c98e1351806e98"
       }
     ]
   }

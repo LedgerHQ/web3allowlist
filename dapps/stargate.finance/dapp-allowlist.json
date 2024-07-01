@@ -7,6 +7,9 @@
     "ethereum": [
       {
         "address": "0x150f94b44927f078737562f0fcf3c95c01cc2376"
+      },
+      {
+        "address": "0x77b2043768d28e9c9ab44e1abfc95944bce57931"
       }
     ],
     "polygon": [
@@ -17,11 +20,41 @@
     "arbitrum": [
       {
         "address": "0xbf22f0f184bccbea268df387a49ff5238dd23e40"
+      },
+      {
+        "address": "0xe8cdf27acd73a434d661c84887215f7598e7d0d3"
+      },
+      {
+        "address": "0xa45b5130f36cdca45667738e2a258ab09f4a5f7f"
       }
     ],
     "optimism": [
       {
         "address": "0xb49c4e680174e331cb0a7ff3ab58afc9738d5f8b"
+      },
+      {
+        "address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b"
+      },
+      {
+        "address": "0xe8cdf27acd73a434d661c84887215f7598e7d0d3"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x138eb30f73bc423c6455c53df6d89cb01d9ebc63"
+      },
+      {
+        "address": "0x4a364f8c717caad9a442737eb7b8a55cc6cf18d8"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xdc181bd607330aeebef6ea62e03e5e1fb4b6f7c7"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x5634c4a5fed09819e3c46d86a965dd9447d86e47"
       }
     ]
   }

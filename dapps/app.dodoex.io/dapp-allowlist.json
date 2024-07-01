@@ -166,6 +166,24 @@
     "avalanche": [
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0x1f076a800005c758a505e759720eb6737136e893"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x987bfbe33c9cf18caa665b792db66339a9c16d32"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x716fcc67dca500a91b4a28c9255262c398d8f971"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xe05dd51e4eb5636f4f0e8e7fbe82ea31a2ecef16"
       }
     ]
   }

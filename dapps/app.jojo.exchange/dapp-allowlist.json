@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Jojo",
+  "domain": "app.jojo.exchange",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xcd85998b31c85040c8ba59288eaa8f9bee115b01"
+      }
+    ]
+  }
+}

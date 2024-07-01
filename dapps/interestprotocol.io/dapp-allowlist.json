@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Interestprotocol",
+  "domain": "interestprotocol.io",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0x05498574bd0fa99eecb01e1241661e7ee58f8a85"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x4aae9823fb4c70490f1d802fc697f3fff8d5cbe3"
+      }
+    ]
+  }
+}

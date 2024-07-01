@@ -182,6 +182,12 @@
       },
       {
         "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6"
+      },
+      {
+        "address": "0xbc0797015fcfc47d9c1856639cae50d0e69fbee8"
+      },
+      {
+        "address": "0x98ee851a00abee0d95d08cf4ca2bdce32aeaaf7f"
       }
     ],
     "optimism": [
@@ -192,6 +198,14 @@
     "base": [
       {
         "address": "0xd6681e74eea20d196c15038c580f721ef2ab6320"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x98ee851a00abee0d95d08cf4ca2bdce32aeaaf7f"
+      },
+      {
+        "address": "0x1764ee18e8b3cca4787249ceb249356192594585"
       }
     ]
   }

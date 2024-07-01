@@ -8,6 +8,24 @@
       {
         "address": "0xf7b75183a2829843db06266c114297dfbfaee2b6"
       }
+    ],
+    "base": [
+      {
+        "address": "0x881cd31218f45a75f8ad543a3e1af087f3986ae0"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
     ]
   }
 }

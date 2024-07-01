@@ -10,11 +10,30 @@
       },
       {
         "address": "0x00000000005bbb0ef59571e58418f9a4357b68a0"
+      },
+      {
+        "address": "0x888888888889758f76e7103c6cbf23abbf58f946"
       }
     ],
     "arbitrum": [
       {
         "address": "0x00000000005bbb0ef59571e58418f9a4357b68a0"
+      },
+      {
+        "address": "0x888888888889758f76e7103c6cbf23abbf58f946"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x00000000005bbb0ef59571e58418f9a4357b68a0"
+      },
+      {
+        "address": "0x888888888889758f76e7103c6cbf23abbf58f946"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x888888888889758f76e7103c6cbf23abbf58f946"
       }
     ]
   }

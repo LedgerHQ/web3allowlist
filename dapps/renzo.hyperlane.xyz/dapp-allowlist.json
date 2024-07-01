@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Hyperlane",
+  "domain": "renzo.hyperlane.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xdff621f952c23972dfd3a9e5d7b9f6339e9c078b"
+      }
+    ]
+  }
+}

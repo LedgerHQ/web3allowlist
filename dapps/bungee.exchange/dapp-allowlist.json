@@ -46,6 +46,9 @@
     "base": [
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0xe8c5b8488feafb5df316be73ede3bdc26571a773"
       }
     ],
     "optimism": [
@@ -54,6 +57,14 @@
       },
       {
         "address": "0x5800249621da520adfdca16da20d8a5fc0f814d8"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xadde7028e7ec226777e5dea5d53f6457c21ec7d6"
+      },
+      {
+        "address": "0x7ee459d7fde8b4a3c22b9c8c7aa52abaddd9ffd5"
       }
     ]
   }

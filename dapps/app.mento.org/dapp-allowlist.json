@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mento",
+  "domain": "app.mento.org",
+  "chains": {
+    "celo": [
+      {
+        "address": "0x777a8255ca72412f0d706dc03c9d1987306b4cad"
+      }
+    ]
+  }
+}

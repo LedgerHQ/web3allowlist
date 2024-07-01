@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mercle",
+  "domain": "app.mercle.xyz",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x6576696d043e5ee07f00711e7ea9f101ef86b333"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x87a701770996b323560e332396b33839482e2641"
+      }
+    ]
+  }
+}

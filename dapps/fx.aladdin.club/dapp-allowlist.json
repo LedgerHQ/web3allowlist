@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Aladdin",
+  "domain": "fx.aladdin.club",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xa5e2ec4682a32605b9098ddd7204fe84ab932fe4"
+      },
+      {
+        "address": "0x5c28b966ab37cfb9397bbc04595f91f0fbf06d9b"
+      }
+    ]
+  }
+}

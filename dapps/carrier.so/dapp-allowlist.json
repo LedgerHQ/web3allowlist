@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Carrier",
+  "domain": "carrier.so",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x0e082f06ff657d94310cb8ce8b0d9a04541d8052"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x7c9fc5741288cdfdd83ceb07f3ea7e22618d79d2"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xb6f6d86a8f9879a9c87f643768d9efc38c1da6e7"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x0b2402144bb366a632d14b83f244d2e0e21bd39c"
+      }
+    ]
+  }
+}

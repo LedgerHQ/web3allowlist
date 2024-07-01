@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Syncswap",
+  "domain": "syncswap.xyz",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x9b5def958d0f3b6955cbea4d5b7809b2fb26b059"
+      },
+      {
+        "address": "0x2da10a1e27bf85cedd8ffb1abbe97e53391c0295"
+      },
+      {
+        "address": "0x2b9a7d5cd64e5c1446b32e034e75a5c93b0c8bb5"
+      }
+    ]
+  }
+}

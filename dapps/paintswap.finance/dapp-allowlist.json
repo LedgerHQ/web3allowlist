@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Paintswap",
+  "domain": "paintswap.finance",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0xcb80f529724b9620145230a0c866ac2facbe4e3d"
+      },
+      {
+        "address": "0xf3df7b6dccc267393784a3876d0cbcbdc73147d4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Transporter",
+  "domain": "app.transporter.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x66598216d8e4d9afe0f06d525b335b762229842f"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x66598216d8e4d9afe0f06d525b335b762229842f"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x66598216d8e4d9afe0f06d525b335b762229842f"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Stellaswap",
+  "domain": "app.stellaswap.com",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ]
+  }
+}

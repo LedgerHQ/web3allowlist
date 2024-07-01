@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ubeswap",
+  "domain": "app.ubeswap.org",
+  "chains": {
+    "celo": [
+      {
+        "address": "0xe3d8bd6aed4f159bc8000a9cd47cffdb95f96121"
+      }
+    ]
+  }
+}

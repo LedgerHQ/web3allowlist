@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zkmarkets",
+  "domain": "zkmarkets.com",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x64848eefbc2921102a153b08fa64536ae1f8e937"
+      },
+      {
+        "address": "0xabf1fe6636b9271ac4c59a8193ab31589e512d5a"
+      }
+    ]
+  }
+}

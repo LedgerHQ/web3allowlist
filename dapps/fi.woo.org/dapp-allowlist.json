@@ -36,6 +36,11 @@
       {
         "address": "0x4c4af8dbc524681930a27b2f1af5bcc8062e6fb7"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x09873bfeca34f1acd0a7e55cda591f05d8a75369"
+      }
     ]
   }
 }

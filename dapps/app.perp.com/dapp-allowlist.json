@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Perp",
+  "domain": "app.perp.com",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0x82ac2ce43e33683c58be4cdc40975e73aa50f459"
+      }
+    ]
+  }
+}

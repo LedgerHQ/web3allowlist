@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mint",
+  "domain": "mint.club",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x29b0e6d2c2884aea3fb4cb5dd1c7002a8e10c724"
+      },
+      {
+        "address": "0x3fd5b4dcda968c8e22898523f5343177f94ccfd1"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x1349a9ddee26fe16d0d44e35b3cb9b0ca18213a4"
+      }
+    ]
+  }
+}

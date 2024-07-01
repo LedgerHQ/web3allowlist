@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ethos",
+  "domain": "app.ethos.finance",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0xaa0b41b61f76587cf85155147d7f3b7725d14eb3"
+      }
+    ]
+  }
+}

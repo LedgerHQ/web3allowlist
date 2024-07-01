@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Derivio",
+  "domain": "derivio.xyz",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x240d5645bffaf6f8bc3586e459a4155f270bcb3b"
+      }
+    ]
+  }
+}

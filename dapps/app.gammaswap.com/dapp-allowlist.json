@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gammaswap",
+  "domain": "app.gammaswap.com",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x5fbe219e88f6c6f214ce6f5b1fcaa0294f31ae1b"
+      }
+    ]
+  }
+}

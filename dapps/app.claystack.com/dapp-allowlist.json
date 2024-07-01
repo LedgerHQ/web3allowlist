@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Claystack",
+  "domain": "app.claystack.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x331312dabaf3d69138c047aac278c9f9e0e8fff8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Openxswap",
+  "domain": "marketplace.openxswap.exchange",
+  "chains": {
+    "base": [
+      {
+        "address": "0xbddcf6ab290e7ad076ca103183730d1bf0661112"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x7590c1aa03b6ac395e62b2a8b382272e4e1e823d"
+      }
+    ]
+  }
+}

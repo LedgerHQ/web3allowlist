@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Party",
+  "domain": "party.app",
+  "chains": {
+    "base": [
+      {
+        "address": "0x55fa719e8712c1d568ec5556bb27e8517f6aed6d"
+      }
+    ]
+  }
+}

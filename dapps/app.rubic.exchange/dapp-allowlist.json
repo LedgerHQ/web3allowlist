@@ -42,6 +42,16 @@
       {
         "address": "0x3335733c454805df6a77f825f266e136fb4a3333"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x8e70e517057e7380587ea6990dae81cb1ba405ce"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x3335733c454805df6a77f825f266e136fb4a3333"
+      }
     ]
   }
 }

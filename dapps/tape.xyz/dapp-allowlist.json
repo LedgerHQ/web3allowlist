@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tape",
+  "domain": "tape.xyz",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xd0f6d9676d36f5f4af5765fcb78c388b51577327"
+      }
+    ]
+  }
+}

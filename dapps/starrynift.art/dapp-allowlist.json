@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Starrynift",
+  "domain": "starrynift.art",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xe3ba0072d1da98269133852fba1795419d72baf4"
+      }
+    ]
+  }
+}

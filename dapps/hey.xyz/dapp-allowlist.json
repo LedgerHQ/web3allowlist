@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Hey",
+  "domain": "hey.xyz",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x4b8845acb8148de64d1d99cf27a3890a91f55e53"
+      }
+    ]
+  }
+}

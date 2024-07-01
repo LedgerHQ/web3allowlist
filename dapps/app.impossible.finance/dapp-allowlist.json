@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Impossible",
+  "domain": "app.impossible.finance",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x39e48491b3a182c3f6b699281d74af9f8a620cfa"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x56f6ca0a3364fa3ac9f0e8e9858b2966cdf39d03"
+      }
+    ]
+  }
+}

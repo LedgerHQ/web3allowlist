@@ -7,6 +7,15 @@
     "fantom": [
       {
         "address": "0x5023882f4d1ec10544fcb2066abe9c1645e95aa0"
+      },
+      {
+        "address": "0x2d0fd558fe73915322184dcf99c20c5eba86a1f3"
+      },
+      {
+        "address": "0x4178e335bd36295ffbc250490edbb6801081d022"
+      },
+      {
+        "address": "0xa1a938855735c0651a6cfe2e93a32a28a236d0e9"
       }
     ]
   }

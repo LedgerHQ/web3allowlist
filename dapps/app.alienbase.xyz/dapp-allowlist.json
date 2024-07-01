@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Alienbase",
+  "domain": "app.alienbase.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0x8c1a3cf8f83074169fe5d7ad50b978e1cd6b37c7"
+      },
+      {
+        "address": "0xb20c411fc84fbb27e78608c24d0056d974ea9411"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ]
+  }
+}

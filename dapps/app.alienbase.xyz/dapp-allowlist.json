@@ -7,6 +7,9 @@
     "base": [
       {
         "address": "0x8c1a3cf8f83074169fe5d7ad50b978e1cd6b37c7"
+      },
+      {
+        "address": "0xb20c411fc84fbb27e78608c24d0056d974ea9411"
       }
     ],
     "bsc": [

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zkswap",
+  "domain": "zkswap.finance",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x18381c0f738146fb694de18d1106bde2be040fa4"
+      },
+      {
+        "address": "0x9f9d043fb77a194b4216784eb5985c471b979d67"
+      }
+    ]
+  }
+}

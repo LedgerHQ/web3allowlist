@@ -17,6 +17,9 @@
     "base": [
       {
         "address": "0x610d4dfac3ec32e0be98d18ddb280dacd76a1889"
+      },
+      {
+        "address": "0x8d2de8d2f73f1f4cab472ac9a881c9b123c79627"
       }
     ],
     "bsc": [
@@ -27,6 +30,17 @@
     "optimism": [
       {
         "address": "0x9ae506cddd27dee1275fd1fe6627e5dc65257061"
+      },
+      {
+        "address": "0x1d68124e65fafc907325e3edbf8c4d84499daa8b"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x0b2402144bb366a632d14b83f244d2e0e21bd39c"
+      },
+      {
+        "address": "0x48fa7528bfd6164ddf09df0ed22451cf59c84130"
       }
     ]
   }

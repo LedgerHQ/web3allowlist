@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Stellaxyz",
+  "domain": "app.stellaxyz.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x032ba65c71c82d2e6dcf91cad148adc64a5f02a7"
+      }
+    ]
+  }
+}

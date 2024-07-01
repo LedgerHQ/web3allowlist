@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Koi",
+  "domain": "dapp.koi.finance",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x8b791913eb07c32779a16750e3868aa8495f5964"
+      }
+    ]
+  }
+}

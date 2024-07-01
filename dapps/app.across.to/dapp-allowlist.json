@@ -12,6 +12,9 @@
     "optimism": [
       {
         "address": "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+      },
+      {
+        "address": "0x6f26bf09b1c792e3228e5467807a900a503c0281"
       }
     ],
     "ethereum": [
@@ -30,6 +33,11 @@
     "polygon": [
       {
         "address": "0x9295ee1d8c5b022be115a2ad3c30c72e34e7f096"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xe0b015e54d54fc84a6cb9b666099c46ade9335ff"
       }
     ]
   }

@@ -28,6 +28,11 @@
       {
         "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
       }
+    ],
+    "avalanche": [
+      {
+        "address": "0x1dac23e41fc8ce857e86fd8c1ae5b6121c67d96d"
+      }
     ]
   }
 }

@@ -23,6 +23,16 @@
       {
         "address": "0x70270c228c5b4279d1578799926873aa72446ccd"
       }
+    ],
+    "avalanche": [
+      {
+        "address": "0x8c27abf05de1d4847c3924566c3cbafec6efb42a"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xf6f2dafa542fefaae22187632ef30d2daa252b4e"
+      }
     ]
   }
 }

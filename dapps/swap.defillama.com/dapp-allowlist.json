@@ -140,6 +140,9 @@
       },
       {
         "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
       }
     ],
     "avalanche": [
@@ -157,6 +160,9 @@
       },
       {
         "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+      },
+      {
+        "address": "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc"
       }
     ],
     "optimism": [
@@ -177,6 +183,9 @@
       },
       {
         "address": "0xdef1abe32c034e558cdd535791643c58a13acc10"
+      },
+      {
+        "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
       }
     ],
     "base": [
@@ -202,6 +211,17 @@
     "celo": [
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x6e2b76966cbd9cf4cc2fa0d76d24d5241e0abc2f"
+      },
+      {
+        "address": "0x36a1acbbcafca2468b85011ddd16e7cb4d673230"
+      },
+      {
+        "address": "0x3f95ef3f2eaca871858dbe20a93c01daf6c2e923"
       }
     ]
   }

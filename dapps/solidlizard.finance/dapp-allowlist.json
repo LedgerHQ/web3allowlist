@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Solidlizard",
+  "domain": "solidlizard.finance",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xf26515d5482e2c2fd237149bf6a653da4794b3d0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Scream",
+  "domain": "scream.sh",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0xae1ba6f7bac58752e2b77923cf7a813153812619"
+      },
+      {
+        "address": "0x3d3094aec3b63c744b9fe56397d36be568faebdf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Elixir",
+  "domain": "elixir.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x1f75881dc0707b5236f739b5b64a87c211294abb"
+      }
+    ]
+  }
+}

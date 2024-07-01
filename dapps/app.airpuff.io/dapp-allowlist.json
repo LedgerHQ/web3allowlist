@@ -15,6 +15,9 @@
     "arbitrum": [
       {
         "address": "0x6295248f578bfa9c057a3e1182bed27121530e7a"
+      },
+      {
+        "address": "0xb8cfb3406abe78a2c836dce69608e9cd80a78301"
       }
     ]
   }

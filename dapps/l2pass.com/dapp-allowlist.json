@@ -37,6 +37,26 @@
       {
         "address": "0x222228060e7efbb1d78bb5d454581910e3922222"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x8582525114212c2815f13d96ed5158553287a166"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x222228060e7efbb1d78bb5d454581910e3922222"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+      }
     ]
   }
 }

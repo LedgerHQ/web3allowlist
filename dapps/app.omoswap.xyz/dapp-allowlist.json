@@ -13,6 +13,21 @@
       {
         "address": "0x65c497f7572f6e86c89ce0ebb02ebd57db45c4df"
       }
+    ],
+    "base": [
+      {
+        "address": "0xbab3be86465b704ee367c8427ee1595530882a4c"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xbab3be86465b704ee367c8427ee1595530882a4c"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x5c5d5b660a6b95822327abbae187209303d2973c"
+      }
     ]
   }
 }

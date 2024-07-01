@@ -14,6 +14,21 @@
       {
         "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
       }
+    ],
+    "bsc": [
+      {
+        "address": "0xd53a9f3fae2bd46d35e9a30ba58112a585542869"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x39e098a153ad69834a9dac32f0fca92066ad03f4"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x32aed3bce901da12ca8489788f3a99fce1056e14"
+      }
     ]
   }
 }

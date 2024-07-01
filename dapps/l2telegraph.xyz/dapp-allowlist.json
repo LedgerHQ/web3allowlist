@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "L2telegraph",
+  "domain": "l2telegraph.xyz",
+  "chains": {
+    "celo": [
+      {
+        "address": "0x83017335bae4837016311bdb75df5a320b54d636"
+      },
+      {
+        "address": "0x64e0f6164ac110b67df9a4848707ffbcb86c87a9"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x5b10ae182c297ec76fe6fe0e3da7c4797cede02d"
+      },
+      {
+        "address": "0xe266eedb13a69af15c1756a241021905b1827f6a"
+      }
+    ]
+  }
+}

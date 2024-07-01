@@ -13,6 +13,16 @@
       {
         "address": "0xa0bb1ebf52a9307f30509d3b385754c33b7f2e26"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xa0bb1ebf52a9307f30509d3b385754c33b7f2e26"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xa0bb1ebf52a9307f30509d3b385754c33b7f2e26"
+      }
     ]
   }
 }

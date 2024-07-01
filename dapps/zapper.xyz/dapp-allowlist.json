@@ -31,6 +31,9 @@
     "optimism": [
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0xdef1abe32c034e558cdd535791643c58a13acc10"
       }
     ],
     "arbitrum": [
@@ -55,6 +58,11 @@
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
       },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "gnosis": [
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }

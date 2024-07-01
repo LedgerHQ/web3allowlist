@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Rubyscore",
+  "domain": "rubyscore.io",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0xcb84d512f0c9943d3bc6b4be8801ac8aa6621a54"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xe10add2ad591a7ac3ca46788a06290de017b9fb4"
+      }
+    ]
+  }
+}

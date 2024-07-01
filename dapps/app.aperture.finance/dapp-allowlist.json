@@ -16,6 +16,32 @@
       {
         "address": "0x2626664c2603336e57b271c5c0b26f421741e481"
       }
+    ],
+    "ethereum": [
+      {
+        "address": "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xb971ef87ede563556b2ed4b1c0b0019111dd85d2"
+      },
+      {
+        "address": "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
+      },
+      {
+        "address": "0x000000eed287174a06550eabe6a00074255cab34"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xbb00ff08d01d300023c629e8ffffcb65a5a578ce"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      }
     ]
   }
 }

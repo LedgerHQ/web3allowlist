@@ -28,6 +28,30 @@
     "bsc": [
       {
         "address": "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+      },
+      {
+        "address": "0xbd96bca0d3a4fcc18dc44d333a7851c513772289"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xface2ddf4fd8ba5e180c1fd9767f96e14f085509"
+      },
+      {
+        "address": "0x22bfb19ed098ec206fe2e5d0f719672a7dc7103e"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x9ee06954418687c6fb3a9966f7c46e0a245f0183"
+      },
+      {
+        "address": "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xbd96bca0d3a4fcc18dc44d333a7851c513772289"
       }
     ]
   }

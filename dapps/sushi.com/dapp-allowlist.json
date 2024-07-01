@@ -48,6 +48,9 @@
       },
       {
         "address": "0xe43ca1dee3f0fc1e2df73a0745674545f11a59f5"
+      },
+      {
+        "address": "0xc2edad668740f1aa35e4d8f227fb8e17dca888cd"
       }
     ],
     "polygon": [
@@ -81,6 +84,12 @@
     "optimism": [
       {
         "address": "0xeb94eca012ec0bbb254722fdda2ce7475875a52b"
+      },
+      {
+        "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+      },
+      {
+        "address": "0x1f2fcf1d036b375b384012e61d3aa33f8c256bbe"
       }
     ],
     "fantom": [
@@ -97,6 +106,12 @@
       },
       {
         "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0xf4d73326c13a4fc5fd7a064217e12780e9bd62c3"
+      },
+      {
+        "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
       }
     ],
     "base": [
@@ -108,6 +123,9 @@
       },
       {
         "address": "0x0389879e0156033202c44bf784ac18fc02edee4f"
+      },
+      {
+        "address": "0x6bded42c6da8fbf0d2ba55b2fa120c5e0c8d7891"
       }
     ],
     "avalanche": [

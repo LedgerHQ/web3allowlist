@@ -28,6 +28,11 @@
       {
         "address": "0x6051f99cc1d45227106b895f16cb85827f2821e5"
       }
+    ],
+    "base": [
+      {
+        "address": "0x650c5d8f7068a96beb9daf6378ffb4243b48cd3c"
+      }
     ]
   }
 }

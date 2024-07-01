@@ -44,6 +44,9 @@
       },
       {
         "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0xd5ec61bca0af24ad06be431585a0920142c98890"
       }
     ],
     "bsc": [
@@ -58,6 +61,12 @@
       },
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
       }
     ],
     "ethereum": [
@@ -75,11 +84,23 @@
       },
       {
         "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
       }
     ],
     "fantom": [
       {
         "address": "0xdef189deaef76e379df891899eb5a00a94cbc250"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xd0c22a5435f4e8e5770c1fafb5374015fc12f7cd"
       }
     ],
     "arbitrum": [
@@ -88,6 +109,33 @@
       },
       {
         "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0xb32c79a25291265ef240eb32e9fabbc6dcee3ce3"
+      },
+      {
+        "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+      },
+      {
+        "address": "0xe05dd51e4eb5636f4f0e8e7fbe82ea31a2ecef16"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x4bba932e9792a2b917d47830c93a9bc79320e4f7"
+      },
+      {
+        "address": "0x3f95ef3f2eaca871858dbe20a93c01daf6c2e923"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x40a50cf069e992aa4536211b23f286ef88752187"
       }
     ]
   }

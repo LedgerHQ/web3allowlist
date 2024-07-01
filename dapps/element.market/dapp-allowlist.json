@@ -49,6 +49,16 @@
       {
         "address": "0x18cd9270dbdca86d470cfb3be1b156241fffa9de"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x64848eefbc2921102a153b08fa64536ae1f8e937"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x2317d8b224328644759319dffa2a5da77c72e0e9"
+      }
     ]
   }
 }

@@ -8,6 +8,11 @@
       {
         "address": "0x260e69ab6665b9ef67b60674e265b5d21c88cb45"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x6cc6305ed7bbeaa7c2fa84e4a3b78743cb5b1a08"
+      }
     ]
   }
 }

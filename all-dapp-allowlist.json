@@ -3,6 +3,27 @@
   "allowlist" : {
     "arbitrum" : [
       {
+        "name" : "1inch",
+        "domain" : "app.1inch.io",
+        "contracts" : [
+          {
+            "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
+          },
+          {
+            "address" : "0x1111111254eeb25477b68fb85ed929f73a960582"
+          }
+        ]
+      },
+      {
+        "name" : "Aark",
+        "domain" : "app.aark.digital",
+        "contracts" : [
+          {
+            "address" : "0x85bbe848e12472eb1bee06be7e123bdee42c7943"
+          }
+        ]
+      },
+      {
         "name" : "Aave",
         "domain" : "app.aave.com",
         "contracts" : [
@@ -11,6 +32,9 @@
           },
           {
             "address" : "0xecd4bd3121f9fd604ffac631bf6d41ec12f1fafb"
+          },
+          {
+            "address" : "0x794a61358d6845594f94dc1db02a252b5b4814ad"
           }
         ]
       },
@@ -20,6 +44,42 @@
         "contracts" : [
           {
             "address" : "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+          }
+        ]
+      },
+      {
+        "name" : "Airpuff",
+        "domain" : "app.airpuff.io",
+        "contracts" : [
+          {
+            "address" : "0x6295248f578bfa9c057a3e1182bed27121530e7a"
+          },
+          {
+            "address" : "0xb8cfb3406abe78a2c836dce69608e9cd80a78301"
+          }
+        ]
+      },
+      {
+        "name" : "Angle",
+        "domain" : "app.angle.money",
+        "contracts" : [
+          {
+            "address" : "0x16cd38b1b54e7abf307cb2697e2d9321e843d5aa"
+          },
+          {
+            "address" : "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+          }
+        ]
+      },
+      {
+        "name" : "Aperture",
+        "domain" : "app.aperture.finance",
+        "contracts" : [
+          {
+            "address" : "0x00000000ede6d8d217c60f93191c060747324bca"
+          },
+          {
+            "address" : "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
           }
         ]
       },
@@ -57,6 +117,33 @@
         ]
       },
       {
+        "name" : "Cap",
+        "domain" : "cap.io",
+        "contracts" : [
+          {
+            "address" : "0xdceae0877f2d722d1ebe26f117b44f0d6176046f"
+          }
+        ]
+      },
+      {
+        "name" : "Carrier",
+        "domain" : "carrier.so",
+        "contracts" : [
+          {
+            "address" : "0x0b2402144bb366a632d14b83f244d2e0e21bd39c"
+          }
+        ]
+      },
+      {
+        "name" : "Celer",
+        "domain" : "cbridge.celer.network",
+        "contracts" : [
+          {
+            "address" : "0x1619de6b6b20ed217a58d00f37b9d47c7663feca"
+          }
+        ]
+      },
+      {
         "name" : "Clipper",
         "domain" : "clipper.exchange",
         "contracts" : [
@@ -90,6 +177,36 @@
         ]
       },
       {
+        "name" : "Conveyor",
+        "domain" : "app.conveyor.finance",
+        "contracts" : [
+          {
+            "address" : "0xd5ec61bca0af24ad06be431585a0920142c98890"
+          }
+        ]
+      },
+      {
+        "name" : "Cow",
+        "domain" : "swap.cow.fi",
+        "contracts" : [
+          {
+            "address" : "0x552fcecc218158fff20e505c8f3ad24f8e1dd33c"
+          }
+        ]
+      },
+      {
+        "name" : "Dackieswap",
+        "domain" : "dackieswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0x2d1b823962c401a7b229e1a9b38760d2f1715678"
+          },
+          {
+            "address" : "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+          }
+        ]
+      },
+      {
         "name" : "De",
         "domain" : "de.fi",
         "contracts" : [
@@ -104,6 +221,15 @@
         "contracts" : [
           {
             "address" : "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+          }
+        ]
+      },
+      {
+        "name" : "Decent",
+        "domain" : "app.decent.xyz",
+        "contracts" : [
+          {
+            "address" : "0x21f6ec768058ca2b3701099f7cea4c9a8cd63015"
           }
         ]
       },
@@ -125,6 +251,75 @@
           },
           {
             "address" : "0x1111111254eeb25477b68fb85ed929f73a960582"
+          },
+          {
+            "address" : "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+          }
+        ]
+      },
+      {
+        "name" : "Defiway",
+        "domain" : "defiway.com",
+        "contracts" : [
+          {
+            "address" : "0xa0bb1ebf52a9307f30509d3b385754c33b7f2e26"
+          }
+        ]
+      },
+      {
+        "name" : "Disperse",
+        "domain" : "disperse.app",
+        "contracts" : [
+          {
+            "address" : "0xd152f549545093347a162dce210e7293f1452150"
+          }
+        ]
+      },
+      {
+        "name" : "Dln",
+        "domain" : "app.dln.trade",
+        "contracts" : [
+          {
+            "address" : "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+          }
+        ]
+      },
+      {
+        "name" : "DODO",
+        "domain" : "app.dodoex.io",
+        "contracts" : [
+          {
+            "address" : "0xe05dd51e4eb5636f4f0e8e7fbe82ea31a2ecef16"
+          }
+        ]
+      },
+      {
+        "name" : "Dolomite",
+        "domain" : "app.dolomite.io",
+        "contracts" : [
+          {
+            "address" : "0xadb9d68c613df4aa363b42161e1282117c7b9594"
+          },
+          {
+            "address" : "0x905f3add52f01a9069218c8d1c11e240aff61d2b"
+          }
+        ]
+      },
+      {
+        "name" : "Dopex",
+        "domain" : "app.dopex.io",
+        "contracts" : [
+          {
+            "address" : "0x501b03bdb431154b8df17bf1c00756e3a8f21744"
+          }
+        ]
+      },
+      {
+        "name" : "Element Market",
+        "domain" : "element.market",
+        "contracts" : [
+          {
+            "address" : "0x18cd9270dbdca86d470cfb3be1b156241fffa9de"
           }
         ]
       },
@@ -143,6 +338,33 @@
         "contracts" : [
           {
             "address" : "0x0c6134abc08a1eafc3e2dc9a5ad023bb08da86c3"
+          }
+        ]
+      },
+      {
+        "name" : "Frax",
+        "domain" : "app.frax.finance",
+        "contracts" : [
+          {
+            "address" : "0xcaaab0a72f781b92ba63af27477aa46ab8f653e7"
+          }
+        ]
+      },
+      {
+        "name" : "Galxe",
+        "domain" : "app.galxe.com",
+        "contracts" : [
+          {
+            "address" : "0x9e6ef7f75ad88d4edb4c9925c94b769c5b0d6281"
+          }
+        ]
+      },
+      {
+        "name" : "Gammaswap",
+        "domain" : "app.gammaswap.com",
+        "contracts" : [
+          {
+            "address" : "0x5fbe219e88f6c6f214ce6f5b1fcaa0294f31ae1b"
           }
         ]
       },
@@ -168,11 +390,56 @@
         ]
       },
       {
+        "name" : "Gravitaprotocol",
+        "domain" : "app.gravitaprotocol.com",
+        "contracts" : [
+          {
+            "address" : "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487"
+          }
+        ]
+      },
+      {
         "name" : "Hashflow",
         "domain" : "app.hashflow.com",
         "contracts" : [
           {
             "address" : "0x55084ee0fef03f14a305cd24286359a35d735151"
+          }
+        ]
+      },
+      {
+        "name" : "Heroglyphs",
+        "domain" : "heroglyphs.com",
+        "contracts" : [
+          {
+            "address" : "0x30da1a8b1673db2eee02c72682097290b11325fd"
+          }
+        ]
+      },
+      {
+        "name" : "Hmx",
+        "domain" : "hmx.org",
+        "contracts" : [
+          {
+            "address" : "0xee116128b9aaadbcd1f7c18608c5114f594cf5d6"
+          }
+        ]
+      },
+      {
+        "name" : "Hop",
+        "domain" : "app.hop.exchange",
+        "contracts" : [
+          {
+            "address" : "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+          }
+        ]
+      },
+      {
+        "name" : "Impossible",
+        "domain" : "app.impossible.finance",
+        "contracts" : [
+          {
+            "address" : "0x39e48491b3a182c3f6b699281d74af9f8a620cfa"
           }
         ]
       },
@@ -195,11 +462,29 @@
         ]
       },
       {
-        "name" : "Jumper",
-        "domain" : "jumper.exchange",
+        "name" : "Jojo",
+        "domain" : "app.jojo.exchange",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0xcd85998b31c85040c8ba59288eaa8f9bee115b01"
+          }
+        ]
+      },
+      {
+        "name" : "Kelpdao",
+        "domain" : "kelpdao.xyz",
+        "contracts" : [
+          {
+            "address" : "0x376a7564af88242d6b8598a5cfdd2e9759711b61"
+          }
+        ]
+      },
+      {
+        "name" : "Krystal",
+        "domain" : "defi.krystal.app",
+        "contracts" : [
+          {
+            "address" : "0x864f01c5e46b0712643b956bca607bf883e0dbc5"
           }
         ]
       },
@@ -213,6 +498,15 @@
         ]
       },
       {
+        "name" : "L2pass",
+        "domain" : "l2pass.com",
+        "contracts" : [
+          {
+            "address" : "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+          }
+        ]
+      },
+      {
         "name" : "Layer3",
         "domain" : "layer3.xyz",
         "contracts" : [
@@ -222,11 +516,110 @@
         ]
       },
       {
+        "name" : "Level",
+        "domain" : "app.level.finance",
+        "contracts" : [
+          {
+            "address" : "0x2215298606c9d0274527b13519ec50c3a7f1c1ef"
+          }
+        ]
+      },
+      {
+        "name" : "Lodestarfinance",
+        "domain" : "app.lodestarfinance.io",
+        "contracts" : [
+          {
+            "address" : "0x2193c45244af12c280941281c8aa67dd08be0a64"
+          }
+        ]
+      },
+      {
+        "name" : "Magpiefi",
+        "domain" : "app.magpiefi.xyz",
+        "contracts" : [
+          {
+            "address" : "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+          },
+          {
+            "address" : "0xbd96bca0d3a4fcc18dc44d333a7851c513772289"
+          }
+        ]
+      },
+      {
         "name" : "Matcha",
         "domain" : "matcha.xyz",
         "contracts" : [
           {
             "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ]
+      },
+      {
+        "name" : "Mercle",
+        "domain" : "app.mercle.xyz",
+        "contracts" : [
+          {
+            "address" : "0x6576696d043e5ee07f00711e7ea9f101ef86b333"
+          }
+        ]
+      },
+      {
+        "name" : "Merkly",
+        "domain" : "minter.merkly.com",
+        "contracts" : [
+          {
+            "address" : "0x8a555e4fc287650f5e8ca1778a35dd44e893d6aa"
+          },
+          {
+            "address" : "0xef62b433ca3ac8b151c4a255de3ed3da4e60add2"
+          },
+          {
+            "address" : "0x85fd2da31262d26471c738ce357a3767635a0956"
+          },
+          {
+            "address" : "0xaa58e77238f0e4a565343a89a79b4addd744d649"
+          },
+          {
+            "address" : "0x233888f5dc1d3c0360b559abc029675290dafa70"
+          },
+          {
+            "address" : "0x4ae8cebccd7027820ba83188dfd73ccad0a92806"
+          }
+        ]
+      },
+      {
+        "name" : "Meson",
+        "domain" : "meson.fi",
+        "contracts" : [
+          {
+            "address" : "0x25ab3efd52e6470681ce037cd546dc60726948d3"
+          }
+        ]
+      },
+      {
+        "name" : "Metamask",
+        "domain" : "portfolio.metamask.io",
+        "contracts" : [
+          {
+            "address" : "0x9dda6ef3d919c9bc8885d5560999a3640431e8e6"
+          }
+        ]
+      },
+      {
+        "name" : "Mux",
+        "domain" : "app.mux.network",
+        "contracts" : [
+          {
+            "address" : "0xa19fd5ab6c8dcffa2a295f78a5bb4ac543aaf5e3"
+          }
+        ]
+      },
+      {
+        "name" : "Native",
+        "domain" : "native.org",
+        "contracts" : [
+          {
+            "address" : "0xead050515e10fdb3540ccd6f8236c46790508a76"
           }
         ]
       },
@@ -258,6 +651,24 @@
         ]
       },
       {
+        "name" : "Okx",
+        "domain" : "okx.com",
+        "contracts" : [
+          {
+            "address" : "0xf332761c673b59b21ff6dfa8ada44d78c12def09"
+          }
+        ]
+      },
+      {
+        "name" : "Omoswap",
+        "domain" : "app.omoswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0x65c497f7572f6e86c89ce0ebb02ebd57db45c4df"
+          }
+        ]
+      },
+      {
         "name" : "Openocean",
         "domain" : "app.openocean.finance",
         "contracts" : [
@@ -267,11 +678,32 @@
         ]
       },
       {
+        "name" : "OpenSea",
+        "domain" : "opensea.io",
+        "contracts" : [
+          {
+            "address" : "0x0000000000000068f116a894984e2db1123eb395"
+          }
+        ]
+      },
+      {
+        "name" : "Overnight",
+        "domain" : "app.overnight.fi",
+        "contracts" : [
+          {
+            "address" : "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+          }
+        ]
+      },
+      {
         "name" : "Pancakeswap",
         "domain" : "pancakeswap.finance",
         "contracts" : [
           {
             "address" : "0x32226588378236fd0c7c4053999f88ac0e5cac77"
+          },
+          {
+            "address" : "0xfe6508f0015c778bdcc1fb5465ba5ebe224c9912"
           }
         ]
       },
@@ -290,6 +722,30 @@
         "contracts" : [
           {
             "address" : "0x00000000005bbb0ef59571e58418f9a4357b68a0"
+          },
+          {
+            "address" : "0x888888888889758f76e7103c6cbf23abbf58f946"
+          }
+        ]
+      },
+      {
+        "name" : "Portalbridge",
+        "domain" : "portalbridge.com",
+        "contracts" : [
+          {
+            "address" : "0x0b2402144bb366a632d14b83f244d2e0e21bd39c"
+          },
+          {
+            "address" : "0x48fa7528bfd6164ddf09df0ed22451cf59c84130"
+          }
+        ]
+      },
+      {
+        "name" : "Primeprotocol",
+        "domain" : "app.primeprotocol.xyz",
+        "contracts" : [
+          {
+            "address" : "0x6051f99cc1d45227106b895f16cb85827f2821e5"
           }
         ]
       },
@@ -302,6 +758,39 @@
           },
           {
             "address" : "0xbb5ca40b2f7af3b1ff5dbce0e9cc78f8bfa817ce"
+          },
+          {
+            "address" : "0xf4b1486dd74d07706052a33d31d7c0aafd0659e1"
+          }
+        ]
+      },
+      {
+        "name" : "Ramses",
+        "domain" : "app.ramses.exchange",
+        "contracts" : [
+          {
+            "address" : "0x11876c56204b2e1e9763a802b7f15fc942ebf1ac"
+          },
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+          },
+          {
+            "address" : "0xaaa87963efeb6f7e0a2711f397663105acb1805e"
+          },
+          {
+            "address" : "0xaa277cb7914b7e5514946da92cb9de332ce610ef"
+          }
+        ]
+      },
+      {
+        "name" : "Rango",
+        "domain" : "app.rango.exchange",
+        "contracts" : [
+          {
+            "address" : "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
           }
         ]
       },
@@ -324,6 +813,15 @@
         ]
       },
       {
+        "name" : "Robots",
+        "domain" : "robots.farm",
+        "contracts" : [
+          {
+            "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ]
+      },
+      {
         "name" : "Rubic",
         "domain" : "app.rubic.exchange",
         "contracts" : [
@@ -333,11 +831,65 @@
         ]
       },
       {
+        "name" : "Safe",
+        "domain" : "app.safe.global",
+        "contracts" : [
+          {
+            "address" : "0xa6b71e26c5e0845f74c812102ca7114b6a896ab2"
+          }
+        ]
+      },
+      {
+        "name" : "Shellprotocol",
+        "domain" : "app.shellprotocol.io",
+        "contracts" : [
+          {
+            "address" : "0x96b4f4e401ccd70ec850c1cf8b405ad58fd5fb7a"
+          }
+        ]
+      },
+      {
+        "name" : "Silo",
+        "domain" : "app.silo.finance",
+        "contracts" : [
+          {
+            "address" : "0x9992f660137979c1ca7f8b119cd16361594e3681"
+          }
+        ]
+      },
+      {
         "name" : "Slingshot",
         "domain" : "app.slingshot.finance",
         "contracts" : [
           {
             "address" : "0x5543550d65813c1fa76242227cbba0a28a297771"
+          }
+        ]
+      },
+      {
+        "name" : "Smardex",
+        "domain" : "smardex.io",
+        "contracts" : [
+          {
+            "address" : "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+          }
+        ]
+      },
+      {
+        "name" : "Solidlizard",
+        "domain" : "solidlizard.finance",
+        "contracts" : [
+          {
+            "address" : "0xf26515d5482e2c2fd237149bf6a653da4794b3d0"
+          }
+        ]
+      },
+      {
+        "name" : "Space",
+        "domain" : "space.id",
+        "contracts" : [
+          {
+            "address" : "0xf2198dfdcecfb67e6028ac64d0890f2a99bb6975"
           }
         ]
       },
@@ -356,6 +908,30 @@
         "contracts" : [
           {
             "address" : "0xbf22f0f184bccbea268df387a49ff5238dd23e40"
+          },
+          {
+            "address" : "0xe8cdf27acd73a434d661c84887215f7598e7d0d3"
+          },
+          {
+            "address" : "0xa45b5130f36cdca45667738e2a258ab09f4a5f7f"
+          }
+        ]
+      },
+      {
+        "name" : "Stellaswap",
+        "domain" : "app.stellaswap.com",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
+        "name" : "Stellaxyz",
+        "domain" : "app.stellaxyz.io",
+        "contracts" : [
+          {
+            "address" : "0x032ba65c71c82d2e6dcf91cad148adc64a5f02a7"
           }
         ]
       },
@@ -365,6 +941,15 @@
         "contracts" : [
           {
             "address" : "0x09bd2a33c47746ff03b86bce4e885d03c74a8e8c"
+          },
+          {
+            "address" : "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+          },
+          {
+            "address" : "0xf4d73326c13a4fc5fd7a064217e12780e9bd62c3"
+          },
+          {
+            "address" : "0x804b526e5bf4349819fe2db65349d0825870f8ee"
           }
         ]
       },
@@ -377,6 +962,9 @@
           },
           {
             "address" : "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+          },
+          {
+            "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
           }
         ]
       },
@@ -399,11 +987,149 @@
         ]
       },
       {
+        "name" : "Tarot",
+        "domain" : "tarot.to",
+        "contracts" : [
+          {
+            "address" : "0x11876c56204b2e1e9763a802b7f15fc942ebf1ac"
+          }
+        ]
+      },
+      {
+        "name" : "Telos",
+        "domain" : "bridge.telos.net",
+        "contracts" : [
+          {
+            "address" : "0x9c5ebcbe531aa81bd82013abf97401f5c6111d76"
+          }
+        ]
+      },
+      {
+        "name" : "Thenile",
+        "domain" : "thenile.exchange",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
+        "name" : "Tigris",
+        "domain" : "app.tigris.trade",
+        "contracts" : [
+          {
+            "address" : "0x5d1ac6754ed33b368de9d1b5d2417796def08abe"
+          },
+          {
+            "address" : "0xd89b4b1c8918150f137cc68e83e3876f9e309ab9"
+          }
+        ]
+      },
+      {
         "name" : "Traderjoexyz",
         "domain" : "traderjoexyz.com",
         "contracts" : [
           {
             "address" : "0xb4315e873dbcf96ffd0acd8ea43f689d8c20fb30"
+          }
+        ]
+      },
+      {
+        "name" : "Transporter",
+        "domain" : "app.transporter.io",
+        "contracts" : [
+          {
+            "address" : "0x66598216d8e4d9afe0f06d525b335b762229842f"
+          }
+        ]
+      },
+      {
+        "name" : "Treasure",
+        "domain" : "app.treasure.lol",
+        "contracts" : [
+          {
+            "address" : "0x072b65f891b1a389539e921bdb9427af41a7b1f7"
+          }
+        ]
+      },
+      {
+        "name" : "Umbra",
+        "domain" : "app.umbra.cash",
+        "contracts" : [
+          {
+            "address" : "0x31fe56609c65cd0c510e7125f051d440424d38f3"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "app.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
+          },
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xb32c79a25291265ef240eb32e9fabbc6dcee3ce3"
+          },
+          {
+            "address" : "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+          },
+          {
+            "address" : "0xe05dd51e4eb5636f4f0e8e7fbe82ea31a2ecef16"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "pool.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0xdaf7d157f5c6e0f1d7917ca02a7c185cef81e6d0"
+          }
+        ]
+      },
+      {
+        "name" : "Uniswap",
+        "domain" : "app.uniswap.org",
+        "contracts" : [
+          {
+            "address" : "0xc36442b4a4522e871399cd717abdd847ab11fe88"
+          },
+          {
+            "address" : "0x000000000022d473030f116ddee9f6b43ac78ba3"
+          },
+          {
+            "address" : "0x5e325eda8064b456f4781070c0738d849c824258"
+          }
+        ]
+      },
+      {
+        "name" : "Vaultka",
+        "domain" : "vaultka.com",
+        "contracts" : [
+          {
+            "address" : "0x8a98929750e6709af765f976c6bddb5bffe6c06c"
+          }
+        ]
+      },
+      {
+        "name" : "Vela",
+        "domain" : "app.vela.exchange",
+        "contracts" : [
+          {
+            "address" : "0xc4abade3a15064f9e3596943c699032748b13352"
+          }
+        ]
+      },
+      {
+        "name" : "Vertexprotocol",
+        "domain" : "app.vertexprotocol.com",
+        "contracts" : [
+          {
+            "address" : "0xbbee07b3e8121227afcfe1e2b82772246226128e"
           }
         ]
       },
@@ -417,11 +1143,68 @@
         ]
       },
       {
+        "name" : "Wombat",
+        "domain" : "app.wombat.exchange",
+        "contracts" : [
+          {
+            "address" : "0xc4b2f992496376c6127e73f1211450322e580668"
+          }
+        ]
+      },
+      {
+        "name" : "Woo",
+        "domain" : "dex.woo.org",
+        "contracts" : [
+          {
+            "address" : "0x816f722424b49cf1275cc86da9840fbd5a6167e9"
+          }
+        ]
+      },
+      {
+        "name" : "Xenify",
+        "domain" : "xenify.io",
+        "contracts" : [
+          {
+            "address" : "0xde01ed0befed7fc437eb2d8719a2da5de8a16f87"
+          }
+        ]
+      },
+      {
         "name" : "Xswap",
         "domain" : "xswap.link",
         "contracts" : [
           {
             "address" : "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+          }
+        ]
+      },
+      {
+        "name" : "Xy",
+        "domain" : "app.xy.finance",
+        "contracts" : [
+          {
+            "address" : "0xd1ae4594e47c153ae98f09e0c9267fb74447fea3"
+          },
+          {
+            "address" : "0x33383265290421c704c6b09f4bf27ce574dc4203"
+          }
+        ]
+      },
+      {
+        "name" : "Yfx",
+        "domain" : "app.yfx.com",
+        "contracts" : [
+          {
+            "address" : "0xcc619251bb94b7605a7ea7391feb7d18c32552d5"
+          }
+        ]
+      },
+      {
+        "name" : "Yfx",
+        "domain" : "app3.yfx.com",
+        "contracts" : [
+          {
+            "address" : "0xebb4871d1be1262c8bd1aa7dfc4c047483f02028"
           }
         ]
       },
@@ -464,6 +1247,9 @@
         "contracts" : [
           {
             "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+          },
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
           }
         ]
       }
@@ -482,11 +1268,11 @@
         ]
       },
       {
-        "name" : "Ape",
-        "domain" : "ape.bond",
+        "name" : "Aperture",
+        "domain" : "app.aperture.finance",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0xbb00ff08d01d300023c629e8ffffcb65a5a578ce"
           }
         ]
       },
@@ -518,6 +1304,24 @@
         ]
       },
       {
+        "name" : "Carrier",
+        "domain" : "carrier.so",
+        "contracts" : [
+          {
+            "address" : "0x0e082f06ff657d94310cb8ce8b0d9a04541d8052"
+          }
+        ]
+      },
+      {
+        "name" : "Cetus",
+        "domain" : "bridge.cetus.zone",
+        "contracts" : [
+          {
+            "address" : "0x0e082f06ff657d94310cb8ce8b0d9a04541d8052"
+          }
+        ]
+      },
+      {
         "name" : "De",
         "domain" : "de.fi",
         "contracts" : [
@@ -544,6 +1348,27 @@
           },
           {
             "address" : "0x1111111254eeb25477b68fb85ed929f73a960582"
+          },
+          {
+            "address" : "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc"
+          }
+        ]
+      },
+      {
+        "name" : "Dexalot",
+        "domain" : "app.dexalot.com",
+        "contracts" : [
+          {
+            "address" : "0xeed3c159f3a96ab8d41c8b9ca49ee1e5071a7cdd"
+          }
+        ]
+      },
+      {
+        "name" : "Dln",
+        "domain" : "app.dln.trade",
+        "contracts" : [
+          {
+            "address" : "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
           }
         ]
       },
@@ -553,6 +1378,18 @@
         "contracts" : [
           {
             "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          },
+          {
+            "address" : "0x1f076a800005c758a505e759720eb6737136e893"
+          }
+        ]
+      },
+      {
+        "name" : "Elk",
+        "domain" : "app.elk.finance",
+        "contracts" : [
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
           }
         ]
       },
@@ -571,6 +1408,15 @@
         "contracts" : [
           {
             "address" : "0xe0c38b2a8d09aad53f1c67734b9a95e43d5981c0"
+          }
+        ]
+      },
+      {
+        "name" : "Frax",
+        "domain" : "app.frax.finance",
+        "contracts" : [
+          {
+            "address" : "0x5977b16aa9abc4d1281058c73b789c65bf9ab3d3"
           }
         ]
       },
@@ -605,6 +1451,15 @@
         ]
       },
       {
+        "name" : "Krystal",
+        "domain" : "defi.krystal.app",
+        "contracts" : [
+          {
+            "address" : "0x8c27abf05de1d4847c3924566c3cbafec6efb42a"
+          }
+        ]
+      },
+      {
         "name" : "KyberSwap",
         "domain" : "kyberswap.com",
         "contracts" : [
@@ -614,11 +1469,107 @@
         ]
       },
       {
+        "name" : "L2pass",
+        "domain" : "l2pass.com",
+        "contracts" : [
+          {
+            "address" : "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+          }
+        ]
+      },
+      {
         "name" : "Layer3",
         "domain" : "layer3.xyz",
         "contracts" : [
           {
             "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          }
+        ]
+      },
+      {
+        "name" : "Lends",
+        "domain" : "app.lends.so",
+        "contracts" : [
+          {
+            "address" : "0x8f66c4ae756bebc49ec8b81966dd8bba9f127549"
+          }
+        ]
+      },
+      {
+        "name" : "Magpiefi",
+        "domain" : "app.magpiefi.xyz",
+        "contracts" : [
+          {
+            "address" : "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+          },
+          {
+            "address" : "0x1f030e4f3302670794f355afc0d30f4ae30641a0"
+          }
+        ]
+      },
+      {
+        "name" : "Mayan",
+        "domain" : "swap.mayan.finance",
+        "contracts" : [
+          {
+            "address" : "0xf3f04555f8fda510bfc77820fd6eb8446f59e72d"
+          }
+        ]
+      },
+      {
+        "name" : "Merkly",
+        "domain" : "minter.merkly.com",
+        "contracts" : [
+          {
+            "address" : "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
+          },
+          {
+            "address" : "0xe030543b943bdcd6559711ec8d344389c66e1d56"
+          },
+          {
+            "address" : "0x70ea00ab512d13dac5001c968f8d2263d179e2d2"
+          },
+          {
+            "address" : "0x5c9bbe51f7f19f8c77df7a3ada35ab434aaa86c5"
+          }
+        ]
+      },
+      {
+        "name" : "Metamask",
+        "domain" : "portfolio.metamask.io",
+        "contracts" : [
+          {
+            "address" : "0x1a1ec25dc08e98e5e93f1104b5e5cdd298707d31"
+          }
+        ]
+      },
+      {
+        "name" : "Micro3",
+        "domain" : "micro3.io",
+        "contracts" : [
+          {
+            "address" : "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+          }
+        ]
+      },
+      {
+        "name" : "Mint",
+        "domain" : "mint.club",
+        "contracts" : [
+          {
+            "address" : "0x29b0e6d2c2884aea3fb4cb5dd1c7002a8e10c724"
+          },
+          {
+            "address" : "0x3fd5b4dcda968c8e22898523f5343177f94ccfd1"
+          }
+        ]
+      },
+      {
+        "name" : "Native",
+        "domain" : "native.org",
+        "contracts" : [
+          {
+            "address" : "0xead050515e10fdb3540ccd6f8236c46790508a76"
           }
         ]
       },
@@ -641,11 +1592,110 @@
         ]
       },
       {
+        "name" : "Okx",
+        "domain" : "okx.com",
+        "contracts" : [
+          {
+            "address" : "0x1dac23e41fc8ce857e86fd8c1ae5b6121c67d96d"
+          }
+        ]
+      },
+      {
+        "name" : "Omoswap",
+        "domain" : "app.omoswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0x959dc4977a028485f6870c98d8b741f69f764ae7"
+          }
+        ]
+      },
+      {
+        "name" : "Onbeam",
+        "domain" : "bridge.onbeam.com",
+        "contracts" : [
+          {
+            "address" : "0x965b104e250648d01d4b3b72bac751cde809d29e"
+          }
+        ]
+      },
+      {
         "name" : "Openocean",
         "domain" : "app.openocean.finance",
         "contracts" : [
           {
             "address" : "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ]
+      },
+      {
+        "name" : "Pangolin",
+        "domain" : "app.pangolin.exchange",
+        "contracts" : [
+          {
+            "address" : "0xe54ca86531e17ef3616d22ca28b0d458b6c89106"
+          }
+        ]
+      },
+      {
+        "name" : "Portalbridge",
+        "domain" : "portalbridge.com",
+        "contracts" : [
+          {
+            "address" : "0x0e082f06ff657d94310cb8ce8b0d9a04541d8052"
+          }
+        ]
+      },
+      {
+        "name" : "Primeprotocol",
+        "domain" : "app.primeprotocol.xyz",
+        "contracts" : [
+          {
+            "address" : "0x1f9bd6986d0cdcde9fbbe87d142f3dc4ddca1fd9"
+          }
+        ]
+      },
+      {
+        "name" : "Rango",
+        "domain" : "app.rango.exchange",
+        "contracts" : [
+          {
+            "address" : "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+          }
+        ]
+      },
+      {
+        "name" : "Robots",
+        "domain" : "robots.farm",
+        "contracts" : [
+          {
+            "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ]
+      },
+      {
+        "name" : "Rubic",
+        "domain" : "app.rubic.exchange",
+        "contracts" : [
+          {
+            "address" : "0x3335733c454805df6a77f825f266e136fb4a3333"
+          }
+        ]
+      },
+      {
+        "name" : "Safe",
+        "domain" : "app.safe.global",
+        "contracts" : [
+          {
+            "address" : "0xc22834581ebc8527d974f8a1c97e1bea4ef910bc"
+          }
+        ]
+      },
+      {
+        "name" : "Spooky",
+        "domain" : "spooky.fi",
+        "contracts" : [
+          {
+            "address" : "0xcafd2f0a35a4459fa40c0517e17e6fa2939441ca"
           }
         ]
       },
@@ -659,11 +1709,35 @@
         ]
       },
       {
+        "name" : "Stargate",
+        "domain" : "stargate.finance",
+        "contracts" : [
+          {
+            "address" : "0x5634c4a5fed09819e3c46d86a965dd9447d86e47"
+          }
+        ]
+      },
+      {
+        "name" : "Stellaswap",
+        "domain" : "app.stellaswap.com",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
         "name" : "Sushi",
         "domain" : "sushi.com",
         "contracts" : [
           {
             "address" : "0x8f54301f315c56c112d492d9443047d4745dbe9e"
+          },
+          {
+            "address" : "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+          },
+          {
+            "address" : "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959"
           }
         ]
       },
@@ -677,6 +1751,15 @@
         ]
       },
       {
+        "name" : "Tarot",
+        "domain" : "tarot.to",
+        "contracts" : [
+          {
+            "address" : "0x6108feaa628155b073150f408d0b390ec3121834"
+          }
+        ]
+      },
+      {
         "name" : "Traderjoexyz",
         "domain" : "traderjoexyz.com",
         "contracts" : [
@@ -685,6 +1768,30 @@
           },
           {
             "address" : "0x46ba84780f9a7b34c8b0e24df07a260fa952195d"
+          },
+          {
+            "address" : "0x60ae616a2155ee3d9a68541ba4544862310933d4"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "app.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          },
+          {
+            "address" : "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc"
+          },
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+          },
+          {
+            "address" : "0xc4729e56b831d74bbc18797e0e17a295fa77488c"
           }
         ]
       },
@@ -694,6 +1801,15 @@
         "contracts" : [
           {
             "address" : "0x82635af6146972cd6601161c4472ffe97237d292"
+          },
+          {
+            "address" : "0x655c406ebfa14ee2006250925e54ec43ad184f8b"
+          },
+          {
+            "address" : "0x4dae2f939acf50408e13d58534ff8c2776d45265"
+          },
+          {
+            "address" : "0x000000000022d473030f116ddee9f6b43ac78ba3"
           }
         ]
       },
@@ -703,9 +1819,15 @@
         "contracts" : [
           {
             "address" : "0x55477d8537ede381784b448876afaa98aa450e63"
-          },
+          }
+        ]
+      },
+      {
+        "name" : "Wombat",
+        "domain" : "app.wombat.exchange",
+        "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x4a88c44b8d9b9f3f2ba4d97236f737cf03df76cd"
           }
         ]
       },
@@ -727,6 +1849,15 @@
         "contracts" : [
           {
             "address" : "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+          }
+        ]
+      },
+      {
+        "name" : "Xy",
+        "domain" : "app.xy.finance",
+        "contracts" : [
+          {
+            "address" : "0x2c86f0ff75673d489b7d72d9986929a2b0ed596c"
           }
         ]
       },
@@ -759,6 +1890,9 @@
         "contracts" : [
           {
             "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
+          },
+          {
+            "address" : "0x1111111254eeb25477b68fb85ed929f73a960582"
           }
         ]
       },
@@ -768,6 +1902,9 @@
         "contracts" : [
           {
             "address" : "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+          },
+          {
+            "address" : "0x09aea4b2242abc8bb4bb78d537a67a245a7bec64"
           }
         ]
       },
@@ -783,6 +1920,36 @@
           },
           {
             "address" : "0x227f65131a261548b057215bb1d5ab2997964c7d"
+          }
+        ]
+      },
+      {
+        "name" : "Alienbase",
+        "domain" : "app.alienbase.xyz",
+        "contracts" : [
+          {
+            "address" : "0x8c1a3cf8f83074169fe5d7ad50b978e1cd6b37c7"
+          },
+          {
+            "address" : "0xb20c411fc84fbb27e78608c24d0056d974ea9411"
+          }
+        ]
+      },
+      {
+        "name" : "Angle",
+        "domain" : "app.angle.money",
+        "contracts" : [
+          {
+            "address" : "0x2859a4ebcb58c8dd5cac1419c4f63a071b642b20"
+          }
+        ]
+      },
+      {
+        "name" : "Aperture",
+        "domain" : "app.aperture.finance",
+        "contracts" : [
+          {
+            "address" : "0x2626664c2603336e57b271c5c0b26f421741e481"
           }
         ]
       },
@@ -805,11 +1972,41 @@
         ]
       },
       {
+        "name" : "Bsx",
+        "domain" : "app.bsx.exchange",
+        "contracts" : [
+          {
+            "address" : "0x26a54955a5fb9472d3edfeac9b8e4c0ab5779ed3"
+          }
+        ]
+      },
+      {
         "name" : "Bungee",
         "domain" : "bungee.exchange",
         "contracts" : [
           {
             "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          },
+          {
+            "address" : "0xe8c5b8488feafb5df316be73ede3bdc26571a773"
+          }
+        ]
+      },
+      {
+        "name" : "Catalyst",
+        "domain" : "app.catalyst.exchange",
+        "contracts" : [
+          {
+            "address" : "0x00000029e6005863bb2e1686a17c4ae0d1723669"
+          }
+        ]
+      },
+      {
+        "name" : "Cetus",
+        "domain" : "bridge.cetus.zone",
+        "contracts" : [
+          {
+            "address" : "0x610d4dfac3ec32e0be98d18ddb280dacd76a1889"
           }
         ]
       },
@@ -832,11 +2029,32 @@
         ]
       },
       {
+        "name" : "Conveyor",
+        "domain" : "app.conveyor.finance",
+        "contracts" : [
+          {
+            "address" : "0xd5ec61bca0af24ad06be431585a0920142c98890"
+          }
+        ]
+      },
+      {
         "name" : "Curve",
         "domain" : "curve.fi",
         "contracts" : [
           {
             "address" : "0xd6681e74eea20d196c15038c580f721ef2ab6320"
+          }
+        ]
+      },
+      {
+        "name" : "Dackieswap",
+        "domain" : "dackieswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0x19ceead7105607cd444f5ad10dd51356436095a1"
+          },
+          {
+            "address" : "0x6f887c0bee01fafaca39e46ca14cc1d48e28090f"
           }
         ]
       },
@@ -859,6 +2077,15 @@
         ]
       },
       {
+        "name" : "Decent",
+        "domain" : "app.decent.xyz",
+        "contracts" : [
+          {
+            "address" : "0x43019f8be1f192587883b67dea2994999f5a2de2"
+          }
+        ]
+      },
+      {
         "name" : "Defillama",
         "domain" : "swap.defillama.com",
         "contracts" : [
@@ -876,6 +2103,72 @@
           },
           {
             "address" : "0x59c7c832e96d2568bea6db468c1aadcbbda08a52"
+          },
+          {
+            "address" : "0x19ceead7105607cd444f5ad10dd51356436095a1"
+          }
+        ]
+      },
+      {
+        "name" : "Defiway",
+        "domain" : "defiway.com",
+        "contracts" : [
+          {
+            "address" : "0xa0bb1ebf52a9307f30509d3b385754c33b7f2e26"
+          }
+        ]
+      },
+      {
+        "name" : "Derpdex",
+        "domain" : "app.derpdex.com",
+        "contracts" : [
+          {
+            "address" : "0x6acd0ec9405ccb701c57a88849c4f1cd85a3f3ab"
+          }
+        ]
+      },
+      {
+        "name" : "Disperse",
+        "domain" : "disperse.app",
+        "contracts" : [
+          {
+            "address" : "0xd152f549545093347a162dce210e7293f1452150"
+          }
+        ]
+      },
+      {
+        "name" : "Dln",
+        "domain" : "app.dln.trade",
+        "contracts" : [
+          {
+            "address" : "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+          }
+        ]
+      },
+      {
+        "name" : "Dmail",
+        "domain" : "mail.dmail.ai",
+        "contracts" : [
+          {
+            "address" : "0x47fbe95e981c0df9737b6971b451fb15fdc989d9"
+          }
+        ]
+      },
+      {
+        "name" : "DODO",
+        "domain" : "app.dodoex.io",
+        "contracts" : [
+          {
+            "address" : "0x987bfbe33c9cf18caa665b792db66339a9c16d32"
+          }
+        ]
+      },
+      {
+        "name" : "Element Market",
+        "domain" : "element.market",
+        "contracts" : [
+          {
+            "address" : "0xa39a5f160a1952ddf38781bd76e402b0006912a9"
           }
         ]
       },
@@ -889,14 +2182,23 @@
         ]
       },
       {
+        "name" : "Ether",
+        "domain" : "app.ether.fi",
+        "contracts" : [
+          {
+            "address" : "0xc38e046dfdadf15f7f56853674242888301208a5"
+          }
+        ]
+      },
+      {
         "name" : "Extrafi",
         "domain" : "app.extrafi.io",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0xef4fb24ad0916217251f553c0596f8edc630eb66"
           },
           {
-            "address" : "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+            "address" : "0xbb505c54d71e9e599cb8435b4f0ceec05fc71cbd"
           }
         ]
       },
@@ -910,11 +2212,29 @@
         ]
       },
       {
+        "name" : "Frenpet",
+        "domain" : "frenpet.xyz",
+        "contracts" : [
+          {
+            "address" : "0x0e22b5f3e11944578b37ed04f5312dfc246f443c"
+          }
+        ]
+      },
+      {
         "name" : "Hop",
         "domain" : "app.hop.exchange",
         "contracts" : [
           {
             "address" : "0x10541b07d8ad2647dc6cd67abd4c03575dade261"
+          }
+        ]
+      },
+      {
+        "name" : "Intentx",
+        "domain" : "app.intentx.io",
+        "contracts" : [
+          {
+            "address" : "0x8ab178c07184ffd44f0adff4ea2ce6cfc33f3b86"
           }
         ]
       },
@@ -937,11 +2257,32 @@
         ]
       },
       {
-        "name" : "Jumper",
-        "domain" : "jumper.exchange",
+        "name" : "Kelpdao",
+        "domain" : "kelpdao.xyz",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x291088312150482826b3a37d5a69a4c54daa9118"
+          }
+        ]
+      },
+      {
+        "name" : "L2pass",
+        "domain" : "l2pass.com",
+        "contracts" : [
+          {
+            "address" : "0x222228060e7efbb1d78bb5d454581910e3922222"
+          },
+          {
+            "address" : "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+          }
+        ]
+      },
+      {
+        "name" : "Layer3",
+        "domain" : "app.layer3.xyz",
+        "contracts" : [
+          {
+            "address" : "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
           }
         ]
       },
@@ -964,11 +2305,197 @@
         ]
       },
       {
+        "name" : "Magpiefi",
+        "domain" : "app.magpiefi.xyz",
+        "contracts" : [
+          {
+            "address" : "0x9ee06954418687c6fb3a9966f7c46e0a245f0183"
+          },
+          {
+            "address" : "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+          }
+        ]
+      },
+      {
+        "name" : "Mav",
+        "domain" : "app.mav.xyz",
+        "contracts" : [
+          {
+            "address" : "0x32aed3bce901da12ca8489788f3a99fce1056e14"
+          }
+        ]
+      },
+      {
+        "name" : "Mercle",
+        "domain" : "app.mercle.xyz",
+        "contracts" : [
+          {
+            "address" : "0x87a701770996b323560e332396b33839482e2641"
+          }
+        ]
+      },
+      {
+        "name" : "Merkly",
+        "domain" : "minter.merkly.com",
+        "contracts" : [
+          {
+            "address" : "0x6bf98654205b1ac38645880ae20fc00b0bb9ffca"
+          },
+          {
+            "address" : "0x0cb0354e9c51960a7875724343dfc37b93d32609"
+          },
+          {
+            "address" : "0xefd942537d53003a6d73ce02562a002dcd0d5663"
+          }
+        ]
+      },
+      {
+        "name" : "Mint",
+        "domain" : "mint.club",
+        "contracts" : [
+          {
+            "address" : "0x1349a9ddee26fe16d0d44e35b3cb9b0ca18213a4"
+          }
+        ]
+      },
+      {
+        "name" : "Moonwell",
+        "domain" : "moonwell.fi",
+        "contracts" : [
+          {
+            "address" : "0x70778cfcfc475c7ea0f24cc625baf6eae475d0c9"
+          }
+        ]
+      },
+      {
+        "name" : "Okx",
+        "domain" : "okx.com",
+        "contracts" : [
+          {
+            "address" : "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+          }
+        ]
+      },
+      {
+        "name" : "Omoswap",
+        "domain" : "app.omoswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0xbab3be86465b704ee367c8427ee1595530882a4c"
+          }
+        ]
+      },
+      {
+        "name" : "OpenSea",
+        "domain" : "opensea.io",
+        "contracts" : [
+          {
+            "address" : "0x0000000000000068f116a894984e2db1123eb395"
+          }
+        ]
+      },
+      {
+        "name" : "Openxswap",
+        "domain" : "marketplace.openxswap.exchange",
+        "contracts" : [
+          {
+            "address" : "0xbddcf6ab290e7ad076ca103183730d1bf0661112"
+          }
+        ]
+      },
+      {
+        "name" : "Overnight",
+        "domain" : "app.overnight.fi",
+        "contracts" : [
+          {
+            "address" : "0x19ceead7105607cd444f5ad10dd51356436095a1"
+          }
+        ]
+      },
+      {
+        "name" : "Owlto",
+        "domain" : "owlto.finance",
+        "contracts" : [
+          {
+            "address" : "0x26637c9fdbd5ecdd76a9e21db7ea533e1b0713b6"
+          }
+        ]
+      },
+      {
         "name" : "Pancakeswap",
         "domain" : "pancakeswap.finance",
         "contracts" : [
           {
             "address" : "0x678aa4bf4e210cf2166753e054d5b7c31cc7fa86"
+          },
+          {
+            "address" : "0xfe6508f0015c778bdcc1fb5465ba5ebe224c9912"
+          }
+        ]
+      },
+      {
+        "name" : "Party",
+        "domain" : "party.app",
+        "contracts" : [
+          {
+            "address" : "0x55fa719e8712c1d568ec5556bb27e8517f6aed6d"
+          }
+        ]
+      },
+      {
+        "name" : "Portalbridge",
+        "domain" : "portalbridge.com",
+        "contracts" : [
+          {
+            "address" : "0x610d4dfac3ec32e0be98d18ddb280dacd76a1889"
+          },
+          {
+            "address" : "0x8d2de8d2f73f1f4cab472ac9a881c9b123c79627"
+          }
+        ]
+      },
+      {
+        "name" : "Primeprotocol",
+        "domain" : "app.primeprotocol.xyz",
+        "contracts" : [
+          {
+            "address" : "0x650c5d8f7068a96beb9daf6378ffb4243b48cd3c"
+          }
+        ]
+      },
+      {
+        "name" : "Rai",
+        "domain" : "soswap.rai.finance",
+        "contracts" : [
+          {
+            "address" : "0xd55a4d54f39baf26da2f3ee7be9a6388c15f9831"
+          }
+        ]
+      },
+      {
+        "name" : "Rango",
+        "domain" : "app.rango.exchange",
+        "contracts" : [
+          {
+            "address" : "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+          }
+        ]
+      },
+      {
+        "name" : "Rarible",
+        "domain" : "rarible.com",
+        "contracts" : [
+          {
+            "address" : "0x0000000000000068f116a894984e2db1123eb395"
+          }
+        ]
+      },
+      {
+        "name" : "Renzoprotocol",
+        "domain" : "app.renzoprotocol.com",
+        "contracts" : [
+          {
+            "address" : "0xf25484650484de3d554fb0b7125e7696efa4ab99"
           }
         ]
       },
@@ -982,11 +2509,65 @@
         ]
       },
       {
+        "name" : "Robots",
+        "domain" : "robots.farm",
+        "contracts" : [
+          {
+            "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ]
+      },
+      {
         "name" : "Rubic",
         "domain" : "app.rubic.exchange",
         "contracts" : [
           {
             "address" : "0x3335733c454805df6a77f825f266e136fb4a3333"
+          }
+        ]
+      },
+      {
+        "name" : "Rubyscore",
+        "domain" : "rubyscore.io",
+        "contracts" : [
+          {
+            "address" : "0xe10add2ad591a7ac3ca46788a06290de017b9fb4"
+          }
+        ]
+      },
+      {
+        "name" : "Satori",
+        "domain" : "baseswap.satori.finance",
+        "contracts" : [
+          {
+            "address" : "0xf4038d237c553bf246f7d1a377830601d72f2ab8"
+          }
+        ]
+      },
+      {
+        "name" : "Slingshot",
+        "domain" : "app.slingshot.finance",
+        "contracts" : [
+          {
+            "address" : "0xe6338277bc9fde3e3993c5984753dd5a2a79fee1"
+          }
+        ]
+      },
+      {
+        "name" : "Smardex",
+        "domain" : "smardex.io",
+        "contracts" : [
+          {
+            "address" : "0x19ceead7105607cd444f5ad10dd51356436095a1"
+          }
+        ]
+      },
+      {
+        "name" : "Sound",
+        "domain" : "sound.xyz",
+        "contracts" : [
+          {
+            "address" : "0x000000000001a36777f9930aaeff623771b13e70"
           }
         ]
       },
@@ -1000,11 +2581,65 @@
         ]
       },
       {
+        "name" : "Stargate",
+        "domain" : "stargate.finance",
+        "contracts" : [
+          {
+            "address" : "0xdc181bd607330aeebef6ea62e03e5e1fb4b6f7c7"
+          }
+        ]
+      },
+      {
+        "name" : "Stellaswap",
+        "domain" : "app.stellaswap.com",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
+        "name" : "Sudoswap",
+        "domain" : "sudoswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0x160a79c67b05f86f76d224a218f888e7f0f38a87"
+          }
+        ]
+      },
+      {
+        "name" : "Summer",
+        "domain" : "summer.fi",
+        "contracts" : [
+          {
+            "address" : "0x881cd31218f45a75f8ad543a3e1af087f3986ae0"
+          }
+        ]
+      },
+      {
         "name" : "Sushi",
         "domain" : "sushi.com",
         "contracts" : [
           {
             "address" : "0x83ec81ae54dd8dca17c3dd4703141599090751d1"
+          },
+          {
+            "address" : "0x80c7dd17b01855a6d2347444a0fcc36136a314de"
+          },
+          {
+            "address" : "0x0389879e0156033202c44bf784ac18fc02edee4f"
+          },
+          {
+            "address" : "0x6bded42c6da8fbf0d2ba55b2fa120c5e0c8d7891"
+          }
+        ]
+      },
+      {
+        "name" : "Swapbased",
+        "domain" : "swapbased.finance",
+        "contracts" : [
+          {
+            "address" : "0xaaa3b1f1bd7bcc97fd1917c18ade665c5d31f066"
           }
         ]
       },
@@ -1027,11 +2662,65 @@
         ]
       },
       {
+        "name" : "Tarot",
+        "domain" : "tarot.to",
+        "contracts" : [
+          {
+            "address" : "0xd7cabef2c1fd77a31c5ba97c724b82d3e25fc83c"
+          }
+        ]
+      },
+      {
+        "name" : "Thenile",
+        "domain" : "thenile.exchange",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
+        "name" : "Umbra",
+        "domain" : "app.umbra.cash",
+        "contracts" : [
+          {
+            "address" : "0x31fe56609c65cd0c510e7125f051d440424d38f3"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "app.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0x59c7c832e96d2568bea6db468c1aadcbbda08a52"
+          },
+          {
+            "address" : "0x19ceead7105607cd444f5ad10dd51356436095a1"
+          },
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ]
+      },
+      {
         "name" : "Uniswap",
         "domain" : "app.uniswap.org",
         "contracts" : [
           {
             "address" : "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
+          },
+          {
+            "address" : "0x03a520b32c04bf3beef7beb72e919cf822ed34f1"
+          },
+          {
+            "address" : "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+          },
+          {
+            "address" : "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24"
+          },
+          {
+            "address" : "0x000000000022d473030f116ddee9f6b43ac78ba3"
           }
         ]
       },
@@ -1059,6 +2748,18 @@
         "contracts" : [
           {
             "address" : "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+          }
+        ]
+      },
+      {
+        "name" : "Xy",
+        "domain" : "app.xy.finance",
+        "contracts" : [
+          {
+            "address" : "0x73ce60416035b8d7019f6399778c14ccf5c9c7a1"
+          },
+          {
+            "address" : "0xd195070107d853e55dad9a2e6e7e970c400e67b8"
           }
         ]
       },
@@ -1094,6 +2795,27 @@
             "address" : "0x87a659d0433f21e257f5d252fe163e1341ddce81"
           }
         ]
+      },
+      {
+        "name" : "Zora",
+        "domain" : "zora.co",
+        "contracts" : [
+          {
+            "address" : "0x05490ae02f71d2f3d1c96a7e62b44a1b2348c66b"
+          },
+          {
+            "address" : "0x1e1ad3d381bc0ccea5e44c29fb1f7a0981b97f37"
+          }
+        ]
+      },
+      {
+        "name" : "Zyberswap",
+        "domain" : "app.zyberswap.io",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
       }
     ],
     "bsc" : [
@@ -1103,6 +2825,9 @@
         "contracts" : [
           {
             "address" : "0x1111111254eeb25477b68fb85ed929f73a960582"
+          },
+          {
+            "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
           }
         ]
       },
@@ -1125,6 +2850,15 @@
         ]
       },
       {
+        "name" : "Alienbase",
+        "domain" : "app.alienbase.xyz",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
         "name" : "Alpacafinance",
         "domain" : "app-v2.alpacafinance.org",
         "contracts" : [
@@ -1143,6 +2877,21 @@
         ]
       },
       {
+        "name" : "Aperture",
+        "domain" : "app.aperture.finance",
+        "contracts" : [
+          {
+            "address" : "0xb971ef87ede563556b2ed4b1c0b0019111dd85d2"
+          },
+          {
+            "address" : "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
+          },
+          {
+            "address" : "0x000000eed287174a06550eabe6a00074255cab34"
+          }
+        ]
+      },
+      {
         "name" : "Apeswap",
         "domain" : "apeswap.finance",
         "contracts" : [
@@ -1157,9 +2906,6 @@
           },
           {
             "address" : "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
-          },
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
           }
         ]
       },
@@ -1304,6 +3050,9 @@
           },
           {
             "address" : "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          },
+          {
+            "address" : "0xdbc1a13490deef9c3c12b44fe77b503c1b061739"
           }
         ]
       },
@@ -1380,6 +3129,24 @@
         ]
       },
       {
+        "name" : "Carrier",
+        "domain" : "carrier.so",
+        "contracts" : [
+          {
+            "address" : "0xb6f6d86a8f9879a9c87f643768d9efc38c1da6e7"
+          }
+        ]
+      },
+      {
+        "name" : "Cetus",
+        "domain" : "bridge.cetus.zone",
+        "contracts" : [
+          {
+            "address" : "0xb6f6d86a8f9879a9c87f643768d9efc38c1da6e7"
+          }
+        ]
+      },
+      {
         "name" : "Chainspot",
         "domain" : "app.chainspot.io",
         "contracts" : [
@@ -1418,6 +3185,15 @@
           },
           {
             "address" : "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+          }
+        ]
+      },
+      {
+        "name" : "Conveyor",
+        "domain" : "app.conveyor.finance",
+        "contracts" : [
+          {
+            "address" : "0xd5ec61bca0af24ad06be431585a0920142c98890"
           }
         ]
       },
@@ -1484,6 +3260,9 @@
           },
           {
             "address" : "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+          },
+          {
+            "address" : "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
           }
         ]
       },
@@ -1578,6 +3357,15 @@
         ]
       },
       {
+        "name" : "Elk",
+        "domain" : "app.elk.finance",
+        "contracts" : [
+          {
+            "address" : "0xa63b831264183d755756ca9ae5190ff5183d65d6"
+          }
+        ]
+      },
+      {
         "name" : "Ellipsis",
         "domain" : "ellipsis.finance",
         "contracts" : [
@@ -1650,11 +3438,29 @@
         ]
       },
       {
+        "name" : "Fstswap",
+        "domain" : "app.fstswap.vip",
+        "contracts" : [
+          {
+            "address" : "0x9c13fae1acc612f5d7d96975659a63feeb252674"
+          }
+        ]
+      },
+      {
         "name" : "Gas",
         "domain" : "lz.gas.zip",
         "contracts" : [
           {
             "address" : "0xbf94ed69281709958c8f60bc15cd1bb6badcd4a4"
+          }
+        ]
+      },
+      {
+        "name" : "Harmony",
+        "domain" : "bridge.harmony.one",
+        "contracts" : [
+          {
+            "address" : "0x128aedc7f41ffb82131215e1722d8366faad0cd4"
           }
         ]
       },
@@ -1677,6 +3483,15 @@
         ]
       },
       {
+        "name" : "Impossible",
+        "domain" : "app.impossible.finance",
+        "contracts" : [
+          {
+            "address" : "0x56f6ca0a3364fa3ac9f0e8e9858b2966cdf39d03"
+          }
+        ]
+      },
+      {
         "name" : "Interport",
         "domain" : "app.interport.fi",
         "contracts" : [
@@ -1695,20 +3510,11 @@
         ]
       },
       {
-        "name" : "Jumper",
-        "domain" : "jumper.exchange",
+        "name" : "Julswap",
+        "domain" : "info.julswap.com",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
-          }
-        ]
-      },
-      {
-        "name" : "Kiloex",
-        "domain" : "app.kiloex.io",
-        "contracts" : [
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0xbd67d157502a23309db761c41965600c2ec788b2"
           }
         ]
       },
@@ -1743,11 +3549,41 @@
         ]
       },
       {
+        "name" : "L2pass",
+        "domain" : "l2pass.com",
+        "contracts" : [
+          {
+            "address" : "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+          },
+          {
+            "address" : "0x222228060e7efbb1d78bb5d454581910e3922222"
+          }
+        ]
+      },
+      {
+        "name" : "Layer3",
+        "domain" : "app.layer3.xyz",
+        "contracts" : [
+          {
+            "address" : "0x71a2f8007e71e1399d66972e48d10a0a0d0049c0"
+          }
+        ]
+      },
+      {
         "name" : "Layer3",
         "domain" : "layer3.xyz",
         "contracts" : [
           {
             "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          }
+        ]
+      },
+      {
+        "name" : "Lends",
+        "domain" : "app.lends.so",
+        "contracts" : [
+          {
+            "address" : "0xb30ec53f98ff5947ede720d32ac2da7e52a5f56b"
           }
         ]
       },
@@ -1773,6 +3609,18 @@
         ]
       },
       {
+        "name" : "Magpiefi",
+        "domain" : "app.magpiefi.xyz",
+        "contracts" : [
+          {
+            "address" : "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+          },
+          {
+            "address" : "0xbd96bca0d3a4fcc18dc44d333a7851c513772289"
+          }
+        ]
+      },
+      {
         "name" : "Matcha",
         "domain" : "matcha.xyz",
         "contracts" : [
@@ -1782,11 +3630,32 @@
         ]
       },
       {
+        "name" : "Mav",
+        "domain" : "app.mav.xyz",
+        "contracts" : [
+          {
+            "address" : "0xd53a9f3fae2bd46d35e9a30ba58112a585542869"
+          }
+        ]
+      },
+      {
         "name" : "Merkly",
         "domain" : "minter.merkly.com",
         "contracts" : [
           {
             "address" : "0xef1eae0457e8d56a003d781569489bc5466e574b"
+          },
+          {
+            "address" : "0xfdc9018af0e37abf89233554c937eb5068127080"
+          },
+          {
+            "address" : "0xe341f30ea040bf3691aa069b8c5c213f72676421"
+          },
+          {
+            "address" : "0xf3d41b377c93fa5c3b0071966f1811c5063fad40"
+          },
+          {
+            "address" : "0x7dfb5e7808b5eb4fb8b9e7169537575f6ff1a218"
           }
         ]
       },
@@ -1821,11 +3690,47 @@
         ]
       },
       {
+        "name" : "Micro3",
+        "domain" : "micro3.io",
+        "contracts" : [
+          {
+            "address" : "0xdce78c98a0a5abe3f0a342b32bfe43d203794dee"
+          },
+          {
+            "address" : "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+          },
+          {
+            "address" : "0xc57f70622629936c3ff7517deea6b957c31b648c"
+          }
+        ]
+      },
+      {
+        "name" : "Mobox",
+        "domain" : "mobox.io",
+        "contracts" : [
+          {
+            "address" : "0xae5f14a9aed2b56121fb964a84a9dff114296563"
+          },
+          {
+            "address" : "0x1da9b6e37f006dd349089dea21cb8261391593d5"
+          }
+        ]
+      },
+      {
         "name" : "Mux",
         "domain" : "app.mux.network",
         "contracts" : [
           {
             "address" : "0xa67aa293642c4e02d1b9f360b007c0dbdc451a08"
+          }
+        ]
+      },
+      {
+        "name" : "Native",
+        "domain" : "native.org",
+        "contracts" : [
+          {
+            "address" : "0xead050515e10fdb3540ccd6f8236c46790508a76"
           }
         ]
       },
@@ -1871,6 +3776,15 @@
         "contracts" : [
           {
             "address" : "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
+          }
+        ]
+      },
+      {
+        "name" : "Okx",
+        "domain" : "okx.com",
+        "contracts" : [
+          {
+            "address" : "0x9333c74bdd1e118634fe5664aca7a9710b108bab"
           }
         ]
       },
@@ -1932,6 +3846,27 @@
         ]
       },
       {
+        "name" : "Owlto",
+        "domain" : "owlto.finance",
+        "contracts" : [
+          {
+            "address" : "0x872fc5fed2d1261aba4e234a47f473c9a3da2724"
+          }
+        ]
+      },
+      {
+        "name" : "Pancakebunny",
+        "domain" : "pancakebunny.finance",
+        "contracts" : [
+          {
+            "address" : "0xa555443a5ee77f334648ef4f557c0b5070fcb4de"
+          },
+          {
+            "address" : "0xdc2bbb0d33e0e7dea9f5b98f46edbac823586a0c"
+          }
+        ]
+      },
+      {
         "name" : "Pancakeswap",
         "domain" : "bridge.pancakeswap.finance",
         "contracts" : [
@@ -1955,6 +3890,12 @@
           },
           {
             "address" : "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
+          },
+          {
+            "address" : "0x1a0a18ac4becddbd6389559687d1a73d8927e416"
+          },
+          {
+            "address" : "0xfa249caa1d16f75fa159f7dfbac0cc5eab48ceff"
           }
         ]
       },
@@ -1971,9 +3912,6 @@
         "name" : "Pangolin",
         "domain" : "app.pangolin.exchange",
         "contracts" : [
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
-          },
           {
             "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
           }
@@ -1994,6 +3932,24 @@
         "contracts" : [
           {
             "address" : "0x8d1a17a3a4504aeb17515645ba8098f1d75237f7"
+          }
+        ]
+      },
+      {
+        "name" : "Pendle",
+        "domain" : "app.pendle.finance",
+        "contracts" : [
+          {
+            "address" : "0x888888888889758f76e7103c6cbf23abbf58f946"
+          }
+        ]
+      },
+      {
+        "name" : "Pentas",
+        "domain" : "app.pentas.io",
+        "contracts" : [
+          {
+            "address" : "0xe65591897c92bf0604f7d96081a6be8e42de346b"
           }
         ]
       },
@@ -2030,6 +3986,15 @@
         "contracts" : [
           {
             "address" : "0xb1b3ab4327020959d1243536cfed69fa21b8c0c6"
+          }
+        ]
+      },
+      {
+        "name" : "Portalbridge",
+        "domain" : "portalbridge.com",
+        "contracts" : [
+          {
+            "address" : "0xb6f6d86a8f9879a9c87f643768d9efc38c1da6e7"
           }
         ]
       },
@@ -2124,6 +4089,33 @@
         ]
       },
       {
+        "name" : "Sakaivault",
+        "domain" : "appv1.sakaivault.io",
+        "contracts" : [
+          {
+            "address" : "0xc20a079c7962d9fc92173cda349e80d484dfa42a"
+          }
+        ]
+      },
+      {
+        "name" : "Secondlive",
+        "domain" : "secondlive.world",
+        "contracts" : [
+          {
+            "address" : "0x260e69ab6665b9ef67b60674e265b5d21c88cb45"
+          }
+        ]
+      },
+      {
+        "name" : "Shapeshift",
+        "domain" : "app.shapeshift.com",
+        "contracts" : [
+          {
+            "address" : "0xb30ec53f98ff5947ede720d32ac2da7e52a5f56b"
+          }
+        ]
+      },
+      {
         "name" : "Slingshot",
         "domain" : "app.slingshot.finance",
         "contracts" : [
@@ -2142,11 +4134,29 @@
         ]
       },
       {
+        "name" : "Smardex",
+        "domain" : "smardex.io",
+        "contracts" : [
+          {
+            "address" : "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
+          }
+        ]
+      },
+      {
         "name" : "Space",
         "domain" : "space.id",
         "contracts" : [
           {
             "address" : "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+          }
+        ]
+      },
+      {
+        "name" : "Spooky",
+        "domain" : "spooky.fi",
+        "contracts" : [
+          {
+            "address" : "0xcafd2f0a35a4459fa40c0517e17e6fa2939441ca"
           }
         ]
       },
@@ -2178,6 +4188,36 @@
         ]
       },
       {
+        "name" : "Stargate",
+        "domain" : "stargate.finance",
+        "contracts" : [
+          {
+            "address" : "0x138eb30f73bc423c6455c53df6d89cb01d9ebc63"
+          },
+          {
+            "address" : "0x4a364f8c717caad9a442737eb7b8a55cc6cf18d8"
+          }
+        ]
+      },
+      {
+        "name" : "Starrynift",
+        "domain" : "starrynift.art",
+        "contracts" : [
+          {
+            "address" : "0xe3ba0072d1da98269133852fba1795419d72baf4"
+          }
+        ]
+      },
+      {
+        "name" : "Stellaswap",
+        "domain" : "app.stellaswap.com",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
         "name" : "Sushi",
         "domain" : "sushi.com",
         "contracts" : [
@@ -2189,6 +4229,9 @@
           },
           {
             "address" : "0x33d91116e0370970444b0281ab117e161febfcdd"
+          },
+          {
+            "address" : "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
           }
         ]
       },
@@ -2210,6 +4253,9 @@
           },
           {
             "address" : "0x55d398326f99059ff775485246999027b3197955"
+          },
+          {
+            "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
           }
         ]
       },
@@ -2219,6 +4265,24 @@
         "contracts" : [
           {
             "address" : "0x2bf55d1596786f1ae8160e997d655dbe6d9bca7a"
+          }
+        ]
+      },
+      {
+        "name" : "Tarot",
+        "domain" : "tarot.to",
+        "contracts" : [
+          {
+            "address" : "0x8184fa7dd835efd2ddf90a3072efff4928405990"
+          }
+        ]
+      },
+      {
+        "name" : "Telos",
+        "domain" : "bridge.telos.net",
+        "contracts" : [
+          {
+            "address" : "0x9c5ebcbe531aa81bd82013abf97401f5c6111d76"
           }
         ]
       },
@@ -2243,6 +4307,30 @@
           },
           {
             "address" : "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+          }
+        ]
+      },
+      {
+        "name" : "Thenile",
+        "domain" : "thenile.exchange",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
+        "name" : "Tinyworlds",
+        "domain" : "app.tinyworlds.io",
+        "contracts" : [
+          {
+            "address" : "0x96eade4c5ca5251caa7801ed38fada4807f63cbe"
+          },
+          {
+            "address" : "0x390e1ba132ed9ff3394d8aa484983cc8c85f8149"
+          },
+          {
+            "address" : "0xe159610b7ba269dc03b4316b0d9e1d06aad237a7"
           }
         ]
       },
@@ -2301,6 +4389,39 @@
         ]
       },
       {
+        "name" : "Unidex",
+        "domain" : "app.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
+          },
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xd5ec61bca0af24ad06be431585a0920142c98890"
+          },
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          },
+          {
+            "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+          },
+          {
+            "address" : "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "pool.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0x4baba27338e80ed571353f7e98d1cc4fbbcf46e4"
+          }
+        ]
+      },
+      {
         "name" : "Uniswap",
         "domain" : "app.uniswap.org",
         "contracts" : [
@@ -2321,6 +4442,9 @@
           },
           {
             "address" : "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
+          },
+          {
+            "address" : "0x000000000022d473030f116ddee9f6b43ac78ba3"
           }
         ]
       },
@@ -2349,6 +4473,15 @@
         ]
       },
       {
+        "name" : "W3swap",
+        "domain" : "bsc.w3swap.link",
+        "contracts" : [
+          {
+            "address" : "0xf29ace1fe5f36389d0dde450a0195a30c3770245"
+          }
+        ]
+      },
+      {
         "name" : "Wanchain",
         "domain" : "bridge.wanchain.org",
         "contracts" : [
@@ -2363,6 +4496,15 @@
         "contracts" : [
           {
             "address" : "0x451ef8d6b645a60115eb8b8bea76b39c0c761004"
+          }
+        ]
+      },
+      {
+        "name" : "Whirlprivacy",
+        "domain" : "whirlprivacy.io",
+        "contracts" : [
+          {
+            "address" : "0x35ec5f1ae635f5483331f54088ecec816ea78fb1"
           }
         ]
       },
@@ -2445,6 +4587,191 @@
         ]
       }
     ],
+    "celo" : [
+      {
+        "name" : "Angle",
+        "domain" : "app.angle.money",
+        "contracts" : [
+          {
+            "address" : "0xf1ddcaca7d17f8030ab2eb54f2d9811365efe123"
+          }
+        ]
+      },
+      {
+        "name" : "Curve",
+        "domain" : "curve.fi",
+        "contracts" : [
+          {
+            "address" : "0x98ee851a00abee0d95d08cf4ca2bdce32aeaaf7f"
+          },
+          {
+            "address" : "0x1764ee18e8b3cca4787249ceb249356192594585"
+          }
+        ]
+      },
+      {
+        "name" : "Defillama",
+        "domain" : "swap.defillama.com",
+        "contracts" : [
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ]
+      },
+      {
+        "name" : "Eth",
+        "domain" : "1.horswap.eth.limo",
+        "contracts" : [
+          {
+            "address" : "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+          }
+        ]
+      },
+      {
+        "name" : "L2pass",
+        "domain" : "l2pass.com",
+        "contracts" : [
+          {
+            "address" : "0x222228060e7efbb1d78bb5d454581910e3922222"
+          }
+        ]
+      },
+      {
+        "name" : "L2telegraph",
+        "domain" : "l2telegraph.xyz",
+        "contracts" : [
+          {
+            "address" : "0x83017335bae4837016311bdb75df5a320b54d636"
+          },
+          {
+            "address" : "0x64e0f6164ac110b67df9a4848707ffbcb86c87a9"
+          }
+        ]
+      },
+      {
+        "name" : "Masa",
+        "domain" : "app.masa.finance",
+        "contracts" : [
+          {
+            "address" : "0x6aa37df2392007209c54a2162bef21623705dc22"
+          }
+        ]
+      },
+      {
+        "name" : "Matcha",
+        "domain" : "matcha.xyz",
+        "contracts" : [
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ]
+      },
+      {
+        "name" : "Mento",
+        "domain" : "app.mento.org",
+        "contracts" : [
+          {
+            "address" : "0x777a8255ca72412f0d706dc03c9d1987306b4cad"
+          }
+        ]
+      },
+      {
+        "name" : "Merkly",
+        "domain" : "minter.merkly.com",
+        "contracts" : [
+          {
+            "address" : "0xc20a842e1fc2681920c1a190552a2f13c46e7fcf"
+          }
+        ]
+      },
+      {
+        "name" : "Primeprotocol",
+        "domain" : "app.primeprotocol.xyz",
+        "contracts" : [
+          {
+            "address" : "0x79358880570886d4197e3702746c78c85578b855"
+          }
+        ]
+      },
+      {
+        "name" : "Safe",
+        "domain" : "app.safe.global",
+        "contracts" : [
+          {
+            "address" : "0xc22834581ebc8527d974f8a1c97e1bea4ef910bc"
+          }
+        ]
+      },
+      {
+        "name" : "Stcelo",
+        "domain" : "app.stcelo.xyz",
+        "contracts" : [
+          {
+            "address" : "0x0239b96d10a434a56cc9e09383077a0490cf9398"
+          }
+        ]
+      },
+      {
+        "name" : "Sushi",
+        "domain" : "sushi.com",
+        "contracts" : [
+          {
+            "address" : "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959"
+          }
+        ]
+      },
+      {
+        "name" : "Symm",
+        "domain" : "app.symm.fi",
+        "contracts" : [
+          {
+            "address" : "0xd25e02047e76b688445ab154785f2642c6fe3f73"
+          }
+        ]
+      },
+      {
+        "name" : "Tofunft",
+        "domain" : "tofunft.com",
+        "contracts" : [
+          {
+            "address" : "0x063a90de486d3d925654355bed00f788ea7e1847"
+          }
+        ]
+      },
+      {
+        "name" : "Ubeswap",
+        "domain" : "app.ubeswap.org",
+        "contracts" : [
+          {
+            "address" : "0xe3d8bd6aed4f159bc8000a9cd47cffdb95f96121"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "app.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ]
+      },
+      {
+        "name" : "Uniswap",
+        "domain" : "app.uniswap.org",
+        "contracts" : [
+          {
+            "address" : "0x3d79edaabc0eab6f08ed885c05fc0b014290d95a"
+          },
+          {
+            "address" : "0x000000000022d473030f116ddee9f6b43ac78ba3"
+          },
+          {
+            "address" : "0x643770e279d5d0733f21d6dc03a8efbabf3255b4"
+          }
+        ]
+      }
+    ],
     "ethereum" : [
       {
         "name" : "1inch",
@@ -2494,6 +4821,9 @@
           },
           {
             "address" : "0x119c71d3bbac22029622cbaec24854d3d32d2828"
+          },
+          {
+            "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
           }
         ]
       },
@@ -2953,6 +5283,12 @@
           },
           {
             "address" : "0xd322a49006fc828f9b5b37ab215f99b4e5cab19c"
+          },
+          {
+            "address" : "0x87870bca3f3fd6335c3f4ce8392d69350b4fa4e2"
+          },
+          {
+            "address" : "0x7d2768de32b0b80b7a3454c06bdac94a69ddc7a9"
           }
         ]
       },
@@ -2987,11 +5323,35 @@
         ]
       },
       {
+        "name" : "Airpuff",
+        "domain" : "app.airpuff.io",
+        "contracts" : [
+          {
+            "address" : "0xe543eba28a3793d5ae747a2164a306db1767cdae"
+          },
+          {
+            "address" : "0xec69aac84d3081aa6f4636c5dbd3d7c2c2f42a9c"
+          }
+        ]
+      },
+      {
         "name" : "Airswap",
         "domain" : "airswap.io",
         "contracts" : [
           {
             "address" : "0x3a0e257568cc9c6c5d767d5dc0cd8a9ac69cc3ae"
+          }
+        ]
+      },
+      {
+        "name" : "Aladdin",
+        "domain" : "fx.aladdin.club",
+        "contracts" : [
+          {
+            "address" : "0xa5e2ec4682a32605b9098ddd7204fe84ab932fe4"
+          },
+          {
+            "address" : "0x5c28b966ab37cfb9397bbc04595f91f0fbf06d9b"
           }
         ]
       },
@@ -3059,11 +5419,11 @@
         ]
       },
       {
-        "name" : "Ape",
-        "domain" : "ape.bond",
+        "name" : "Aperture",
+        "domain" : "app.aperture.finance",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
           }
         ]
       },
@@ -3088,9 +5448,6 @@
           },
           {
             "address" : "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
-          },
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
           },
           {
             "address" : "0xdac17f958d2ee523a2206206994597c13d831ec7"
@@ -3127,6 +5484,15 @@
         "contracts" : [
           {
             "address" : "0x4c52ca29388a8a854095fd2beb83191d68dc840b"
+          },
+          {
+            "address" : "0x269363665dbb1582b143099a3cb467e98a476d55"
+          },
+          {
+            "address" : "0x89bc08ba00f135d608bc335f6b33d7a9abcc98af"
+          },
+          {
+            "address" : "0x666faa632e5f7ba20a7fce36596a6736f87133be"
           }
         ]
       },
@@ -11552,6 +13918,15 @@
         ]
       },
       {
+        "name" : "Bedrock",
+        "domain" : "app.bedrock.technology",
+        "contracts" : [
+          {
+            "address" : "0x4befa2aa9c305238aa3e0b5d17eb20c045269e9d"
+          }
+        ]
+      },
+      {
         "name" : "Benddao",
         "domain" : "benddao.xyz",
         "contracts" : [
@@ -11711,11 +14086,11 @@
         ]
       },
       {
-        "name" : "Chainspot",
-        "domain" : "app.chainspot.io",
+        "name" : "Cetus",
+        "domain" : "bridge.cetus.zone",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x48b6101128c0ed1e208b7c910e60542a2ee6f476"
           }
         ]
       },
@@ -11743,6 +14118,15 @@
         "contracts" : [
           {
             "address" : "0x22cdae94f135b310d2ffb01e8af05f10092a3d0b"
+          }
+        ]
+      },
+      {
+        "name" : "Claystack",
+        "domain" : "app.claystack.com",
+        "contracts" : [
+          {
+            "address" : "0x331312dabaf3d69138c047aac278c9f9e0e8fff8"
           }
         ]
       },
@@ -12191,6 +14575,15 @@
         ]
       },
       {
+        "name" : "Decent",
+        "domain" : "app.decent.xyz",
+        "contracts" : [
+          {
+            "address" : "0x1572d48a52906b834fb236aa77831d669f6d87a1"
+          }
+        ]
+      },
+      {
         "name" : "DeFi Kingdoms",
         "domain" : "defikingdoms.com",
         "contracts" : [
@@ -12255,10 +14648,16 @@
         "domain" : "app.defisaver.com",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
-          },
-          {
             "address" : "0x4678f0a6958e4d2bc4f1baf7bc52e8f3564f3fe4"
+          }
+        ]
+      },
+      {
+        "name" : "Defiway",
+        "domain" : "defiway.com",
+        "contracts" : [
+          {
+            "address" : "0xa0bb1ebf52a9307f30509d3b385754c33b7f2e26"
           }
         ]
       },
@@ -12268,6 +14667,18 @@
         "contracts" : [
           {
             "address" : "0x8888888883585b9a8202db34d8b09d7252bfc61c"
+          }
+        ]
+      },
+      {
+        "name" : "Delegate",
+        "domain" : "delegate.xyz",
+        "contracts" : [
+          {
+            "address" : "0x00000000000000447e69651d841bd8d104bed493"
+          },
+          {
+            "address" : "0x1e0049783f008a0085193e00003d00cd54003c71"
           }
         ]
       },
@@ -12482,6 +14893,15 @@
         ]
       },
       {
+        "name" : "Dooar",
+        "domain" : "beta.dooar.com",
+        "contracts" : [
+          {
+            "address" : "0x53e0e51b5ed9202110d7ecd637a4581db8b9879f"
+          }
+        ]
+      },
+      {
         "name" : "Doodles",
         "domain" : "doodles.app",
         "contracts" : [
@@ -12623,11 +15043,26 @@
         ]
       },
       {
+        "name" : "Eigenfoundation",
+        "domain" : "claims.eigenfoundation.org",
+        "contracts" : [
+          {
+            "address" : "0x035bdaeab85e47710c27eda7fd754ba80ad4ad02"
+          }
+        ]
+      },
+      {
         "name" : "Eigenlayer",
         "domain" : "app.eigenlayer.xyz",
         "contracts" : [
           {
             "address" : "0x91e677b07f7af907ec9a428aafa9fc14a0d3a338"
+          },
+          {
+            "address" : "0x39053d51b77dc0d36036fc1fcc8cb819df8ef37a"
+          },
+          {
+            "address" : "0x858646372cc42e1a627fce94aa7a7033e7cf075a"
           }
         ]
       },
@@ -12667,6 +15102,15 @@
           },
           {
             "address" : "0xb2ecfe4e4d61f8790bbb9de2d1259b9e2410cea5"
+          }
+        ]
+      },
+      {
+        "name" : "Elixir",
+        "domain" : "elixir.xyz",
+        "contracts" : [
+          {
+            "address" : "0x1f75881dc0707b5236f739b5b64a87c211294abb"
           }
         ]
       },
@@ -12793,6 +15237,9 @@
           },
           {
             "address" : "0xea1a6307d9b18f8d1cbf1c3dd6aad8416c06a221"
+          },
+          {
+            "address" : "0xf0164d48b308c42ae028e3379b2fb620e70f8780"
           }
         ]
       },
@@ -12841,6 +15288,15 @@
         "contracts" : [
           {
             "address" : "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+          }
+        ]
+      },
+      {
+        "name" : "Euclidfinance",
+        "domain" : "euclidfinance.io",
+        "contracts" : [
+          {
+            "address" : "0x26803cb8bd2916eb58c3610cab50077a96d29947"
           }
         ]
       },
@@ -12961,6 +15417,9 @@
           },
           {
             "address" : "0xbafa44efe7901e04e39dad13167d089c559c1138"
+          },
+          {
+            "address" : "0xc14d550632db8592d1243edc8b95b0ad06703867"
           }
         ]
       },
@@ -13034,6 +15493,15 @@
         ]
       },
       {
+        "name" : "Harmony",
+        "domain" : "bridge.harmony.one",
+        "contracts" : [
+          {
+            "address" : "0x1edb8bded80e1b87ed19ee7d97ee80b4fdb615c1"
+          }
+        ]
+      },
+      {
         "name" : "Harvest",
         "domain" : "app.harvest.finance",
         "contracts" : [
@@ -13094,6 +15562,24 @@
         ]
       },
       {
+        "name" : "Hyperlane",
+        "domain" : "renzo.hyperlane.xyz",
+        "contracts" : [
+          {
+            "address" : "0xdff621f952c23972dfd3a9e5d7b9f6339e9c078b"
+          }
+        ]
+      },
+      {
+        "name" : "Inceptionlrt",
+        "domain" : "inceptionlrt.com",
+        "contracts" : [
+          {
+            "address" : "0x46199caa0e453971cedf97f926368d9e5415831a"
+          }
+        ]
+      },
+      {
         "name" : "Indexcoop",
         "domain" : "app.indexcoop.com",
         "contracts" : [
@@ -13103,11 +15589,35 @@
         ]
       },
       {
+        "name" : "Instadapp",
+        "domain" : "fluid.instadapp.io",
+        "contracts" : [
+          {
+            "address" : "0x90551c1795392094fe6d29b758eccd233cfaa260"
+          },
+          {
+            "address" : "0xeabbfca72f8a8bf14c4ac59e69ecb2eb69f0811c"
+          },
+          {
+            "address" : "0xbec491fef7b4f666b270f9d5e5c3f443cbf20991"
+          }
+        ]
+      },
+      {
         "name" : "Insurace",
         "domain" : "app.insurace.io",
         "contracts" : [
           {
             "address" : "0x88ef6f235a4790292068646e79ee563339c796a0"
+          }
+        ]
+      },
+      {
+        "name" : "Interestprotocol",
+        "domain" : "interestprotocol.io",
+        "contracts" : [
+          {
+            "address" : "0x4aae9823fb4c70490f1d802fc697f3fff8d5cbe3"
           }
         ]
       },
@@ -13130,20 +15640,23 @@
         ]
       },
       {
-        "name" : "Jumper",
-        "domain" : "jumper.exchange",
+        "name" : "Juicebox",
+        "domain" : "juicebox.money",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x97a5b9d9f0f7cd676b69f584f29048d0ef4bb59b"
+          },
+          {
+            "address" : "0x1d9619e10086fdc1065b114298384aae3f680cc0"
           }
         ]
       },
       {
-        "name" : "Kiloex",
-        "domain" : "app.kiloex.io",
+        "name" : "Kelpdao",
+        "domain" : "kelpdao.xyz",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x036676389e48133b63a802f8635ad39e752d375d"
           }
         ]
       },
@@ -13303,6 +15816,15 @@
         "contracts" : [
           {
             "address" : "0xd1fdf0144be118c30a53e1d08cc1e61d600e508e"
+          }
+        ]
+      },
+      {
+        "name" : "Krystal",
+        "domain" : "defi.krystal.app",
+        "contracts" : [
+          {
+            "address" : "0x70270c228c5b4279d1578799926873aa72446ccd"
           }
         ]
       },
@@ -13592,6 +16114,15 @@
         ]
       },
       {
+        "name" : "Liquifi",
+        "domain" : "renzo.liquifi.finance",
+        "contracts" : [
+          {
+            "address" : "0x2e1a7ef12d0adeebf6009f0aa964cf686364b01f"
+          }
+        ]
+      },
+      {
         "name" : "Liquity",
         "domain" : "liquity.org",
         "contracts" : [
@@ -13736,6 +16267,15 @@
         ]
       },
       {
+        "name" : "Magpiefi",
+        "domain" : "app.magpiefi.xyz",
+        "contracts" : [
+          {
+            "address" : "0xbd96bca0d3a4fcc18dc44d333a7851c513772289"
+          }
+        ]
+      },
+      {
         "name" : "Mai",
         "domain" : "app.mai.finance",
         "contracts" : [
@@ -13847,11 +16387,29 @@
         ]
       },
       {
+        "name" : "Meebits",
+        "domain" : "meebits.app",
+        "contracts" : [
+          {
+            "address" : "0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7"
+          }
+        ]
+      },
+      {
         "name" : "Merkly",
         "domain" : "minter.merkly.com",
         "contracts" : [
           {
             "address" : "0xafa5f9313f1f2b599173f24807a882f498be118c"
+          },
+          {
+            "address" : "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
+          },
+          {
+            "address" : "0xf5379e7515b5678ada4866b1cd191b95182461c0"
+          },
+          {
+            "address" : "0x41ca0f2a9a3fe8aa15135574c37e3e7083d2ce7e"
           }
         ]
       },
@@ -13933,6 +16491,15 @@
         "contracts" : [
           {
             "address" : "0xba8da9dcf11b50b03fd5284f164ef5cdef910705"
+          }
+        ]
+      },
+      {
+        "name" : "Native",
+        "domain" : "native.org",
+        "contracts" : [
+          {
+            "address" : "0xead050515e10fdb3540ccd6f8236c46790508a76"
           }
         ]
       },
@@ -14213,6 +16780,24 @@
         ]
       },
       {
+        "name" : "Olympusdao",
+        "domain" : "app.olympusdao.finance",
+        "contracts" : [
+          {
+            "address" : "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f"
+          }
+        ]
+      },
+      {
+        "name" : "Omoswap",
+        "domain" : "app.omoswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0x5c5d5b660a6b95822327abbae187209303d2973c"
+          }
+        ]
+      },
+      {
         "name" : "Onx",
         "domain" : "app.onx.finance",
         "contracts" : [
@@ -14398,6 +16983,9 @@
           },
           {
             "address" : "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
+          },
+          {
+            "address" : "0x65b382653f7c31bc0af67f188122035461ec9c76"
           }
         ]
       },
@@ -14683,6 +17271,9 @@
           },
           {
             "address" : "0x00000000005bbb0ef59571e58418f9a4357b68a0"
+          },
+          {
+            "address" : "0x888888888889758f76e7103c6cbf23abbf58f946"
           }
         ]
       },
@@ -14765,6 +17356,24 @@
         ]
       },
       {
+        "name" : "Primeprotocol",
+        "domain" : "app.primeprotocol.xyz",
+        "contracts" : [
+          {
+            "address" : "0xb10709569348c91d906f8c69855b141b554dc221"
+          }
+        ]
+      },
+      {
+        "name" : "Primestaked",
+        "domain" : "app.primestaked.com",
+        "contracts" : [
+          {
+            "address" : "0xe592427a0aece92de3edee1f18e0157c05861564"
+          }
+        ]
+      },
+      {
         "name" : "Proofofhumanity",
         "domain" : "app.proofofhumanity.id",
         "contracts" : [
@@ -14783,6 +17392,15 @@
         ]
       },
       {
+        "name" : "Puffer",
+        "domain" : "quest.puffer.fi",
+        "contracts" : [
+          {
+            "address" : "0xd9a442856c234a39a81a089c06451ebaa4306a72"
+          }
+        ]
+      },
+      {
         "name" : "Questn",
         "domain" : "business.questn.com",
         "contracts" : [
@@ -14797,6 +17415,15 @@
         "contracts" : [
           {
             "address" : "0xc46963a9eaf81f5beb0b11413687f87a874e2d13"
+          }
+        ]
+      },
+      {
+        "name" : "Rainbowbridge",
+        "domain" : "rainbowbridge.app",
+        "contracts" : [
+          {
+            "address" : "0x6bfad42cfc4efc96f529d786d643ff4a8b89fa52"
           }
         ]
       },
@@ -14855,6 +17482,15 @@
         ]
       },
       {
+        "name" : "Relay",
+        "domain" : "relay.link",
+        "contracts" : [
+          {
+            "address" : "0x0000000000002bdbf1bf3279983603ec279cc6df"
+          }
+        ]
+      },
+      {
         "name" : "Renft",
         "domain" : "market.renft.io",
         "contracts" : [
@@ -14869,6 +17505,15 @@
         "contracts" : [
           {
             "address" : "0x651647ee8bc055e950241cf112fea964a0000827"
+          }
+        ]
+      },
+      {
+        "name" : "Reserve",
+        "domain" : "app.reserve.org",
+        "contracts" : [
+          {
+            "address" : "0xffa151ad0a0e2e40f39f9e5e9f87cf9e45e819dd"
           }
         ]
       },
@@ -15016,6 +17661,27 @@
         "contracts" : [
           {
             "address" : "0xf8b1378579659d8f7ee5f3c929c2f3e332e41fd6"
+          },
+          {
+            "address" : "0x6774bcbd5cecef1336b5300fb5186a12ddd8b367"
+          }
+        ]
+      },
+      {
+        "name" : "Seize",
+        "domain" : "seize.io",
+        "contracts" : [
+          {
+            "address" : "0x2202cb9c00487e7e8ef21e6d8e914b32e709f43d"
+          }
+        ]
+      },
+      {
+        "name" : "Shapeshift",
+        "domain" : "app.shapeshift.com",
+        "contracts" : [
+          {
+            "address" : "0xd37bbe5744d730a1d98d8dc97c42f0ca46ad7146"
           }
         ]
       },
@@ -15055,6 +17721,9 @@
         "contracts" : [
           {
             "address" : "0xb2374f84b3ceeff6492943df613c9bcf45322a0c"
+          },
+          {
+            "address" : "0x8658047e48cc09161f4152c79155dac1d710ff0a"
           }
         ]
       },
@@ -15079,6 +17748,15 @@
         "contracts" : [
           {
             "address" : "0x9b5d9e2c2e1e96986603be922bc44304d6aca898"
+          }
+        ]
+      },
+      {
+        "name" : "Smardex",
+        "domain" : "smardex.io",
+        "contracts" : [
+          {
+            "address" : "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
           }
         ]
       },
@@ -15146,6 +17824,18 @@
         ]
       },
       {
+        "name" : "Stakestone",
+        "domain" : "app.stakestone.io",
+        "contracts" : [
+          {
+            "address" : "0xa62f9c5af106feee069f38de51098d9d81b90572"
+          },
+          {
+            "address" : "0x1b70ff1e5152fdb8425a2b84b098df2f9c1df54e"
+          }
+        ]
+      },
+      {
         "name" : "Stakewise",
         "domain" : "app.stakewise.io",
         "contracts" : [
@@ -15160,6 +17850,9 @@
         "contracts" : [
           {
             "address" : "0x150f94b44927f078737562f0fcf3c95c01cc2376"
+          },
+          {
+            "address" : "0x77b2043768d28e9c9ab44e1abfc95944bce57931"
           }
         ]
       },
@@ -24355,6 +27048,9 @@
           },
           {
             "address" : "0xe43ca1dee3f0fc1e2df73a0745674545f11a59f5"
+          },
+          {
+            "address" : "0xc2edad668740f1aa35e4d8f227fb8e17dca888cd"
           }
         ]
       },
@@ -24481,6 +27177,9 @@
           },
           {
             "address" : "0xfae103dc9cf190ed75350761e95403b7b8afa6c0"
+          },
+          {
+            "address" : "0xbd9fc4fdb07e46a69349101e862e82aa002ade0d"
           }
         ]
       },
@@ -24512,6 +27211,15 @@
         ]
       },
       {
+        "name" : "Taiko",
+        "domain" : "bridge.taiko.xyz",
+        "contracts" : [
+          {
+            "address" : "0xd60247c6848b7ca29eddf63aa924e53db6ddd8ec"
+          }
+        ]
+      },
+      {
         "name" : "The Sandbox Marketplace",
         "domain" : "sandbox.game",
         "contracts" : [
@@ -24538,6 +27246,15 @@
         "contracts" : [
           {
             "address" : "0xf55041e37e12cd407ad00ce2910b8269b01263b9"
+          }
+        ]
+      },
+      {
+        "name" : "Thorswap",
+        "domain" : "app.thorswap.finance",
+        "contracts" : [
+          {
+            "address" : "0x7a250d5630b4cf539739df2c5dacb4c659f2488d"
           }
         ]
       },
@@ -24713,6 +27430,24 @@
         ]
       },
       {
+        "name" : "Transporter",
+        "domain" : "app.transporter.io",
+        "contracts" : [
+          {
+            "address" : "0x66598216d8e4d9afe0f06d525b335b762229842f"
+          }
+        ]
+      },
+      {
+        "name" : "Umbra",
+        "domain" : "app.umbra.cash",
+        "contracts" : [
+          {
+            "address" : "0x31fe56609c65cd0c510e7125f051d440424d38f3"
+          }
+        ]
+      },
+      {
         "name" : "Uncx",
         "domain" : "app.uncx.network",
         "contracts" : [
@@ -24727,6 +27462,33 @@
         "contracts" : [
           {
             "address" : "0xe6e90bc9f3b95cdb69f48c7bfdd0ede1386b135a"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "app.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0x50f9bde1c76bba997a5d6e7fefff695ec8536194"
+          },
+          {
+            "address" : "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+          },
+          {
+            "address" : "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
+          },
+          {
+            "address" : "0xbeb09000fa59627dc02bb55448ac1893eaa501a5"
+          },
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+          },
+          {
+            "address" : "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
           }
         ]
       },
@@ -24799,6 +27561,9 @@
           },
           {
             "address" : "0xdac17f958d2ee523a2206206994597c13d831ec7"
+          },
+          {
+            "address" : "0x000000000022d473030f116ddee9f6b43ac78ba3"
           }
         ]
       },
@@ -24808,6 +27573,9 @@
         "contracts" : [
           {
             "address" : "0x7461092aa5234b42a17ee8cc51cfde6ef4becbc7"
+          },
+          {
+            "address" : "0x35636b85b68c1b4a216110fb3a5fb447a99db14a"
           }
         ]
       },
@@ -24850,6 +27618,15 @@
         "contracts" : [
           {
             "address" : "0x39f97198c5dbc193eb962c4b3b7e447091a18eab"
+          }
+        ]
+      },
+      {
+        "name" : "Whirlprivacy",
+        "domain" : "whirlprivacy.io",
+        "contracts" : [
+          {
+            "address" : "0x35ec5f1ae635f5483331f54088ecec816ea78fb1"
           }
         ]
       },
@@ -24898,6 +27675,9 @@
           },
           {
             "address" : "0x7268bcf71afe37818cb2deb609f62db164131090"
+          },
+          {
+            "address" : "0x57ea46759fed1b47c200a9859e576239a941df76"
           }
         ]
       },
@@ -25556,6 +28336,15 @@
         ]
       },
       {
+        "name" : "Zerolend",
+        "domain" : "app.zerolend.xyz",
+        "contracts" : [
+          {
+            "address" : "0x6ea9d99c6653df987bdea11ffcd56dfb4b5d38b4"
+          }
+        ]
+      },
+      {
         "name" : "Zeroswap",
         "domain" : "app.zeroswap.io",
         "contracts" : [
@@ -25609,6 +28398,9 @@
         "contracts" : [
           {
             "address" : "0x32400084c286cf3e17e7b677ea9583e60a000324"
+          },
+          {
+            "address" : "0x57891966931eb4bb6fb81430e6ce0a03aabde063"
           }
         ]
       },
@@ -25650,15 +28442,24 @@
             "address" : "0x2ffcc661011bec72e1a9524e12060983e74d14ce"
           }
         ]
+      },
+      {
+        "name" : "Zyberswap",
+        "domain" : "app.zyberswap.io",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
       }
     ],
     "fantom" : [
       {
-        "name" : "Ape",
-        "domain" : "ape.bond",
+        "name" : "1inch",
+        "domain" : "app.1inch.io",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
           }
         ]
       },
@@ -25668,6 +28469,15 @@
         "contracts" : [
           {
             "address" : "0x20dd72ed959b6147912c2e529f0a0c651c33c9ce"
+          }
+        ]
+      },
+      {
+        "name" : "Carrier",
+        "domain" : "carrier.so",
+        "contracts" : [
+          {
+            "address" : "0x7c9fc5741288cdfdd83ceb07f3ea7e22618d79d2"
           }
         ]
       },
@@ -25698,6 +28508,27 @@
           },
           {
             "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xd0c22a5435f4e8e5770c1fafb5374015fc12f7cd"
+          }
+        ]
+      },
+      {
+        "name" : "Disperse",
+        "domain" : "disperse.app",
+        "contracts" : [
+          {
+            "address" : "0xd152f549545093347a162dce210e7293f1452150"
+          }
+        ]
+      },
+      {
+        "name" : "Elk",
+        "domain" : "app.elk.finance",
+        "contracts" : [
+          {
+            "address" : "0x4d2cf285a519261f30b4d9c2c344baf260d65fa2"
           }
         ]
       },
@@ -25707,6 +28538,27 @@
         "contracts" : [
           {
             "address" : "0xd0c22a5435f4e8e5770c1fafb5374015fc12f7cd"
+          },
+          {
+            "address" : "0x33da53f731458d6bc970b0c5fcbb0b3db4aaa470"
+          }
+        ]
+      },
+      {
+        "name" : "Estfor",
+        "domain" : "estfor.com",
+        "contracts" : [
+          {
+            "address" : "0xb809ed839c691d465e2ec45e1bcb5e5aded50fb9"
+          }
+        ]
+      },
+      {
+        "name" : "Fbomb",
+        "domain" : "fbomb.finance",
+        "contracts" : [
+          {
+            "address" : "0xb9799de71100e20ac1cdbcc63c69dda2d0d81710"
           }
         ]
       },
@@ -25729,11 +28581,20 @@
         ]
       },
       {
-        "name" : "Jumper",
-        "domain" : "jumper.exchange",
+        "name" : "Jetswap",
+        "domain" : "fantom-exchange.jetswap.finance",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x845e76a8691423fbc4ecb8dd77556cb61c09ee25"
+          }
+        ]
+      },
+      {
+        "name" : "Knightswap",
+        "domain" : "dark.knightswap.financial",
+        "contracts" : [
+          {
+            "address" : "0x045312c737a6b7a115906be0ad0ef53a6aa38106"
           }
         ]
       },
@@ -25747,11 +28608,53 @@
         ]
       },
       {
+        "name" : "L2pass",
+        "domain" : "l2pass.com",
+        "contracts" : [
+          {
+            "address" : "0x222228060e7efbb1d78bb5d454581910e3922222"
+          }
+        ]
+      },
+      {
+        "name" : "Lif3",
+        "domain" : "lif3.com",
+        "contracts" : [
+          {
+            "address" : "0xe46eab896b120ea257b7950e40e363ef9e7ee2b7"
+          }
+        ]
+      },
+      {
         "name" : "Matcha",
         "domain" : "matcha.xyz",
         "contracts" : [
           {
             "address" : "0xdef189deaef76e379df891899eb5a00a94cbc250"
+          }
+        ]
+      },
+      {
+        "name" : "Merkly",
+        "domain" : "minter.merkly.com",
+        "contracts" : [
+          {
+            "address" : "0x97337a9710beb17b8d77ca9175defba5e9afe62e"
+          },
+          {
+            "address" : "0xf56605276cefffe32dfd8b6bf80b93c2a6840136"
+          },
+          {
+            "address" : "0xa07f2e99eaa338acf66337baf99551bdcfd3ab00"
+          }
+        ]
+      },
+      {
+        "name" : "Micro3",
+        "domain" : "micro3.io",
+        "contracts" : [
+          {
+            "address" : "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
           }
         ]
       },
@@ -25774,11 +28677,44 @@
         ]
       },
       {
+        "name" : "Paintswap",
+        "domain" : "paintswap.finance",
+        "contracts" : [
+          {
+            "address" : "0xcb80f529724b9620145230a0c866ac2facbe4e3d"
+          },
+          {
+            "address" : "0xf3df7b6dccc267393784a3876d0cbcbdc73147d4"
+          }
+        ]
+      },
+      {
         "name" : "Paraswap",
         "domain" : "app.paraswap.io",
         "contracts" : [
           {
             "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+          }
+        ]
+      },
+      {
+        "name" : "Robots",
+        "domain" : "robots.farm",
+        "contracts" : [
+          {
+            "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ]
+      },
+      {
+        "name" : "Scream",
+        "domain" : "scream.sh",
+        "contracts" : [
+          {
+            "address" : "0xae1ba6f7bac58752e2b77923cf7a813153812619"
+          },
+          {
+            "address" : "0x3d3094aec3b63c744b9fe56397d36be568faebdf"
           }
         ]
       },
@@ -25806,6 +28742,24 @@
         "contracts" : [
           {
             "address" : "0x31f63a33141ffee63d4b26755430a390acdd8a4d"
+          },
+          {
+            "address" : "0x7c9fc5741288cdfdd83ceb07f3ea7e22618d79d2"
+          },
+          {
+            "address" : "0x9c9c920e51778c4abf727b8bb223e78132f00aa4"
+          },
+          {
+            "address" : "0xb39d21718e24de36fdd8c5c73e928b5eff33d6c2"
+          }
+        ]
+      },
+      {
+        "name" : "Spooky",
+        "domain" : "v2.spooky.fi",
+        "contracts" : [
+          {
+            "address" : "0x18b4f774fdc7bf685daeef66c2990b1ddd9ea6ad"
           }
         ]
       },
@@ -25815,6 +28769,18 @@
         "contracts" : [
           {
             "address" : "0x6ab0ca9c94fde313a3a1d34a8247ae6065bd2e73"
+          },
+          {
+            "address" : "0x9c9c920e51778c4abf727b8bb223e78132f00aa4"
+          }
+        ]
+      },
+      {
+        "name" : "Stellaswap",
+        "domain" : "app.stellaswap.com",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
           }
         ]
       },
@@ -25827,6 +28793,60 @@
           },
           {
             "address" : "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e"
+          }
+        ]
+      },
+      {
+        "name" : "Tarot",
+        "domain" : "tarot.to",
+        "contracts" : [
+          {
+            "address" : "0x466ebd9ec2027776fa11a982e9bbe4f67aa6e86b"
+          },
+          {
+            "address" : "0x3e9f34309b2f046f4f43c0376efe2fdc27a10251"
+          }
+        ]
+      },
+      {
+        "name" : "Thenile",
+        "domain" : "thenile.exchange",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
+        "name" : "Tomb",
+        "domain" : "tomb.com",
+        "contracts" : [
+          {
+            "address" : "0x6753f6763d6bacd951a1e80ff553ea39d53c7bd3"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "app.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0xdef189deaef76e379df891899eb5a00a94cbc250"
+          },
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xd0c22a5435f4e8e5770c1fafb5374015fc12f7cd"
+          }
+        ]
+      },
+      {
+        "name" : "Velocimeter",
+        "domain" : "velocimeter.xyz",
+        "contracts" : [
+          {
+            "address" : "0x2e14b53e2cb669f3a974ceaf6c735e134f3aa9bc"
           }
         ]
       },
@@ -25845,6 +28865,24 @@
         "contracts" : [
           {
             "address" : "0x5023882f4d1ec10544fcb2066abe9c1645e95aa0"
+          },
+          {
+            "address" : "0x2d0fd558fe73915322184dcf99c20c5eba86a1f3"
+          },
+          {
+            "address" : "0x4178e335bd36295ffbc250490edbb6801081d022"
+          },
+          {
+            "address" : "0xa1a938855735c0651a6cfe2e93a32a28a236d0e9"
+          }
+        ]
+      },
+      {
+        "name" : "Yel",
+        "domain" : "yel.finance",
+        "contracts" : [
+          {
+            "address" : "0x954b15065e4fa1243cd45a020766511b68ea9b6e"
           }
         ]
       },
@@ -25865,6 +28903,15 @@
             "address" : "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
           }
         ]
+      },
+      {
+        "name" : "Zyberswap",
+        "domain" : "app.zyberswap.io",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
       }
     ],
     "gnosis" : [
@@ -25883,6 +28930,9 @@
         "contracts" : [
           {
             "address" : "0x1111111254eeb25477b68fb85ed929f73a960582"
+          },
+          {
+            "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
           }
         ]
       },
@@ -25892,6 +28942,12 @@
         "contracts" : [
           {
             "address" : "0xb7e51aa2a5f4dd478f183a593f67637ed6f1d1d9"
+          },
+          {
+            "address" : "0xb50201558b00496a145fe76f7424749556e326d8"
+          },
+          {
+            "address" : "0xfe76366a986b72c3f2923e05e6ba07b7de5401e4"
           }
         ]
       },
@@ -25929,11 +28985,11 @@
         ]
       },
       {
-        "name" : "Ape",
-        "domain" : "ape.bond",
+        "name" : "Angle",
+        "domain" : "app.angle.money",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7"
           }
         ]
       },
@@ -25946,9 +29002,6 @@
           },
           {
             "address" : "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9"
-          },
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
           }
         ]
       },
@@ -25971,6 +29024,15 @@
         ]
       },
       {
+        "name" : "Breadchain",
+        "domain" : "app.breadchain.xyz",
+        "contracts" : [
+          {
+            "address" : "0xa555d5344f6fb6c65da19e403cb4c1ec4a1a5ee3"
+          }
+        ]
+      },
+      {
         "name" : "Bulksender",
         "domain" : "bulksender.app",
         "contracts" : [
@@ -25985,15 +29047,6 @@
         "contracts" : [
           {
             "address" : "0xbe51d38547992293c89cc589105784ab60b004a9"
-          }
-        ]
-      },
-      {
-        "name" : "Chainspot",
-        "domain" : "app.chainspot.io",
-        "contracts" : [
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
           }
         ]
       },
@@ -26069,6 +29122,12 @@
           },
           {
             "address" : "0x4ecaba5870353805a9f068101a40e0f32ed605c6"
+          },
+          {
+            "address" : "0xbc0797015fcfc47d9c1856639cae50d0e69fbee8"
+          },
+          {
+            "address" : "0x98ee851a00abee0d95d08cf4ca2bdce32aeaaf7f"
           }
         ]
       },
@@ -26109,6 +29168,15 @@
         ]
       },
       {
+        "name" : "Delegate",
+        "domain" : "delegate.xyz",
+        "contracts" : [
+          {
+            "address" : "0x00000000000076a84fef008cdabe6409d2fe638b"
+          }
+        ]
+      },
+      {
         "name" : "Dex",
         "domain" : "dex.guru",
         "contracts" : [
@@ -26145,11 +29213,32 @@
         ]
       },
       {
+        "name" : "Elk",
+        "domain" : "app.elk.finance",
+        "contracts" : [
+          {
+            "address" : "0xe5759714998e8b50a33c7333c04c2d02e5dce77f"
+          }
+        ]
+      },
+      {
         "name" : "Eth",
         "domain" : "agavefinance.eth.limo",
         "contracts" : [
           {
             "address" : "0x5e15d5e33d318dced84bfe3f4eace07909be6d9c"
+          }
+        ]
+      },
+      {
+        "name" : "Eth",
+        "domain" : "app.klerosscout.eth.limo",
+        "contracts" : [
+          {
+            "address" : "0x957a53a994860be4750810131d9c876b2f52d6e1"
+          },
+          {
+            "address" : "0x66260c69d03837016d88c9877e61e08ef74c59f2"
           }
         ]
       },
@@ -26248,9 +29337,6 @@
         "domain" : "jumper.exchange",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
-          },
-          {
             "address" : "0xcb444e90d8198415266c6a2724b7900fb12fc56e"
           }
         ]
@@ -26307,20 +29393,35 @@
         ]
       },
       {
+        "name" : "L2pass",
+        "domain" : "l2pass.com",
+        "contracts" : [
+          {
+            "address" : "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+          }
+        ]
+      },
+      {
+        "name" : "L2telegraph",
+        "domain" : "l2telegraph.xyz",
+        "contracts" : [
+          {
+            "address" : "0x5b10ae182c297ec76fe6fe0e3da7c4797cede02d"
+          },
+          {
+            "address" : "0xe266eedb13a69af15c1756a241021905b1827f6a"
+          }
+        ]
+      },
+      {
         "name" : "Merkly",
         "domain" : "minter.merkly.com",
         "contracts" : [
           {
             "address" : "0x556f119c7433b2232294fb3de267747745a1dab4"
-          }
-        ]
-      },
-      {
-        "name" : "Mu",
-        "domain" : "mu.exchange",
-        "contracts" : [
+          },
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
           }
         ]
       },
@@ -26343,11 +29444,11 @@
         ]
       },
       {
-        "name" : "Pangolin",
-        "domain" : "app.pangolin.exchange",
+        "name" : "Poap",
+        "domain" : "poap.top",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x11111111316ccfc40d1d0a7aa53cedc23dc7ac2e"
           }
         ]
       },
@@ -26390,9 +29491,6 @@
         "contracts" : [
           {
             "address" : "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9"
-          },
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
           }
         ]
       },
@@ -26411,6 +29509,9 @@
         "contracts" : [
           {
             "address" : "0xbd7d6a9ad7865463de44b05f04559f65e3b11704"
+          },
+          {
+            "address" : "0x2dae5307c5e3fd1cf5a72cb6f698f915860607e0"
           }
         ]
       },
@@ -26450,6 +29551,9 @@
           },
           {
             "address" : "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e"
+          },
+          {
+            "address" : "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
           }
         ]
       },
@@ -26477,9 +29581,24 @@
           },
           {
             "address" : "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83"
-          },
+          }
+        ]
+      },
+      {
+        "name" : "Umbra",
+        "domain" : "app.umbra.cash",
+        "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x31fe56609c65cd0c510e7125f051d440424d38f3"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "app.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0x40a50cf069e992aa4536211b23f286ef88752187"
           }
         ]
       },
@@ -26498,6 +29617,15 @@
         "contracts" : [
           {
             "address" : "0xaeecfa44639b61d2e0a9534d918789d94a24a9de"
+          }
+        ]
+      },
+      {
+        "name" : "Zapper",
+        "domain" : "zapper.xyz",
+        "contracts" : [
+          {
+            "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
           }
         ]
       },
@@ -26536,6 +29664,9 @@
           },
           {
             "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+          },
+          {
+            "address" : "0x794a61358d6845594f94dc1db02a252b5b4814ad"
           }
         ]
       },
@@ -26545,15 +29676,30 @@
         "contracts" : [
           {
             "address" : "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+          },
+          {
+            "address" : "0x6f26bf09b1c792e3228e5467807a900a503c0281"
           }
         ]
       },
       {
-        "name" : "Ape",
-        "domain" : "ape.bond",
+        "name" : "Angle",
+        "domain" : "app.angle.money",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+          },
+          {
+            "address" : "0x840b25c87b626a259ca5ac32124fa752f0230a72"
+          }
+        ]
+      },
+      {
+        "name" : "Aperture",
+        "domain" : "app.aperture.finance",
+        "contracts" : [
+          {
+            "address" : "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
           }
         ]
       },
@@ -26588,6 +29734,24 @@
         ]
       },
       {
+        "name" : "Catalyst",
+        "domain" : "app.catalyst.exchange",
+        "contracts" : [
+          {
+            "address" : "0x00000029e6005863bb2e1686a17c4ae0d1723669"
+          }
+        ]
+      },
+      {
+        "name" : "Cetus",
+        "domain" : "bridge.cetus.zone",
+        "contracts" : [
+          {
+            "address" : "0x9ae506cddd27dee1275fd1fe6627e5dc65257061"
+          }
+        ]
+      },
+      {
         "name" : "Clipper",
         "domain" : "clipper.exchange",
         "contracts" : [
@@ -26606,11 +29770,32 @@
         ]
       },
       {
+        "name" : "Conveyor",
+        "domain" : "app.conveyor.finance",
+        "contracts" : [
+          {
+            "address" : "0xd5ec61bca0af24ad06be431585a0920142c98890"
+          }
+        ]
+      },
+      {
         "name" : "Curve",
         "domain" : "curve.fi",
         "contracts" : [
           {
             "address" : "0xf0d4c12a5768d806021f80a262b4d39d26c58b8d"
+          }
+        ]
+      },
+      {
+        "name" : "Dackieswap",
+        "domain" : "dackieswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0xd1575b2e0c82fba9eddc3de9c9aaf923afa670cc"
+          },
+          {
+            "address" : "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
           }
         ]
       },
@@ -26629,6 +29814,15 @@
         "contracts" : [
           {
             "address" : "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+          }
+        ]
+      },
+      {
+        "name" : "Decent",
+        "domain" : "app.decent.xyz",
+        "contracts" : [
+          {
+            "address" : "0x1572d48a52906b834fb236aa77831d669f6d87a1"
           }
         ]
       },
@@ -26653,6 +29847,63 @@
           },
           {
             "address" : "0xdef1abe32c034e558cdd535791643c58a13acc10"
+          },
+          {
+            "address" : "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+          }
+        ]
+      },
+      {
+        "name" : "Defiway",
+        "domain" : "defiway.com",
+        "contracts" : [
+          {
+            "address" : "0xa0bb1ebf52a9307f30509d3b385754c33b7f2e26"
+          }
+        ]
+      },
+      {
+        "name" : "Disperse",
+        "domain" : "disperse.app",
+        "contracts" : [
+          {
+            "address" : "0xd152f549545093347a162dce210e7293f1452150"
+          }
+        ]
+      },
+      {
+        "name" : "Dln",
+        "domain" : "app.dln.trade",
+        "contracts" : [
+          {
+            "address" : "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+          }
+        ]
+      },
+      {
+        "name" : "Dmail",
+        "domain" : "mail.dmail.ai",
+        "contracts" : [
+          {
+            "address" : "0x64812f1212f6276068a0726f4695a6637da3e4f8"
+          }
+        ]
+      },
+      {
+        "name" : "DODO",
+        "domain" : "app.dodoex.io",
+        "contracts" : [
+          {
+            "address" : "0x716fcc67dca500a91b4a28c9255262c398d8f971"
+          }
+        ]
+      },
+      {
+        "name" : "Element Market",
+        "domain" : "element.market",
+        "contracts" : [
+          {
+            "address" : "0x2317d8b224328644759319dffa2a5da77c72e0e9"
           }
         ]
       },
@@ -26671,6 +29922,18 @@
         "contracts" : [
           {
             "address" : "0xa062ae8a9c5e11aaa026fc2670b0d65ccc8b2858"
+          },
+          {
+            "address" : "0x4bf3e32de155359d1d75e8b474b66848221142fc"
+          }
+        ]
+      },
+      {
+        "name" : "Ethos",
+        "domain" : "app.ethos.finance",
+        "contracts" : [
+          {
+            "address" : "0xaa0b41b61f76587cf85155147d7f3b7725d14eb3"
           }
         ]
       },
@@ -26695,9 +29958,6 @@
           },
           {
             "address" : "0xbb505c54d71e9e599cb8435b4f0ceec05fc71cbd"
-          },
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
           }
         ]
       },
@@ -26711,6 +29971,24 @@
         ]
       },
       {
+        "name" : "Frax",
+        "domain" : "app.frax.finance",
+        "contracts" : [
+          {
+            "address" : "0xb9a55f455e46e8d717eea5e47d2c449416a0437f"
+          }
+        ]
+      },
+      {
+        "name" : "Granary",
+        "domain" : "granary.finance",
+        "contracts" : [
+          {
+            "address" : "0x8fd4af47e4e63d1d2d45582c3286b4bd9bb95dfe"
+          }
+        ]
+      },
+      {
         "name" : "Hop",
         "domain" : "app.hop.exchange",
         "contracts" : [
@@ -26719,15 +29997,48 @@
           },
           {
             "address" : "0x266e2dc3c4c59e42aa07afee5b09e964cffe6778"
+          },
+          {
+            "address" : "0x86ca30bef97fb651b8d866d45503684b90cb3312"
+          },
+          {
+            "address" : "0x7d269d3e0d61a05a0ba976b7dbf8805bf844af3f"
           }
         ]
       },
       {
-        "name" : "Jumper",
-        "domain" : "jumper.exchange",
+        "name" : "Interestprotocol",
+        "domain" : "interestprotocol.io",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+            "address" : "0x05498574bd0fa99eecb01e1241661e7ee58f8a85"
+          }
+        ]
+      },
+      {
+        "name" : "Interport",
+        "domain" : "app.interport.fi",
+        "contracts" : [
+          {
+            "address" : "0x7b2e3fc7510d1a51b3bef735f985446589219354"
+          }
+        ]
+      },
+      {
+        "name" : "Kelpdao",
+        "domain" : "kelpdao.xyz",
+        "contracts" : [
+          {
+            "address" : "0xaaa687e218f9b53183a6aa9639fbd9d6e69ecb73"
+          }
+        ]
+      },
+      {
+        "name" : "Krystal",
+        "domain" : "defi.krystal.app",
+        "contracts" : [
+          {
+            "address" : "0xf6f2dafa542fefaae22187632ef30d2daa252b4e"
           }
         ]
       },
@@ -26737,6 +30048,18 @@
         "contracts" : [
           {
             "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ]
+      },
+      {
+        "name" : "L2pass",
+        "domain" : "l2pass.com",
+        "contracts" : [
+          {
+            "address" : "0x222228060e7efbb1d78bb5d454581910e3922222"
+          },
+          {
+            "address" : "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
           }
         ]
       },
@@ -26755,6 +30078,45 @@
         "contracts" : [
           {
             "address" : "0xbafbcdbfbb1569722253ed4d491d2fb3b5e03a27"
+          }
+        ]
+      },
+      {
+        "name" : "Magpiefi",
+        "domain" : "app.magpiefi.xyz",
+        "contracts" : [
+          {
+            "address" : "0xbd96bca0d3a4fcc18dc44d333a7851c513772289"
+          }
+        ]
+      },
+      {
+        "name" : "Merkly",
+        "domain" : "minter.merkly.com",
+        "contracts" : [
+          {
+            "address" : "0xafa5f9313f1f2b599173f24807a882f498be118c"
+          },
+          {
+            "address" : "0x1812d05671eefa040ac605a0198476ded081d520"
+          },
+          {
+            "address" : "0x2a5c54c625220cb2166c94dd9329be1f8785977d"
+          },
+          {
+            "address" : "0xd7ba4057f43a7c4d4a34634b2a3151a60bf78f0d"
+          },
+          {
+            "address" : "0xc110e7faa95680c79937ccaca3d1cab7902be25e"
+          }
+        ]
+      },
+      {
+        "name" : "Metamask",
+        "domain" : "portfolio.metamask.io",
+        "contracts" : [
+          {
+            "address" : "0x9dda6ef3d919c9bc8885d5560999a3640431e8e6"
           }
         ]
       },
@@ -26786,11 +30148,38 @@
         ]
       },
       {
+        "name" : "Omoswap",
+        "domain" : "app.omoswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0xbab3be86465b704ee367c8427ee1595530882a4c"
+          }
+        ]
+      },
+      {
         "name" : "Openocean",
         "domain" : "app.openocean.finance",
         "contracts" : [
           {
             "address" : "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ]
+      },
+      {
+        "name" : "OpenSea",
+        "domain" : "opensea.io",
+        "contracts" : [
+          {
+            "address" : "0x0000000000000068f116a894984e2db1123eb395"
+          }
+        ]
+      },
+      {
+        "name" : "Openxswap",
+        "domain" : "marketplace.openxswap.exchange",
+        "contracts" : [
+          {
+            "address" : "0x7590c1aa03b6ac395e62b2a8b382272e4e1e823d"
           }
         ]
       },
@@ -26813,11 +30202,89 @@
         ]
       },
       {
+        "name" : "Pendle",
+        "domain" : "app.pendle.finance",
+        "contracts" : [
+          {
+            "address" : "0x00000000005bbb0ef59571e58418f9a4357b68a0"
+          },
+          {
+            "address" : "0x888888888889758f76e7103c6cbf23abbf58f946"
+          }
+        ]
+      },
+      {
+        "name" : "Perp",
+        "domain" : "app.perp.com",
+        "contracts" : [
+          {
+            "address" : "0x82ac2ce43e33683c58be4cdc40975e73aa50f459"
+          }
+        ]
+      },
+      {
+        "name" : "Portalbridge",
+        "domain" : "portalbridge.com",
+        "contracts" : [
+          {
+            "address" : "0x9ae506cddd27dee1275fd1fe6627e5dc65257061"
+          },
+          {
+            "address" : "0x1d68124e65fafc907325e3edbf8c4d84499daa8b"
+          }
+        ]
+      },
+      {
+        "name" : "Primeprotocol",
+        "domain" : "app.primeprotocol.xyz",
+        "contracts" : [
+          {
+            "address" : "0x79358880570886d4197e3702746c78c85578b855"
+          }
+        ]
+      },
+      {
+        "name" : "Rango",
+        "domain" : "app.rango.exchange",
+        "contracts" : [
+          {
+            "address" : "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+          }
+        ]
+      },
+      {
         "name" : "Rhino",
         "domain" : "app.rhino.fi",
         "contracts" : [
           {
             "address" : "0x0bca65bf4b4c8803d2f0b49353ed57caaf3d66dc"
+          }
+        ]
+      },
+      {
+        "name" : "Rubicon",
+        "domain" : "app.rubicon.finance",
+        "contracts" : [
+          {
+            "address" : "0x7af14adc8aea70f063c7ea3b2c1ad0d7a59c4bff"
+          }
+        ]
+      },
+      {
+        "name" : "Shapeshift",
+        "domain" : "app.shapeshift.com",
+        "contracts" : [
+          {
+            "address" : "0xdef1abe32c034e558cdd535791643c58a13acc10"
+          }
+        ]
+      },
+      {
+        "name" : "Slingshot",
+        "domain" : "app.slingshot.finance",
+        "contracts" : [
+          {
+            "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
           }
         ]
       },
@@ -26831,11 +30298,35 @@
         ]
       },
       {
+        "name" : "Sound",
+        "domain" : "sound.xyz",
+        "contracts" : [
+          {
+            "address" : "0x000000000001a36777f9930aaeff623771b13e70"
+          }
+        ]
+      },
+      {
         "name" : "Stargate",
         "domain" : "stargate.finance",
         "contracts" : [
           {
             "address" : "0xb49c4e680174e331cb0a7ff3ab58afc9738d5f8b"
+          },
+          {
+            "address" : "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b"
+          },
+          {
+            "address" : "0xe8cdf27acd73a434d661c84887215f7598e7d0d3"
+          }
+        ]
+      },
+      {
+        "name" : "Stellaswap",
+        "domain" : "app.stellaswap.com",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
           }
         ]
       },
@@ -26845,6 +30336,12 @@
         "contracts" : [
           {
             "address" : "0xeb94eca012ec0bbb254722fdda2ce7475875a52b"
+          },
+          {
+            "address" : "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+          },
+          {
+            "address" : "0x1f2fcf1d036b375b384012e61d3aa33f8c256bbe"
           }
         ]
       },
@@ -26857,6 +30354,9 @@
           },
           {
             "address" : "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+          },
+          {
+            "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
           }
         ]
       },
@@ -26870,6 +30370,69 @@
         ]
       },
       {
+        "name" : "Tarot",
+        "domain" : "tarot.to",
+        "contracts" : [
+          {
+            "address" : "0x8d92b5f12c1beba3583861e9c3067d088bc2ff05"
+          },
+          {
+            "address" : "0x539fcd9adbe7473768beb87bed88988b532b36c9"
+          },
+          {
+            "address" : "0x9761d46ef36e07131e8c56af06e35cac23b9a91e"
+          }
+        ]
+      },
+      {
+        "name" : "Thenile",
+        "domain" : "thenile.exchange",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
+        "name" : "Transporter",
+        "domain" : "app.transporter.io",
+        "contracts" : [
+          {
+            "address" : "0x66598216d8e4d9afe0f06d525b335b762229842f"
+          }
+        ]
+      },
+      {
+        "name" : "Umbra",
+        "domain" : "app.umbra.cash",
+        "contracts" : [
+          {
+            "address" : "0x31fe56609c65cd0c510e7125f051d440424d38f3"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "app.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xdef1abe32c034e558cdd535791643c58a13acc10"
+          },
+          {
+            "address" : "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+          },
+          {
+            "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+          },
+          {
+            "address" : "0xd5ec61bca0af24ad06be431585a0920142c98890"
+          }
+        ]
+      },
+      {
         "name" : "Uniswap",
         "domain" : "app.uniswap.org",
         "contracts" : [
@@ -26878,6 +30441,12 @@
           },
           {
             "address" : "0xcb1355ff08ab38bbce60111f1bb2b784be25d7e8"
+          },
+          {
+            "address" : "0x000000000022d473030f116ddee9f6b43ac78ba3"
+          },
+          {
+            "address" : "0xc36442b4a4522e871399cd717abdd847ab11fe88"
           }
         ]
       },
@@ -26908,6 +30477,51 @@
           },
           {
             "address" : "0xa062ae8a9c5e11aaa026fc2670b0d65ccc8b2858"
+          },
+          {
+            "address" : "0x296e4e9277c4259d30ef02df3ae725a5c87acfee"
+          },
+          {
+            "address" : "0xf132bdb9573867cd72f2585c338b923f973eb817"
+          },
+          {
+            "address" : "0xfaf8fd17d9840595845582fcb047df13f006787d"
+          },
+          {
+            "address" : "0x4bf3e32de155359d1d75e8b474b66848221142fc"
+          },
+          {
+            "address" : "0xbb5dfe1380333cee4c2eebd7202c80de2256adf4"
+          },
+          {
+            "address" : "0x7dd212ee6c1b0b22caf51b10cf37aba977b2f190"
+          },
+          {
+            "address" : "0x45126b547235b335033b8f6c318071c738474141"
+          },
+          {
+            "address" : "0x07242953f8b338552267904ae1eb6c236da85592"
+          },
+          {
+            "address" : "0x41c914ee0c7e1a5edcd0295623e6dc557b5abf3c"
+          }
+        ]
+      },
+      {
+        "name" : "Whirlprivacy",
+        "domain" : "whirlprivacy.io",
+        "contracts" : [
+          {
+            "address" : "0x35ec5f1ae635f5483331f54088ecec816ea78fb1"
+          }
+        ]
+      },
+      {
+        "name" : "Wombat",
+        "domain" : "app.wombat.exchange",
+        "contracts" : [
+          {
+            "address" : "0x35d531fd45d5e3a5d407a4898360c757c98bdf79"
           }
         ]
       },
@@ -26930,11 +30544,26 @@
         ]
       },
       {
+        "name" : "Xy",
+        "domain" : "app.xy.finance",
+        "contracts" : [
+          {
+            "address" : "0x7a6e01880693093abaccf442fcbed9e0435f1030"
+          },
+          {
+            "address" : "0x91474fe836bbbe63ef72de2846244928860bce1b"
+          }
+        ]
+      },
+      {
         "name" : "Zapper",
         "domain" : "zapper.xyz",
         "contracts" : [
           {
             "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          },
+          {
+            "address" : "0xdef1abe32c034e558cdd535791643c58a13acc10"
           }
         ]
       },
@@ -26956,6 +30585,18 @@
         "contracts" : [
           {
             "address" : "0x24bbc063def30ae81aecc659b97a8b2562b2afcd"
+          }
+        ]
+      },
+      {
+        "name" : "Zyberswap",
+        "domain" : "app.zyberswap.io",
+        "contracts" : [
+          {
+            "address" : "0xedb4e3e3bb11255ff14c2762c6a6a28f1d3a36f2"
+          },
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
           }
         ]
       }
@@ -26983,6 +30624,15 @@
         ]
       },
       {
+        "name" : "Across",
+        "domain" : "app.across.to",
+        "contracts" : [
+          {
+            "address" : "0x9295ee1d8c5b022be115a2ad3c30c72e34e7f096"
+          }
+        ]
+      },
+      {
         "name" : "Airnfts",
         "domain" : "app.airnfts.com",
         "contracts" : [
@@ -26995,9 +30645,6 @@
         "name" : "Apeswap",
         "domain" : "apeswap.finance",
         "contracts" : [
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
-          },
           {
             "address" : "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
           },
@@ -27111,15 +30758,6 @@
           },
           {
             "address" : "0xac313d7491910516e06fbfc2a0b5bb49bb072d91"
-          }
-        ]
-      },
-      {
-        "name" : "Chainspot",
-        "domain" : "app.chainspot.io",
-        "contracts" : [
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
           }
         ]
       },
@@ -27505,6 +31143,15 @@
         ]
       },
       {
+        "name" : "Hey",
+        "domain" : "hey.xyz",
+        "contracts" : [
+          {
+            "address" : "0x4b8845acb8148de64d1d99cf27a3890a91f55e53"
+          }
+        ]
+      },
+      {
         "name" : "Holograph",
         "domain" : "app.holograph.xyz",
         "contracts" : [
@@ -27556,15 +31203,6 @@
         ]
       },
       {
-        "name" : "Jumper",
-        "domain" : "jumper.exchange",
-        "contracts" : [
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
-          }
-        ]
-      },
-      {
         "name" : "Kromatika",
         "domain" : "app.kromatika.finance",
         "contracts" : [
@@ -27597,6 +31235,15 @@
         "contracts" : [
           {
             "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          }
+        ]
+      },
+      {
+        "name" : "Lens",
+        "domain" : "lens.xyz",
+        "contracts" : [
+          {
+            "address" : "0x0b5e6100243f793e480de6088de6ba70aa9f3872"
           }
         ]
       },
@@ -27724,6 +31371,15 @@
         ]
       },
       {
+        "name" : "Okx",
+        "domain" : "okx.com",
+        "contracts" : [
+          {
+            "address" : "0xa748d6573aca135af68f2635be60cb80278bd855"
+          }
+        ]
+      },
+      {
         "name" : "Oneplanetnft",
         "domain" : "oneplanetnft.io",
         "contracts" : [
@@ -27772,6 +31428,15 @@
         ]
       },
       {
+        "name" : "Orna",
+        "domain" : "orna.art",
+        "contracts" : [
+          {
+            "address" : "0x53582b1b7be71622e7386d736b6baf87749b7a2b"
+          }
+        ]
+      },
+      {
         "name" : "Ottopia",
         "domain" : "ottopia.app",
         "contracts" : [
@@ -27799,15 +31464,6 @@
         ]
       },
       {
-        "name" : "Pangolin",
-        "domain" : "app.pangolin.exchange",
-        "contracts" : [
-          {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
-          }
-        ]
-      },
-      {
         "name" : "Paraswap",
         "domain" : "app.paraswap.io",
         "contracts" : [
@@ -27826,6 +31482,15 @@
         ]
       },
       {
+        "name" : "Pearl",
+        "domain" : "v1.pearl.exchange",
+        "contracts" : [
+          {
+            "address" : "0xda822340f5e8216c277dbf66627648ff5d57b527"
+          }
+        ]
+      },
+      {
         "name" : "Philand",
         "domain" : "quest.philand.xyz",
         "contracts" : [
@@ -27840,6 +31505,15 @@
         "contracts" : [
           {
             "address" : "0xd2a52f45c74b358abe1428bc43f0ce9ddf130780"
+          }
+        ]
+      },
+      {
+        "name" : "Playnance",
+        "domain" : "trade.playnance.com",
+        "contracts" : [
+          {
+            "address" : "0xfac9d58cc823f75e0b275208fe69077e7a4cacab"
           }
         ]
       },
@@ -28112,9 +31786,6 @@
         "domain" : "swapr.eth.limo",
         "contracts" : [
           {
-            "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
-          },
-          {
             "address" : "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
           },
           {
@@ -28152,6 +31823,15 @@
         "contracts" : [
           {
             "address" : "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+          }
+        ]
+      },
+      {
+        "name" : "Tape",
+        "domain" : "tape.xyz",
+        "contracts" : [
+          {
+            "address" : "0xd0f6d9676d36f5f4af5765fcb78c388b51577327"
           }
         ]
       },
@@ -28350,6 +32030,536 @@
         "contracts" : [
           {
             "address" : "0xed17e645aa1aab0851a0d61b6dcadcaf2177d066"
+          }
+        ]
+      }
+    ],
+    "zksync" : [
+      {
+        "name" : "1inch",
+        "domain" : "app.1inch.io",
+        "contracts" : [
+          {
+            "address" : "0x6fd4383cb451173d5f9304f041c7bcbf27d561ff"
+          },
+          {
+            "address" : "0x6e2b76966cbd9cf4cc2fa0d76d24d5241e0abc2f"
+          }
+        ]
+      },
+      {
+        "name" : "Across",
+        "domain" : "app.across.to",
+        "contracts" : [
+          {
+            "address" : "0xe0b015e54d54fc84a6cb9b666099c46ade9335ff"
+          }
+        ]
+      },
+      {
+        "name" : "Bebop",
+        "domain" : "bebop.xyz",
+        "contracts" : [
+          {
+            "address" : "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91"
+          }
+        ]
+      },
+      {
+        "name" : "Bigint",
+        "domain" : "bigint.co",
+        "contracts" : [
+          {
+            "address" : "0x9d8fb238e51653314815c3e14bf008aa8fe9304e"
+          }
+        ]
+      },
+      {
+        "name" : "Bigint",
+        "domain" : "launchpad.bigint.co",
+        "contracts" : [
+          {
+            "address" : "0x47247d8bea27ad415a07322708aa09d1b4c99520"
+          }
+        ]
+      },
+      {
+        "name" : "Bungee",
+        "domain" : "bungee.exchange",
+        "contracts" : [
+          {
+            "address" : "0xadde7028e7ec226777e5dea5d53f6457c21ec7d6"
+          },
+          {
+            "address" : "0x7ee459d7fde8b4a3c22b9c8c7aa52abaddd9ffd5"
+          }
+        ]
+      },
+      {
+        "name" : "Defillama",
+        "domain" : "swap.defillama.com",
+        "contracts" : [
+          {
+            "address" : "0x6e2b76966cbd9cf4cc2fa0d76d24d5241e0abc2f"
+          },
+          {
+            "address" : "0x36a1acbbcafca2468b85011ddd16e7cb4d673230"
+          },
+          {
+            "address" : "0x3f95ef3f2eaca871858dbe20a93c01daf6c2e923"
+          }
+        ]
+      },
+      {
+        "name" : "Derivio",
+        "domain" : "derivio.xyz",
+        "contracts" : [
+          {
+            "address" : "0x240d5645bffaf6f8bc3586e459a4155f270bcb3b"
+          }
+        ]
+      },
+      {
+        "name" : "Derpdex",
+        "domain" : "app.derpdex.com",
+        "contracts" : [
+          {
+            "address" : "0xd896563806661cf88697b15f13bb794d89870a36"
+          }
+        ]
+      },
+      {
+        "name" : "Draculafi",
+        "domain" : "draculafi.xyz",
+        "contracts" : [
+          {
+            "address" : "0x4d88434edc8b7ffe215ec598c2290cdc6f58d12d"
+          },
+          {
+            "address" : "0x1ba497d383cd7a500a8a25661598204247295a90"
+          }
+        ]
+      },
+      {
+        "name" : "Element Market",
+        "domain" : "element.market",
+        "contracts" : [
+          {
+            "address" : "0x64848eefbc2921102a153b08fa64536ae1f8e937"
+          }
+        ]
+      },
+      {
+        "name" : "Eth",
+        "domain" : "zerolend.eth.limo",
+        "contracts" : [
+          {
+            "address" : "0x767b4a087c11d7581ac95eaffc1febfa26bad3d2"
+          }
+        ]
+      },
+      {
+        "name" : "Goal3",
+        "domain" : "portal.goal3.xyz",
+        "contracts" : [
+          {
+            "address" : "0x6f60788d4e852f9bd193da479a97e2839f0fbcec"
+          }
+        ]
+      },
+      {
+        "name" : "Interport",
+        "domain" : "app.interport.fi",
+        "contracts" : [
+          {
+            "address" : "0xdf3e4da3ee75f1018d277222967ce3d69f3271d9"
+          }
+        ]
+      },
+      {
+        "name" : "Izumi",
+        "domain" : "izumi.finance",
+        "contracts" : [
+          {
+            "address" : "0x943ac2310d9bc703d6ab5e5e76876e212100f894"
+          }
+        ]
+      },
+      {
+        "name" : "Kelpdao",
+        "domain" : "kelpdao.xyz",
+        "contracts" : [
+          {
+            "address" : "0x41b300f5a619973b20931f0944c85db229d5e27f"
+          }
+        ]
+      },
+      {
+        "name" : "Koi",
+        "domain" : "dapp.koi.finance",
+        "contracts" : [
+          {
+            "address" : "0x8b791913eb07c32779a16750e3868aa8495f5964"
+          }
+        ]
+      },
+      {
+        "name" : "KyberSwap",
+        "domain" : "kyberswap.com",
+        "contracts" : [
+          {
+            "address" : "0x3f95ef3f2eaca871858dbe20a93c01daf6c2e923"
+          }
+        ]
+      },
+      {
+        "name" : "L2pass",
+        "domain" : "l2pass.com",
+        "contracts" : [
+          {
+            "address" : "0x8582525114212c2815f13d96ed5158553287a166"
+          }
+        ]
+      },
+      {
+        "name" : "Layer3",
+        "domain" : "layer3.xyz",
+        "contracts" : [
+          {
+            "address" : "0xadde7028e7ec226777e5dea5d53f6457c21ec7d6"
+          }
+        ]
+      },
+      {
+        "name" : "Magpiefi",
+        "domain" : "app.magpiefi.xyz",
+        "contracts" : [
+          {
+            "address" : "0xface2ddf4fd8ba5e180c1fd9767f96e14f085509"
+          },
+          {
+            "address" : "0x22bfb19ed098ec206fe2e5d0f719672a7dc7103e"
+          }
+        ]
+      },
+      {
+        "name" : "Mav",
+        "domain" : "app.mav.xyz",
+        "contracts" : [
+          {
+            "address" : "0x39e098a153ad69834a9dac32f0fca92066ad03f4"
+          }
+        ]
+      },
+      {
+        "name" : "Merkly",
+        "domain" : "minter.merkly.com",
+        "contracts" : [
+          {
+            "address" : "0x5673b6e6e51de3479b8deb22df46b12308db5e1e"
+          },
+          {
+            "address" : "0x54de43b6ba21a5553697a2b78338e046dd7e0278"
+          },
+          {
+            "address" : "0x6dd28c2c5b91dd63b4d4e78ecac7139878371768"
+          }
+        ]
+      },
+      {
+        "name" : "Mute",
+        "domain" : "app.mute.io",
+        "contracts" : [
+          {
+            "address" : "0x8b791913eb07c32779a16750e3868aa8495f5964"
+          }
+        ]
+      },
+      {
+        "name" : "Oku",
+        "domain" : "oku.trade",
+        "contracts" : [
+          {
+            "address" : "0xb9061e38fee7d30134f56aef7117e2f6d1580666"
+          }
+        ]
+      },
+      {
+        "name" : "Overnight",
+        "domain" : "app.overnight.fi",
+        "contracts" : [
+          {
+            "address" : "0x4bba932e9792a2b917d47830c93a9bc79320e4f7"
+          }
+        ]
+      },
+      {
+        "name" : "Owlto",
+        "domain" : "owlto.finance",
+        "contracts" : [
+          {
+            "address" : "0xd48e3caf0d948203434646a3f3e80f8ee18007dc"
+          }
+        ]
+      },
+      {
+        "name" : "Pancakeswap",
+        "domain" : "pancakeswap.finance",
+        "contracts" : [
+          {
+            "address" : "0xf8b59f3c3ab33200ec80a8a58b2aa5f5d2a8944c"
+          },
+          {
+            "address" : "0xdaee41e335322c85ff2c5a6745c98e1351806e98"
+          }
+        ]
+      },
+      {
+        "name" : "Reactorfusion",
+        "domain" : "main.reactorfusion.xyz",
+        "contracts" : [
+          {
+            "address" : "0x04e9db37d8ea0760072e1ace3f2a219988fdac29"
+          }
+        ]
+      },
+      {
+        "name" : "Rhino",
+        "domain" : "app.rhino.fi",
+        "contracts" : [
+          {
+            "address" : "0x1fa66e2b38d0cc496ec51f81c3e05e6a6708986f"
+          }
+        ]
+      },
+      {
+        "name" : "Robots",
+        "domain" : "robots.farm",
+        "contracts" : [
+          {
+            "address" : "0x6fd4383cb451173d5f9304f041c7bcbf27d561ff"
+          }
+        ]
+      },
+      {
+        "name" : "Rubic",
+        "domain" : "app.rubic.exchange",
+        "contracts" : [
+          {
+            "address" : "0x8e70e517057e7380587ea6990dae81cb1ba405ce"
+          }
+        ]
+      },
+      {
+        "name" : "Rubyscore",
+        "domain" : "rubyscore.io",
+        "contracts" : [
+          {
+            "address" : "0xcb84d512f0c9943d3bc6b4be8801ac8aa6621a54"
+          }
+        ]
+      },
+      {
+        "name" : "Safe",
+        "domain" : "app.safe.global",
+        "contracts" : [
+          {
+            "address" : "0xdaec33641865e4651fb43181c6db6f7232ee91c2"
+          }
+        ]
+      },
+      {
+        "name" : "Secondlive",
+        "domain" : "secondlive.world",
+        "contracts" : [
+          {
+            "address" : "0x6cc6305ed7bbeaa7c2fa84e4a3b78743cb5b1a08"
+          }
+        ]
+      },
+      {
+        "name" : "Symbiosis",
+        "domain" : "app.symbiosis.finance",
+        "contracts" : [
+          {
+            "address" : "0x38307cb291af47af9847c134a34e9477c939ca28"
+          }
+        ]
+      },
+      {
+        "name" : "Syncswap",
+        "domain" : "syncswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0x9b5def958d0f3b6955cbea4d5b7809b2fb26b059"
+          },
+          {
+            "address" : "0x2da10a1e27bf85cedd8ffb1abbe97e53391c0295"
+          },
+          {
+            "address" : "0x2b9a7d5cd64e5c1446b32e034e75a5c93b0c8bb5"
+          }
+        ]
+      },
+      {
+        "name" : "Tally",
+        "domain" : "tally.xyz",
+        "contracts" : [
+          {
+            "address" : "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e"
+          }
+        ]
+      },
+      {
+        "name" : "Tevaera",
+        "domain" : "market.tevaera.com",
+        "contracts" : [
+          {
+            "address" : "0xd29aa7bdd3cbb32557973dad995a3219d307721f"
+          },
+          {
+            "address" : "0x57050267698b9153e6c491eea6478ec73662631e"
+          },
+          {
+            "address" : "0x5de117628b5062f56f37d8fb6603524c7189d892"
+          }
+        ]
+      },
+      {
+        "name" : "Tevaera",
+        "domain" : "tevaera.com",
+        "contracts" : [
+          {
+            "address" : "0xd29aa7bdd3cbb32557973dad995a3219d307721f"
+          }
+        ]
+      },
+      {
+        "name" : "Tinyworlds",
+        "domain" : "app.tinyworlds.io",
+        "contracts" : [
+          {
+            "address" : "0x8be40208096458e94d14c7d6aaaf3d38d0fa61cc"
+          },
+          {
+            "address" : "0xa7dee58771232b14fd0e22763dba87963f3dec83"
+          }
+        ]
+      },
+      {
+        "name" : "Unidex",
+        "domain" : "app.unidex.exchange",
+        "contracts" : [
+          {
+            "address" : "0x4bba932e9792a2b917d47830c93a9bc79320e4f7"
+          },
+          {
+            "address" : "0x3f95ef3f2eaca871858dbe20a93c01daf6c2e923"
+          }
+        ]
+      },
+      {
+        "name" : "Uniswap",
+        "domain" : "app.uniswap.org",
+        "contracts" : [
+          {
+            "address" : "0x0616e5762c1e7dc3723c50663df10a162d690a86"
+          },
+          {
+            "address" : "0x28731bcc616b5f51dd52cf2e4df0e78dd1136c06"
+          }
+        ]
+      },
+      {
+        "name" : "Velocore",
+        "domain" : "zksync.velocore.xyz",
+        "contracts" : [
+          {
+            "address" : "0xf5e67261cb357edb6c7719fefafaab280cb5e2a6"
+          }
+        ]
+      },
+      {
+        "name" : "Wagmi",
+        "domain" : "app.wagmi.com",
+        "contracts" : [
+          {
+            "address" : "0x718aea365b83aff91e561597ab9d4225f632b52a"
+          }
+        ]
+      },
+      {
+        "name" : "Woo",
+        "domain" : "fi.woo.org",
+        "contracts" : [
+          {
+            "address" : "0x09873bfeca34f1acd0a7e55cda591f05d8a75369"
+          }
+        ]
+      },
+      {
+        "name" : "Xy",
+        "domain" : "app.xy.finance",
+        "contracts" : [
+          {
+            "address" : "0xe4e156167cc9c7ac4abd8d39d203a5495f775547"
+          },
+          {
+            "address" : "0x935283a00fbf8e40fd2f8c432a488f6addc8db67"
+          }
+        ]
+      },
+      {
+        "name" : "Zerion",
+        "domain" : "app.zerion.io",
+        "contracts" : [
+          {
+            "address" : "0xe4c82643a4f9fd288322cc6fbd7c48ab068b38d3"
+          },
+          {
+            "address" : "0xadde7028e7ec226777e5dea5d53f6457c21ec7d6"
+          }
+        ]
+      },
+      {
+        "name" : "Zerolend",
+        "domain" : "app.zerolend.xyz",
+        "contracts" : [
+          {
+            "address" : "0x767b4a087c11d7581ac95eaffc1febfa26bad3d2"
+          }
+        ]
+      },
+      {
+        "name" : "Zkmarkets",
+        "domain" : "zkmarkets.com",
+        "contracts" : [
+          {
+            "address" : "0x64848eefbc2921102a153b08fa64536ae1f8e937"
+          },
+          {
+            "address" : "0xabf1fe6636b9271ac4c59a8193ab31589e512d5a"
+          }
+        ]
+      },
+      {
+        "name" : "Zknation",
+        "domain" : "vote.zknation.io",
+        "contracts" : [
+          {
+            "address" : "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e"
+          }
+        ]
+      },
+      {
+        "name" : "Zkswap",
+        "domain" : "zkswap.finance",
+        "contracts" : [
+          {
+            "address" : "0x18381c0f738146fb694de18d1106bde2be040fa4"
+          },
+          {
+            "address" : "0x9f9d043fb77a194b4216784eb5985c471b979d67"
           }
         ]
       }

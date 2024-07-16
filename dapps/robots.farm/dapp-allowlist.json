@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Robots",
+  "domain": "robots.farm",
+  "chains": {
+    "base": [
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x6fd4383cb451173d5f9304f041c7bcbf27d561ff"
+      }
+    ]
+  }
+}

@@ -8,6 +8,21 @@
       {
         "address": "0x19609b03c976cca288fbdae5c21d4290e9a4add7"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0x35d531fd45d5e3a5d407a4898360c757c98bdf79"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x4a88c44b8d9b9f3f2ba4d97236f737cf03df76cd"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xc4b2f992496376c6127e73f1211450322e580668"
+      }
     ]
   }
 }

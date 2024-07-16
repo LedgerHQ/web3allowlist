@@ -10,6 +10,24 @@
       },
       {
         "address": "0xbafa44efe7901e04e39dad13167d089c559c1138"
+      },
+      {
+        "address": "0xc14d550632db8592d1243edc8b95b0ad06703867"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xcaaab0a72f781b92ba63af27477aa46ab8f653e7"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x5977b16aa9abc4d1281058c73b789c65bf9ab3d3"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xb9a55f455e46e8d717eea5e47d2c449416a0437f"
       }
     ]
   }

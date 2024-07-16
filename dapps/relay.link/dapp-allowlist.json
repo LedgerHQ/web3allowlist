@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Relay",
+  "domain": "relay.link",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x0000000000002bdbf1bf3279983603ec279cc6df"
+      }
+    ]
+  }
+}

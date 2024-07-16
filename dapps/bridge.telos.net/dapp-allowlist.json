@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Telos",
+  "domain": "bridge.telos.net",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x9c5ebcbe531aa81bd82013abf97401f5c6111d76"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x9c5ebcbe531aa81bd82013abf97401f5c6111d76"
+      }
+    ]
+  }
+}

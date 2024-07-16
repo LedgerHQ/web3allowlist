@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Puffer",
+  "domain": "quest.puffer.fi",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xd9a442856c234a39a81a089c06451ebaa4306a72"
+      }
+    ]
+  }
+}

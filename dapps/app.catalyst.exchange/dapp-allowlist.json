@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Catalyst",
+  "domain": "app.catalyst.exchange",
+  "chains": {
+    "base": [
+      {
+        "address": "0x00000029e6005863bb2e1686a17c4ae0d1723669"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x00000029e6005863bb2e1686a17c4ae0d1723669"
+      }
+    ]
+  }
+}

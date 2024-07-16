@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Taiko",
+  "domain": "bridge.taiko.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xd60247c6848b7ca29eddf63aa924e53db6ddd8ec"
+      }
+    ]
+  }
+}

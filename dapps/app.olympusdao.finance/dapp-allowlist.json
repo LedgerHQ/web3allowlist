@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Olympusdao",
+  "domain": "app.olympusdao.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f"
+      }
+    ]
+  }
+}

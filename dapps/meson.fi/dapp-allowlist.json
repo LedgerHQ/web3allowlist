@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Meson",
+  "domain": "meson.fi",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x25ab3efd52e6470681ce037cd546dc60726948d3"
+      }
+    ]
+  }
+}

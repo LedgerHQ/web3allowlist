@@ -8,6 +8,11 @@
       {
         "address": "0xf7b75183a2829843db06266c114297dfbfaee2b6"
       }
+    ],
+    "base": [
+      {
+        "address": "0x881cd31218f45a75f8ad543a3e1af087f3986ae0"
+      }
     ]
   }
 }

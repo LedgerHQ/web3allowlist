@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Primeprotocol",
+  "domain": "app.primeprotocol.xyz",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0x79358880570886d4197e3702746c78c85578b855"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x1f9bd6986d0cdcde9fbbe87d142f3dc4ddca1fd9"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xb10709569348c91d906f8c69855b141b554dc221"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x79358880570886d4197e3702746c78c85578b855"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x6051f99cc1d45227106b895f16cb85827f2821e5"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x650c5d8f7068a96beb9daf6378ffb4243b48cd3c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Smardex",
+  "domain": "smardex.io",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
+      }
+    ]
+  }
+}

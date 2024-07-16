@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Estfor",
+  "domain": "estfor.com",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0xb809ed839c691d465e2ec45e1bcb5e5aded50fb9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dolomite",
+  "domain": "app.dolomite.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xadb9d68c613df4aa363b42161e1282117c7b9594"
+      },
+      {
+        "address": "0x905f3add52f01a9069218c8d1c11e240aff61d2b"
+      }
+    ]
+  }
+}

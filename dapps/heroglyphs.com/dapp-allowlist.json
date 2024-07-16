@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Heroglyphs",
+  "domain": "heroglyphs.com",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x30da1a8b1673db2eee02c72682097290b11325fd"
+      }
+    ]
+  }
+}

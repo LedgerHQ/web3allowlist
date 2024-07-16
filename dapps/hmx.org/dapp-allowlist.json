@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Hmx",
+  "domain": "hmx.org",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xee116128b9aaadbcd1f7c18608c5114f594cf5d6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Swapbased",
+  "domain": "swapbased.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0xaaa3b1f1bd7bcc97fd1917c18ade665c5d31f066"
+      }
+    ]
+  }
+}

@@ -35,6 +35,26 @@
       {
         "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0xd152f549545093347a162dce210e7293f1452150"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xd152f549545093347a162dce210e7293f1452150"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xd152f549545093347a162dce210e7293f1452150"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xd152f549545093347a162dce210e7293f1452150"
+      }
     ]
   }
 }

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Derpdex",
+  "domain": "app.derpdex.com",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0xd896563806661cf88697b15f13bb794d89870a36"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x6acd0ec9405ccb701c57a88849c4f1cd85a3f3ab"
+      }
+    ]
+  }
+}

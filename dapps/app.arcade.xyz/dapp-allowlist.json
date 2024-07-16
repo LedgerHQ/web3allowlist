@@ -7,6 +7,15 @@
     "ethereum": [
       {
         "address": "0x4c52ca29388a8a854095fd2beb83191d68dc840b"
+      },
+      {
+        "address": "0x269363665dbb1582b143099a3cb467e98a476d55"
+      },
+      {
+        "address": "0x89bc08ba00f135d608bc335f6b33d7a9abcc98af"
+      },
+      {
+        "address": "0x666faa632e5f7ba20a7fce36596a6736f87133be"
       }
     ]
   }

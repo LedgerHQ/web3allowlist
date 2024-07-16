@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Onbeam",
+  "domain": "bridge.onbeam.com",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x965b104e250648d01d4b3b72bac751cde809d29e"
+      }
+    ]
+  }
+}

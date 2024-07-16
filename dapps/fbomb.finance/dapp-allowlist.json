@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Fbomb",
+  "domain": "fbomb.finance",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0xb9799de71100e20ac1cdbcc63c69dda2d0d81710"
+      }
+    ]
+  }
+}

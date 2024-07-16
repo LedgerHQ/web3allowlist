@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Micro3",
+  "domain": "micro3.io",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xdce78c98a0a5abe3f0a342b32bfe43d203794dee"
+      },
+      {
+        "address": "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+      },
+      {
+        "address": "0xc57f70622629936c3ff7517deea6b957c31b648c"
+      }
+    ]
+  }
+}

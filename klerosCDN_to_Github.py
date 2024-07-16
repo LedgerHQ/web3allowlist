@@ -36,25 +36,50 @@ def send_graphql_query(url, query):
 
 
 # Step 1: Poll the endpoint and store the results
-url = "https://api.thegraph.com/subgraphs/name/kleros/legacy-curate-xdai"
-query = """
-{
-  litems(first:1000 where:{
-    registry:"0x957a53a994860be4750810131d9c876b2f52d6e1",
-    status_in:[Registered],
-    disputed:false}) {
-    itemID
-    key0
-    key1
-    key2
-  }
-}
-"""
+# Variable to store the latestRequestSubmissionTime
+latest_request_submission_time = 0
 
-response_data = send_graphql_query(url, query)
 
-query_results = response_data["data"]["litems"]
+# Function to create the GraphQL query with pagination
+def create_query(latest_request_submission_time):
+    return f"""
+    {{
+        litems(first: 1000, where: {{
+            registry: "0x957a53a994860be4750810131d9c876b2f52d6e1",
+            status_in: [Registered],
+            disputed: false,
+            latestRequestSubmissionTime_gt: "{latest_request_submission_time if latest_request_submission_time else 0}"
+        }}) {{
+            itemID
+            latestRequestSubmissionTime
+            metadata {{
+                key0
+                key1
+                key2
+            }}
+        }}
+    }}
+    """
 
+
+# URL for the GraphQL endpoint
+url = "https://api.studio.thegraph.com/query/61738/legacy-curate-gnosis/version/latest"
+
+# Fetch all data with pagination
+all_query_results = []
+while True:
+    query = create_query(latest_request_submission_time)
+    response_data = send_graphql_query(url, query)
+
+    query_results = response_data["data"]["litems"]
+
+    if not query_results:
+        break
+
+    all_query_results.extend(query_results)
+    latest_request_submission_time = query_results[-1]["latestRequestSubmissionTime"]
+
+print(len(all_query_results))
 # Step 2: Extract the key1 (domain) and key0 (EVM address)
 #  values from the query results
 domain_address_map = {}
@@ -73,6 +98,7 @@ chain_id_map = {
     "43114": "avalanche",
     "25": "cronos",
     "199": "bittorrent",
+    "324": "zksync",
     "1101": "polygonzkevm",
     "1111": "wemix",
     "534352": "scroll",
@@ -84,14 +110,14 @@ added_domains = set()
 updated_domains = set()
 added_contracts = set()
 
-for item in query_results:
+for item in all_query_results:
     try:
-        domain = item["key1"].strip()
+        domain = item["metadata"]["key1"].strip()
         # remove www. subdomain as per Ledger's requirements
         if domain.startswith("www."):
             domain = domain[4:]
 
-        eip_155_info = item["key0"].split(":")
+        eip_155_info = item["metadata"]["key0"].split(":")
         chain_id = eip_155_info[1]
         address = eip_155_info[2].lower()
 

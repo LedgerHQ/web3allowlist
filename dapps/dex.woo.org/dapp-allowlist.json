@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Woo",
+  "domain": "dex.woo.org",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x816f722424b49cf1275cc86da9840fbd5a6167e9"
+      }
+    ]
+  }
+}

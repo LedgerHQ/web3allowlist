@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Native",
+  "domain": "native.org",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xead050515e10fdb3540ccd6f8236c46790508a76"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xead050515e10fdb3540ccd6f8236c46790508a76"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xead050515e10fdb3540ccd6f8236c46790508a76"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xead050515e10fdb3540ccd6f8236c46790508a76"
+      }
+    ]
+  }
+}

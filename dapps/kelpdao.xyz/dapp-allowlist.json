@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Kelpdao",
+  "domain": "kelpdao.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x036676389e48133b63a802f8635ad39e752d375d"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xaaa687e218f9b53183a6aa9639fbd9d6e69ecb73"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x376a7564af88242d6b8598a5cfdd2e9759711b61"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x291088312150482826b3a37d5a69a4c54daa9118"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x41b300f5a619973b20931f0944c85db229d5e27f"
+      }
+    ]
+  }
+}

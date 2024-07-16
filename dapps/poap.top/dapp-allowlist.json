@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Poap",
+  "domain": "poap.top",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x11111111316ccfc40d1d0a7aa53cedc23dc7ac2e"
+      }
+    ]
+  }
+}

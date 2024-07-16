@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dackieswap",
+  "domain": "dackieswap.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+      },
+      {
+        "address": "0x6f887c0bee01fafaca39e46ca14cc1d48e28090f"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x2d1b823962c401a7b229e1a9b38760d2f1715678"
+      },
+      {
+        "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xd1575b2e0c82fba9eddc3de9c9aaf923afa670cc"
+      },
+      {
+        "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+      }
+    ]
+  }
+}

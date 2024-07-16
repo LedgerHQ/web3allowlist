@@ -116,9 +116,6 @@
     ],
     "polygon": [
       {
-        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
-      },
-      {
         "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
       },
       {
@@ -161,9 +158,6 @@
       },
       {
         "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83"
-      },
-      {
-        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "bsc": [
@@ -181,6 +175,9 @@
       },
       {
         "address": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
     ],
     "optimism": [
@@ -189,6 +186,9 @@
       },
       {
         "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
     ],
     "arbitrum": [
@@ -197,6 +197,9 @@
       },
       {
         "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
     ]
   }

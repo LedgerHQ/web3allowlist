@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Pancakebunny",
+  "domain": "pancakebunny.finance",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xa555443a5ee77f334648ef4f557c0b5070fcb4de"
+      },
+      {
+        "address": "0xdc2bbb0d33e0e7dea9f5b98f46edbac823586a0c"
+      }
+    ]
+  }
+}

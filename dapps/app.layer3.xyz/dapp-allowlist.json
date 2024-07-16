@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Layer3",
+  "domain": "app.layer3.xyz",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0x71a2f8007e71e1399d66972e48d10a0a0d0049c0"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
+      }
+    ]
+  }
+}

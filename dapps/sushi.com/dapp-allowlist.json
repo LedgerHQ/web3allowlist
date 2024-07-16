@@ -28,6 +28,9 @@
       },
       {
         "address": "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
       }
     ],
     "ethereum": [
@@ -45,6 +48,9 @@
       },
       {
         "address": "0xe43ca1dee3f0fc1e2df73a0745674545f11a59f5"
+      },
+      {
+        "address": "0xc2edad668740f1aa35e4d8f227fb8e17dca888cd"
       }
     ],
     "polygon": [
@@ -70,11 +76,20 @@
       },
       {
         "address": "0x33d91116e0370970444b0281ab117e161febfcdd"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
       }
     ],
     "optimism": [
       {
         "address": "0xeb94eca012ec0bbb254722fdda2ce7475875a52b"
+      },
+      {
+        "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+      },
+      {
+        "address": "0x1f2fcf1d036b375b384012e61d3aa33f8c256bbe"
       }
     ],
     "fantom": [
@@ -88,16 +103,45 @@
     "arbitrum": [
       {
         "address": "0x09bd2a33c47746ff03b86bce4e885d03c74a8e8c"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0xf4d73326c13a4fc5fd7a064217e12780e9bd62c3"
+      },
+      {
+        "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
       }
     ],
     "base": [
       {
         "address": "0x83ec81ae54dd8dca17c3dd4703141599090751d1"
+      },
+      {
+        "address": "0x80c7dd17b01855a6d2347444a0fcc36136a314de"
+      },
+      {
+        "address": "0x0389879e0156033202c44bf784ac18fc02edee4f"
+      },
+      {
+        "address": "0x6bded42c6da8fbf0d2ba55b2fa120c5e0c8d7891"
       }
     ],
     "avalanche": [
       {
         "address": "0x8f54301f315c56c112d492d9443047d4745dbe9e"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959"
       }
     ]
   }

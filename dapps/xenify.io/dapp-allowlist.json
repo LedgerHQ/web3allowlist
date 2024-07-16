@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Xenify",
+  "domain": "xenify.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xde01ed0befed7fc437eb2d8719a2da5de8a16f87"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Conveyor",
+  "domain": "app.conveyor.finance",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xd5ec61bca0af24ad06be431585a0920142c98890"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xd5ec61bca0af24ad06be431585a0920142c98890"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xd5ec61bca0af24ad06be431585a0920142c98890"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xd5ec61bca0af24ad06be431585a0920142c98890"
+      }
+    ]
+  }
+}

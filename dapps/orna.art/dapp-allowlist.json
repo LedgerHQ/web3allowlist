@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Orna",
+  "domain": "orna.art",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0x53582b1b7be71622e7386d736b6baf87749b7a2b"
+      }
+    ]
+  }
+}

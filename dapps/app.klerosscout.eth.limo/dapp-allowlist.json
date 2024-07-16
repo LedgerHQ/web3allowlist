@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eth",
+  "domain": "app.klerosscout.eth.limo",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x957a53a994860be4750810131d9c876b2f52d6e1"
+      },
+      {
+        "address": "0x66260c69d03837016d88c9877e61e08ef74c59f2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Umbra",
+  "domain": "app.umbra.cash",
+  "chains": {
+    "base": [
+      {
+        "address": "0x31fe56609c65cd0c510e7125f051d440424d38f3"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x31fe56609c65cd0c510e7125f051d440424d38f3"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x31fe56609c65cd0c510e7125f051d440424d38f3"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x31fe56609c65cd0c510e7125f051d440424d38f3"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x31fe56609c65cd0c510e7125f051d440424d38f3"
+      }
+    ]
+  }
+}

@@ -12,16 +12,129 @@
     "gnosis": [
       {
         "address": "0x556f119c7433b2232294fb3de267747745a1dab4"
+      },
+      {
+        "address": "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
       }
     ],
     "ethereum": [
       {
         "address": "0xafa5f9313f1f2b599173f24807a882f498be118c"
+      },
+      {
+        "address": "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
+      },
+      {
+        "address": "0xf5379e7515b5678ada4866b1cd191b95182461c0"
+      },
+      {
+        "address": "0x41ca0f2a9a3fe8aa15135574c37e3e7083d2ce7e"
       }
     ],
     "bsc": [
       {
         "address": "0xef1eae0457e8d56a003d781569489bc5466e574b"
+      },
+      {
+        "address": "0xfdc9018af0e37abf89233554c937eb5068127080"
+      },
+      {
+        "address": "0xe341f30ea040bf3691aa069b8c5c213f72676421"
+      },
+      {
+        "address": "0xf3d41b377c93fa5c3b0071966f1811c5063fad40"
+      },
+      {
+        "address": "0x7dfb5e7808b5eb4fb8b9e7169537575f6ff1a218"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xafa5f9313f1f2b599173f24807a882f498be118c"
+      },
+      {
+        "address": "0x1812d05671eefa040ac605a0198476ded081d520"
+      },
+      {
+        "address": "0x2a5c54c625220cb2166c94dd9329be1f8785977d"
+      },
+      {
+        "address": "0xd7ba4057f43a7c4d4a34634b2a3151a60bf78f0d"
+      },
+      {
+        "address": "0xc110e7faa95680c79937ccaca3d1cab7902be25e"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x8a555e4fc287650f5e8ca1778a35dd44e893d6aa"
+      },
+      {
+        "address": "0xef62b433ca3ac8b151c4a255de3ed3da4e60add2"
+      },
+      {
+        "address": "0x85fd2da31262d26471c738ce357a3767635a0956"
+      },
+      {
+        "address": "0xaa58e77238f0e4a565343a89a79b4addd744d649"
+      },
+      {
+        "address": "0x233888f5dc1d3c0360b559abc029675290dafa70"
+      },
+      {
+        "address": "0x4ae8cebccd7027820ba83188dfd73ccad0a92806"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
+      },
+      {
+        "address": "0xe030543b943bdcd6559711ec8d344389c66e1d56"
+      },
+      {
+        "address": "0x70ea00ab512d13dac5001c968f8d2263d179e2d2"
+      },
+      {
+        "address": "0x5c9bbe51f7f19f8c77df7a3ada35ab434aaa86c5"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x97337a9710beb17b8d77ca9175defba5e9afe62e"
+      },
+      {
+        "address": "0xf56605276cefffe32dfd8b6bf80b93c2a6840136"
+      },
+      {
+        "address": "0xa07f2e99eaa338acf66337baf99551bdcfd3ab00"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x6bf98654205b1ac38645880ae20fc00b0bb9ffca"
+      },
+      {
+        "address": "0x0cb0354e9c51960a7875724343dfc37b93d32609"
+      },
+      {
+        "address": "0xefd942537d53003a6d73ce02562a002dcd0d5663"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0xc20a842e1fc2681920c1a190552a2f13c46e7fcf"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x5673b6e6e51de3479b8deb22df46b12308db5e1e"
+      },
+      {
+        "address": "0x54de43b6ba21a5553697a2b78338e046dd7e0278"
+      },
+      {
+        "address": "0x6dd28c2c5b91dd63b4d4e78ecac7139878371768"
       }
     ]
   }

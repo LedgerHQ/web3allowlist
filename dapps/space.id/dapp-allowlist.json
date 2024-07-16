@@ -13,6 +13,11 @@
       {
         "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xf2198dfdcecfb67e6028ac64d0890f2a99bb6975"
+      }
     ]
   }
 }

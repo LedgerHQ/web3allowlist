@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Frenpet",
+  "domain": "frenpet.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0x0e22b5f3e11944578b37ed04f5312dfc246f443c"
+      }
+    ]
+  }
+}

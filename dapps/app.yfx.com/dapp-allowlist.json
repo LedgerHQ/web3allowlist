@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Yfx",
+  "domain": "app.yfx.com",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xcc619251bb94b7605a7ea7391feb7d18c32552d5"
+      }
+    ]
+  }
+}

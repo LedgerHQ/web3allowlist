@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mobox",
+  "domain": "mobox.io",
+  "chains": {
+    "bsc": [
+      {
+        "address": "0xae5f14a9aed2b56121fb964a84a9dff114296563"
+      },
+      {
+        "address": "0x1da9b6e37f006dd349089dea21cb8261391593d5"
+      }
+    ]
+  }
+}

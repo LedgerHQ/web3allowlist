@@ -7,6 +7,14 @@
     "ethereum": [
       {
         "address": "0xb2374f84b3ceeff6492943df613c9bcf45322a0c"
+      },
+      {
+        "address": "0x8658047e48cc09161f4152c79155dac1d710ff0a"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x9992f660137979c1ca7f8b119cd16361594e3681"
       }
     ]
   }

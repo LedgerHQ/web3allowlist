@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Lends",
+  "domain": "app.lends.so",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x8f66c4ae756bebc49ec8b81966dd8bba9f127549"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xb30ec53f98ff5947ede720d32ac2da7e52a5f56b"
+      }
+    ]
+  }
+}

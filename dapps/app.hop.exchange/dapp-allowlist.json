@@ -52,11 +52,22 @@
       },
       {
         "address": "0x266e2dc3c4c59e42aa07afee5b09e964cffe6778"
+      },
+      {
+        "address": "0x86ca30bef97fb651b8d866d45503684b90cb3312"
+      },
+      {
+        "address": "0x7d269d3e0d61a05a0ba976b7dbf8805bf844af3f"
       }
     ],
     "base": [
       {
         "address": "0x10541b07d8ad2647dc6cd67abd4c03575dade261"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
       }
     ]
   }

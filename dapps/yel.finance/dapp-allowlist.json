@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Yel",
+  "domain": "yel.finance",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0x954b15065e4fa1243cd45a020766511b68ea9b6e"
+      }
+    ]
+  }
+}

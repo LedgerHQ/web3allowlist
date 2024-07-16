@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Reactorfusion",
+  "domain": "main.reactorfusion.xyz",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x04e9db37d8ea0760072e1ace3f2a219988fdac29"
+      }
+    ]
+  }
+}

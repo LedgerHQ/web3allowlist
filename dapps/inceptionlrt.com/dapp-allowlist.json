@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Inceptionlrt",
+  "domain": "inceptionlrt.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x46199caa0e453971cedf97f926368d9e5415831a"
+      }
+    ]
+  }
+}

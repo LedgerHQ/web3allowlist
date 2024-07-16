@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Jetswap",
+  "domain": "fantom-exchange.jetswap.finance",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0x845e76a8691423fbc4ecb8dd77556cb61c09ee25"
+      }
+    ]
+  }
+}

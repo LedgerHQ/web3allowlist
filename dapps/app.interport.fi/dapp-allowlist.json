@@ -33,6 +33,16 @@
       {
         "address": "0x7b2e3fc7510d1a51b3bef735f985446589219354"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0xdf3e4da3ee75f1018d277222967ce3d69f3271d9"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x7b2e3fc7510d1a51b3bef735f985446589219354"
+      }
     ]
   }
 }

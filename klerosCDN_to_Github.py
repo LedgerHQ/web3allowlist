@@ -48,7 +48,7 @@ def create_query(latest_request_submission_time):
             registry: "0x957a53a994860be4750810131d9c876b2f52d6e1",
             status_in: [Registered],
             disputed: false,
-            latestRequestSubmissionTime_gt: "{latest_request_submission_time if latest_request_submission_time else 0}" 
+            latestRequestSubmissionTime_gt: "{latest_request_submission_time if latest_request_submission_time else 0}"
         }}) {{
             itemID
             latestRequestSubmissionTime

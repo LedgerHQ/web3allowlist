@@ -50,3 +50,4 @@ jobs:
           # since we are only interested in linting the allowlist JSON file
           VALIDATE_MARKDOWN: false
           VALIDATE_NATURAL_LANGUAGE: false
+          VALIDATE_JSCPD: false

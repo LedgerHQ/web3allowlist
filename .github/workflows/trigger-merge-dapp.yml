@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Dispatch QA workflow
-        uses: benc-uk/workflow-dispatch@v1.2.3
+        uses: benc-uk/workflow-dispatch@v1.2.4
         with:
           workflow: merge-dapp.yml
           token: ${{ secrets.CI_BOT_TOKEN }}

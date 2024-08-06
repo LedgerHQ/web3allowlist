@@ -44,7 +44,7 @@ latest_request_submission_time = 0
 def create_query(latest_request_submission_time):
     return f"""
     {{
-        litems(first: 1000, where: {{
+        litems(first: 1000, orderBy: latestRequestSubmissionTime, orderDirection:asc, where: {{
             registry: "0x957a53a994860be4750810131d9c876b2f52d6e1",
             status_in: [Registered],
             disputed: false,
@@ -218,9 +218,9 @@ summary = f"""## Changes
 
 ## Reason
 Adding {len(added_domains)} new domains and {len(added_contracts)} new \
-    dapp->chain->contract entries from the Ledger CDN registry on \
-        Kleros Curate (https://curate.kleros.io/tcr/100/0x957a53a994860be4750810131d9c876b2f52d6e1?registered=true) \
-            up till {current_datetime} UTC.
+dapp->chain->contract entries from the Ledger CDN registry on \
+Kleros Curate (https://curate.kleros.io/tcr/100/0x957a53a994860be4750810131d9c876b2f52d6e1?registered=true) \
+up till {current_datetime} UTC.
 """
 
 with open("PR_comments.txt", "w") as log_file:

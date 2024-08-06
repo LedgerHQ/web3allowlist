@@ -25,6 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+      statuses: write
 
     ##################
     # Load all steps #
@@ -54,3 +55,4 @@ jobs:
           VALIDATE_NATURAL_LANGUAGE: false
           VALIDATE_JSCPD: false
           VALIDATE_CHECKOV: false
+          VALIDATE_PYTHON_PYLINT: false

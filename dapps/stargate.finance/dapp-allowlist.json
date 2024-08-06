@@ -50,6 +50,12 @@
     "base": [
       {
         "address": "0xdc181bd607330aeebef6ea62e03e5e1fb4b6f7c7"
+      },
+      {
+        "address": "0x50b6ebc2103bfec165949cc946d739d5650d7ae4"
+      },
+      {
+        "address": "0x27a16dc786820b16e5c9028b75b99f6f604b5d26"
       }
     ],
     "avalanche": [

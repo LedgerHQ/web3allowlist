@@ -7,6 +7,9 @@
     "zksync": [
       {
         "address": "0x767b4a087c11d7581ac95eaffc1febfa26bad3d2"
+      },
+      {
+        "address": "0x4d9429246ea989c9cee203b43f6d1c7d83e3b8f8"
       }
     ],
     "ethereum": [

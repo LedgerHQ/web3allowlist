@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Karak",
+  "domain": "app.karak.network",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x399f22ae52a18382a67542b3de9bed52b7b9a4ad"
+      }
+    ]
+  }
+}

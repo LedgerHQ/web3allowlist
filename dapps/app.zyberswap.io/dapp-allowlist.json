@@ -10,6 +10,12 @@
       },
       {
         "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      },
+      {
+        "address": "0xfa58b8024b49836772180f2df902f231ba712f72"
+      },
+      {
+        "address": "0x16e71b13fe6079b4312063f7e81f76d165ad32ad"
       }
     ],
     "base": [
@@ -31,6 +37,11 @@
       }
     ],
     "ethereum": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ],
+    "bsc": [
       {
         "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
       }

@@ -38,6 +38,16 @@
       {
         "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x4bba932e9792a2b917d47830c93a9bc79320e4f7"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+      }
     ]
   }
 }

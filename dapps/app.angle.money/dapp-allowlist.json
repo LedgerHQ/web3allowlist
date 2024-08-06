@@ -39,6 +39,16 @@
       {
         "address": "0x2859a4ebcb58c8dd5cac1419c4f63a071b642b20"
       }
+    ],
+    "polygon": [
+      {
+        "address": "0x4e3288c9ca110bcc82bf38f09a7b425c095d92bf"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xe9f183fc656656f1f17af1f2b0df79b8ff9ad8ed"
+      }
     ]
   }
 }

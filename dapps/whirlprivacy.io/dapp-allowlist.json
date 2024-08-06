@@ -18,6 +18,21 @@
       {
         "address": "0x35ec5f1ae635f5483331f54088ecec816ea78fb1"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x35ec5f1ae635f5483331f54088ecec816ea78fb1"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x68d12c45f642cbe86c97a4bca11bac2c47665f5a"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xb7cfc70c2925fb2dde5aa2543e0e3972ef0431f0"
+      }
     ]
   }
 }

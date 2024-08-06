@@ -83,6 +83,9 @@
       },
       {
         "address": "0x4ae8cebccd7027820ba83188dfd73ccad0a92806"
+      },
+      {
+        "address": "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
       }
     ],
     "avalanche": [
@@ -119,6 +122,12 @@
       },
       {
         "address": "0xefd942537d53003a6d73ce02562a002dcd0d5663"
+      },
+      {
+        "address": "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
+      },
+      {
+        "address": "0xba32747ef144b5ea6a01a18f7756034e23c998ae"
       }
     ],
     "celo": [

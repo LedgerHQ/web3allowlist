@@ -7,6 +7,29 @@
     "optimism": [
       {
         "address": "0x7af14adc8aea70f063c7ea3b2c1ad0d7a59c4bff"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
     ]
   }

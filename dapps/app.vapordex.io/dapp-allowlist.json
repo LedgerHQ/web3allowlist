@@ -7,6 +7,12 @@
     "avalanche": [
       {
         "address": "0x55477d8537ede381784b448876afaa98aa450e63"
+      },
+      {
+        "address": "0x08e287adcf9bf6773a87e1a278aa9042bef44b60"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ]
   }

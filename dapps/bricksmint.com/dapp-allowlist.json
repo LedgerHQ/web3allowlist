@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bricksmint",
+  "domain": "bricksmint.com",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x5d102c24e538d6697eebb8e99629f41793e26fb4"
+      },
+      {
+        "address": "0xc45b9d1eea2107d3489874329ba6c019cd0c0a00"
+      },
+      {
+        "address": "0xda66252671bdcce5cfbaf8d1e372566b91835734"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x176cdd533268429b796f3e32e73f034f9917776e"
+      },
+      {
+        "address": "0x9cbf2f0969195747a4e9c50312d3da0c1b74e4dd"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x890e0036d768da905be003b6908d24bd54063194"
+      },
+      {
+        "address": "0x0c96e6d1183966e50dd1a30954afb2b76362c66a"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xd1a6e780059b75391a124470771033a4fd6c5d29"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x70d451fca3a3fbefb7674e5886b2068fc33fc743"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x22198f97fd95c26b9e74bb94c7b45818b2141fe5"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x6ed4f53e3225c1355292cb2c57f8cceb97a4e31b"
+      },
+      {
+        "address": "0x57b39bffd34ab66b4b0193b3ef293760b4fc584f"
+      }
+    ]
+  }
+}

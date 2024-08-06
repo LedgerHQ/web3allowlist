@@ -7,12 +7,25 @@
     "ethereum": [
       {
         "address": "0x29babff3eba7b517a75109ea8fd6d1eab4a10258"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
     ],
     "optimism": [
       {
         "address": "0x29babff3eba7b517a75109ea8fd6d1eab4a10258"
       },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "base": [
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }

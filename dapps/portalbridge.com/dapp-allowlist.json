@@ -42,6 +42,16 @@
       {
         "address": "0x48fa7528bfd6164ddf09df0ed22451cf59c84130"
       }
+    ],
+    "celo": [
+      {
+        "address": "0x796dff6d74f3e27060b71255fe517bfb23c93eed"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x7c9fc5741288cdfdd83ceb07f3ea7e22618d79d2"
+      }
     ]
   }
 }

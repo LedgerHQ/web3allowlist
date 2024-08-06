@@ -23,6 +23,8 @@ jobs:
     name: Lint
     # Set the agent to run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
 
     ##################
     # Load all steps #
@@ -46,7 +48,7 @@ jobs:
         env:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.CI_BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           # since we are only interested in linting the allowlist JSON file
           VALIDATE_MARKDOWN: false
           VALIDATE_NATURAL_LANGUAGE: false

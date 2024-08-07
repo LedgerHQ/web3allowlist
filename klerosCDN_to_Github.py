@@ -143,7 +143,6 @@ for item in all_query_results:
 dapps_directory = "dapps"
 log_entries = []
 
-
 for domain, chains in domain_address_map.items():
     domain_directory = os.path.join(dapps_directory, domain)
     allowlist_file_path = os.path.join(domain_directory, "dapp-allowlist.json")

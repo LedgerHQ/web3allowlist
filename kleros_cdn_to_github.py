@@ -92,7 +92,7 @@ def create_query(latest_request_submission_time):
             status_in: [Registered],
             disputed: false,
             latestRequestSubmissionTime_gt: "{latest_request_submission_time
-                if latest_request_submission_time else 0}"
+            if latest_request_submission_time else 0}"
         }}) {{
             itemID
             latestRequestSubmissionTime

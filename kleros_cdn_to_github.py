@@ -92,7 +92,7 @@ def create_query(latest_request_submission_time):
             status_in: [Registered],
             disputed: false,
             latestRequestSubmissionTime_gt: "{latest_request_submission_time
-            if latest_request_submission_time else 0}"
+                if latest_request_submission_time else 0}"
         }}) {{
             itemID
             latestRequestSubmissionTime
@@ -107,7 +107,10 @@ def create_query(latest_request_submission_time):
 
 
 # URL for the GraphQL endpoint
-URL = "https://api.studio.thegraph.com/query/61738/legacy-curate-gnosis/version/latest"
+URL = (
+    "https://api.studio.thegraph.com/query/" 
+    "61738/legacy-curate-gnosis/version/latest"
+)
 
 # Fetch all data with pagination
 all_query_results = []
@@ -121,9 +124,7 @@ while True:
         break
 
     all_query_results.extend(query_results)
-    latest_request_submission_time = query_results[-1][
-        "latestRequestSubmissionTime"
-    ]
+    latest_request_submission_time = query_results[-1]["latestRequestSubmissionTime"]
 
 print(len(all_query_results))
 # Step 2: Extract the key1 (domain) and key0 (EVM address)
@@ -204,9 +205,7 @@ for domain, chains in domain_address_map.items():
 
         added_domains.add(domain)
 
-    FILE_ACTION = (
-        "Appended" if os.path.exists(allowlist_file_path) else "New file"
-    )
+    FILE_ACTION = "Appended" if os.path.exists(allowlist_file_path) else "New file"
 
     if os.path.exists(allowlist_file_path):
         with open(allowlist_file_path, "r", encoding="utf-8") as allowlist_file:

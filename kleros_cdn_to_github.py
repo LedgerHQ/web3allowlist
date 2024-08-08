@@ -108,8 +108,7 @@ def create_query(latest_request_submission_time):
 
 # URL for the GraphQL endpoint
 URL = (
-    "https://api.studio.thegraph.com/query/" 
-    "61738/legacy-curate-gnosis/version/latest"
+    "https://api.studio.thegraph.com/query/" "61738/legacy-curate-gnosis/version/latest"
 )
 
 # Fetch all data with pagination

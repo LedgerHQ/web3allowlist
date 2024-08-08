@@ -1,8 +1,9 @@
 """
-This is a script to pull the latest confirmed entries from 
-Kleros's Contract Domain Name registry and format them into 
-the structure needed for this repository. 
-If you are iterating and need to repeat a pull, use "git reset --hard HEAD && git clean -fd" 
+This is a script to pull the latest confirmed entries from
+Kleros's Contract Domain Name registry and format them into
+the structure needed for this repository.
+If you are iterating and need to repeat a pull,
+use "git reset --hard HEAD && git clean -fd"
 to reset the directory back to last commit.
 """
 
@@ -20,8 +21,8 @@ import requests
 def deduce_website_name(raw_domain):
     """
     Deduce the website name from a given domain.
-
-    This function removes subdomains and top-level domains (TLDs) from the given
+    This function removes subdomains and
+    top-level domains (TLDs) from the given
     domain to return the base website name.
 
     Args:
@@ -76,7 +77,8 @@ def create_query(latest_request_submission_time):
     Creates the GraphQL query based on the latest request submission time
 
     Args:
-        latest request submission time (int): THe timestamp of the latest request submission time
+        latest request submission time (int):
+        The timestamp of the latest request submission time
         query (str): GraphQL Query
 
     Returns:
@@ -84,11 +86,13 @@ def create_query(latest_request_submission_time):
     """
     return f"""
     {{
-        litems(first: 1000, orderBy: latestRequestSubmissionTime, orderDirection:asc, where: {{
+        litems(first: 1000, orderBy: latestRequestSubmissionTime,
+        orderDirection:asc, where: {{
             registry: "0x957a53a994860be4750810131d9c876b2f52d6e1",
             status_in: [Registered],
             disputed: false,
-            latestRequestSubmissionTime_gt: "{latest_request_submission_time if latest_request_submission_time else 0}"
+            latestRequestSubmissionTime_gt: "{latest_request_submission_time
+            if latest_request_submission_time else 0}"
         }}) {{
             itemID
             latestRequestSubmissionTime
@@ -103,13 +107,13 @@ def create_query(latest_request_submission_time):
 
 
 # URL for the GraphQL endpoint
-url = "https://api.studio.thegraph.com/query/61738/legacy-curate-gnosis/version/latest"
+URL = "https://api.studio.thegraph.com/query/61738/legacy-curate-gnosis/version/latest"
 
 # Fetch all data with pagination
 all_query_results = []
 while True:
     query = create_query(LATEST_REQUEST_SUBMISSION_TIME)
-    response_data = send_graphql_query(url, query)
+    response_data = send_graphql_query(URL, query)
 
     query_results = response_data["data"]["litems"]
 
@@ -117,7 +121,9 @@ while True:
         break
 
     all_query_results.extend(query_results)
-    LATEST_REQUEST_SUBMISSION_TIME = query_results[-1]["latestRequestSubmissionTime"]
+    latest_request_submission_time = query_results[-1][
+        "latestRequestSubmissionTime"
+    ]
 
 print(len(all_query_results))
 # Step 2: Extract the key1 (domain) and key0 (EVM address)
@@ -198,7 +204,9 @@ for domain, chains in domain_address_map.items():
 
         added_domains.add(domain)
 
-    FILE_ACTION = "Appended" if os.path.exists(allowlist_file_path) else "New file"
+    FILE_ACTION = (
+        "Appended" if os.path.exists(allowlist_file_path) else "New file"
+    )
 
     if os.path.exists(allowlist_file_path):
         with open(allowlist_file_path, "r", encoding="utf-8") as allowlist_file:

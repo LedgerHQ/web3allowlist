@@ -13,6 +13,11 @@
       {
         "address": "0xdaf7d157f5c6e0f1d7917ca02a7c185cef81e6d0"
       }
+    ],
+    "fantom": [
+      {
+        "address": "0xbec7d4561037e657830f78b87e780aee1d09fc7b"
+      }
     ]
   }
 }

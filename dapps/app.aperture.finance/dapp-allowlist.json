@@ -15,11 +15,17 @@
     "base": [
       {
         "address": "0x2626664c2603336e57b271c5c0b26f421741e481"
+      },
+      {
+        "address": "0x00000000edb4489cb49fe07246f39345c9f838cd"
       }
     ],
     "ethereum": [
       {
         "address": "0x13f4ea83d0bd40e75c8222255bc855a974568dd4"
+      },
+      {
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
       }
     ],
     "bsc": [

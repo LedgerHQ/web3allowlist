@@ -16,6 +16,9 @@
       },
       {
         "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "ethereum": [
@@ -27,6 +30,9 @@
       },
       {
         "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "gnosis": [
@@ -35,6 +41,9 @@
       },
       {
         "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "polygon": [
@@ -43,6 +52,9 @@
       },
       {
         "address": "0x236290f7da54465bf7a26f279d2b3553e5402780"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ]
   }

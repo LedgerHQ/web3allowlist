@@ -143,6 +143,9 @@
       },
       {
         "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+      },
+      {
+        "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
       }
     ],
     "avalanche": [
@@ -163,6 +166,9 @@
       },
       {
         "address": "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc"
+      },
+      {
+        "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
       }
     ],
     "optimism": [

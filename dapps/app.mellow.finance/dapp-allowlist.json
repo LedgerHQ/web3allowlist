@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mellow",
+  "domain": "app.mellow.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xdc1741f9bd33dd791942cc9435a90b0983de8665"
+      },
+      {
+        "address": "0x41a1fbea7ace3c3a6b66a73e96e5ed07cdb2a34d"
+      },
+      {
+        "address": "0x897642a9dbe1dd82acfdb90d1f22f75b66a765ba"
+      },
+      {
+        "address": "0x24fee15bc11ff617c042283b58a3bda6441da145"
+      },
+      {
+        "address": "0x70cd3464a41b6692413a1ba563b9d53955d5de0d"
+      },
+      {
+        "address": "0x6371ca27b6c9145408909e94ff5fbb755360b914"
+      },
+      {
+        "address": "0x760d48996ffbce4ab52b4c503c57d67aa63a39fe"
+      },
+      {
+        "address": "0x9e03e503fd67c06d9ee5c890696bdb58c60a86cc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Clusters",
+  "domain": "clusters.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x00000000000e1a99dddd5610111884278bdbda1d"
+      }
+    ]
+  }
+}

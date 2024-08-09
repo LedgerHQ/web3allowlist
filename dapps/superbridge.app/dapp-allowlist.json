@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Superbridge",
+  "domain": "superbridge.app",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x3154cf16ccdb4c6d922629664174b904d80f2c35"
+      },
+      {
+        "address": "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1"
+      },
+      {
+        "address": "0x3e2ea9b92b7e48a52296fd261dc26fd995284631"
+      },
+      {
+        "address": "0xd0204b9527c1ba7bd765fa5ccd9355d38338272b"
+      },
+      {
+        "address": "0x735adbbe72226bd52e818e7181953f42e3b0ff21"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x4200000000000000000000000000000000000010"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x4200000000000000000000000000000000000010"
+      }
+    ]
+  }
+}

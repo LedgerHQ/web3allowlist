@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Usual",
+  "domain": "app.usual.money",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      }
+    ]
+  }
+}

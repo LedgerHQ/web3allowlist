@@ -28,6 +28,11 @@
       {
         "address": "0x1e1ad3d381bc0ccea5e44c29fb1f7a0981b97f37"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xc6bdbb18717786726690c3a65e2af5c4c63887c2"
+      }
     ]
   }
 }

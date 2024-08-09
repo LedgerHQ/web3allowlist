@@ -18,6 +18,16 @@
       {
         "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
       }
+    ],
+    "bsc": [
+      {
+        "address": "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+      }
     ]
   }
 }

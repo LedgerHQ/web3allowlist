@@ -7,6 +7,9 @@
     "ethereum": [
       {
         "address": "0xb03670c20f87f2169a7c4ebe35746007e9575901"
+      },
+      {
+        "address": "0x76f09a46e36823733ad801575b47a956aa4838da"
       }
     ],
     "arbitrum": [

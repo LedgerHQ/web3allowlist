@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gains",
+  "domain": "gains.trade",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x2c7e82641f03fa077f88833213210a86027f15dc"
+      }
+    ]
+  }
+}

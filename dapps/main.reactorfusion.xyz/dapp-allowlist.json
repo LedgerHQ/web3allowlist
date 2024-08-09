@@ -7,6 +7,12 @@
     "zksync": [
       {
         "address": "0x04e9db37d8ea0760072e1ace3f2a219988fdac29"
+      },
+      {
+        "address": "0x23848c28af1c3aa7b999fa57e6b6e8599c17f3f2"
+      },
+      {
+        "address": "0xc5db68f30d21cbe0c9eac7be5ea83468d69297e6"
       }
     ]
   }

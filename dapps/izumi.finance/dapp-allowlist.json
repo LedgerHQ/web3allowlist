@@ -28,6 +28,16 @@
       {
         "address": "0x943ac2310d9bc703d6ab5e5e76876e212100f894"
       }
+    ],
+    "ethereum": [
+      {
+        "address": "0x2c6df0fdbce9d2ded2b52a117126f2dc991f770f"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x3f559139c2fc7b97ad6fe9b4d1f75149f551db18"
+      }
     ]
   }
 }

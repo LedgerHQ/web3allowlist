@@ -98,6 +98,9 @@
       },
       {
         "address": "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e"
+      },
+      {
+        "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
       }
     ],
     "arbitrum": [
@@ -112,6 +115,9 @@
       },
       {
         "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+      },
+      {
+        "address": "0x544ba588efd839d2692fc31ea991cd39993c135f"
       }
     ],
     "base": [

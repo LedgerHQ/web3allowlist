@@ -33,6 +33,11 @@
       {
         "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
       }
+    ],
+    "bsc": [
+      {
+        "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+      }
     ]
   }
 }

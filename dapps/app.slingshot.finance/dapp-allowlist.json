@@ -28,16 +28,25 @@
     "arbitrum": [
       {
         "address": "0x5543550d65813c1fa76242227cbba0a28a297771"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
     ],
     "optimism": [
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0xedd118e091eee0e7fa9eeb9b4db717518f56cb15"
       }
     ],
     "base": [
       {
         "address": "0xe6338277bc9fde3e3993c5984753dd5a2a79fee1"
+      },
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
       }
     ]
   }

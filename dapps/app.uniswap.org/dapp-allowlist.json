@@ -73,6 +73,9 @@
       },
       {
         "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      },
+      {
+        "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88"
       }
     ],
     "bsc": [
@@ -174,6 +177,9 @@
       },
       {
         "address": "0x5e325eda8064b456f4781070c0738d849c824258"
+      },
+      {
+        "address": "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
       }
     ],
     "zksync": [

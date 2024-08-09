@@ -501,6 +501,9 @@
       },
       {
         "address": "0x2dec8bce3471ed65b1bb558fa28439d45bf446d0"
+      },
+      {
+        "address": "0x794a61358d6845594f94dc1db02a252b5b4814ad"
       }
     ],
     "arbitrum": [
@@ -512,6 +515,17 @@
       },
       {
         "address": "0x794a61358d6845594f94dc1db02a252b5b4814ad"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x59c7c832e96d2568bea6db468c1aadcbbda08a52"
+      },
+      {
+        "address": "0x8be473dcfa93132658821e67cbeb684ec8ea2e74"
+      },
+      {
+        "address": "0xa238dd80c259a72e81d7e4664a9801593f98d1c5"
       }
     ]
   }

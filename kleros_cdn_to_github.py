@@ -13,7 +13,7 @@ import os
 import re
 from datetime import datetime, timezone
 
-import requests # pylint: disable=import-error
+import requests  # pylint: disable=import-error
 
 # Helper function to deduce the website name from the domain
 

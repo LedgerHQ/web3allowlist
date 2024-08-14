@@ -72,7 +72,7 @@ LATEST_REQUEST_SUBMISSION_TIME = 0
 
 
 # Function to create the GraphQL query with pagination
-def create_query(latest_request_submission_time):
+def create_query(latest_request_submission_time): # pylint: disable=W0621
     """
     Creates the GraphQL query based on the latest request submission time
 
@@ -91,7 +91,9 @@ def create_query(latest_request_submission_time):
             registry: "0x957a53a994860be4750810131d9c876b2f52d6e1",
             status_in: [Registered],
             disputed: false,
-            latestRequestSubmissionTime_gt: "{latest_request_submission_time if latest_request_submission_time else 0}"
+            latestRequestSubmissionTime_gt: (
+                f"{latest_request_submission_time if latest_request_submission_time else 0}"
+            )
         }}) {{
             itemID
             latestRequestSubmissionTime
@@ -107,7 +109,7 @@ def create_query(latest_request_submission_time):
 
 # URL for the GraphQL endpoint
 URL = (
-    "https://api.studio.thegraph.com/query/" "61738/legacy-curate-gnosis/version/latest"
+    "https://api.studio.thegraph.com/query/61738/legacy-curate-gnosis/version/latest" # pylint: disable=line-too-long
 )
 
 # Fetch all data with pagination

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ancient8",
+  "domain": "bridge.ancient8.gg",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x12d4e64e1b46d27a00fe392653a894c1dd36fb80"
+      }
+    ]
+  }
+}

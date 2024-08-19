@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Izumi",
+  "domain": "legacy.izumi.finance",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x9606ec131eec0f84c95d82c9a63959f2331cf2ac"
+      }
+    ]
+  }
+}

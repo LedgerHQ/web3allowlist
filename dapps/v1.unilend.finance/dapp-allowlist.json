@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Unilend",
+  "domain": "v1.unilend.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x13a145d215182924c89f2abc7d358dcc72f8f788"
+      }
+    ]
+  }
+}

@@ -36,6 +36,9 @@
       },
       {
         "address": "0x03d7f750777ec48d39d080b020d83eb2cb4e3547"
+      },
+      {
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
       }
     ],
     "polygon": [
@@ -68,6 +71,9 @@
     "arbitrum": [
       {
         "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+      },
+      {
+        "address": "0x33ceb27b39d2bb7d2e61f7564d3df29344020417"
       }
     ]
   }

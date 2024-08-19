@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "L2telegraph",
+  "domain": "l2telegraph.io",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x0d4a6d5964f3b618d8e46bcfbf2792b0d769fbda"
+      },
+      {
+        "address": "0x2dcd4e4d671052a9448b196c008b83f7e5739c1b"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x479e97fde57a70bcc85e861edb71bb613600d55a"
+      },
+      {
+        "address": "0xc42861d5e318564f65c4b08e4d737531b7f879a3"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x2f4572c09d6be78f9adc18fe26fb298546eef58e"
+      },
+      {
+        "address": "0x67da766477fef5ac2a339b8c4f83fafa1c3125f3"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xa5b72e35e35d219c3274cee227fbe4d317915e0c"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x811bcf49225ffe8039989a30cf5c03f60660753d"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x64e0f6164ac110b67df9a4848707ffbcb86c87a9"
+      },
+      {
+        "address": "0x06fea80cfb92850ce05a08eaf78553b7a69cef15"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xe266eedb13a69af15c1756a241021905b1827f6a"
+      },
+      {
+        "address": "0x5b10ae182c297ec76fe6fe0e3da7c4797cede02d"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x83017335bae4837016311bdb75df5a320b54d636"
+      },
+      {
+        "address": "0x64e0f6164ac110b67df9a4848707ffbcb86c87a9"
+      }
+    ]
+  }
+}

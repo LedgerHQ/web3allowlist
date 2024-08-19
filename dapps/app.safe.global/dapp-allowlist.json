@@ -43,6 +43,16 @@
       {
         "address": "0xdaec33641865e4651fb43181c6db6f7232ee91c2"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0xc22834581ebc8527d974f8a1c97e1bea4ef910bc"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xc22834581ebc8527d974f8a1c97e1bea4ef910bc"
+      }
     ]
   }
 }

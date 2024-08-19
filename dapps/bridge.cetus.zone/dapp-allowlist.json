@@ -28,6 +28,16 @@
       {
         "address": "0xb6f6d86a8f9879a9c87f643768d9efc38c1da6e7"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x48fa7528bfd6164ddf09df0ed22451cf59c84130"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x7c9fc5741288cdfdd83ceb07f3ea7e22618d79d2"
+      }
     ]
   }
 }

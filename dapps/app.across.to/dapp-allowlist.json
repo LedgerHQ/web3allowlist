@@ -7,6 +7,9 @@
     "arbitrum": [
       {
         "address": "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+      },
+      {
+        "address": "0xe35e9842fceaca96570b734083f4a58e8f7c5f2a"
       }
     ],
     "optimism": [

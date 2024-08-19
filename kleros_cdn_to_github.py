@@ -1,23 +1,43 @@
-# Use "git reset --hard HEAD && git clean -fd" to reset the directory back
+"""
+This is a script to pull the latest confirmed entries from
+Kleros's Contract Domain Name registry and format them into
+the structure needed for this repository.
+If you are iterating and need to repeat a pull,
+use "git reset --hard HEAD && git clean -fd"
+to reset the directory back to last commit.
+"""
+
 # to the original state if it's needed to repeat a run
 import json
 import os
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 
-import requests
+import requests  # pylint: disable=import-error
 
 # Helper function to deduce the website name from the domain
 
 
-def deduce_website_name(domain):
+def deduce_website_name(raw_domain):
+    """
+    Deduce the website name from a given domain.
+    This function removes subdomains and
+    top-level domains (TLDs) from the given
+    domain to return the base website name.
+
+    Args:
+        domain (str): The domain from which to deduce the website name.
+
+    Returns:
+        str: The deduced website name.
+    """
     # Remove subdomain, if any
-    domain_parts = domain.split(".")
+    domain_parts = raw_domain.split(".")
     if len(domain_parts) > 2:
-        domain = ".".join(domain_parts[-2:])
+        raw_domain = ".".join(domain_parts[-2:])
 
     # Remove TLD (e.g., .com, .io, .fi, .org) using regex
-    name_without_tld = re.sub(r"\.[^.]*$", "", domain)
+    name_without_tld = re.sub(r"\.[^.]*$", "", raw_domain)
 
     # Capitalize the first letter of the website name
     website_name = name_without_tld.capitalize()
@@ -28,27 +48,52 @@ def deduce_website_name(domain):
 # Helper function to send the GraphQL query
 
 
-def send_graphql_query(url, query):
+def send_graphql_query(api_url, query_str):
+    """
+    Fetches data from a graphQL endpoint
+
+    Args:
+        url (str): The API URL to send the query to
+        query (str): Graph QL Query
+
+    Returns:
+        str: The deduced website name.
+    """
     headers = {"Content-Type": "application/json"}
-    data = json.dumps({"query": query})
-    response = requests.post(url, headers=headers, data=data)
+    data = json.dumps({"query": query_str})
+    response = requests.post(api_url, headers=headers, data=data, timeout=20)
     return response.json()
 
 
 # Step 1: Poll the endpoint and store the results
 # Variable to store the latestRequestSubmissionTime
-latest_request_submission_time = 0
+
+LATEST_REQUEST_SUBMISSION_TIME = 0
 
 
 # Function to create the GraphQL query with pagination
-def create_query(latest_request_submission_time):
+def create_query(latest_request_submission_time):  # pylint: disable=W0621
+    """
+    Creates the GraphQL query based on the latest request submission time
+
+    Args:
+        latest request submission time (int):
+        The timestamp of the latest request submission time
+        query (str): GraphQL Query
+
+    Returns:
+        str: The GraphQL query to be used,
+    """
     return f"""
     {{
-        litems(first: 1000, where: {{
+        litems(first: 1000, orderBy: latestRequestSubmissionTime,
+        orderDirection:asc, where: {{
             registry: "0x957a53a994860be4750810131d9c876b2f52d6e1",
             status_in: [Registered],
             disputed: false,
-            latestRequestSubmissionTime_gt: "{latest_request_submission_time if latest_request_submission_time else 0}"
+            latestRequestSubmissionTime_gt: (
+                f"{latest_request_submission_time if latest_request_submission_time else 0}"
+            )
         }}) {{
             itemID
             latestRequestSubmissionTime
@@ -63,13 +108,13 @@ def create_query(latest_request_submission_time):
 
 
 # URL for the GraphQL endpoint
-url = "https://api.studio.thegraph.com/query/61738/legacy-curate-gnosis/version/latest"
+URL = "https://api.studio.thegraph.com/query/61738/legacy-curate-gnosis/version/latest"  # pylint: disable=line-too-long
 
 # Fetch all data with pagination
 all_query_results = []
 while True:
-    query = create_query(latest_request_submission_time)
-    response_data = send_graphql_query(url, query)
+    query = create_query(LATEST_REQUEST_SUBMISSION_TIME)
+    response_data = send_graphql_query(URL, query)
 
     query_results = response_data["data"]["litems"]
 
@@ -134,18 +179,23 @@ for item in all_query_results:
             else:
                 if address not in domain_address_map[domain][chain]:
                     domain_address_map[domain][chain].append(address)
-    except Exception as e:
+    except KeyError as e:
+        print(f"KeyError: {e}")
         print(item)
-        print(e)
+    except ValueError as e:
+        print(f"ValueError: {e}")
+        print(item)
+    except TypeError as e:
+        print(f"TypeError: {e}")
+        print(item)
 
 # Steps 3-5: Check the 'dapps' directory, update
 # or create the dapp-allowlist.json files
-dapps_directory = "dapps"
+DAPPS_DIRECTORY = "dapps"
 log_entries = []
 
-
 for domain, chains in domain_address_map.items():
-    domain_directory = os.path.join(dapps_directory, domain)
+    domain_directory = os.path.join(DAPPS_DIRECTORY, domain)
     allowlist_file_path = os.path.join(domain_directory, "dapp-allowlist.json")
 
     if not os.path.exists(domain_directory):
@@ -153,10 +203,10 @@ for domain, chains in domain_address_map.items():
 
         added_domains.add(domain)
 
-    file_action = "Appended" if os.path.exists(allowlist_file_path) else "New file"
+    FILE_ACTION = "Appended" if os.path.exists(allowlist_file_path) else "New file"
 
     if os.path.exists(allowlist_file_path):
-        with open(allowlist_file_path, "r") as allowlist_file:
+        with open(allowlist_file_path, "r", encoding="utf-8") as allowlist_file:
             allowlist_data = json.load(allowlist_file)
     else:
         allowlist_data = {
@@ -186,21 +236,21 @@ for domain, chains in domain_address_map.items():
                 added_contracts.add(f"{domain}:{chain}:{address}")
 
                 log_entries.append(
-                    f"{allowlist_file_path} ->> {address} ({chain}) ({file_action})"
+                    f"{allowlist_file_path} ->> {address} ({chain}) ({FILE_ACTION})"
                 )
 
-    with open(allowlist_file_path, "w") as allowlist_file:
+    with open(allowlist_file_path, "w", encoding="utf-8") as allowlist_file:
         json.dump(allowlist_data, allowlist_file, indent=2)
 
 # Step 6: Log the actions in Kleros_update_logs.txt
-with open("Kleros_update_logs.txt", "w") as log_file:
+with open("Kleros_update_logs.txt", "w", encoding="utf-8") as log_file:
     for log_entry in log_entries:
         log_file.write(log_entry + "\n")
 
 
 # Get the current date and time
 
-current_datetime = datetime.utcnow().strftime("%d/%m/%Y %H:%M")
+current_datetime = datetime.now(timezone.utc).strftime("%d/%m/%Y %H:%M")
 
 summary = f"""## Changes
 
@@ -218,12 +268,12 @@ summary = f"""## Changes
 
 ## Reason
 Adding {len(added_domains)} new domains and {len(added_contracts)} new \
-    dapp->chain->contract entries from the Ledger CDN registry on \
-        Kleros Curate (https://curate.kleros.io/tcr/100/0x957a53a994860be4750810131d9c876b2f52d6e1?registered=true) \
-            up till {current_datetime} UTC.
+dapp->chain->contract entries from the Ledger CDN registry on \
+Kleros Curate (https://curate.kleros.io/tcr/100/0x957a53a994860be4750810131d9c876b2f52d6e1?registered=true) \
+up till {current_datetime} UTC.
 """
 
-with open("PR_comments.txt", "w") as log_file:
+with open("PR_comments.txt", "w", encoding="utf-8") as log_file:
     log_file.write(summary)
 
 

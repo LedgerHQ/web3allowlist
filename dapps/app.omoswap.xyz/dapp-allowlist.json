@@ -28,6 +28,11 @@
       {
         "address": "0x5c5d5b660a6b95822327abbae187209303d2973c"
       }
+    ],
+    "bsc": [
+      {
+        "address": "0x435daccd0c19dceba72dc5b0685c01b01abb94de"
+      }
     ]
   }
 }

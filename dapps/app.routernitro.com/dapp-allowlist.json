@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Routernitro",
+  "domain": "app.routernitro.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xc21e4ebd1d92036cb467b53fe3258f219d909eb9"
+      },
+      {
+        "address": "0x6c45e28a76977a96e263f84f95912b47f927b687"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x7e7d4185d9c3c44d5266ed974493b24811398049"
+      },
+      {
+        "address": "0x8b6f1c18c866f37e6ea98aa539e0c117e70178a2"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xca94d8c245601b152c904f42fe788b4125f5b46b"
+      },
+      {
+        "address": "0xef300fb4243a0ff3b90c8ccfa1264d78182adaa4"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x8201c02d4ab2214471e8c3ad6475c8b0cd9f2d06"
+      },
+      {
+        "address": "0x5501a36b1313ac5d27e85418acd2aa4564f50b44"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x0fa205c0446cd9eedcc7538c9e24bc55ad08207f"
+      },
+      {
+        "address": "0x02d728b9c1513478a6b6de77a92648e1d8f801e7"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x2f301d3b045544a9d7ec3fa090cd78986f11f2e7"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x4406ebeb7028fc0fc06bb7706a736ac6ada8d2bf"
+      }
+    ]
+  }
+}

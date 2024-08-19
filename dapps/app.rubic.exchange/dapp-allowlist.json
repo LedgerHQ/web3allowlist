@@ -23,6 +23,9 @@
     "gnosis": [
       {
         "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "ethereum": [
@@ -46,6 +49,11 @@
       }
     ],
     "avalanche": [
+      {
+        "address": "0x3335733c454805df6a77f825f266e136fb4a3333"
+      }
+    ],
+    "optimism": [
       {
         "address": "0x3335733c454805df6a77f825f266e136fb4a3333"
       }

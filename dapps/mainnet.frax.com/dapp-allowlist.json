@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Frax",
+  "domain": "mainnet.frax.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x34c0bd5877a5ee7099d0f5688d65f4bb9158bde2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gitcoin",
+  "domain": "passport.gitcoin.co",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0xa8ed4d2c3f6f98a55cdded97c5ae9b932b0633a4"
+      }
+    ]
+  }
+}

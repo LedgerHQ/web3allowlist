@@ -7,26 +7,54 @@
     "ethereum": [
       {
         "address": "0xb5e9f6c58f548cee53257304e287b23757effca1"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
       }
     ],
     "bsc": [
       {
         "address": "0xa63b831264183d755756ca9ae5190ff5183d65d6"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
       }
     ],
     "avalanche": [
       {
         "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x9e4aabd2b3e60ee1322e94307d0776f2c8e6cfbb"
       }
     ],
     "fantom": [
       {
         "address": "0x4d2cf285a519261f30b4d9c2c344baf260d65fa2"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
       }
     ],
     "gnosis": [
       {
         "address": "0xe5759714998e8b50a33c7333c04c2d02e5dce77f"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x0a2e5a3dc2f74e5bfaf0bf90685a5a899f379cb0"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xeade97afc8f79a8e5ba85d57c4a4e629b1160c6a"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
       }
     ]
   }

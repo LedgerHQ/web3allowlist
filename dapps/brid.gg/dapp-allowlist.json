@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Brid",
+  "domain": "brid.gg",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1"
+      },
+      {
+        "address": "0x3154cf16ccdb4c6d922629664174b904d80f2c35"
+      },
+      {
+        "address": "0x34c0bd5877a5ee7099d0f5688d65f4bb9158bde2"
+      },
+      {
+        "address": "0x3e2ea9b92b7e48a52296fd261dc26fd995284631"
+      },
+      {
+        "address": "0x735adbbe72226bd52e818e7181953f42e3b0ff21"
+      },
+      {
+        "address": "0xc473ca7e02af24c129c2eef51f2adf0411c1df69"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x4200000000000000000000000000000000000010"
+      },
+      {
+        "address": "0x6f26bf09b1c792e3228e5467807a900a503c0281"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x4200000000000000000000000000000000000010"
+      },
+      {
+        "address": "0x09aea4b2242abc8bb4bb78d537a67a245a7bec64"
+      }
+    ]
+  }
+}

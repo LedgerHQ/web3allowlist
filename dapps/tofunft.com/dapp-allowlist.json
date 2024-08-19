@@ -23,6 +23,16 @@
       {
         "address": "0x063a90de486d3d925654355bed00f788ea7e1847"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x7bc8b1b5aba4df3be9f9a32dae501214dc0e4f3f"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x86232f68b5bf2a3a03851d98556352512a3b12b9"
+      }
     ]
   }
 }

@@ -29,6 +29,16 @@
       {
         "address": "0xb9a55f455e46e8d717eea5e47d2c449416a0437f"
       }
+    ],
+    "bsc": [
+      {
+        "address": "0x67f755137e0ae2a2aa0323c047715bf6523116e5"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x7d21c651dd333306b35f2feac2a19fa1e1241545"
+      }
     ]
   }
 }

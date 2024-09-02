@@ -7,6 +7,9 @@
     "ethereum": [
       {
         "address": "0xbf94ed69281709958c8f60bc15cd1bb6badcd4a4"
+      },
+      {
+        "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
       }
     ],
     "polygon": [
@@ -17,11 +20,47 @@
     "bsc": [
       {
         "address": "0xbf94ed69281709958c8f60bc15cd1bb6badcd4a4"
+      },
+      {
+        "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
       }
     ],
     "gnosis": [
       {
         "address": "0xbf94ed69281709958c8f60bc15cd1bb6badcd4a4"
+      },
+      {
+        "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
       }
     ]
   }

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bancor",
+  "domain": "app.bancor.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x2f9ec37d6ccfff1cab21733bdadede11c823ccb0"
+      }
+    ]
+  }
+}

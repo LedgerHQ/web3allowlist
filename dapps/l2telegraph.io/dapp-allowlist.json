@@ -10,6 +10,12 @@
       },
       {
         "address": "0x2dcd4e4d671052a9448b196c008b83f7e5739c1b"
+      },
+      {
+        "address": "0xd43a183c97db9174962607a8b6552ce320eac5aa"
+      },
+      {
+        "address": "0xfa7ab498ce3ae8f45d1a120cc119eb200788cefe"
       }
     ],
     "arbitrum": [
@@ -18,6 +24,9 @@
       },
       {
         "address": "0xc42861d5e318564f65c4b08e4d737531b7f879a3"
+      },
+      {
+        "address": "0x80be0f5b780e093b3f53bd5df8d1cf09aabf690f"
       }
     ],
     "bsc": [
@@ -26,11 +35,17 @@
       },
       {
         "address": "0x67da766477fef5ac2a339b8c4f83fafa1c3125f3"
+      },
+      {
+        "address": "0xc162cf8c4c6697ab8e613ce0cd37c0ab97ba5a60"
       }
     ],
     "optimism": [
       {
         "address": "0xa5b72e35e35d219c3274cee227fbe4d317915e0c"
+      },
+      {
+        "address": "0x64e0f6164ac110b67df9a4848707ffbcb86c87a9"
       }
     ],
     "avalanche": [
@@ -44,6 +59,9 @@
       },
       {
         "address": "0x06fea80cfb92850ce05a08eaf78553b7a69cef15"
+      },
+      {
+        "address": "0x36a358b3ba1fb368e35b71ea40c7f4ab89bfd8e1"
       }
     ],
     "gnosis": [

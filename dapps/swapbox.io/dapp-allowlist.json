@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Swapbox",
+  "domain": "swapbox.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xc707e0854da2d72c90a7453f8dc224dd937d7e82"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xf0e406c49c63abf358030a299c0e00118c4c6ba5"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x3758aa66cad9f2606f1f501c9cb31b94b713a6d5"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x3758aa66cad9f2606f1f501c9cb31b94b713a6d5"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x54c4a99ee277eff14b378405b6600405790d5045"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x3758aa66cad9f2606f1f501c9cb31b94b713a6d5"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0x75ab1d50bedbd32b6113941fcf5359787a4bbef4"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x3758aa66cad9f2606f1f501c9cb31b94b713a6d5"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x3758aa66cad9f2606f1f501c9cb31b94b713a6d5"
+      }
+    ]
+  }
+}

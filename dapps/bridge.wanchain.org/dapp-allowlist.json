@@ -13,6 +13,26 @@
       {
         "address": "0xfceaaaeb8d564a9d0e71ef36f027b9d162bc334e"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xf7ba155556e2cd4dfe3fe26e506a14d2f4b97613"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xc6ae1db6c66d909f7bfeeeb24f9adb8620bf9dbf"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x2715aa7156634256ae75240c2c5543814660cd04"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x102f0ce7a439d51247167d6233a0a44c3f8389a1"
+      }
     ]
   }
 }

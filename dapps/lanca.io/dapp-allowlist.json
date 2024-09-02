@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Lanca",
+  "domain": "lanca.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x0ae1b2730066ad46481ab0a5fd2b5893f8aba323"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x164c20a4e11cbe0d8b5e23f5ee35675890be280d"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x0ae1b2730066ad46481ab0a5fd2b5893f8aba323"
+      }
+    ]
+  }
+}

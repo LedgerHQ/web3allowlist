@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zircuit",
+  "domain": "bridge.zircuit.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x386b76d9ca5f5fb150b6bfb35cf5379b22b26dd8"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Base",
+  "domain": "base.org",
+  "chains": {
+    "base": [
+      {
+        "address": "0x4ccb0bb02fcaba27e82a56646e81d8c5bc4119a5"
+      }
+    ]
+  }
+}

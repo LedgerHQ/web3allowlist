@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Basedevo",
+  "domain": "basedevo.fun",
+  "chains": {
+    "base": [
+      {
+        "address": "0x32e0f9d26d1e33625742a52620cc76c1130efde6"
+      }
+    ]
+  }
+}

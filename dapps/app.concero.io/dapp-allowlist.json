@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Concero",
+  "domain": "app.concero.io",
+  "chains": {
+    "base": [
+      {
+        "address": "0x0ae1b2730066ad46481ab0a5fd2b5893f8aba323"
+      }
+    ]
+  }
+}

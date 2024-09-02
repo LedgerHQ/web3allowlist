@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Degen",
+  "domain": "bridge.degen.tips",
+  "chains": {
+    "base": [
+      {
+        "address": "0x43019f8be1f192587883b67dea2994999f5a2de2"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x1572d48a52906b834fb236aa77831d669f6d87a1"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xb26b207de8478b85db7951e3ca3f39f2a6f5dad5"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x21f6ec768058ca2b3701099f7cea4c9a8cd63015"
+      }
+    ]
+  }
+}

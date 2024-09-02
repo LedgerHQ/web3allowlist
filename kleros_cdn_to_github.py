@@ -91,9 +91,8 @@ def create_query(latest_request_submission_time):  # pylint: disable=W0621
             registry: "0x957a53a994860be4750810131d9c876b2f52d6e1",
             status_in: [Registered],
             disputed: false,
-            latestRequestSubmissionTime_gt: (
-                f"{latest_request_submission_time if latest_request_submission_time else 0}"
-            )
+            latestRequestSubmissionTime_gt:
+             {latest_request_submission_time if latest_request_submission_time else 0}
         }}) {{
             itemID
             latestRequestSubmissionTime
@@ -122,7 +121,7 @@ while True:
         break
 
     all_query_results.extend(query_results)
-    latest_request_submission_time = query_results[-1]["latestRequestSubmissionTime"]
+    LATEST_REQUEST_SUBMISSION_TIME = query_results[-1]["latestRequestSubmissionTime"]
 
 print(len(all_query_results))
 # Step 2: Extract the key1 (domain) and key0 (EVM address)

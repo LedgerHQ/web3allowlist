@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Baoswap",
+  "domain": "baoswap.xyz",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x6093aebac87d62b1a5a4ceec91204e35020e38be"
+      }
+    ]
+  }
+}

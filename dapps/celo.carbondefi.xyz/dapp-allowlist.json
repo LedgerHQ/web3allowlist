@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Carbondefi",
+  "domain": "celo.carbondefi.xyz",
+  "chains": {
+    "celo": [
+      {
+        "address": "0x6619871118d144c1c28ec3b23036fc1f0829ed3a"
+      }
+    ]
+  }
+}

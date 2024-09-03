@@ -1,5 +1,5 @@
 """
-This is a script to pull the latest confirmed entries from
+This script pulls the latest confirmed entries from
 Kleros's Contract Domain Name registry and format them into
 the structure needed for this repository.
 If you are iterating and need to repeat a pull,

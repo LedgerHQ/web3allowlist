@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "L2marathon",
+  "domain": "l2marathon.com",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x9e66eba102b77fc75cd87b5e60141b85573bc8e8"
+      },
+      {
+        "address": "0x51920233cefe8793b12931f0abfbdd765785a041"
+      },
+      {
+        "address": "0x15ef26a02b52c63dc92126bc55ece8687dc88857"
+      },
+      {
+        "address": "0x64bae51ad7dd26ffac5f4a2de9c40d9dbd611299"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x2a9096df9ef41ce9cac50cfaacf1151071f975ad"
+      },
+      {
+        "address": "0xb786d1103dddcf43063c188091d35927465f05e6"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x9e66eba102b77fc75cd87b5e60141b85573bc8e8"
+      },
+      {
+        "address": "0x3bb247ca67b5a23d25f7faadc4c28e1332aa1489"
+      },
+      {
+        "address": "0xee4d325ff4b49a52beba91bd48877809687192ac"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x9e66eba102b77fc75cd87b5e60141b85573bc8e8"
+      },
+      {
+        "address": "0xe85c7cb506bbf10fad607350d56f872e018d2df8"
+      },
+      {
+        "address": "0x5c2446049acbbdaaf39546c640e20f46365e2af3"
+      },
+      {
+        "address": "0x58f45c4bb4b940d01594d1a82efe169c8c238723"
+      }
+    ]
+  }
+}

@@ -41,6 +41,19 @@
       {
         "address": "0xf332761c673b59b21ff6dfa8ada44d78c12def09"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0xd756e8070b33a35e42f00140ac92c4b4e0bbfb82"
+      },
+      {
+        "address": "0xb9061e38fee7d30134f56aef7117e2f6d1580666"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+      }
     ]
   }
 }

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Conft",
+  "domain": "conft.app",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xb5a236ed367840b3deca26b19b1084308ca8b0f8"
+      },
+      {
+        "address": "0xcf7f37b4916ac5c530c863f8c8bb26ec1e8d2ccb"
+      },
+      {
+        "address": "0xe46f477e5aaba5ec7818269d01d3d7a0eefe9d61"
+      }
+    ]
+  }
+}

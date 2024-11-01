@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Scrollname",
+  "domain": "scrollname.domains",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xe2e1d82b050bb5bfec776b2653a72f093a8373ab"
+      }
+    ]
+  }
+}

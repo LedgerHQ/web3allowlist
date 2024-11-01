@@ -62,6 +62,11 @@
       {
         "address": "0x5634c4a5fed09819e3c46d86a965dd9447d86e47"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0xc2b638cb5042c1b3c5d5c969361fb50569840583"
+      }
     ]
   }
 }

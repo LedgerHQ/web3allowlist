@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Scrollsloth",
+  "domain": "scrollsloth.com",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xac530146e8522ff038e6855badb402288cb6d69b"
+      }
+    ]
+  }
+}

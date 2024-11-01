@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Nifty",
+  "domain": "nifty.ink",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x49de55fba08af88f55eb797a456fdf76b151c8b0"
+      }
+    ]
+  }
+}

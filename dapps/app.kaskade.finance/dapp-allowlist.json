@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Kaskade",
+  "domain": "app.kaskade.finance",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x92e0794a6fa827b56216900f3c67e70e7bf6e0e4"
+      }
+    ]
+  }
+}

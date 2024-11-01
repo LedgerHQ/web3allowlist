@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Omnihub",
+  "domain": "omnihub.xyz",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x85a194c013e36d95c8e22d3498ce9719b51f8970"
+      },
+      {
+        "address": "0xae1c50352bc794b8d4838360ba525fb3d0db4ede"
+      },
+      {
+        "address": "0x38aebd5ad1b71374cc59f5f1271c29e3cfb62caa"
+      },
+      {
+        "address": "0x2440cff129ee9b5e4366e0143630e6022e6123ea"
+      },
+      {
+        "address": "0x5f64a9752228b60bf406c7b2ee77283da4b4c7ed"
+      },
+      {
+        "address": "0xd6238ad2887166031567616d9a54b21eb70e4dfd"
+      },
+      {
+        "address": "0x26b3d429f03ceed86a9e48b07a74ca7bed8b4d1d"
+      },
+      {
+        "address": "0xa21262546b4a53b7a538f321416c04ce2eba1f91"
+      },
+      {
+        "address": "0x90a2bc40d0f17481859e1636359c66b81736d89b"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xfd9654a7431d54ab2eecf0152592830892c9fefd"
+      },
+      {
+        "address": "0x88b6b22f72729331188ad9d0b85b1fc008340f83"
+      },
+      {
+        "address": "0x52223e764d44c49b6bde3300dcc129fab3ac6817"
+      },
+      {
+        "address": "0xa937e1aa4a7d7cd3800de25632765b045ff3a1f1"
+      }
+    ]
+  }
+}

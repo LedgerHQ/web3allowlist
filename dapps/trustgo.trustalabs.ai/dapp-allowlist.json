@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Trustalabs",
+  "domain": "trustgo.trustalabs.ai",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xee030ec6f4307411607e55acd08e628ae6655b86"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x58a64d2bf0032ac05216ddc9cadd0f9db828bbf5"
+      }
+    ]
+  }
+}

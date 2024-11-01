@@ -23,6 +23,25 @@
       {
         "address": "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0x595e7160858b1ada94bda790d8699c85e595117e"
+      },
+      {
+        "address": "0xbfe03c9e20a9fc0b37de01a172f207004935e0b1"
+      },
+      {
+        "address": "0x6c403dba21f072e16b7de2b013f8adeae9c2e76e"
+      },
+      {
+        "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x75fc67473a91335b5b8f8821277262a13b38c9b3"
+      }
     ]
   }
 }

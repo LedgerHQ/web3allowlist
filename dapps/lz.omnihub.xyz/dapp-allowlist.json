@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Omnihub",
+  "domain": "lz.omnihub.xyz",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x359b47efae57c116532bd9391aed5dbd4026dfbf"
+      },
+      {
+        "address": "0x545458ba1f564b3c5e5e29236f23756750396193"
+      },
+      {
+        "address": "0x31d19236eda040137a5441451f6ccca12685426a"
+      },
+      {
+        "address": "0x3a199dc23ff3fed212957b25427d7c4d1724dec1"
+      },
+      {
+        "address": "0xd2e0628e24f59eddd18234e7551122fde7a14c2d"
+      },
+      {
+        "address": "0x049618768ba923c308eef63e8cbdf50a23c7b6d8"
+      },
+      {
+        "address": "0x479676ac8a4e5b9dcca9ea05b10bc5ff42201543"
+      },
+      {
+        "address": "0xf2b7bce8e5f3a6ab8bfbc6a69f6fa5884242a76a"
+      },
+      {
+        "address": "0x4f2d856231a14da3a54f9de4f8c6d12a086b494f"
+      },
+      {
+        "address": "0x68e1af2701450cbe97bf26a9ceb5253f163d9ea5"
+      },
+      {
+        "address": "0x6333dcdde7659563e820967d63dcbbf1fe58d946"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xcabf0b8cc4e81c505756e7e420b775a737478d74"
+      },
+      {
+        "address": "0x90a0114207793836e747490565f7920de750cff5"
+      },
+      {
+        "address": "0x41e88f41213b7dccdfd433d37ff51d88d3215dee"
+      },
+      {
+        "address": "0x4f7bca066b89cbba89753e01b95c77c56327409a"
+      },
+      {
+        "address": "0xfbdf260eee7fcfb50961403b10041b59f408d17d"
+      },
+      {
+        "address": "0xbb8de82005288b6bfeab359434dd1dc6a4e36df2"
+      },
+      {
+        "address": "0xd99d81a41fa76c66273b21ac25ce696e0ca42479"
+      },
+      {
+        "address": "0x4b71172967dde62b705a607a67b1b5ad0abbfaa7"
+      },
+      {
+        "address": "0xbb54dbb9567b07c140c5f378cf05b5b32f8f67e9"
+      },
+      {
+        "address": "0x0bd3f8618273165abecdbe310dbf9beb117c4fd0"
+      },
+      {
+        "address": "0x73f499dc4d3af7c7b74922667f79df2c3b1d1198"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xcabf0b8cc4e81c505756e7e420b775a737478d74"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xcabf0b8cc4e81c505756e7e420b775a737478d74"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xcabf0b8cc4e81c505756e7e420b775a737478d74"
+      }
+    ]
+  }
+}

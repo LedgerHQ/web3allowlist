@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zns",
+  "domain": "zns.bio",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xb00910bac7da44c0d440798809dbf8d51fdbb635"
+      }
+    ]
+  }
+}

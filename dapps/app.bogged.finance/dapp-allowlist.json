@@ -22,6 +22,11 @@
       {
         "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
       }
+    ],
+    "fantom": [
+      {
+        "address": "0xb099ed146fad4d0daa31e3810591fc0554af62bb"
+      }
     ]
   }
 }

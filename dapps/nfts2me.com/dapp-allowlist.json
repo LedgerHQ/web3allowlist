@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Nfts2me",
+  "domain": "nfts2me.com",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x00000000001594c61dd8a6804da9ab58ed2483ce"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xcad22a42e9c7f19e24e092739ca1df19a6502e42"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x00000000001594c61dd8a6804da9ab58ed2483ce"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x00000000001594c61dd8a6804da9ab58ed2483ce"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x00000000001594c61dd8a6804da9ab58ed2483ce"
+      }
+    ]
+  }
+}

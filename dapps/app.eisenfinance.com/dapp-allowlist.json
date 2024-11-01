@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eisenfinance",
+  "domain": "app.eisenfinance.com",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xa06568773a247657e7b89bba465014cf85702093"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Lore",
+  "domain": "app.lore.finance",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x204f5ccc7b5217b8477c8fa45708144fb0a61831"
+      }
+    ]
+  }
+}

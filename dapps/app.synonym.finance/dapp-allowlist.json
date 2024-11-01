@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Synonym",
+  "domain": "app.synonym.finance",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x1e3f1f1ca8c62aabcb3b78d87223e988dfa3780e"
+      }
+    ]
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "overlord",
-  "domain" : "overlord.xyz",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "overlord",
+  "domain": "overlord.xyz",
+  "chains": {
+    "ethereum": [
       {
         "address": "0x5946aeaab44e65eb370ffaa6a7ef2218cff9b47d"
       },

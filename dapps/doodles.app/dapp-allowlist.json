@@ -1,10 +1,9 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Doodles",
-  "domain" : "doodles.app",
-  "chains" : {
-    "ethereum" : [
-    ]
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Doodles",
+  "domain": "doodles.app",
+  "chains": {
+    "ethereum": []
   }
 }

@@ -1,15 +1,15 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "TokenTrove",
-  "domain" : "tokentrove.com",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "TokenTrove",
+  "domain": "tokentrove.com",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x080bf510fcbf18b91105470639e9561022937712"
+        "address": "0x080bf510fcbf18b91105470639e9561022937712"
       },
       {
-        "address" : "0x4ef40d1bf0983899892946830abf99eca2dbc5ce"
+        "address": "0x4ef40d1bf0983899892946830abf99eca2dbc5ce"
       }
     ]
   }

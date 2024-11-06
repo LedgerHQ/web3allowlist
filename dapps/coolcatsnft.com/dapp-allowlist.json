@@ -1,12 +1,12 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Cool Cats NFT",
-  "domain" : "coolcatsnft.com",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cool Cats NFT",
+  "domain": "coolcatsnft.com",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x1A92f7381B9F03921564a437210bB9396471050C"
+        "address": "0x1A92f7381B9F03921564a437210bB9396471050C"
       }
     ]
   }

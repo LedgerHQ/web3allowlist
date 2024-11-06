@@ -1,27 +1,27 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Ledger Market",
-  "domain" : "market.ledger.com",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ledger Market",
+  "domain": "market.ledger.com",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x20ecda43fdd84290c50dec35fe03b35f9bf2c6dc"
+        "address": "0x20ecda43fdd84290c50dec35fe03b35f9bf2c6dc"
       },
       {
-        "address" : "0x2e2dac881480c15b8b7b9e1539fbd34954f37c0e"
+        "address": "0x2e2dac881480c15b8b7b9e1539fbd34954f37c0e"
       },
       {
-        "address" : "0x93298d9c3ec890fbaa5c5bd619413a1f1da5ffb8"
+        "address": "0x93298d9c3ec890fbaa5c5bd619413a1f1da5ffb8"
       },
       {
-        "address" : "0x0f77625b76e3831914d47a5034323290f9ce8a9e"
+        "address": "0x0f77625b76e3831914d47a5034323290f9ce8a9e"
       },
       {
-        "address" : "0x33c6eec1723b12c46732f7ab41398de45641fa42"
+        "address": "0x33c6eec1723b12c46732f7ab41398de45641fa42"
       },
       {
-        "address" : "0xfbe497da7e2886bcde9535730e3c28772b065903"
+        "address": "0xfbe497da7e2886bcde9535730e3c28772b065903"
       }
     ]
   }

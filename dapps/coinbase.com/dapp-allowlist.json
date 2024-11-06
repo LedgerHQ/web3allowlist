@@ -1,48 +1,48 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Coinbase",
-  "domain" : "coinbase.com",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Coinbase",
+  "domain": "coinbase.com",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x71660c4005BA85c37ccec55d0C4493E66Fe775d3"
+        "address": "0x71660c4005BA85c37ccec55d0C4493E66Fe775d3"
       },
       {
-        "address" : "0x503828976D22510aad0201ac7EC88293211D23Da"
+        "address": "0x503828976D22510aad0201ac7EC88293211D23Da"
       },
       {
-        "address" : "0xddfAbCdc4D8FfC6d5beaf154f18B778f892A0740"
+        "address": "0xddfAbCdc4D8FfC6d5beaf154f18B778f892A0740"
       },
       {
-        "address" : "0x3cD751E6b0078Be393132286c442345e5DC49699"
+        "address": "0x3cD751E6b0078Be393132286c442345e5DC49699"
       },
       {
-        "address" : "0xb5d85CBf7cB3EE0D56b3bB207D5Fc4B82f43F511"
+        "address": "0xb5d85CBf7cB3EE0D56b3bB207D5Fc4B82f43F511"
       },
       {
-        "address" : "0xeB2629a2734e272Bcc07BDA959863f316F4bD4Cf"
+        "address": "0xeB2629a2734e272Bcc07BDA959863f316F4bD4Cf"
       },
       {
-        "address" : "0xA090e606E30bD747d4E6245a1517EbE430F0057e"
+        "address": "0xA090e606E30bD747d4E6245a1517EbE430F0057e"
       },
       {
-        "address" : "0xf6874c88757721a02f47592140905c4336dfbc61"
+        "address": "0xf6874c88757721a02f47592140905c4336dfbc61"
       },
       {
-        "address" : "0x881d4032abe4188e2237efcd27ab435e81fc6bb1"
+        "address": "0x881d4032abe4188e2237efcd27ab435e81fc6bb1"
       },
       {
-        "address" : "0xd2276af80582cac230edc4c42e9a9c096f3c09aa"
+        "address": "0xd2276af80582cac230edc4c42e9a9c096f3c09aa"
       },
       {
-        "address" : "0xd688aea8f7d450909ade10c47faa95707b0682d9"
+        "address": "0xd688aea8f7d450909ade10c47faa95707b0682d9"
       },
       {
-        "address" : "0x02466e547bfdab679fc49e96bbfc62b9747d997c"
+        "address": "0x02466e547bfdab679fc49e96bbfc62b9747d997c"
       },
       {
-        "address" : "0x6b76f8b1e9e59913bfe758821887311ba1805cab"
+        "address": "0x6b76f8b1e9e59913bfe758821887311ba1805cab"
       }
     ]
   }

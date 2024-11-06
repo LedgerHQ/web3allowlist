@@ -1,10 +1,9 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Pre Mint",
-  "domain" : "premint.xyz",
-  "chains" : {
-    "ethereum" : [
-    ]
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Pre Mint",
+  "domain": "premint.xyz",
+  "chains": {
+    "ethereum": []
   }
 }

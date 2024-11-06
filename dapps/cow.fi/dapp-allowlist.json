@@ -1,33 +1,33 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "CoW Swap",
-  "domain" : "cow.fi",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "CoW Swap",
+  "domain": "cow.fi",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x9008D19f58AAbD9eD0D60971565AA8510560ab41"
+        "address": "0x9008D19f58AAbD9eD0D60971565AA8510560ab41"
       },
       {
-        "address" : "0x9E7Ae8Bdba9AA346739792d219a808884996Db67"
+        "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67"
       },
       {
-        "address" : "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE"
+        "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE"
       },
       {
-        "address" : "0x9E7Ae8Bdba9AA346739792d219a808884996Db67"
+        "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67"
       },
       {
-        "address" : "0xC92E8bdf79f0507f65a392b0ab4667716BFE0110"
+        "address": "0xC92E8bdf79f0507f65a392b0ab4667716BFE0110"
       },
       {
-        "address" : "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
+        "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
       },
       {
-        "address" : "0x2c4c28ddbdac9c5e7055b4c863b72ea0149d8afe"
+        "address": "0x2c4c28ddbdac9c5e7055b4c863b72ea0149d8afe"
       },
       {
-        "address" : "0xc92e8bdf79f0507f65a392b0ab4667716bfe0110"
+        "address": "0xc92e8bdf79f0507f65a392b0ab4667716bfe0110"
       }
     ]
   }

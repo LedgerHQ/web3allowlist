@@ -1,10 +1,10 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Metashima",
-  "domain" : "metashima.com",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Metashima",
+  "domain": "metashima.com",
+  "chains": {
+    "ethereum": [
       {
         "address": "0xf1e7d7ed030feb809e6f81e294b4b03c02bff964"
       }

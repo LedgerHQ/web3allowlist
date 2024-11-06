@@ -1,12 +1,12 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "HEX",
-  "domain" : "hex.com",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "HEX",
+  "domain": "hex.com",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+        "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
       }
     ]
   }

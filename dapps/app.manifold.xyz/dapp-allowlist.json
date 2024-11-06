@@ -1,27 +1,27 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Manifold",
-  "domain" : "app.manifold.xyz",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Manifold",
+  "domain": "app.manifold.xyz",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x2d3fC875de7Fe7Da43AD0afa0E7023c9B91D06b1"
+        "address": "0x2d3fC875de7Fe7Da43AD0afa0E7023c9B91D06b1"
       },
       {
-        "address" : "0x6bf5ed59dE0E19999d264746843FF931c0133090"
+        "address": "0x6bf5ed59dE0E19999d264746843FF931c0133090"
       },
       {
-        "address" : "0x0385603ab55642cb4Dd5De3aE9e306809991804f"
+        "address": "0x0385603ab55642cb4Dd5De3aE9e306809991804f"
       },
       {
-        "address" : "0xaD2184FB5DBcfC05d8f056542fB25b04fa32A95D"
+        "address": "0xaD2184FB5DBcfC05d8f056542fB25b04fa32A95D"
       },
       {
-        "address" : "0x44e94034afce2dd3cd5eb62528f239686fc8f162"
+        "address": "0x44e94034afce2dd3cd5eb62528f239686fc8f162"
       },
       {
-        "address" : "0xa46f952645d4deec07a7cd98d1ec9ec888d4b61e"
+        "address": "0xa46f952645d4deec07a7cd98d1ec9ec888d4b61e"
       },
       {
         "address": "0x7581871e1c11f85ec7f02382632b8574fad11b22"

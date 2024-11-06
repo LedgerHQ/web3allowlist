@@ -1,10 +1,10 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "ApeStake",
-  "domain" : "app.apestake.io",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "ApeStake",
+  "domain": "app.apestake.io",
+  "chains": {
+    "ethereum": [
       {
         "address": "0x5954ab967bc958940b7eb73ee84797dc8a2afbb9"
       },

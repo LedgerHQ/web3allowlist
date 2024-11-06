@@ -1,15 +1,15 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "DeFi Plaza",
-  "domain" : "defiplaza.net",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "DeFi Plaza",
+  "domain": "defiplaza.net",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0xe68c1d72340aeefe5be76eda63ae2f4bc7514110"
+        "address": "0xe68c1d72340aeefe5be76eda63ae2f4bc7514110"
       },
       {
-        "address" : "0x2f57430a6ceda85a67121757785877b4a71b8e6d"
+        "address": "0x2f57430a6ceda85a67121757785877b4a71b8e6d"
       }
     ]
   }

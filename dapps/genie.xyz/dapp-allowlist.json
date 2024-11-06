@@ -1,12 +1,12 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "genie",
-  "domain" : "genie.xyz",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "genie",
+  "domain": "genie.xyz",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x0a267cf51ef038fc00e71801f5a524aec06e4f07"
+        "address": "0x0a267cf51ef038fc00e71801f5a524aec06e4f07"
       }
     ]
   }

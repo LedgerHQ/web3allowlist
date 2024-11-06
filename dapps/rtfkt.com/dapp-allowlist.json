@@ -1,15 +1,15 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "RTFKT",
-  "domain" : "rtfkt.com",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "RTFKT",
+  "domain": "rtfkt.com",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x12eA19217C65F36385bB030D00525c1034E2F0Af"
+        "address": "0x12eA19217C65F36385bB030D00525c1034E2F0Af"
       },
       {
-        "address" : "0x623FC4F577926c0aADAEf11a243754C546C1F98c"
+        "address": "0x623FC4F577926c0aADAEf11a243754C546C1F98c"
       }
     ]
   }

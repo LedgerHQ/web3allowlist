@@ -1,30 +1,30 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Euler Finance",
-  "domain" : "euler.finance",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Euler Finance",
+  "domain": "euler.finance",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x27182842E098f60e3D576794A5bFFb0777E025d3"
+        "address": "0x27182842E098f60e3D576794A5bFFb0777E025d3"
       },
       {
-        "address" : "0x3520d5a913427E6F0D6A83E07ccD4A4da316e4d3"
+        "address": "0x3520d5a913427E6F0D6A83E07ccD4A4da316e4d3"
       },
       {
-        "address" : "0xf43ce1d09050BAfd6980dD43Cde2aB9F18C85b34"
+        "address": "0xf43ce1d09050BAfd6980dD43Cde2aB9F18C85b34"
       },
       {
-        "address" : "0x59828FdF7ee634AaaD3f58B19fDBa3b03E2D9d80"
+        "address": "0x59828FdF7ee634AaaD3f58B19fDBa3b03E2D9d80"
       },
       {
-        "address" : "0x7123C8cBBD76c5C7fCC9f7150f23179bec0bA341"
+        "address": "0x7123C8cBBD76c5C7fCC9f7150f23179bec0bA341"
       },
       {
-        "address" : "0x542ACC8E1db037d6008587aBfB1B7fB44014c629"
+        "address": "0x542ACC8E1db037d6008587aBfB1B7fB44014c629"
       },
       {
-        "address" : "0xAF68CFba29D0e15490236A5631cA9497e035CD39"
+        "address": "0xAF68CFba29D0e15490236A5631cA9497e035CD39"
       }
     ]
   }

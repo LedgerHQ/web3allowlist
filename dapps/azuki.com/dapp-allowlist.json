@@ -1,10 +1,9 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Azuki",
-  "domain" : "azuki.com",
-  "chains" : {
-    "ethereum" : [
-    ]
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Azuki",
+  "domain": "azuki.com",
+  "chains": {
+    "ethereum": []
   }
 }

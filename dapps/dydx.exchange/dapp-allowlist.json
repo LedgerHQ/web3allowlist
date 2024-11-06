@@ -1,84 +1,84 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "dYdX",
-  "domain" : "dydx.exchange",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "dYdX",
+  "domain": "dydx.exchange",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x07aBe965500A49370D331eCD613c7AC47dD6e547"
+        "address": "0x07aBe965500A49370D331eCD613c7AC47dD6e547"
       },
       {
-        "address" : "0x1c50c582c7066049C560Bca20416b1d9E0dfb003"
+        "address": "0x1c50c582c7066049C560Bca20416b1d9E0dfb003"
       },
       {
-        "address" : "0x09403FD14510F8196F7879eF514827CD76960B5d"
+        "address": "0x09403FD14510F8196F7879eF514827CD76960B5d"
       },
       {
-        "address" : "0xE883b3efdaE637fC599b467478a23199778F2cCf"
+        "address": "0xE883b3efdaE637fC599b467478a23199778F2cCf"
       },
       {
-        "address" : "0x4525D2B71f7f018c9EBddFcD336852A85404e75B"
+        "address": "0x4525D2B71f7f018c9EBddFcD336852A85404e75B"
       },
       {
-        "address" : "0x8B90515C7a99b7Edd97702c04d1E3666281De1B0"
+        "address": "0x8B90515C7a99b7Edd97702c04d1E3666281De1B0"
       },
       {
-        "address" : "0x5DDC23dEE470AEc28D51721b4E3A25f9399166EC"
+        "address": "0x5DDC23dEE470AEc28D51721b4E3A25f9399166EC"
       },
       {
-        "address" : "0x538038E526517680735568f9C5342c6E68bbDA12"
+        "address": "0x538038E526517680735568f9C5342c6E68bbDA12"
       },
       {
-        "address" : "0xcD37221C53b5208a2D7eabc7d5051B98D8030424"
+        "address": "0xcD37221C53b5208a2D7eabc7d5051B98D8030424"
       },
       {
-        "address" : "0x78456DE31f5978C44E1595DD2F49AfD1B71fd377"
+        "address": "0x78456DE31f5978C44E1595DD2F49AfD1B71fd377"
       },
       {
-        "address" : "0x3ea6F88eC8F7b24Bb3Ad206fa80124210e8e28F3"
+        "address": "0x3ea6F88eC8F7b24Bb3Ad206fa80124210e8e28F3"
       },
       {
-        "address" : "0xaC14B70adBf42bedE4E4c7Ef67E8CB618b0D4506"
+        "address": "0xaC14B70adBf42bedE4E4c7Ef67E8CB618b0D4506"
       },
       {
-        "address" : "0x1d3ccceEE6d9f9c3b79ed5fAdD98E32B5d48b22E"
+        "address": "0x1d3ccceEE6d9f9c3b79ed5fAdD98E32B5d48b22E"
       },
       {
-        "address" : "0xa4e4A9ae84882BE5049E450A3500ba1CD012F0C5"
+        "address": "0xa4e4A9ae84882BE5049E450A3500ba1CD012F0C5"
       },
       {
-        "address" : "0x5f428e427096D5085D8d95D64d90f3e7c13C92Fb"
+        "address": "0x5f428e427096D5085D8d95D64d90f3e7c13C92Fb"
       },
       {
-        "address" : "0xb9689e3F25c16173a552a7ac0dD5c1F6D47FCC88"
+        "address": "0xb9689e3F25c16173a552a7ac0dD5c1F6D47FCC88"
       },
       {
-        "address" : "0x9b1289dd794F10AF38A3117fE933836D685f7339"
+        "address": "0x9b1289dd794F10AF38A3117fE933836D685f7339"
       },
       {
-        "address" : "0xEc4870B8Dd7979bfc7c5E6220893B3A5dD646F0C"
+        "address": "0xEc4870B8Dd7979bfc7c5E6220893B3A5dD646F0C"
       },
       {
-        "address" : "0x05f370CA0B6c156845f73A9115F35edCdE052803"
+        "address": "0x05f370CA0B6c156845f73A9115F35edCdE052803"
       },
       {
-        "address" : "0xA179038Ae1534E4492164BA38ac809e29770ca5F"
+        "address": "0xA179038Ae1534E4492164BA38ac809e29770ca5F"
       },
       {
-        "address" : "0xfe66fB327CbECe4697DC9f9ef091B2f8710775b7"
+        "address": "0xfe66fB327CbECe4697DC9f9ef091B2f8710775b7"
       },
       {
-        "address" : "0xD47743b863039DFF52B4d836426894a9b012310d"
+        "address": "0xD47743b863039DFF52B4d836426894a9b012310d"
       },
       {
-        "address" : "0xA0d885316Be23dE8bB19E7C53F6d483279E3467D"
+        "address": "0xA0d885316Be23dE8bB19E7C53F6d483279E3467D"
       },
       {
-        "address" : "0x17ac4cC32696987CEa1737343188716b1D827E7B"
+        "address": "0x17ac4cC32696987CEa1737343188716b1D827E7B"
       },
       {
-        "address" : "0x29a199a49aF8d657C110418C2b0D2F932b025dE7"
+        "address": "0x29a199a49aF8d657C110418C2b0D2F932b025dE7"
       }
     ]
   }

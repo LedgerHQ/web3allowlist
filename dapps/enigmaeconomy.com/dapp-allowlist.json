@@ -1,10 +1,10 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Enigma Economy",
-  "domain" : "enigmaeconomy.com",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Enigma Economy",
+  "domain": "enigmaeconomy.com",
+  "chains": {
+    "ethereum": [
       {
         "address": "0x6395fe593dff3231ea7c33e3941c96fc9aa8e3b8"
       },

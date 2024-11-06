@@ -1,15 +1,15 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Scam education dapp",
-  "domain" : "scam-education.web.app",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Scam education dapp",
+  "domain": "scam-education.web.app",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x5531Cc6980831ee1FA9B138892d681c5dE4eAB90"
+        "address": "0x5531Cc6980831ee1FA9B138892d681c5dE4eAB90"
       },
       {
-        "address" : "0x8629a9Bd0c4E286075e819733DD6663e10636F3c"
+        "address": "0x8629a9Bd0c4E286075e819733DD6663e10636F3c"
       }
     ]
   }

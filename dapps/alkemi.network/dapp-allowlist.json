@@ -1,27 +1,27 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Alkemi",
-  "domain" : "alkemi.network",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Alkemi",
+  "domain": "alkemi.network",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0xa3f5411cfc9eee0dd108bf0d07433b6dd99037f1"
+        "address": "0xa3f5411cfc9eee0dd108bf0d07433b6dd99037f1"
       },
       {
-        "address" : "0xa50c298118e89e0cc465f2a1705c7579f67b6f26"
+        "address": "0xa50c298118e89e0cc465f2a1705c7579f67b6f26"
       },
       {
-        "address" : "0x8940442e7f54e875c8c1c80213a4aee7eee4781c"
+        "address": "0x8940442e7f54e875c8c1c80213a4aee7eee4781c"
       },
       {
-        "address" : "0xc282f494a0619592a2410166dcc749155804f548"
+        "address": "0xc282f494a0619592a2410166dcc749155804f548"
       },
       {
-        "address" : "0x13ad61aa8f695ce64711a51a6feccb48a275aaf8"
+        "address": "0x13ad61aa8f695ce64711a51a6feccb48a275aaf8"
       },
       {
-        "address" : "0x374026a48d777cb0ffdccdb9a919c0aa7ce8a0fc"
+        "address": "0x374026a48d777cb0ffdccdb9a919c0aa7ce8a0fc"
       }
     ]
   }

@@ -1,210 +1,211 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Para Space",
-  "domain" : "app.para.space",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Para Space",
+  "domain": "app.para.space",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x92d6c316cde81f6a179a60ee4a3ea8a76d40508a"
+        "address": "0x92d6c316cde81f6a179a60ee4a3ea8a76d40508a"
       },
       {
-        "address" : "0xc5c9fb6223a989208df27dcee33fc59ff5c26fff"
+        "address": "0xc5c9fb6223a989208df27dcee33fc59ff5c26fff"
       },
       {
-        "address" : "0x638a98bbb92a7582d07c52ff407d49664dc8b3ee"
+        "address": "0x638a98bbb92a7582d07c52ff407d49664dc8b3ee"
       },
       {
-        "address" : "0x5954aB967Bc958940b7EB73ee84797Dc8a2AFbb9"
+        "address": "0x5954aB967Bc958940b7EB73ee84797Dc8a2AFbb9"
       },
       {
-        "address" : "0x23A88a918A937744F7Add9Ce9e3cAE3132d4145f"
+        "address": "0x23A88a918A937744F7Add9Ce9e3cAE3132d4145f"
       },
       {
-        "address" : "0x6cD30e716ADbE47dADf7319f6F2FB83d507c857d"
+        "address": "0x6cD30e716ADbE47dADf7319f6F2FB83d507c857d"
       },
       {
-        "address" : "0x42b0C49130162F949e82ba855C4eFF0C3Fd4C5cC"
+        "address": "0x42b0C49130162F949e82ba855C4eFF0C3Fd4C5cC"
       },
       {
-        "address" : "0xeC2C5d6B97Bf930ea687E7B29D487cb7562660Be"
+        "address": "0xeC2C5d6B97Bf930ea687E7B29D487cb7562660Be"
       },
       {
-        "address" : "0xf3Cc33c6133410Ebc08f832D85688dd1F834Dd75"
+        "address": "0xf3Cc33c6133410Ebc08f832D85688dd1F834Dd75"
       },
       {
-        "address" : "0x94E3e8bBf8d2B7ef609aD937979307489ad4E38e"},
+        "address": "0x94E3e8bBf8d2B7ef609aD937979307489ad4E38e"
+      },
       {
-        "address" : "0x042BEcf5F4E68255Ac00074742Bd669fcEb0b23F"
+        "address": "0x042BEcf5F4E68255Ac00074742Bd669fcEb0b23F"
       },
       {
-        "address" : "0x409e293D6FFB4152864bC48A0b7bfF71EdE23e79"
+        "address": "0x409e293D6FFB4152864bC48A0b7bfF71EdE23e79"
       },
       {
-        "address" : "0x596dd3Ac0d8C9544b14C9261b983DB923592e00f"
+        "address": "0x596dd3Ac0d8C9544b14C9261b983DB923592e00f"
       },
       {
-        "address" : "0x2e77d36531934980f2EaF749CC81721Db14fcad5"
+        "address": "0x2e77d36531934980f2EaF749CC81721Db14fcad5"
       },
       {
-        "address" : "0x9CB6c9a8C73CCc73Ae5A63B82157734048a7caFB"
+        "address": "0x9CB6c9a8C73CCc73Ae5A63B82157734048a7caFB"
       },
       {
-        "address" : "0xe3649B06952d1C6d4d20447b3ad8016901878a05"
+        "address": "0xe3649B06952d1C6d4d20447b3ad8016901878a05"
       },
       {
-        "address" : "0xfEB84fB7ff41482a30fDdF0333335f5f78D4BEa4"
+        "address": "0xfEB84fB7ff41482a30fDdF0333335f5f78D4BEa4"
       },
       {
-        "address" : "0x638a98BBB92a7582d07C52ff407D49664DC8b3Ee"
+        "address": "0x638a98BBB92a7582d07C52ff407D49664DC8b3Ee"
       },
       {
-        "address" : "0x27432eC60De34db6618266E50F80B2Ac4806ba02"
+        "address": "0x27432eC60De34db6618266E50F80B2Ac4806ba02"
       },
       {
-        "address" : "0x7658277C53a01676d451759D326582D18f2fF950"
+        "address": "0x7658277C53a01676d451759D326582D18f2fF950"
       },
       {
-        "address" : "0x11cE60Fc2F66A16DeAbAaE38a45f588D1BA9F436"
+        "address": "0x11cE60Fc2F66A16DeAbAaE38a45f588D1BA9F436"
       },
       {
-        "address" : "0x9F55EaBD8496380BecfB9465d69ADD22eA6Aa7a2"
+        "address": "0x9F55EaBD8496380BecfB9465d69ADD22eA6Aa7a2"
       },
       {
-        "address" : "0x0000000000000000000000000000000000000000"
+        "address": "0x0000000000000000000000000000000000000000"
       },
       {
-        "address" : "0x6B58baa08a91f0F08900f43692a9796045454A17"
+        "address": "0x6B58baa08a91f0F08900f43692a9796045454A17"
       },
       {
-        "address" : "0xbc88150EbEFDa53fb61F4C59E98d0dE5EBbB8CD3"
+        "address": "0xbc88150EbEFDa53fb61F4C59E98d0dE5EBbB8CD3"
       },
       {
-        "address" : "0xe8fcBd03a29912b63EE154AB4601e1D64b31586c"
+        "address": "0xe8fcBd03a29912b63EE154AB4601e1D64b31586c"
       },
       {
-        "address" : "0x70bdf2513E5ac52fEB6665DA8f45bB516ebeCf82"
+        "address": "0x70bdf2513E5ac52fEB6665DA8f45bB516ebeCf82"
       },
       {
-        "address" : "0x986a94186c0F16Ce8D7e14456A3833C6Eb6Df4bE"
+        "address": "0x986a94186c0F16Ce8D7e14456A3833C6Eb6Df4bE"
       },
       {
-        "address" : "0x46d24Ac3f5c7eeFF3f79D107BB727Bfa8e70B770"
+        "address": "0x46d24Ac3f5c7eeFF3f79D107BB727Bfa8e70B770"
       },
       {
-        "address" : "0x48606B569f9d6FC30f52E7bdB75A63733993d030"
+        "address": "0x48606B569f9d6FC30f52E7bdB75A63733993d030"
       },
       {
-        "address" : "0xFeF5eB1074698d31491439F0F0D88eAEFD44D6C6"
+        "address": "0xFeF5eB1074698d31491439F0F0D88eAEFD44D6C6"
       },
       {
-        "address" : "0x8CE5F6F4268A756b6656F576d0F9Cf4fD73CBb52"
+        "address": "0x8CE5F6F4268A756b6656F576d0F9Cf4fD73CBb52"
       },
       {
-        "address" : "0x9897B4f327dBD854b84FB0AB020500cB72F983d0"
+        "address": "0x9897B4f327dBD854b84FB0AB020500cB72F983d0"
       },
       {
-        "address" : "0xb6f0aA577bC940f94770B67aE2E099192Ffcee0d"
+        "address": "0xb6f0aA577bC940f94770B67aE2E099192Ffcee0d"
       },
       {
-        "address" : "0x94bDD135ccC48fF0440D750300A4e4Ba9B216B3A"
+        "address": "0x94bDD135ccC48fF0440D750300A4e4Ba9B216B3A"
       },
       {
-        "address" : "0x92D6C316CdE81f6a179A60Ee4a3ea8A76D40508A"
+        "address": "0x92D6C316CdE81f6a179A60Ee4a3ea8A76D40508A"
       },
       {
-        "address" : "0xa2a9dD7079f05d17BE291D99048e671129DdDc83"
+        "address": "0xa2a9dD7079f05d17BE291D99048e671129DdDc83"
       },
       {
-        "address" : "0xEE88Ecf61C43E17deD17b5f0ca2a1B9A55cCf0e0"
+        "address": "0xEE88Ecf61C43E17deD17b5f0ca2a1B9A55cCf0e0"
       },
       {
-        "address" : "0xe5db2791fc60F58bc3537263c17a8Daa549999D6"
+        "address": "0xe5db2791fc60F58bc3537263c17a8Daa549999D6"
       },
       {
-        "address" : "0x2D51197B2160000DD4a616578249f173337487F4"
+        "address": "0x2D51197B2160000DD4a616578249f173337487F4"
       },
       {
-        "address" : "0x434bAc5efbE635d1bA4284Cf9Fb0938c489C468F"
+        "address": "0x434bAc5efbE635d1bA4284Cf9Fb0938c489C468F"
       },
       {
-        "address" : "0x46C659165C9F8438b764Cc9f3884A6be780A2755"
+        "address": "0x46C659165C9F8438b764Cc9f3884A6be780A2755"
       },
       {
-        "address" : "0xe5B6Ce2CA06b41d904c1f84b006bA21A3ACfCa8e"
+        "address": "0xe5B6Ce2CA06b41d904c1f84b006bA21A3ACfCa8e"
       },
       {
-        "address" : "0xf1809240EF10F1aca92fC619ACa2c36eB1e9f226"
+        "address": "0xf1809240EF10F1aca92fC619ACa2c36eB1e9f226"
       },
       {
-        "address" : "0x744EDBbD61a6d5016405067789CCc24e0a5001DA"
+        "address": "0x744EDBbD61a6d5016405067789CCc24e0a5001DA"
       },
       {
-        "address" : "0x0EA24B2e5338D690b5A7315D751811702d8A7D77"
+        "address": "0x0EA24B2e5338D690b5A7315D751811702d8A7D77"
       },
       {
-        "address" : "0x8733Cbef2baAc615d4b0eDF92e5050549e4f56BC"
+        "address": "0x8733Cbef2baAc615d4b0eDF92e5050549e4f56BC"
       },
       {
-        "address" : "0xd5d126A63EbB79e2297f8C59138F7e8924cD82ec"
+        "address": "0xd5d126A63EbB79e2297f8C59138F7e8924cD82ec"
       },
       {
-        "address" : "0x41652c08fC908b5B761c3661c2b89a4dEeaE4aBa"
+        "address": "0x41652c08fC908b5B761c3661c2b89a4dEeaE4aBa"
       },
       {
-        "address" : "0xb5eCa918C7d9690130255a354F33B81540f6AE1a"
+        "address": "0xb5eCa918C7d9690130255a354F33B81540f6AE1a"
       },
       {
-        "address" : "0xDc1DcCe71AA0521Fad6E5840D8320B26FB287560"
+        "address": "0xDc1DcCe71AA0521Fad6E5840D8320B26FB287560"
       },
       {
-        "address" : "0xb51Daa524ca5fa76A681Be5BF2634f3CB0003dE7"
+        "address": "0xb51Daa524ca5fa76A681Be5BF2634f3CB0003dE7"
       },
       {
-        "address" : "0x1dD573bFef8f09d2000e175e18Fd470CC5a51a4e"
+        "address": "0x1dD573bFef8f09d2000e175e18Fd470CC5a51a4e"
       },
       {
-        "address" : "0x6C0f7e54afdDdC106232B984adEbcd3cfcB7885D"
+        "address": "0x6C0f7e54afdDdC106232B984adEbcd3cfcB7885D"
       },
       {
-        "address" : "0xaDF0Ea8967Fa68d1483E0dd5E87717c0C3F29e50"
+        "address": "0xaDF0Ea8967Fa68d1483E0dd5E87717c0C3F29e50"
       },
       {
-        "address" : "0xad43914B32852bAd461560b4A551fB7a8E6218e5"
+        "address": "0xad43914B32852bAd461560b4A551fB7a8E6218e5"
       },
       {
-        "address" : "0xb0b24593186526ceDB00C21B648cC2BAf48EF4aA"
+        "address": "0xb0b24593186526ceDB00C21B648cC2BAf48EF4aA"
       },
       {
-        "address" : "0xB6007de5071d833fDae944555e4cd896CA96C596"
+        "address": "0xB6007de5071d833fDae944555e4cd896CA96C596"
       },
       {
-        "address" : "0x79943CFa53B4DD5067e04a2639cd1FDC0a80BFe1"
+        "address": "0x79943CFa53B4DD5067e04a2639cd1FDC0a80BFe1"
       },
       {
-        "address" : "0xcb84F3115beFA26259Aa4348D6adb318B9E1F4A0"
+        "address": "0xcb84F3115beFA26259Aa4348D6adb318B9E1F4A0"
       },
       {
-        "address" : "0xca8678d2d273b1913148402aed2E99b085ea3F02"
+        "address": "0xca8678d2d273b1913148402aed2E99b085ea3F02"
       },
       {
-        "address" : "0x6E9C04dB7d0373E577570e82A847A3Ab6781E19A"
+        "address": "0x6E9C04dB7d0373E577570e82A847A3Ab6781E19A"
       },
       {
-        "address" : "0xC5c9fB6223A989208Df27dCEE33fC59ff5c26fFF"
+        "address": "0xC5c9fB6223A989208Df27dCEE33fC59ff5c26fFF"
       },
       {
-        "address" : "0x0874eBaad20aE4a6F1623a3bf6f914355B7258dB"
+        "address": "0x0874eBaad20aE4a6F1623a3bf6f914355B7258dB"
       },
       {
-        "address" : "0xb4c90A73e0cD094b0de11A5b8e2312Ff24aA338D"
+        "address": "0xb4c90A73e0cD094b0de11A5b8e2312Ff24aA338D"
       },
       {
-        "address" : "0x5D100F31ef054d43EC33Ae9Cd55dEe2586FeF4DA"
+        "address": "0x5D100F31ef054d43EC33Ae9Cd55dEe2586FeF4DA"
       },
       {
-        "address" : "0x0b2F69aD9E4fb79480A20029e278bF45f7C2afb1"
-      }    
+        "address": "0x0b2F69aD9E4fb79480A20029e278bF45f7C2afb1"
+      }
     ]
   }
 }

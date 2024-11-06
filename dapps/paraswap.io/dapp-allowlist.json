@@ -1,30 +1,30 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Paraswap",
-  "domain" : "*.paraswap.io",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Paraswap",
+  "domain": "*.paraswap.io",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
       },
       {
-        "address" : "0x1bd435f3c054b6e901b7b108a0ab7617c808677b"
+        "address": "0x1bd435f3c054b6e901b7b108a0ab7617c808677b"
       },
       {
-        "address" : "0x86969d29f5fd327e1009ba66072be22db6017cc6"
+        "address": "0x86969d29f5fd327e1009ba66072be22db6017cc6"
       },
       {
-        "address" : "0x9509665d015bfe3c77aa5ad6ca20c8afa1d98989"
+        "address": "0x9509665d015bfe3c77aa5ad6ca20c8afa1d98989"
       },
       {
-        "address" : "0xf90e98f3d8dce44632e5020abf2e122e0f99dfab"
+        "address": "0xf90e98f3d8dce44632e5020abf2e122e0f99dfab"
       },
       {
-        "address" : "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+        "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
       },
       {
-        "address" : "0xeF13101C5bbD737cFb2bF00Bbd38c626AD6952F7"
+        "address": "0xeF13101C5bbD737cFb2bF00Bbd38c626AD6952F7"
       }
     ]
   }

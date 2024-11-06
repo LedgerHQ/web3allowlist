@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Worldofdypians",
+  "domain": "worldofdypians.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xf55d96735fa22ba1c119ba37af76c2c4e3bec224"
+      }
+    ]
+  }
+}

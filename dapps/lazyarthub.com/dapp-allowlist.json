@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Lazyarthub",
+  "domain": "lazyarthub.com",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xf30b1b8be97cfd8b19a5a9d2973fc39b14921700"
+      }
+    ]
+  }
+}

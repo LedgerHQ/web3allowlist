@@ -145,6 +145,29 @@
       {
         "address": "0x6dd28c2c5b91dd63b4d4e78ecac7139878371768"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0x6e55472109e6abe4054a8e8b8d9edffcb31032c5"
+      },
+      {
+        "address": "0x1a7206f9c315720d1e5b536b492c448863eb298a"
+      },
+      {
+        "address": "0x61bb3852947a370946abdba8fa9cf45ec472f83f"
+      },
+      {
+        "address": "0x0e543107044ea436896945001a469bf0f8e6552d"
+      },
+      {
+        "address": "0x7dac480d20f322d2ef108a59a465ccb5749371c4"
+      },
+      {
+        "address": "0x904550e0d182cd4aee0d305891c666a212ec8f01"
+      },
+      {
+        "address": "0xc0fabf14f8ad908b2dce4c8aa2e7c1a6bd069957"
+      }
     ]
   }
 }

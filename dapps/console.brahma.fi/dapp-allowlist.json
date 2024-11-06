@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Brahma",
+  "domain": "console.brahma.fi",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x6d70df6f203204a11b1c8bc67b42b751e7171add"
+      }
+    ]
+  }
+}

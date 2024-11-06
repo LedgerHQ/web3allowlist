@@ -42,6 +42,14 @@
     "avalanche": [
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0xabb0abf698ea1879a0b0e309ee8c8e1056ae8bce"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x6c403dba21f072e16b7de2b013f8adeae9c2e76e"
       }
     ]
   }

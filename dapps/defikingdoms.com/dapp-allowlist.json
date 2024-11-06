@@ -1,10 +1,9 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "DeFi Kingdoms",
-  "domain" : "defikingdoms.com",
-  "chains" : {
-    "ethereum" : [
-    ]
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "DeFi Kingdoms",
+  "domain": "defikingdoms.com",
+  "chains": {
+    "ethereum": []
   }
 }

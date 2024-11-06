@@ -1,24 +1,24 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "The Sandbox Marketplace",
-  "domain" : "sandbox.game",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "The Sandbox Marketplace",
+  "domain": "sandbox.game",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0xa342f5D851E866E18ff98F351f2c6637f4478dB5"
+        "address": "0xa342f5D851E866E18ff98F351f2c6637f4478dB5"
       },
       {
-        "address" : "0x921Fd42f147B26b51AA3c7fa3F2E2Ce7704c2858"
+        "address": "0x921Fd42f147B26b51AA3c7fa3F2E2Ce7704c2858"
       },
       {
-        "address" : "0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38"
+        "address": "0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38"
       },
       {
-        "address" : "0x03c545163bd114d756c65dda1d97d37b89da2236"
+        "address": "0x03c545163bd114d756c65dda1d97d37b89da2236"
       },
       {
-        "address" : "0xa0c68c638235ee32657e8f720a23cec1bfc77c77"
+        "address": "0xa0c68c638235ee32657e8f720a23cec1bfc77c77"
       }
     ]
   }

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zkfinance",
+  "domain": "app.zkfinance.org",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x218ebb63dfdf74ea689fbb2c55964e00ec905332"
+      }
+    ]
+  }
+}

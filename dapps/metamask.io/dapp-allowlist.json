@@ -1,15 +1,15 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "MetaMask Swap",
-  "domain" : "metamask.io",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "MetaMask Swap",
+  "domain": "metamask.io",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x881D40237659C251811CEC9c364ef91dC08D300C"
+        "address": "0x881D40237659C251811CEC9c364ef91dC08D300C"
       },
       {
-        "address" : "0xF326e4dE8F66A0BDC0970b79E0924e33c79f1915"
+        "address": "0xF326e4dE8F66A0BDC0970b79E0924e33c79f1915"
       }
     ]
   }

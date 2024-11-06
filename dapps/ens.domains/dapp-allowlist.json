@@ -1,15 +1,15 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Ethereum Naming Service",
-  "domain" : "*.ens.domains",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ethereum Naming Service",
+  "domain": "*.ens.domains",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
+        "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
       },
       {
-        "address" : "0x314159265dD8dbb310642f98f50C066173C1259b"
+        "address": "0x314159265dD8dbb310642f98f50C066173C1259b"
       },
       {
         "address": "0x283Af0B28c62C092C9727F1Ee09c02CA627EB7F5"

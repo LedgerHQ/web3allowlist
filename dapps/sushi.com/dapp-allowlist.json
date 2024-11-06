@@ -31,6 +31,9 @@
       },
       {
         "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0xf2614a233c7c3e7f08b1f887ba133a13f1eb2c55"
       }
     ],
     "ethereum": [
@@ -101,6 +104,12 @@
       },
       {
         "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+      },
+      {
+        "address": "0xf2614a233c7c3e7f08b1f887ba133a13f1eb2c55"
+      },
+      {
+        "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
       }
     ],
     "arbitrum": [
@@ -143,11 +152,25 @@
       },
       {
         "address": "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959"
+      },
+      {
+        "address": "0xf2614a233c7c3e7f08b1f887ba133a13f1eb2c55"
+      },
+      {
+        "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
       }
     ],
     "celo": [
       {
         "address": "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xf2614a233c7c3e7f08b1f887ba133a13f1eb2c55"
+      },
+      {
+        "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
       }
     ]
   }

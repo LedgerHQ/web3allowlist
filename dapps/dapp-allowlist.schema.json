@@ -38,7 +38,7 @@
       }
     }
   },
-  "required": [ "name", "domain", "chains" ],
+  "required": ["name", "domain", "chains"],
   "$defs": {
     "chain": {
       "type": "array",
@@ -58,7 +58,7 @@
           "description": "A description of the contract"
         }
       },
-      "required": [ "address" ]
+      "required": ["address"]
     }
   }
 }

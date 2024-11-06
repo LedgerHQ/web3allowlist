@@ -1,10 +1,9 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Yuga Labs",
-  "domain" : "yuga.com",
-  "chains" : {
-    "ethereum" : [
-    ]
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Yuga Labs",
+  "domain": "yuga.com",
+  "chains": {
+    "ethereum": []
   }
 }

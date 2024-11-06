@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Vessel",
+  "domain": "trade.vessel.finance",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x6126e927627b8d9eb9adb9faadc47b76f94b6ba2"
+      }
+    ]
+  }
+}

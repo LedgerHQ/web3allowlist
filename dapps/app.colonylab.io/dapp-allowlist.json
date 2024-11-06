@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Colonylab",
+  "domain": "app.colonylab.io",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xa2e7ab89a2c59818e1ecd925e718a9d63889a131"
+      }
+    ]
+  }
+}

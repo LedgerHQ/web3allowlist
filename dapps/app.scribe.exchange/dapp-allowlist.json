@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Scribe",
+  "domain": "app.scribe.exchange",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xb9d4eb6518a437b9a012aa3da50b5cae2439bc9d"
+      }
+    ]
+  }
+}

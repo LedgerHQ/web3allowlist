@@ -1,12 +1,12 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "Transit Swap",
-  "domain" : "transit.finance",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Transit Swap",
+  "domain": "transit.finance",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0xc8d7899f22bc4995c8176e3f2a5ba3f5e87d95e5"
+        "address": "0xc8d7899f22bc4995c8176e3f2a5ba3f5e87d95e5"
       }
     ]
   }

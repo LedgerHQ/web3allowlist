@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tokan",
+  "domain": "app.tokan.exchange",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xa663c287b2f374878c07b7ac55c1bc927669425a"
+      }
+    ]
+  }
+}

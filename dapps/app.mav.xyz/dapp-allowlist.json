@@ -23,11 +23,19 @@
     "zksync": [
       {
         "address": "0x39e098a153ad69834a9dac32f0fca92066ad03f4"
+      },
+      {
+        "address": "0xad8262e847676e7eddafee664c4fd492789260ba"
       }
     ],
     "base": [
       {
         "address": "0x32aed3bce901da12ca8489788f3a99fce1056e14"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x15d5ff975c1181faf938cd33bd0633435bdfa18d"
       }
     ]
   }

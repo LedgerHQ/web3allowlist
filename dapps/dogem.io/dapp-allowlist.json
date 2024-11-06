@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dogem",
+  "domain": "dogem.io",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xb52870f9b2b0d5c12cad1ac70d9c04f744872bcb"
+      }
+    ]
+  }
+}

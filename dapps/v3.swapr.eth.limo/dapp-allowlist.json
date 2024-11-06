@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eth",
+  "domain": "v3.swapr.eth.limo",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xffb643e73f280b97809a8b41f7232ab401a04ee1"
+      }
+    ]
+  }
+}

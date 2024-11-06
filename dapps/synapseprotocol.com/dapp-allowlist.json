@@ -38,6 +38,11 @@
       {
         "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0x00cd000000003f7f682be4813200893d4e690000"
+      }
     ]
   }
 }

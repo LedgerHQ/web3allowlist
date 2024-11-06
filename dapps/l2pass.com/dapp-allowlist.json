@@ -15,6 +15,12 @@
     "avalanche": [
       {
         "address": "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+      },
+      {
+        "address": "0x222228060e7efbb1d78bb5d454581910e3922222"
+      },
+      {
+        "address": "0x0000c74e9931c7d6c1a6e811fe96a8a808e06969"
       }
     ],
     "optimism": [
@@ -49,16 +55,36 @@
       },
       {
         "address": "0x222228060e7efbb1d78bb5d454581910e3922222"
+      },
+      {
+        "address": "0x0000c74e9931c7d6c1a6e811fe96a8a808e06969"
       }
     ],
     "fantom": [
       {
         "address": "0x222228060e7efbb1d78bb5d454581910e3922222"
+      },
+      {
+        "address": "0x123450714b677b1ae24dc28959c7e833159e4321"
+      },
+      {
+        "address": "0x0000c74e9931c7d6c1a6e811fe96a8a808e06969"
       }
     ],
     "arbitrum": [
       {
         "address": "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x0000049f63ef0d60abe49fdd8bebfa5a68822222"
+      },
+      {
+        "address": "0x222228060e7efbb1d78bb5d454581910e3922222"
+      },
+      {
+        "address": "0x0000c74e9931c7d6c1a6e811fe96a8a808e06969"
       }
     ]
   }

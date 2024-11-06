@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Azuro",
+  "domain": "azuro.org",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      },
+      {
+        "address": "0x204e7371ade792c5c006fb52711c50a7efc843ed"
+      }
+    ]
+  }
+}

@@ -1,12 +1,12 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "SWFT AllChain Bridge",
-  "domain" : "allchainbridge.com",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "SWFT AllChain Bridge",
+  "domain": "allchainbridge.com",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x92e929d8b2c8430bcaf4cd87654789578bb2b786"
+        "address": "0x92e929d8b2c8430bcaf4cd87654789578bb2b786"
       }
     ]
   }

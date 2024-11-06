@@ -1,15 +1,15 @@
 {
-  "schemaVersion" : 1,
-  "$schema" : "../dapp-allowlist.schema.json",
-  "name" : "NFT20",
-  "domain" : "nft20.io",
-  "chains" : {
-    "ethereum" : [
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "NFT20",
+  "domain": "nft20.io",
+  "chains": {
+    "ethereum": [
       {
-        "address" : "0x0f4676178b5c53Ae0a655f1B19A96387E4b8B5f2"
+        "address": "0x0f4676178b5c53Ae0a655f1B19A96387E4b8B5f2"
       },
       {
-        "address" : "0x7824948612d5F6d3dBC54d1c1173715B997403a1"
+        "address": "0x7824948612d5F6d3dBC54d1c1173715B997403a1"
       }
     ]
   }

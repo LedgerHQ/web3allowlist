@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Astherus",
+  "domain": "astherus.com",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x7be980e327692cf11e793a0d141d534779af8ef4"
+      }
+    ]
+  }
+}

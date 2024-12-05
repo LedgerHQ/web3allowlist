@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tivel",
+  "domain": "tivel.finance",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x4bc2521f6b816af20220f577a9bddafdb7c2bfa8"
+      },
+      {
+        "address": "0xd3b23df75940284510913d8bd271d5818b3be9b1"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x3d77702bb940ebbeac2f6733a25ea563e810a6ce"
+      },
+      {
+        "address": "0xfcf61d0fa6420d0137790a5242d656b2ddde6f9a"
+      }
+    ]
+  }
+}

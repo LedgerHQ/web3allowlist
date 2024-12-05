@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Salvor",
+  "domain": "salvor.io",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x0d15f99b6ae10cfa9a6d845b433ef51597c27e00"
+      },
+      {
+        "address": "0xab4fe2d136efd7f8dfce3259a5e3c5e4c0130c80"
+      }
+    ]
+  }
+}

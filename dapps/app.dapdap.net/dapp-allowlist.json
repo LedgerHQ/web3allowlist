@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dapdap",
+  "domain": "app.dapdap.net",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x3335733c454805df6a77f825f266e136fb4a3333"
+      },
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      },
+      {
+        "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+      },
+      {
+        "address": "0xfc30937f5cde93df8d48acaf7e6f5d8d8a31f636"
+      },
+      {
+        "address": "0x2db0afd0045f3518c77ec6591a542e326befd3d7"
+      },
+      {
+        "address": "0x89ba4039841587b0a4cffdf17aee30cacf006f4d"
+      },
+      {
+        "address": "0x5a4c258a6c7a6a6816ec6a71ff2187d20178781d"
+      },
+      {
+        "address": "0x734583f62bb6ace3c9ba9bd5a53143ca2ce8c55a"
+      },
+      {
+        "address": "0xfd541d0e2773a189450a70f06bc7edd3c1dc9115"
+      },
+      {
+        "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+      },
+      {
+        "address": "0xb9d4eb6518a437b9a012aa3da50b5cae2439bc9d"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x8e70e517057e7380587ea6990dae81cb1ba405ce"
+      },
+      {
+        "address": "0xe4e156167cc9c7ac4abd8d39d203a5495f775547"
+      },
+      {
+        "address": "0x36a1acbbcafca2468b85011ddd16e7cb4d673230"
+      },
+      {
+        "address": "0xb9061e38fee7d30134f56aef7117e2f6d1580666"
+      },
+      {
+        "address": "0x6c31035d62541ceba2ac587ea09891d1645d6d07"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e"
+      },
+      {
+        "address": "0xffb643e73f280b97809a8b41f7232ab401a04ee1"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x1dac23e41fc8ce857e86fd8c1ae5b6121c67d96d"
+      },
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      },
+      {
+        "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+      },
+      {
+        "address": "0x4406ebeb7028fc0fc06bb7706a736ac6ada8d2bf"
+      }
+    ]
+  }
+}

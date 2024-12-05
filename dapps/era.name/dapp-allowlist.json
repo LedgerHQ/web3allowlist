@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Era",
+  "domain": "era.name",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x935442af47f3dc1c11f006d551e13769f12eab13"
+      }
+    ]
+  }
+}

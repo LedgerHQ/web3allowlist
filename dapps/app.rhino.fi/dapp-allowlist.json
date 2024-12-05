@@ -38,6 +38,17 @@
       {
         "address": "0x1fa66e2b38d0cc496ec51f81c3e05e6a6708986f"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0xce39f0499bf040f351f2e0c3f2c1ae81ea612c47"
+      },
+      {
+        "address": "0x0332fce92897679e97620a097aa515f5d7cf4034"
+      },
+      {
+        "address": "0x4be1136247cdeca3775a7a32aff6a621c1c149eb"
+      }
     ]
   }
 }

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Highlight",
+  "domain": "highlight.xyz",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xc111b1033dc8f32d85c152d7ac89c4311344d77d"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x3b2dc9691fd41c67883b7f439a722a29f811cfc2"
+      }
+    ]
+  }
+}

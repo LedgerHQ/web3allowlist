@@ -54,6 +54,14 @@
       {
         "address": "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0xb2f97c1bd3bf02f5e74d13f02e3e26f93d77ce44"
+      },
+      {
+        "address": "0x53c6d04e3ec7031105baea05b36cbc3c987c56fa"
+      }
     ]
   }
 }

@@ -27,11 +27,29 @@
     "zksync": [
       {
         "address": "0x54c4a99ee277eff14b378405b6600405790d5045"
+      },
+      {
+        "address": "0x4040bec373f6e8be2f913324de94a7b9242e5e92"
+      },
+      {
+        "address": "0xb9061e38fee7d30134f56aef7117e2f6d1580666"
       }
     ],
     "avalanche": [
       {
         "address": "0x3758aa66cad9f2606f1f501c9cb31b94b713a6d5"
+      },
+      {
+        "address": "0xf956d9fa19656d8e5219fd6fa8ba6cb198094138"
+      },
+      {
+        "address": "0x1dac23e41fc8ce857e86fd8c1ae5b6121c67d96d"
+      },
+      {
+        "address": "0x8b09db11ea380d6454d2592d334ffc319ce6ef3e"
+      },
+      {
+        "address": "0x12179f77a02522c01f6d3a5d38a1a5d2b9834f19"
       }
     ],
     "bsc": [
@@ -47,6 +65,17 @@
     "celo": [
       {
         "address": "0x3758aa66cad9f2606f1f501c9cb31b94b713a6d5"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xf956d9fa19656d8e5219fd6fa8ba6cb198094138"
+      },
+      {
+        "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+      },
+      {
+        "address": "0x3a64ec3606ff7310e8fad6fcc008e39705fb496d"
       }
     ]
   }

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zkex",
+  "domain": "app.zkex.com",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xa005091c98e6793b90e1340bbd36c5d6de36fb60"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x46d6e42fb6e04695156b5ad38a3ec6fa9c59147d"
+      }
+    ]
+  }
+}

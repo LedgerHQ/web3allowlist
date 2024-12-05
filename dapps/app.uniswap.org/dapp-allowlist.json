@@ -124,6 +124,9 @@
       },
       {
         "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      },
+      {
+        "address": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24"
       }
     ],
     "base": [
@@ -188,6 +191,9 @@
       },
       {
         "address": "0x28731bcc616b5f51dd52cf2e4df0e78dd1136c06"
+      },
+      {
+        "address": "0x0000000000225e31d15943971f47ad3022f714fa"
       }
     ]
   }

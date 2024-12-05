@@ -13,10 +13,7 @@
           "type": "string"
         }
       },
-      "required": [
-        "allowlist",
-        "$schema"
-      ],
+      "required": ["allowlist", "$schema"],
       "title": "root"
     },
     "Allowlist": {
@@ -56,11 +53,7 @@
           }
         }
       },
-      "required": [
-        "contracts",
-        "domain",
-        "name"
-      ],
+      "required": ["contracts", "domain", "name"],
       "title": "Dapp"
     },
     "Contract": {
@@ -71,9 +64,7 @@
           "type": "string"
         }
       },
-      "required": [
-        "address"
-      ],
+      "required": ["address"],
       "title": "Contract"
     }
   }

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Galaxy",
+  "domain": "galaxy.exchange",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xa33db50b90e35378faee4058deaab2b392989b65"
+      },
+      {
+        "address": "0xe684eedd1f493945d7923e9156401e945211243d"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x36a1acbbcafca2468b85011ddd16e7cb4d673230"
+      }
+    ]
+  }
+}

@@ -53,6 +53,9 @@
     "zksync": [
       {
         "address": "0x64848eefbc2921102a153b08fa64536ae1f8e937"
+      },
+      {
+        "address": "0x7c19b1ab0f18a00acb4e0d315628b0baf0f8c4b9"
       }
     ],
     "optimism": [
@@ -63,6 +66,11 @@
     "avalanche": [
       {
         "address": "0x18cd9270dbdca86d470cfb3be1b156241fffa9de"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x000000009ca83fc2e014b149fe7530174de0d938"
       }
     ]
   }

@@ -175,6 +175,15 @@
       },
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x3a64ec3606ff7310e8fad6fcc008e39705fb496d"
+      },
+      {
+        "address": "0xf956d9fa19656d8e5219fd6fa8ba6cb198094138"
+      },
+      {
+        "address": "0x00971e21955f1bb8021a5ef2546bec2ff896ee42"
       }
     ],
     "base": [
@@ -190,6 +199,17 @@
     "arbitrum": [
       {
         "address": "0xe05dd51e4eb5636f4f0e8e7fbe82ea31a2ecef16"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x89ba4039841587b0a4cffdf17aee30cacf006f4d"
+      },
+      {
+        "address": "0xf956d9fa19656d8e5219fd6fa8ba6cb198094138"
+      },
+      {
+        "address": "0x1f076a800005c758a505e759720eb6737136e893"
       }
     ]
   }

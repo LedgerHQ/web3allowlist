@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Pencilsprotocol",
+  "domain": "app.pencilsprotocol.io",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x0c530882c0900b13fc6e8312b52c26e7a5b8e505"
+      },
+      {
+        "address": "0x88844c8f2b895792532aae2a0f877208248f3585"
+      },
+      {
+        "address": "0xdc1fcfe40a5cf9745cef0b75428ee28e81d7cc56"
+      },
+      {
+        "address": "0x27d2b6cecd759d289b0227966cc6fe69cc2b0424"
+      }
+    ]
+  }
+}

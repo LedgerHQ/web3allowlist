@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Hipposwap",
+  "domain": "hipposwap.finance",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xa33db50b90e35378faee4058deaab2b392989b65"
+      }
+    ]
+  }
+}

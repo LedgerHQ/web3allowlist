@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Seer",
+  "domain": "app.seer.pm",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x83183da839ce8228e31ae41222ead9edbb5cdcf1"
+      },
+      {
+        "address": "0xec9048b59b3467415b1a38f63416407ea0c70fb8"
+      },
+      {
+        "address": "0xe78996a233895be74a66f451f1019ca9734205cc"
+      },
+      {
+        "address": "0xd499b51fcfc66bd31248ef4b28d656d67e591a94"
+      },
+      {
+        "address": "0xffb643e73f280b97809a8b41f7232ab401a04ee1"
+      }
+    ]
+  }
+}

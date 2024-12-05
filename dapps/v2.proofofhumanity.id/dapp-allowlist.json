@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Proofofhumanity",
+  "domain": "v2.proofofhumanity.id",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xa4ac94c4fa65bb352efa30e3408e64f72ac857bc"
+      }
+    ]
+  }
+}

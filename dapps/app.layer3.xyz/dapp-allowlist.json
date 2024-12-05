@@ -56,16 +56,27 @@
       },
       {
         "address": "0xadde7028e7ec226777e5dea5d53f6457c21ec7d6"
+      },
+      {
+        "address": "0xf77bd7c05598e094bc06e34bb81c07bd3b091db1"
       }
     ],
     "gnosis": [
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
       }
     ],
     "avalanche": [
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x1195cf65f83b3a5768f3c496d3a05ad6412c64b7"
       }
     ]
   }

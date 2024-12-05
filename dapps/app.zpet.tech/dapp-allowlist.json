@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zpet",
+  "domain": "app.zpet.tech",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0xfabb6de2fca082aae5f74268f939fe7ef1c1db83"
+      }
+    ]
+  }
+}

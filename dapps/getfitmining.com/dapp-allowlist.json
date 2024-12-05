@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Getfitmining",
+  "domain": "getfitmining.com",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xc83152c08d955807b1216a829d4b15e29fe5352a"
+      },
+      {
+        "address": "0x7d2f62b6134e8b5676d17f5e988b3e48b4f50b70"
+      }
+    ]
+  }
+}

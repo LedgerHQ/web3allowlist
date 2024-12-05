@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cryptokitties",
+  "domain": "cryptokitties.co",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xb1690c08e213a35ed9bab7b318de14420fb57d8c"
+      },
+      {
+        "address": "0x57831a0c76ba6b4fdcbadd6cb48cb26e8fc15e93"
+      }
+    ]
+  }
+}

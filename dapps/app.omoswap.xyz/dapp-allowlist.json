@@ -7,6 +7,9 @@
     "avalanche": [
       {
         "address": "0x959dc4977a028485f6870c98d8b741f69f764ae7"
+      },
+      {
+        "address": "0x5dc83080f7a6fdf610cacf1f38761e4b3a7bfda8"
       }
     ],
     "arbitrum": [
@@ -32,6 +35,16 @@
     "bsc": [
       {
         "address": "0x435daccd0c19dceba72dc5b0685c01b01abb94de"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xb003c92d6e9c6c3862e876fd0a7b9e1a77024779"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x5dc83080f7a6fdf610cacf1f38761e4b3a7bfda8"
       }
     ]
   }

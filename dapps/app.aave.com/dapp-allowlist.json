@@ -482,6 +482,9 @@
       },
       {
         "address": "0xfe76366a986b72c3f2923e05e6ba07b7de5401e4"
+      },
+      {
+        "address": "0x7b9c12915c594a68de96201cbdc79147f09da278"
       }
     ],
     "optimism": [
@@ -504,6 +507,9 @@
       },
       {
         "address": "0x794a61358d6845594f94dc1db02a252b5b4814ad"
+      },
+      {
+        "address": "0xcf3045a03f83adfbcba1f19cb2cf4e19075f8668"
       }
     ],
     "arbitrum": [
@@ -531,6 +537,14 @@
     "zksync": [
       {
         "address": "0xa72d2e6c79f3e19b5cf51069e5ed1c0177b548eb"
+      },
+      {
+        "address": "0xd5f6c8d402e0a0222f7fa132f9e80fdcc074df5c"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x31a239f3e39c5d8ba6b201ba81ed584492ae960f"
       }
     ]
   }

@@ -21,6 +21,21 @@
       {
         "address": "0x00000047bb99ea4d791bb749d970de71ee0b1a34"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x65de59507caa235c8ca49bfd008cada4d846caa7"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x07964f135f276412b3182a3b2407b8dd45000000"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x07964f135f276412b3182a3b2407b8dd45000000"
+      }
     ]
   }
 }

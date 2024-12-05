@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mithraeum",
+  "domain": "zksync-chronicles.mithraeum.io",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0xae38224a996d9cf9d4cc0b7e36b3b3e94b75ea4a"
+      }
+    ]
+  }
+}

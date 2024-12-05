@@ -7,11 +7,17 @@
     "avalanche": [
       {
         "address": "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+      },
+      {
+        "address": "0x2f5c25874302558299e955d29619c6f4b9a16610"
       }
     ],
     "fantom": [
       {
         "address": "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+      },
+      {
+        "address": "0x2f5c25874302558299e955d29619c6f4b9a16610"
       }
     ],
     "bsc": [
@@ -33,6 +39,16 @@
     "base": [
       {
         "address": "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x0610ecffcc4505a8212a042fc5daff7f2db4d266"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x2f5c25874302558299e955d29619c6f4b9a16610"
       }
     ]
   }

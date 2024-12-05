@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Pharaoh",
+  "domain": "pharaoh.exchange",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xaaaea1fb9f3de3f70e89f37b69ab11b47eb9ce6f"
+      },
+      {
+        "address": "0xaaa78e8c4241990b4ce159e105da08129345946a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Kayakfinance",
+  "domain": "kayakfinance.io",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xa7c16f3c771aebaf01a34c534dbfee4645dcf083"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Polter",
+  "domain": "polter.finance",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0x9ea298260dde2daf6537bded8e24051e816a5737"
+      },
+      {
+        "address": "0x867faa51b3a437b4e2e699945590ef4f2be2a6d5"
+      }
+    ]
+  }
+}

@@ -48,6 +48,11 @@
       {
         "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0xfc30937f5cde93df8d48acaf7e6f5d8d8a31f636"
+      }
     ]
   }
 }

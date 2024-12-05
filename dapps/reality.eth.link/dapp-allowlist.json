@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eth",
+  "domain": "reality.eth.link",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xe78996a233895be74a66f451f1019ca9734205cc"
+      }
+    ]
+  }
+}

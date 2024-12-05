@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Wowmax",
+  "domain": "app.wowmax.exchange",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x5a34d58de6991a1d6758f6695bbe34a13b1af57d"
+      }
+    ]
+  }
+}

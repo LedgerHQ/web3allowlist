@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Pixelswap",
+  "domain": "pixelswap.xyz",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x198aaf243ff2410415ada96c1e1c0c9df618c6f0"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x18eefaa436b91edd3839dcfb85bf7c8457c90bda"
+      }
+    ]
+  }
+}

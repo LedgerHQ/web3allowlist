@@ -1,0 +1,113 @@
+name: Monthly Kleros Sync
+
+on:
+  schedule:
+    # Runs at 00:00 UTC on the first day of each month
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  sync-and-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Add upstream remote and sync
+        run: |
+          # Save our workflow file
+          mkdir -p .workflow-backup
+          cp .github/workflows/monthly-kleros-sync.yml .workflow-backup/
+
+          # Sync with upstream
+          git remote add upstream https://github.com/LedgerHQ/web3allowlist.git
+          git fetch upstream
+          git checkout main
+          git reset --hard upstream/main
+
+          # Restore our workflow file
+          mkdir -p .github/workflows
+          cp .workflow-backup/monthly-kleros-sync.yml .github/workflows/
+          rm -rf .workflow-backup
+
+          # Stage the restored workflow file
+          git add .github/workflows/monthly-kleros-sync.yml
+          git commit -m "Preserve local workflow file"
+          git push origin main --force
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          npm install -g prettier
+
+      - name: Reset and clean repository
+        run: |
+          git reset --hard HEAD
+          git clean -fd
+
+      - name: Run Kleros sync script
+        run: python3 kleros_cdn_to_github.py
+
+      - name: Commit changes
+        run: |
+          git add dapps/**/*.json  # Adjust the path as necessary
+          git commit -m "Update dapp allowlist with new entries"
+          git push origin main  # Push changes to the main branch
+
+      - name: Format JSON files
+        run: npx prettier --write "**/*.json"
+
+      - name: Create branch and commit changes
+        id: branch_info
+        run: |
+          DATE=$(date +'%Y-%m')
+          MONTH_YEAR=$(date +'%B %Y')
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          echo "month_year=$MONTH_YEAR" >> $GITHUB_OUTPUT
+          BRANCH_NAME="kleros-sync-${DATE}"
+          git checkout -b "$BRANCH_NAME"
+          
+          # Stage and commit changes if any exist
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "Monthly Kleros sync: ${DATE}"
+            git push -f origin "$BRANCH_NAME"
+          else
+            echo "No changes to commit"
+            exit 0
+          fi
+
+      - name: Read PR content
+        id: pr_content
+        run: |
+          content=$(base64 -w 0 PR_comments.txt)
+          echo "content=$content" >> $GITHUB_OUTPUT
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: "Monthly Kleros Sync: ${{ steps.branch_info.outputs.month_year }}"
+          body: ${{ steps.pr_content.outputs.content }}
+          branch: "kleros-sync-${{ steps.branch_info.outputs.date }}"
+          base: main
+          delete-branch: false

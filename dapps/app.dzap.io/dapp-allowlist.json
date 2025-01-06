@@ -11,6 +11,26 @@
       {
         "address": "0x603b31bbe692adcd522e280019f72b7919d6167c"
       }
+    ],
+    "gnosis": [
+      {
+        "address": "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x66c96103d046826beac8d01d8a8df70ef7f18216"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
+      }
     ]
   }
 }

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Superfluid",
+  "domain": "mint.superfluid.finance",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0xcd4e576ba1b74692dbc158c5f399269ec4739577"
+      }
+    ]
+  }
+}

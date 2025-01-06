@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ast",
+  "domain": "ast.finance",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xc40c8bc5ce7077adf9b798c1c84c810f1094a060"
+      }
+    ]
+  }
+}

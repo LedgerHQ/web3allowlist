@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Apexdefi",
+  "domain": "apexdefi.xyz",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x98b172a09102869add73116fc92a0a60bff4778f"
+      },
+      {
+        "address": "0x754a0c42c35562ee7a41eb824d14bc1259820f01"
+      }
+    ]
+  }
+}

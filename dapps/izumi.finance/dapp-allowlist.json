@@ -45,6 +45,9 @@
     "scroll": [
       {
         "address": "0x1502d025bfa624469892289d45c0352997251728"
+      },
+      {
+        "address": "0xc0ac932cac7b4d8f7c31792082e2e8f3cfe99c10"
       }
     ]
   }

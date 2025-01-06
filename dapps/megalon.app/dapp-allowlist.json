@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Megalon",
+  "domain": "megalon.app",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x09eec809966d025de3b52279d0578ce8570c3e13"
+      }
+    ]
+  }
+}

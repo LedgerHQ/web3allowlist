@@ -28,6 +28,11 @@
       {
         "address": "0x00000000001594c61dd8a6804da9ab58ed2483ce"
       }
+    ],
+    "base": [
+      {
+        "address": "0x00000000001594c61dd8a6804da9ab58ed2483ce"
+      }
     ]
   }
 }

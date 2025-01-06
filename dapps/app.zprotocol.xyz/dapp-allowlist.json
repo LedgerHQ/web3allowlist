@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zprotocol",
+  "domain": "app.zprotocol.xyz",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xd8ea8e35b2fcf37fcbd7933436b1a9b7ce7108bf"
+      }
+    ]
+  }
+}

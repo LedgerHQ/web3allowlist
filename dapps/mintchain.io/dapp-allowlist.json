@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mintchain",
+  "domain": "mintchain.io",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x575dbe0023d2602515a73d4f0b5ee857e8eba805"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x95cdd9632c924d2cb5586168cf0ba7640df30598"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xb5cedaf172425bdea4c186f6fcf30b367273da19"
+      }
+    ]
+  }
+}

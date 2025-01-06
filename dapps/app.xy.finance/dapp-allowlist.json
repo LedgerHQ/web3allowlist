@@ -45,6 +45,12 @@
       },
       {
         "address": "0xd195070107d853e55dad9a2e6e7e970c400e67b8"
+      },
+      {
+        "address": "0xcf446713ddf0e83f7527a260047f8ae89efae3e5"
+      },
+      {
+        "address": "0x6829bb7edd1360255b7fc6aecbbac029f47feeb3"
       }
     ],
     "zksync": [
@@ -53,11 +59,23 @@
       },
       {
         "address": "0x935283a00fbf8e40fd2f8c432a488f6addc8db67"
+      },
+      {
+        "address": "0xfa995b6540cbbe2becc00f00d5b8ce73523d1b51"
+      },
+      {
+        "address": "0x567e78308ac93176a897a4dad6aa3d2abb5a9477"
       }
     ],
     "avalanche": [
       {
         "address": "0x2c86f0ff75673d489b7d72d9986929a2b0ed596c"
+      },
+      {
+        "address": "0xcf446713ddf0e83f7527a260047f8ae89efae3e5"
+      },
+      {
+        "address": "0x66603051bcd56ec1237146159f528d0871e1525f"
       }
     ],
     "arbitrum": [
@@ -66,6 +84,14 @@
       },
       {
         "address": "0x33383265290421c704c6b09f4bf27ce574dc4203"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xcf446713ddf0e83f7527a260047f8ae89efae3e5"
+      },
+      {
+        "address": "0x66603051bcd56ec1237146159f528d0871e1525f"
       }
     ]
   }

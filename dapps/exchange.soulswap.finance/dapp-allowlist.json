@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Soulswap",
+  "domain": "exchange.soulswap.finance",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xa4594460a9d3d41e8b85542d34e23adabc3c86ef"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x6b3d631b87fe27af29efec61d2ab8ce4d621ccbf"
+      }
+    ]
+  }
+}

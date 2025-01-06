@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dexilla",
+  "domain": "dexilla.com",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x795205f3d4c2132532a3a379cfa747c7a5b1aa90"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x3f7f51983fb95084a5cb73eb2f28757bd8bb65e3"
+      }
+    ]
+  }
+}

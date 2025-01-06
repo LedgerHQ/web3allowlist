@@ -28,6 +28,16 @@
       {
         "address": "0x777e05d02ea7b42f32f103c089c175017082f531"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0xc47d2752eaa7e7736ba8629bf85bf967cf95b6d9"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xa731a771a5d41afcd5ec235b5bc4318d60b1bcda"
+      }
     ]
   }
 }

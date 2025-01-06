@@ -22,6 +22,9 @@
     "base": [
       {
         "address": "0x7b2e3fc7510d1a51b3bef735f985446589219354"
+      },
+      {
+        "address": "0x809e02be51e6c01e626b252021eac254b5374b99"
       }
     ],
     "arbitrum": [
@@ -37,6 +40,9 @@
     "zksync": [
       {
         "address": "0xdf3e4da3ee75f1018d277222967ce3d69f3271d9"
+      },
+      {
+        "address": "0xd16eb756136b4128cac1158eaed72e33553f0eb3"
       }
     ],
     "optimism": [
@@ -47,6 +53,11 @@
     "ethereum": [
       {
         "address": "0x7b2e3fc7510d1a51b3bef735f985446589219354"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x4268ddd4f1b2ab737729ec7a0c08c8510ad6a85c"
       }
     ]
   }

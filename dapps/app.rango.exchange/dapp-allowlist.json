@@ -33,6 +33,11 @@
       {
         "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
       }
+    ],
+    "fantom": [
+      {
+        "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+      }
     ]
   }
 }

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Intswap",
+  "domain": "intswap.io",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x4cbf0bb291cd8f769f698d1751e2d4e26ee07b07"
+      }
+    ]
+  }
+}

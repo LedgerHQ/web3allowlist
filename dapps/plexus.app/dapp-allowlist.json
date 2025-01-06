@@ -13,6 +13,31 @@
       {
         "address": "0xe5f17f9dfb6d229619c9b36df5efe38c439ba509"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x7667915530fbf47ff822770d2a4458766abcccbc"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x589f2ecb4e20c204485e8c9a211a4dda68e12295"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x9932612e3988129f2167a34a77da600fd4f0a744"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x80ae06757c1e467425fd25bb85d8b51d977f50bf"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x58476d800ab7979114c9fdc8146c69aae19a62eb"
+      }
     ]
   }
 }

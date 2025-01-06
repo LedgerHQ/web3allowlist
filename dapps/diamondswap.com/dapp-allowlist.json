@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Diamondswap",
+  "domain": "diamondswap.com",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xa4cbf1e40d8aaa011a667ae2082dde6b944e24bc"
+      }
+    ]
+  }
+}

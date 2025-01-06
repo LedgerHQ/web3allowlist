@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Feefree",
+  "domain": "app.feefree.fi",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x0feeb68668672b3d6bf3e01455164a24b266c400"
+      }
+    ]
+  }
+}

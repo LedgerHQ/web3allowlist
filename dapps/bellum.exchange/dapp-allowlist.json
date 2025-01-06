@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bellum",
+  "domain": "bellum.exchange",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x4274f80635183e9be3c16e1313a16f929b61e00e"
+      }
+    ]
+  }
+}

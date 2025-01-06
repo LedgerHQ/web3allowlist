@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Crowdswap",
+  "domain": "app.crowdswap.org",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x90a32c5328fb50e59083dc80f7534f88a4ee2a58"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x5ebd2ccfec1a7133cbe45de4d9e0a0ec3917524a"
+      }
+    ]
+  }
+}

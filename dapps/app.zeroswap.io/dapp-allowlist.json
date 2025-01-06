@@ -13,6 +13,11 @@
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x36a1acbbcafca2468b85011ddd16e7cb4d673230"
+      }
     ]
   }
 }

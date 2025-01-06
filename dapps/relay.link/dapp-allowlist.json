@@ -31,6 +31,24 @@
       {
         "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0xa1bea5fe917450041748dbbbe7e9ac57a4bbebab"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xa1bea5fe917450041748dbbbe7e9ac57a4bbebab"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xebd1e414ebb98522cfd932104ba41fac10a4ef35"
+      },
+      {
+        "address": "0xad822d7f6ba100f1a74834e5d3c24b95f1434cbb"
+      }
     ]
   }
 }

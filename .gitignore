@@ -4,6 +4,7 @@ scripts/.scala-build/
 .metals/*
 .vscode/*
 .github/scripts/.bsp
+.github/workflows/monthly-kleros-sync.yml
 Kleros_update_logs.txt
 setup.cfg
 PR_comments.txt

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Vivaleva",
+  "domain": "vivaleva.com",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x23fdd6487a17abb8360e8da8b1b370c94ee94cc2"
+      }
+    ]
+  }
+}

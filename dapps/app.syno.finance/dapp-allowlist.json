@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Syno",
+  "domain": "app.syno.finance",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xf5b2b5f495756c5486acf73222e7400c7a0e28a6"
+      }
+    ]
+  }
+}

@@ -13,6 +13,11 @@
       {
         "address": "0x242ea2a8c4a3377a738ed8a0d8cc0fe8b4d6c36e"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0x8f957ed3f969d7b6e5d6df81e61a5ff45f594dd1"
+      }
     ]
   }
 }

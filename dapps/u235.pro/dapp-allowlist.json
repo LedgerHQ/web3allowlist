@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "U235",
+  "domain": "u235.pro",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xbeb05a232534c8265b21d52cc88039b268bed9de"
+      }
+    ]
+  }
+}

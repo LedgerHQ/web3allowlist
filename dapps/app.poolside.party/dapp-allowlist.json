@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Poolside",
+  "domain": "app.poolside.party",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x44e7061f723ff38c501d6334b23337dad87187f4"
+      }
+    ]
+  }
+}

@@ -8,6 +8,11 @@
       {
         "address": "0xa7c16f3c771aebaf01a34c534dbfee4645dcf083"
       }
+    ],
+    "avalanche": [
+      {
+        "address": "0xd195e49514d3785dbdf3d4685c2b8daf5dec0cd4"
+      }
     ]
   }
 }

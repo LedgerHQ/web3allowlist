@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Chadfinance",
+  "domain": "chadfinance.xyz",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xf9fda3eecb1398e7c084a0a93ceb90f1d5937d91"
+      }
+    ]
+  }
+}

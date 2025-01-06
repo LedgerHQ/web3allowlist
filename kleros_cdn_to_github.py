@@ -5,6 +5,7 @@ the structure needed for this repository.
 If you are iterating and need to repeat a pull,
 use "git reset --hard HEAD && git clean -fd"
 to reset the directory back to last commit.
+Then 'npx prettier --write "**/*.json"' to reformat all JSON files after the sync.
 """
 
 # to the original state if it's needed to repeat a run

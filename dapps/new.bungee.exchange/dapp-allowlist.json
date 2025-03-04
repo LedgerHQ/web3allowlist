@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bungee",
+  "domain": "new.bungee.exchange",
+  "chains": {
+    "base": [
+      {
+        "address": "0xec26f64d0bbe1ecd417be50e6b99769ab17d114b"
+      },
+      {
+        "address": "0x32c8c3120ef08e5b44b57e8c4f001de1f2baacc3"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xec1b393ded5c92e8f9bcfedbac2944257eb0184a"
+      },
+      {
+        "address": "0x2837593949f6c5f7abb66dd848ed4e5b774d4ef5"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xf71ecefb88e4347def3c12685a3c6a438f7c171a"
+      },
+      {
+        "address": "0xa97296b55cf7bbaf6cb2e3ddc233f020e19797e4"
+      }
+    ]
+  }
+}

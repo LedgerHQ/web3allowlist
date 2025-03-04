@@ -189,6 +189,9 @@
     "base": [
       {
         "address": "0x987bfbe33c9cf18caa665b792db66339a9c16d32"
+      },
+      {
+        "address": "0x8b09db11ea380d6454d2592d334ffc319ce6ef3e"
       }
     ],
     "optimism": [

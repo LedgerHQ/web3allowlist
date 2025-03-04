@@ -53,6 +53,12 @@
     "base": [
       {
         "address": "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf"
+      },
+      {
+        "address": "0xb125e6687d4313864e53df431d5425969c15eb2f"
+      },
+      {
+        "address": "0x784efeb622244d2348d4f2522f8860b96fbece89"
       }
     ],
     "scroll": [

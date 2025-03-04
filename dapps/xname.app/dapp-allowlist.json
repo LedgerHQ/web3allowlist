@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Xname",
+  "domain": "xname.app",
+  "chains": {
+    "base": [
+      {
+        "address": "0x3b40a97cd90b079ba627d06ebd9449bb9eb3588b"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x4c340a9f4f757eb92252e73007229743dd559124"
+      }
+    ]
+  }
+}

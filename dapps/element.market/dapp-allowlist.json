@@ -43,6 +43,9 @@
     "base": [
       {
         "address": "0xa39a5f160a1952ddf38781bd76e402b0006912a9"
+      },
+      {
+        "address": "0x000000009ca83fc2e014b149fe7530174de0d938"
       }
     ],
     "arbitrum": [

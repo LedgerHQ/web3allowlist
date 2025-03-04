@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Virtuals",
+  "domain": "app.virtuals.io",
+  "chains": {
+    "base": [
+      {
+        "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+      },
+      {
+        "address": "0x5965851f21dae82ea7c62f87fb7c57172e9f2add"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xf956d9fa19656d8e5219fd6fa8ba6cb198094138"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x4040bec373f6e8be2f913324de94a7b9242e5e92"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xf956d9fa19656d8e5219fd6fa8ba6cb198094138"
+      }
+    ]
+  }
+}

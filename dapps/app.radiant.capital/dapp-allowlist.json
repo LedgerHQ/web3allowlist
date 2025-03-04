@@ -24,6 +24,14 @@
       {
         "address": "0xc46963a9eaf81f5beb0b11413687f87a874e2d13"
       }
+    ],
+    "base": [
+      {
+        "address": "0x18baa31ba51c63b7d4eb4cb15870dddc8918900a"
+      },
+      {
+        "address": "0x2455485c868c94781aa25f3fe9a5f9a6771d659c"
+      }
     ]
   }
 }

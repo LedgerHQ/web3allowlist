@@ -7,6 +7,9 @@
     "zksync": [
       {
         "address": "0x8b791913eb07c32779a16750e3868aa8495f5964"
+      },
+      {
+        "address": "0x3388530fbaf0c916fa7c0390413dfb178cb33cbb"
       }
     ]
   }

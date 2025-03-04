@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Impermax",
+  "domain": "base.impermax.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0x1ebc3b5911b99adde07944c75d9e03958abdb49f"
+      },
+      {
+        "address": "0x21d9d4d17255d427a5f77d23fb9eb3c5cd281ebf"
+      },
+      {
+        "address": "0xc5d6cb2205349cc94684e7acf012751344bc58f7"
+      },
+      {
+        "address": "0x1201055a23252604a859c7211ee3469da46e6c5d"
+      },
+      {
+        "address": "0x965c3f8dc3aa446b268ab3bca4d7e82b788ffe96"
+      }
+    ]
+  }
+}

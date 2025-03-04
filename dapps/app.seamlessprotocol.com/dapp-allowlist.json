@@ -37,6 +37,12 @@
     "base": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x2fb1bea0a63f77efa77619b903b2830b52ee78f4"
+      },
+      {
+        "address": "0x5ed6167232b937b0a5c84b49031139f405c09c8a"
       }
     ]
   }

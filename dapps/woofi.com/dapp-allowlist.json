@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Woofi",
+  "domain": "woofi.com",
+  "chains": {
+    "zksync": [
+      {
+        "address": "0x1d686250bbffa9fe120b591f5992dd7fc0fd99a4"
+      }
+    ]
+  }
+}

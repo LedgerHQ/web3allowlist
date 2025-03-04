@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Superform",
+  "domain": "superform.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0xa195608c2306a26f727d5199d5a382a4508308da"
+      }
+    ]
+  }
+}

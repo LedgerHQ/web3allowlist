@@ -88,6 +88,11 @@
       {
         "address": "0xcabf0b8cc4e81c505756e7e420b775a737478d74"
       }
+    ],
+    "base": [
+      {
+        "address": "0xcabf0b8cc4e81c505756e7e420b775a737478d74"
+      }
     ]
   }
 }

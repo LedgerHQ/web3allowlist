@@ -7,6 +7,9 @@
     "base": [
       {
         "address": "0x02f55d53dce23b4aa962cc68b0f685f26143bdb2"
+      },
+      {
+        "address": "0xc0ac932cac7b4d8f7c31792082e2e8f3cfe99c10"
       }
     ],
     "arbitrum": [

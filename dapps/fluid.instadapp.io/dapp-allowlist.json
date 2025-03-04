@@ -14,6 +14,14 @@
       {
         "address": "0xbec491fef7b4f666b270f9d5e5c3f443cbf20991"
       }
+    ],
+    "base": [
+      {
+        "address": "0x9272d6153133175175bc276512b2336be3931ce9"
+      },
+      {
+        "address": "0xf42f5795d9ac7e9d757db633d693cd548cfd9169"
+      }
     ]
   }
 }

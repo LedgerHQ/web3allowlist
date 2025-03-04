@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Based",
+  "domain": "app.based.gift",
+  "chains": {
+    "base": [
+      {
+        "address": "0xe52a9cecdce5e66e283d355491c12166c3ad6d7d"
+      }
+    ]
+  }
+}

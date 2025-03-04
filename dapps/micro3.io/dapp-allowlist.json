@@ -39,6 +39,9 @@
     "base": [
       {
         "address": "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+      },
+      {
+        "address": "0x3004910cf9f2bf4bbc8506f9a3a84e2c02871633"
       }
     ],
     "zksync": [

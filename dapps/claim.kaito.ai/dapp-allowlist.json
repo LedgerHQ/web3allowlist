@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Kaito",
+  "domain": "claim.kaito.ai",
+  "chains": {
+    "base": [
+      {
+        "address": "0xeb7d383b0c77ea0bed28b42d0c288f9071bd8a7a"
+      }
+    ]
+  }
+}

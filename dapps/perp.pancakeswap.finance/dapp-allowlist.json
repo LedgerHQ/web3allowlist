@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Pancakeswap",
+  "domain": "perp.pancakeswap.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0x9d93e5b2364070bc9837e91833f162430246dd57"
+      }
+    ]
+  }
+}

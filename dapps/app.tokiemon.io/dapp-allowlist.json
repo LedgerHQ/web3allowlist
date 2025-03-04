@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Tokiemon",
+  "domain": "app.tokiemon.io",
+  "chains": {
+    "base": [
+      {
+        "address": "0x85f85b90783e5c2e59b785458143d08de959b4e9"
+      }
+    ]
+  }
+}

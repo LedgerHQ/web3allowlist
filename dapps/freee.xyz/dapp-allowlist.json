@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Freee",
+  "domain": "freee.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0xed5b1f08a7f17aa351d9dda9ab89efb97fc30be1"
+      },
+      {
+        "address": "0x175da349305cec075ce75a3b3cfe342d395c5601"
+      },
+      {
+        "address": "0x4d39479c7346447970d29ff3c3aa3d0f08e99ea9"
+      },
+      {
+        "address": "0x1f8ea6292ea42d381cf8439347ad70bf2b47c7b5"
+      },
+      {
+        "address": "0xd91a7df66bc1617629b72d23f4c84427b02f4d42"
+      },
+      {
+        "address": "0x3d1c5f15407d011910b5c593524cf458f583e05b"
+      },
+      {
+        "address": "0x849858b636176e62bfda83d3b2eeb0e48d07a9e4"
+      },
+      {
+        "address": "0x2cd746f4a22867776576a18daeae43d8134b6153"
+      },
+      {
+        "address": "0xea4120afc17f75f21dc82b15669f749af92034ad"
+      },
+      {
+        "address": "0x795b2e70142409337a45678f56cba3fe9f550d08"
+      },
+      {
+        "address": "0xd411af8105db611ae717d7b42aa1985b48575f67"
+      },
+      {
+        "address": "0x580385970bdc973db48fad7c777551ea33aefa97"
+      }
+    ]
+  }
+}

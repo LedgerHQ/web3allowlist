@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Avantisfi",
+  "domain": "avantisfi.com",
+  "chains": {
+    "base": [
+      {
+        "address": "0x6914110efe4e61cfa0f28de5f6606baa33d21693"
+      },
+      {
+        "address": "0x83084cb182162473d6feffcd3aa48ba55a7b66f7"
+      },
+      {
+        "address": "0x944766f715b51967e56afde5f0aa76ceacc9e7f9"
+      },
+      {
+        "address": "0x5ff292d70ba9cd9e7ccb313782811b3d7120535f"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+      }
+    ]
+  }
+}

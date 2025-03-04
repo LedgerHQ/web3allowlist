@@ -50,6 +50,23 @@
       {
         "address": "0x58f45c4bb4b940d01594d1a82efe169c8c238723"
       }
+    ],
+    "base": [
+      {
+        "address": "0x29d24b2ac84e51f842fb8c1533cd972eb83c65ce"
+      },
+      {
+        "address": "0x5137eedb91a5f2cc68e86dca15ad5c2b541654f8"
+      },
+      {
+        "address": "0xc24b421b5608157ddc9a8dc8c6024cb852931f33"
+      },
+      {
+        "address": "0xdad329378a7c0b81e5a846e1fe16c76513b58972"
+      },
+      {
+        "address": "0xf4dc475961095021a0fbfb17d336a6f0f13863af"
+      }
     ]
   }
 }

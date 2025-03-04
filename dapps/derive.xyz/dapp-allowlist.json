@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Derive",
+  "domain": "derive.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0x9628bba16db41ea7fe1fd84f9ce53bc27c63f59b"
+      }
+    ]
+  }
+}

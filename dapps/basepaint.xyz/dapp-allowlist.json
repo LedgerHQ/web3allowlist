@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Basepaint",
+  "domain": "basepaint.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0xaff1a9e200000061fc3283455d8b0c7e3e728161"
+      }
+    ]
+  }
+}

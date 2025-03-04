@@ -30,6 +30,11 @@
       {
         "address": "0x552fcecc218158fff20e505c8f3ad24f8e1dd33c"
       }
+    ],
+    "base": [
+      {
+        "address": "0x3d1b389f1707db3d4c5344d5669dbda6b5d6ab51"
+      }
     ]
   }
 }

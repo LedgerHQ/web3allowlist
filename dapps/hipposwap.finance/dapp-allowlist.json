@@ -7,6 +7,17 @@
     "scroll": [
       {
         "address": "0xa33db50b90e35378faee4058deaab2b392989b65"
+      },
+      {
+        "address": "0x90f1ef9d2cde204c8494cf73130771b350070b53"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x36b356187ba614ee19bf79a080cac9c0a12c9206"
+      },
+      {
+        "address": "0x90f1ef9d2cde204c8494cf73130771b350070b53"
       }
     ]
   }

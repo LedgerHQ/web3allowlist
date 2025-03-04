@@ -22,6 +22,12 @@
     "base": [
       {
         "address": "0x3758aa66cad9f2606f1f501c9cb31b94b713a6d5"
+      },
+      {
+        "address": "0xb5cedaf172425bdea4c186f6fcf30b367273da19"
+      },
+      {
+        "address": "0x691df9c4561d95a4a726313089c8536dd682b946"
       }
     ],
     "zksync": [

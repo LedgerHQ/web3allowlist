@@ -77,6 +77,17 @@
       {
         "address": "0x4406ebeb7028fc0fc06bb7706a736ac6ada8d2bf"
       }
+    ],
+    "base": [
+      {
+        "address": "0x0389879e0156033202c44bf784ac18fc02edee4f"
+      },
+      {
+        "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+      },
+      {
+        "address": "0x3335733c454805df6a77f825f266e136fb4a3333"
+      }
     ]
   }
 }

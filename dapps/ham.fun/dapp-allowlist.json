@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ham",
+  "domain": "ham.fun",
+  "chains": {
+    "base": [
+      {
+        "address": "0x0929222bc7cc533aecc1ccfe9d9bd6ecbb0cbf43"
+      }
+    ]
+  }
+}

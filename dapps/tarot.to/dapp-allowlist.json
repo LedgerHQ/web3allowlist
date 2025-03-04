@@ -45,6 +45,11 @@
       {
         "address": "0xd7cabef2c1fd77a31c5ba97c724b82d3e25fc83c"
       }
+    ],
+    "zksync": [
+      {
+        "address": "0x61bb845a4797a6ddd2bae9f0926a2019d7556aad"
+      }
     ]
   }
 }

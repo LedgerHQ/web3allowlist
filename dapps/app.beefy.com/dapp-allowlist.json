@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Beefy",
+  "domain": "app.beefy.com",
+  "chains": {
+    "base": [
+      {
+        "address": "0x0827a181c868142dc92cc94715f7b79d763ebb21"
+      },
+      {
+        "address": "0xa3d7c94ce8fd211902343c3f92e307077ea88506"
+      }
+    ]
+  }
+}

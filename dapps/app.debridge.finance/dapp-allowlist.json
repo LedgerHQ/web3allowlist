@@ -27,6 +27,9 @@
     "base": [
       {
         "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
       }
     ],
     "polygon": [
@@ -37,6 +40,9 @@
     "avalanche": [
       {
         "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
       }
     ],
     "gnosis": [

@@ -20,6 +20,9 @@
     "base": [
       {
         "address": "0xbab3be86465b704ee367c8427ee1595530882a4c"
+      },
+      {
+        "address": "0xebecf6fdea4987e522ac29324dee1c8e52e9db09"
       }
     ],
     "optimism": [

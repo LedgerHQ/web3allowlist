@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Routernitro",
+  "domain": "routernitro.com",
+  "chains": {
+    "base": [
+      {
+        "address": "0xfa14a71f6647bde075bf16880ee7055c3b553237"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x30b8eb0eeb0b4e3927b78e45327278c05bf24775"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x6446c9f678764c8b69a75aedd5b505e239dffb63"
+      }
+    ]
+  }
+}

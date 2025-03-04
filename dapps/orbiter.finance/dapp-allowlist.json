@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Orbiter",
+  "domain": "orbiter.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0x06a9376d079bac1c5a83c3fd4c5a25b72ce35273"
+      }
+    ]
+  }
+}

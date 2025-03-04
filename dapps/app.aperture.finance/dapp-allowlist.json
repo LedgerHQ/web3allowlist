@@ -18,6 +18,12 @@
       },
       {
         "address": "0x00000000edb4489cb49fe07246f39345c9f838cd"
+      },
+      {
+        "address": "0x000000ca99cf8e1e53b4b7999180db3e1d032333"
+      },
+      {
+        "address": "0x000000c51119e2bde2419c5e6fd273a81b79a8e3"
       }
     ],
     "ethereum": [
@@ -42,6 +48,12 @@
     "avalanche": [
       {
         "address": "0xbb00ff08d01d300023c629e8ffffcb65a5a578ce"
+      },
+      {
+        "address": "0x00000075cd3dad5805699d0e1c5734e27b3264e3"
+      },
+      {
+        "address": "0x655c406ebfa14ee2006250925e54ec43ad184f8b"
       }
     ],
     "optimism": [
@@ -52,6 +64,12 @@
     "scroll": [
       {
         "address": "0xfc30937f5cde93df8d48acaf7e6f5d8d8a31f636"
+      },
+      {
+        "address": "0x00000027bc53f021f3564180f347425edaa20883"
+      },
+      {
+        "address": "0xb39002e4033b162fac607fc3471e205fa2ae5967"
       }
     ]
   }

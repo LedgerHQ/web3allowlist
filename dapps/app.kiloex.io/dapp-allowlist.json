@@ -18,6 +18,14 @@
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
+    ],
+    "base": [
+      {
+        "address": "0x796f1793599d7b6aca6a87516546ddf8e5f3aa9d"
+      },
+      {
+        "address": "0xdf5acc616cd3ea9556ec340a11b54859a393ebbb"
+      }
     ]
   }
 }

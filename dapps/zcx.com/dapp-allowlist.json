@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zcx",
+  "domain": "zcx.com",
+  "chains": {
+    "base": [
+      {
+        "address": "0xef58b643240178c2bc37681f8d4e50d7ec37ee22"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xef58b643240178c2bc37681f8d4e50d7ec37ee22"
+      }
+    ]
+  }
+}

@@ -8,6 +8,41 @@
       {
         "address": "0x0000000000664ceffed39244a8312bd895470803"
       }
+    ],
+    "base": [
+      {
+        "address": "0xd4c25ba48fd3032078daad4fe0f349f9fbe7af8e"
+      },
+      {
+        "address": "0xed5b1f08a7f17aa351d9dda9ab89efb97fc30be1"
+      },
+      {
+        "address": "0x080b00a2dd9bbd5c72a13dd4eab66583e46535ad"
+      },
+      {
+        "address": "0x175da349305cec075ce75a3b3cfe342d395c5601"
+      },
+      {
+        "address": "0x4319b477e7c02a80af3bfed922e35533dee18714"
+      },
+      {
+        "address": "0xcc72cc02397a1c0c61952f2884331261e004bb4a"
+      },
+      {
+        "address": "0x00005ea00ac477b1030ce78506496e8c2de24bf5"
+      },
+      {
+        "address": "0x26bbea7803dcac346d5f5f135b57cf2c752a02be"
+      },
+      {
+        "address": "0x1ee14980a60481dff6299896ddb50b4edec8824e"
+      },
+      {
+        "address": "0x92099615d1c6f3330a969f6422bed35b83f3e254"
+      },
+      {
+        "address": "0x39070d11b26bc6dc1b2ac4fbc8c346e8098b4549"
+      }
     ]
   }
 }

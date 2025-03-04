@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Rocketswap",
+  "domain": "app.rocketswap.cc",
+  "chains": {
+    "base": [
+      {
+        "address": "0x4cf76043b3f97ba06917cbd90f9e3a2aac1b306e"
+      }
+    ]
+  }
+}

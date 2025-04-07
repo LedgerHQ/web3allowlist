@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Anglez",
+  "domain": "anglez.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0x2f8c2a675962ecb07505684eea496d02d5a9124a"
+      }
+    ]
+  }
+}

@@ -31,6 +31,11 @@
       {
         "address": "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
       }
+    ],
+    "base": [
+      {
+        "address": "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
+      }
     ]
   }
 }

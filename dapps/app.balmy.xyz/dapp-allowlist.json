@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Balmy",
+  "domain": "app.balmy.xyz",
+  "chains": {
+    "base": [
+      {
+        "address": "0xed306e38bb930ec9646ff3d917b2e513a97530b1"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xed306e38bb930ec9646ff3d917b2e513a97530b1"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xed306e38bb930ec9646ff3d917b2e513a97530b1"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xed306e38bb930ec9646ff3d917b2e513a97530b1"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xed306e38bb930ec9646ff3d917b2e513a97530b1"
+      }
+    ]
+  }
+}

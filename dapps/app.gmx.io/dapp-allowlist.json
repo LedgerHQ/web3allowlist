@@ -14,6 +14,14 @@
       {
         "address": "0xb95db5b167d75e6d04227cfffa61069348d271f5"
       }
+    ],
+    "avalanche": [
+      {
+        "address": "0x820f5ffc5b525cd4d88cd91acf2c28f16530cc68"
+      },
+      {
+        "address": "0xe37d052e1deb99901de205e7186e31a36e4ef70c"
+      }
     ]
   }
 }

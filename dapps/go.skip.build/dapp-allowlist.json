@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Skip",
+  "domain": "go.skip.build",
+  "chains": {
+    "base": [
+      {
+        "address": "0x36b356187ba614ee19bf79a080cac9c0a12c9206"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xbb00ff08d01d300023c629e8ffffcb65a5a578ce"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x5615cdab10dc425a742d643d949a7f474c01abc4"
+      }
+    ]
+  }
+}

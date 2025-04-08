@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ape",
+  "domain": "ape.store",
+  "chains": {
+    "base": [
+      {
+        "address": "0xc750af290bb41ca5dec04f22cd1318e940dd826a"
+      }
+    ]
+  }
+}

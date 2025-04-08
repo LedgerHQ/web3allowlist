@@ -17,6 +17,17 @@
       {
         "address": "0x53f451165ba6fdbe39a134673d13948261b2334a"
       }
+    ],
+    "base": [
+      {
+        "address": "0xf1814213a5ef856aaa1fdb0f7f375569168d8e73"
+      },
+      {
+        "address": "0x62037b26fff91929655aa3a060f327b47d1e2b3e"
+      },
+      {
+        "address": "0x7b503e206db34148ad77e00afe214034edf9e3ff"
+      }
     ]
   }
 }

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ring",
+  "domain": "ring.exchange",
+  "chains": {
+    "base": [
+      {
+        "address": "0x9a8c67c02250ec50f16b6143d139cbdb131f1e07"
+      }
+    ]
+  }
+}

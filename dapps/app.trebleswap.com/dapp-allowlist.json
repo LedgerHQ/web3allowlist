@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Trebleswap",
+  "domain": "app.trebleswap.com",
+  "chains": {
+    "base": [
+      {
+        "address": "0x347539d82a14c0a3a89769f1024774a545a151ac"
+      },
+      {
+        "address": "0x8af77104fbd827c2d2d09639f4ddd3048681c8ab"
+      },
+      {
+        "address": "0x56404bbf3cc262fb9f365e7ab82ed142cb9d4a38"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xa33db50b90e35378faee4058deaab2b392989b65"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ]
+  }
+}

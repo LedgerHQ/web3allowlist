@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Nereus",
+  "domain": "app.nereus.finance",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0xcf9477a5e24c0c42122bfa9a06e02ebbb5b2b0fd"
+      }
+    ]
+  }
+}

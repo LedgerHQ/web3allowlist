@@ -85,6 +85,9 @@
       },
       {
         "address": "0x22a86c07d13cf8b8a27f750393baeca96c0a5a0f"
+      },
+      {
+        "address": "0xf20c60a68e9fa5a293251fd62a6783879aad16a1"
       }
     ],
     "zksync": [
@@ -147,6 +150,27 @@
       },
       {
         "address": "0x71a4746a20223150dce1ad2540038a59fedab6b7"
+      },
+      {
+        "address": "0x60190b57c79519e72311f467cadedc814239875d"
+      },
+      {
+        "address": "0x8089da98fff13ac288e6e4c115b2d8f9d0c95927"
+      },
+      {
+        "address": "0x39d31356706e9b9c819bc17586d65368199e7213"
+      },
+      {
+        "address": "0xd339489caea27e248ec6782123f9ffd8fe7f9468"
+      },
+      {
+        "address": "0x3c082b52e8ae130ed9671a092feb9044f2c5d459"
+      },
+      {
+        "address": "0x399d78873db5b12d87f123531a443c7b302f059a"
+      },
+      {
+        "address": "0x8f5499fdc8e62bf4ed8779a467c98afcbaa4ed18"
       }
     ],
     "base": [
@@ -209,6 +233,42 @@
       },
       {
         "address": "0x1088dac74caedfb71ece07a95a37a4a9a4c88812"
+      },
+      {
+        "address": "0xbbd625ffa0f5a8fe4d914a036e9c87f3bbdcafd9"
+      },
+      {
+        "address": "0xb2a58ea12ee19ec6e2dc5ef220ae428c72f25c8a"
+      },
+      {
+        "address": "0x7dece93b907718d725ad910edd1a753484a33930"
+      },
+      {
+        "address": "0xe446bc33208496a39e43437130da7a3edc8de2de"
+      },
+      {
+        "address": "0x4fa4d6ae4f37d9b8311609f5045f9fd4a9e1a319"
+      },
+      {
+        "address": "0x5dc352c8c8668f4f9bb60af0e75bd20a47f8f412"
+      },
+      {
+        "address": "0xcf8468d8f02ef08b3bac389c86aaa8d71ca46e97"
+      },
+      {
+        "address": "0xb2b65cf0b7d1929795b4ba1d99d1bf33d071452d"
+      },
+      {
+        "address": "0x3db8198be5de3decb431714ac84ca400bc60cedf"
+      },
+      {
+        "address": "0x244bab799503c49fc5e2f203cf26817da6696f50"
+      },
+      {
+        "address": "0x40a8b29b9bba1be3507c83ffa7ee52fa1e507386"
+      },
+      {
+        "address": "0x906e1a80fd7904992ec2b9d87ebfbe07f03a667f"
       }
     ]
   }

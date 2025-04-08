@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Lfj",
+  "domain": "lfj.gg",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x45a62b090df48243f12a21897e7ed91863e2c86b"
+      }
+    ]
+  }
+}

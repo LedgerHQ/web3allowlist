@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Crosscurve",
+  "domain": "app.crosscurve.fi",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0xa2a786ff9148f7c88ee93372db8cbe9e94585c74"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xa2a786ff9148f7c88ee93372db8cbe9e94585c74"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xa2a786ff9148f7c88ee93372db8cbe9e94585c74"
+      }
+    ]
+  }
+}

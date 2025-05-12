@@ -18,6 +18,9 @@
       },
       {
         "address": "0x89d43d991f47924dd47c9b6a7fa17c6a15091999"
+      },
+      {
+        "address": "0x44f32c85258d66327aeac9db6cb9446b7c0fb578"
       }
     ],
     "zksync": [
@@ -40,11 +43,24 @@
       },
       {
         "address": "0x575dbe0023d2602515a73d4f0b5ee857e8eba805"
+      },
+      {
+        "address": "0x716d5dd0593ca5ddf8c91a9ee40685f7525e4fc6"
       }
     ],
     "avalanche": [
       {
         "address": "0x05c4c16f7aaf68efca9b32f5e6ae260fa2c26b2c"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x983811d9b6bed77b36818cb58fe49d91e2d8be98"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xd9d05c8971fb0e82f3640790fb845225a6e04af9"
       }
     ]
   }

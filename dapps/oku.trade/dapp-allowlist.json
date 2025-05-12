@@ -12,6 +12,15 @@
     "arbitrum": [
       {
         "address": "0x4c60051384bd2d3c01bfc845cf5f4b44bcbe9de5"
+      },
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      },
+      {
+        "address": "0x01d8edb8ef96119d6bada3f50463dee6fe863b4c"
+      },
+      {
+        "address": "0x246475e1f63d8e26d6f4fb6029033da8831ed396"
       }
     ],
     "zksync": [

@@ -24,6 +24,12 @@
       },
       {
         "address": "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+      },
+      {
+        "address": "0xeb57de1f78304cf925405efc1089793aabddb0d5"
+      },
+      {
+        "address": "0x15392211222b46a0ea85a9a800830486d144848d"
       }
     ],
     "arbitrum": [
@@ -32,6 +38,12 @@
       },
       {
         "address": "0xbd96bca0d3a4fcc18dc44d333a7851c513772289"
+      },
+      {
+        "address": "0x34cdce58cbdc6c54f2ac808a24561d0ab18ca8be"
+      },
+      {
+        "address": "0xd0daa14d983a40b4c91f7b6875faa8d27f024e73"
       }
     ],
     "bsc": [

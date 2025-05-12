@@ -34,6 +34,12 @@
     "arbitrum": [
       {
         "address": "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+      },
+      {
+        "address": "0x2f5c25874302558299e955d29619c6f4b9a16610"
+      },
+      {
+        "address": "0x11ad53000e1dc7071cab751e47f6c0687538e272"
       }
     ],
     "base": [
@@ -52,6 +58,14 @@
     "scroll": [
       {
         "address": "0x2f5c25874302558299e955d29619c6f4b9a16610"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x2f5c25874302558299e955d29619c6f4b9a16610"
+      },
+      {
+        "address": "0x3004910cf9f2bf4bbc8506f9a3a84e2c02871633"
       }
     ]
   }

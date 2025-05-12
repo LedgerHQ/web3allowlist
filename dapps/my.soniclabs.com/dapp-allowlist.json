@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Soniclabs",
+  "domain": "my.soniclabs.com",
+  "chains": {
+    "fantom": [
+      {
+        "address": "0x3561607590e28e0848ba3b67074c676d6d1c9953"
+      }
+    ]
+  }
+}

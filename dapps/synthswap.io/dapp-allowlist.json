@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Synthswap",
+  "domain": "synthswap.io",
+  "chains": {
+    "base": [
+      {
+        "address": "0x2dd788d8b399caa4ee92b5492a6a238fdf2437de"
+      },
+      {
+        "address": "0x2b1df2fc773554fb5a5c04ca66104436dace9778"
+      }
+    ]
+  }
+}

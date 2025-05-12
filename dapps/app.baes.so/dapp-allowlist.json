@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Baes",
+  "domain": "app.baes.so",
+  "chains": {
+    "base": [
+      {
+        "address": "0xb13655501ae155d2776e0069ee7b3ccf62308bcd"
+      },
+      {
+        "address": "0x50b96f0808ff619affb8404ba83d7e712a21d57f"
+      },
+      {
+        "address": "0x5876236942a5fb47cfa64d96e1792ae1426d09e5"
+      },
+      {
+        "address": "0xb86932028bc6911303a7759aa34546675205717f"
+      },
+      {
+        "address": "0xd7d7e5961d25c01fa1b7528869b228181d895000"
+      },
+      {
+        "address": "0xdd896b710cc6a9bb69ea854db40e3565c373cbcb"
+      },
+      {
+        "address": "0x07a56f0937192285e74abdd916c8ef7b311d1767"
+      },
+      {
+        "address": "0xb16823c7aabc548b657087b76ef053a0f187269a"
+      },
+      {
+        "address": "0x2b2e03ba6aa8d0f0129c8c7c192ce7a9bbb1f852"
+      },
+      {
+        "address": "0x791978cf8d39866765f7a34ceb33114f2b862a17"
+      },
+      {
+        "address": "0xd19dc8f69d0be79fa488f8ee72dcc46e1267da50"
+      },
+      {
+        "address": "0x4bc14685708a803b36de324ad1ca1c7786400efc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Bmx",
+  "domain": "classic.bmx.trade",
+  "chains": {
+    "base": [
+      {
+        "address": "0x6456039168d3fe3bc5fcd9e46f3b716c1abd4ff4"
+      }
+    ]
+  }
+}

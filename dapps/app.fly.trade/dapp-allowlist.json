@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Fly",
+  "domain": "app.fly.trade",
+  "chains": {
+    "base": [
+      {
+        "address": "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f"
+      },
+      {
+        "address": "0x5e766616aabfb588e23a8ea854e9dbd1042affd3"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x34cdce58cbdc6c54f2ac808a24561d0ab18ca8be"
+      },
+      {
+        "address": "0x3611b82c7b13e72b26eb0e9be0613bee7a45ac7c"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xeb57de1f78304cf925405efc1089793aabddb0d5"
+      },
+      {
+        "address": "0xa6e941eab67569ca4522f70d343714ff51d571c4"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xd0daa14d983a40b4c91f7b6875faa8d27f024e73"
+      },
+      {
+        "address": "0xfb1b08ba6ba284934d817ea3c9d18f592cc59a50"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x3ca605083506096fba34461b471db7ed03290b2d"
+      },
+      {
+        "address": "0x9ee06954418687c6fb3a9966f7c46e0a245f0183"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x9a82d959bfbcb1677585f111eca12a53c369c1b3"
+      },
+      {
+        "address": "0xb44958ff91b4b67d8d4db010e38ccffe52551ecb"
+      }
+    ]
+  }
+}

@@ -324,6 +324,56 @@
       {
         "address": "0xb0ba43c83bbc6358d32b6dd755903ed61f2e25e5"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x6e8ea7dbc5e6a365e56bc73ea4b7ad3176d9534e"
+      },
+      {
+        "address": "0x93998e4d1bc5eb5d0d0dc86e3b3ec79f380693df"
+      },
+      {
+        "address": "0x2dc9ebca87aa5be3705a6ad9fd592f76cc98f449"
+      },
+      {
+        "address": "0x1f6acc014631dafd8b677b640a2a93a720806c70"
+      },
+      {
+        "address": "0x5dbe3634b20b9a74aca070700a1132277e83cb78"
+      },
+      {
+        "address": "0x7e2c80500a18889446eb422b42537e17d65fc0b3"
+      },
+      {
+        "address": "0x140a917cb0248151dafe8b7974f52e116bab29d0"
+      },
+      {
+        "address": "0x312b52932c6ceb53e8e1341db37c951d457c6282"
+      },
+      {
+        "address": "0x438e1d694ff2a0f6403b24e683da04015bf91cc2"
+      },
+      {
+        "address": "0xbe78187728ada94a9ed2398e7b495fd5d8133266"
+      },
+      {
+        "address": "0x76a7cf4ce3385683665680392396623d42b4c8ad"
+      },
+      {
+        "address": "0xead1f8727c2e4f1a22f170226bda2b07da6f24f7"
+      },
+      {
+        "address": "0x7d6ef5317253220f7cd45b4d10560451afebc51e"
+      },
+      {
+        "address": "0xdd689669bcb1e39f6c06e8509b995a5b7a9743ff"
+      },
+      {
+        "address": "0xc98395018cd85f524611f159a43266ff68d1c562"
+      },
+      {
+        "address": "0x76db0683bab0dedcc7c326a053934a7c5c8badc7"
+      }
     ]
   }
 }

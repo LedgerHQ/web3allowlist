@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Okx",
+  "domain": "web3.okx.com",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0x88156aae243d7e2f8d92965581ff169183d8355e"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x3d98f6f05e7940c056788ff8492a943a0904240d"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x01d8edb8ef96119d6bada3f50463dee6fe863b4c"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x6945c67f153a50fd0041c2f786664d89d0cc28cb"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x88edbf47032fb84e45d6cd6d8199f28c7aa77076"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x38575264810371c15f0e5744fa2ab29cdef7245d"
+      }
+    ]
+  }
+}

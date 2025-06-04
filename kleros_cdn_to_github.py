@@ -15,6 +15,10 @@ import re
 from datetime import datetime, timezone
 
 import requests  # pylint: disable=import-error
+from dotenv import load_dotenv  # pylint: disable=import-error
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Helper function to deduce the website name from the domain
 
@@ -109,6 +113,7 @@ def create_query(latest_request_submission_time):  # pylint: disable=W0621
 
 # URL for the GraphQL endpoint
 URL = f"https://gateway.thegraph.com/api/{os.getenv('THE_GRAPH_API_KEY')}/subgraphs/id/9hHo5MpjpC1JqfD3BsgFnojGurXRHTrHWcUcZPPCo6m8"  # pylint: disable=line-too-long
+
 # Fetch all data with pagination
 all_query_results = []
 while True:

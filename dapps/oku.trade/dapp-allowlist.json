@@ -7,6 +7,9 @@
     "optimism": [
       {
         "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+      },
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
       }
     ],
     "arbitrum": [
@@ -21,6 +24,9 @@
       },
       {
         "address": "0x246475e1f63d8e26d6f4fb6029033da8831ed396"
+      },
+      {
+        "address": "0xf7ba155556e2cd4dfe3fe26e506a14d2f4b97613"
       }
     ],
     "zksync": [

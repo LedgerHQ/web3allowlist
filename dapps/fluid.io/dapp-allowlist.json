@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Fluid",
+  "domain": "fluid.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x45df0656f8adf017590009d2f1898eeca4f0a205"
+      }
+    ]
+  }
+}

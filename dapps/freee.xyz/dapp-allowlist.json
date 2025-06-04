@@ -103,6 +103,40 @@
       },
       {
         "address": "0xe7552085906f9ada7137597506d8c2fbfccc2e02"
+      },
+      {
+        "address": "0x755602a071ba88580f9c99f0048fb51a41e52bf1"
+      },
+      {
+        "address": "0xb37ca85e668633be932c1c42658af909ade9be85"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x175da349305cec075ce75a3b3cfe342d395c5601"
+      },
+      {
+        "address": "0x43d502c726f586dd8fce7e3b60284fb7e3a2f26d"
+      },
+      {
+        "address": "0x755602a071ba88580f9c99f0048fb51a41e52bf1"
+      },
+      {
+        "address": "0x6541cfe6f8a62731459d0f45a1ec6945072e67b9"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x175da349305cec075ce75a3b3cfe342d395c5601"
+      },
+      {
+        "address": "0x30051f97917644f28f6ff1ce1ed44f2a97c30e3b"
+      },
+      {
+        "address": "0x755602a071ba88580f9c99f0048fb51a41e52bf1"
+      },
+      {
+        "address": "0x6541cfe6f8a62731459d0f45a1ec6945072e67b9"
       }
     ]
   }

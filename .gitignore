@@ -9,3 +9,4 @@ Kleros_update_logs.txt
 setup.cfg
 PR_comments.txt
 .bsp
+.env

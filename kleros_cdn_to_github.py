@@ -108,8 +108,7 @@ def create_query(latest_request_submission_time):  # pylint: disable=W0621
 
 
 # URL for the GraphQL endpoint
-URL = "https://api.studio.thegraph.com/query/61738/legacy-curate-gnosis/version/latest"  # pylint: disable=line-too-long
-
+URL = f"https://gateway.thegraph.com/api/{os.getenv('THE_GRAPH_API_KEY')}/subgraphs/id/9hHo5MpjpC1JqfD3BsgFnojGurXRHTrHWcUcZPPCo6m8"  # pylint: disable=line-too-long
 # Fetch all data with pagination
 all_query_results = []
 while True:

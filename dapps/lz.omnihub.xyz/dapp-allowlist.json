@@ -93,6 +93,58 @@
       {
         "address": "0xcabf0b8cc4e81c505756e7e420b775a737478d74"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xcabf0b8cc4e81c505756e7e420b775a737478d74"
+      },
+      {
+        "address": "0x508b2e8c6216cbb8b8ea35f317a33d940ca6d446"
+      },
+      {
+        "address": "0x16b86df2448ac200a839ba4dec24121b2babaa82"
+      },
+      {
+        "address": "0x52170380d794c23eb78ac582eefd7e5855f0f297"
+      },
+      {
+        "address": "0x8f7ad806a178effd39abbb31444d17836f9a66e5"
+      },
+      {
+        "address": "0x97cbc42b405ccf026c9e0569ede8039d9311200f"
+      },
+      {
+        "address": "0xf27cb6c5ba1607e686de8175a55683b80b35daea"
+      },
+      {
+        "address": "0xb113161e574f8b53976e89d7bebf35994e4830ae"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xcabf0b8cc4e81c505756e7e420b775a737478d74"
+      },
+      {
+        "address": "0x89ce6c6802d32f10707470f1a96e09ecac435730"
+      },
+      {
+        "address": "0x589651882d0d5b4f372e0fafd55a4f61d8becda9"
+      },
+      {
+        "address": "0x872224b321013a58bd7312a281c8b311b1aa9b03"
+      },
+      {
+        "address": "0xb113161e574f8b53976e89d7bebf35994e4830ae"
+      },
+      {
+        "address": "0xeca83caca1fdcd87f93ad7d3c49b853e156cbd6b"
+      },
+      {
+        "address": "0xc8c2e2edb2b65c3411c4a71aecf7dc8a9b2b2327"
+      },
+      {
+        "address": "0xba483741fc78987a63562908c6ac969a73237bc1"
+      }
     ]
   }
 }

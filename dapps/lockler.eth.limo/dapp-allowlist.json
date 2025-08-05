@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eth",
+  "domain": "lockler.eth.limo",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x4e1dcf7ad4e460cfd30791ccc4f9c8a4f820ec67"
+      }
+    ]
+  }
+}

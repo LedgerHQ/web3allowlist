@@ -13,6 +13,11 @@
       {
         "address": "0xa5679c4272a056bb83f039961fae7d99c48529f5"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0x2ed1bd7f66e47113672f3870308b5e867c5bb743"
+      }
     ]
   }
 }

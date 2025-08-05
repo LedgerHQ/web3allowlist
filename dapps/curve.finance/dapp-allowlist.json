@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Curve",
+  "domain": "curve.finance",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x9af14d26075f142eb3f292d5065eb3faa646167b"
+      },
+      {
+        "address": "0x98ee851a00abee0d95d08cf4ca2bdce32aeaaf7f"
+      },
+      {
+        "address": "0x2191718cd32d02b8e60badffea33e4b5dd9a0a0d"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x1764ee18e8b3cca4787249ceb249356192594585"
+      },
+      {
+        "address": "0x0dcded3545d565ba3b19e683431381007245d983"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xd2002373543ce3527023c75e7518c274a51ce712"
+      },
+      {
+        "address": "0xc9fe0c63af9a39402e8a5514f9c43af0322b665f"
+      },
+      {
+        "address": "0x4f37a9d177470499a2dd084621020b023fcffc1f"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x1764ee18e8b3cca4787249ceb249356192594585"
+      },
+      {
+        "address": "0x98ee851a00abee0d95d08cf4ca2bdce32aeaaf7f"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xbc0797015fcfc47d9c1856639cae50d0e69fbee8"
+      },
+      {
+        "address": "0x98ee851a00abee0d95d08cf4ca2bdce32aeaaf7f"
+      },
+      {
+        "address": "0x0dcded3545d565ba3b19e683431381007245d983"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x5eee3091f747e60a045a2e715a4c71e600e31f6e"
+      },
+      {
+        "address": "0x98ee851a00abee0d95d08cf4ca2bdce32aeaaf7f"
+      },
+      {
+        "address": "0x0dcded3545d565ba3b19e683431381007245d983"
+      }
+    ]
+  }
+}

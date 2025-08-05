@@ -35,6 +35,11 @@
       {
         "address": "0x3d1b389f1707db3d4c5344d5669dbda6b5d6ab51"
       }
+    ],
+    "avalanche": [
+      {
+        "address": "0xba3cb449bd2b4adddbc894d8697f5170800eadec"
+      }
     ]
   }
 }

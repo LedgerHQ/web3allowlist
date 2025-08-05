@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Aevo",
+  "domain": "app.aevo.xyz",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xfb73dfff0ae6aa94559b1b17421cf42e198b8d22"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xe49dee5353bea74caf65089237005198a14f7c83"
+      }
+    ]
+  }
+}

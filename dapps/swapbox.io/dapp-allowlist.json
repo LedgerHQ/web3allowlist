@@ -12,11 +12,17 @@
     "arbitrum": [
       {
         "address": "0xf0e406c49c63abf358030a299c0e00118c4c6ba5"
+      },
+      {
+        "address": "0x6088d94c5a40cecd3ae2d4e0710ca687b91c61d0"
       }
     ],
     "optimism": [
       {
         "address": "0x3758aa66cad9f2606f1f501c9cb31b94b713a6d5"
+      },
+      {
+        "address": "0x9b9efa5efa731ea9bbb0369e91fa17abf249cfd4"
       }
     ],
     "base": [
@@ -39,6 +45,9 @@
       },
       {
         "address": "0xb9061e38fee7d30134f56aef7117e2f6d1580666"
+      },
+      {
+        "address": "0x5058c498864795689fe41fb54f29a8b71f0a7201"
       }
     ],
     "avalanche": [
@@ -56,6 +65,9 @@
       },
       {
         "address": "0x12179f77a02522c01f6d3a5d38a1a5d2b9834f19"
+      },
+      {
+        "address": "0x9b9efa5efa731ea9bbb0369e91fa17abf249cfd4"
       }
     ],
     "bsc": [
@@ -82,6 +94,9 @@
       },
       {
         "address": "0x3a64ec3606ff7310e8fad6fcc008e39705fb496d"
+      },
+      {
+        "address": "0x9b9efa5efa731ea9bbb0369e91fa17abf249cfd4"
       }
     ]
   }

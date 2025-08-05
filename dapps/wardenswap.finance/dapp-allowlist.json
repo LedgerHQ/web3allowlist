@@ -18,6 +18,21 @@
       {
         "address": "0x451ef8d6b645a60115eb8b8bea76b39c0c761004"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x79a556ef2c5b613db3dfa8797e6772c5aaf86834"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x7ea8c22e6dcd7bd69eb180664da68e1f1f11d696"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x5ef960eb78b8cfc11e654d03beeb313badf5c7c0"
+      }
     ]
   }
 }

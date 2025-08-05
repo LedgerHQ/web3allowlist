@@ -22,6 +22,9 @@
     "zksync": [
       {
         "address": "0x38307cb291af47af9847c134a34e9477c939ca28"
+      },
+      {
+        "address": "0x56c343e7ce75e53e58ed2f3743c6f137c13d2013"
       }
     ],
     "optimism": [
@@ -37,6 +40,12 @@
     "scroll": [
       {
         "address": "0x7673f45e6e95373ba22651a4f5f594edec3006bc"
+      },
+      {
+        "address": "0xf02bbc9de6e443efdf3fc41851529c2c3b9e5e0c"
+      },
+      {
+        "address": "0x624ffe62eba13e6057878bca1d7a9e35651e1d9c"
       }
     ]
   }

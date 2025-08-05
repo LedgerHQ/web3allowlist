@@ -197,11 +197,17 @@
     "optimism": [
       {
         "address": "0x716fcc67dca500a91b4a28c9255262c398d8f971"
+      },
+      {
+        "address": "0x3a64ec3606ff7310e8fad6fcc008e39705fb496d"
       }
     ],
     "arbitrum": [
       {
         "address": "0xe05dd51e4eb5636f4f0e8e7fbe82ea31a2ecef16"
+      },
+      {
+        "address": "0x69716e51e3f8bec9c3d4e1bb46396384ae11c594"
       }
     ],
     "scroll": [
@@ -213,6 +219,9 @@
       },
       {
         "address": "0x1f076a800005c758a505e759720eb6737136e893"
+      },
+      {
+        "address": "0x624ffe62eba13e6057878bca1d7a9e35651e1d9c"
       }
     ]
   }

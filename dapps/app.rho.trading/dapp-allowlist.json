@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Rho",
+  "domain": "app.rho.trading",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xbef0110560921824af49de900f2f0bf9ceb87e8c"
+      }
+    ]
+  }
+}

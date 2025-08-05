@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Morpho",
+  "domain": "app.morpho.org",
+  "chains": {
+    "base": [
+      {
+        "address": "0x6bfd8137e702540e7a42b74178a4a49ba43920c4"
+      }
+    ]
+  }
+}

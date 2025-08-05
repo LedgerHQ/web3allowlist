@@ -25,6 +25,16 @@
       {
         "address": "0xbbb3c88192a5b0db759229bef49dcd1f168f326f"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xc8e51418cadc001157506b306c6d0b878f1ff755"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x5b1b7465cfde450e267b562792b434277434413c"
+      }
     ]
   }
 }

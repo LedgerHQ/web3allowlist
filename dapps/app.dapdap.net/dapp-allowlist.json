@@ -88,6 +88,17 @@
       {
         "address": "0x3335733c454805df6a77f825f266e136fb4a3333"
       }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x4c1a9d72f3d6b9e4a62ca8971dd3862fcb64ad64"
+      },
+      {
+        "address": "0xef58b643240178c2bc37681f8d4e50d7ec37ee22"
+      },
+      {
+        "address": "0x01d8edb8ef96119d6bada3f50463dee6fe863b4c"
+      }
     ]
   }
 }

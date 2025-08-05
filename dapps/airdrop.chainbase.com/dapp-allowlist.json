@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Chainbase",
+  "domain": "airdrop.chainbase.com",
+  "chains": {
+    "base": [
+      {
+        "address": "0x0178d6af54e0b3968f6abc2ec4ea1d2748167394"
+      }
+    ]
+  }
+}

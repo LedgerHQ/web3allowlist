@@ -37,6 +37,9 @@
     "optimism": [
       {
         "address": "0xdef1abe32c034e558cdd535791643c58a13acc10"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
       }
     ],
     "avalanche": [
@@ -55,6 +58,9 @@
     "base": [
       {
         "address": "0xbc3c5ca50b6a215edf00815965485527f26f5da8"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
       }
     ]
   }

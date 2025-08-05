@@ -8,6 +8,14 @@
       {
         "address": "0x06a9376d079bac1c5a83c3fd4c5a25b72ce35273"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0xe530d28960d48708ccf3e62aa7b42a80bc427aef"
+      },
+      {
+        "address": "0x3191f40de6991b1bb1f61b7cec43d62bb337786b"
+      }
     ]
   }
 }

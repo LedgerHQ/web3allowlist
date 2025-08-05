@@ -10,6 +10,9 @@
       },
       {
         "address": "0x6f887c0bee01fafaca39e46ca14cc1d48e28090f"
+      },
+      {
+        "address": "0x9b9efa5efa731ea9bbb0369e91fa17abf249cfd4"
       }
     ],
     "arbitrum": [
@@ -18,6 +21,9 @@
       },
       {
         "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+      },
+      {
+        "address": "0x6088d94c5a40cecd3ae2d4e0710ca687b91c61d0"
       }
     ],
     "optimism": [
@@ -26,6 +32,9 @@
       },
       {
         "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
       }
     ]
   }

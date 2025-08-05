@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Toros",
+  "domain": "toros.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0xf067575eb60c7587c11e867907aa7284833704d1"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xa5679c4272a056bb83f039961fae7d99c48529f5"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x2ed1bd7f66e47113672f3870308b5e867c5bb743"
+      }
+    ]
+  }
+}

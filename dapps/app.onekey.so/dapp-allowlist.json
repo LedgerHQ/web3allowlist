@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Onekey",
+  "domain": "app.onekey.so",
+  "chains": {
+    "base": [
+      {
+        "address": "0x9b9efa5efa731ea9bbb0369e91fa17abf249cfd4"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x6088d94c5a40cecd3ae2d4e0710ca687b91c61d0"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Satoshiprotocol",
+  "domain": "app.satoshiprotocol.org",
+  "chains": {
+    "base": [
+      {
+        "address": "0x9a3c724ee9603a7550499be73dc743b371811dd3"
+      }
+    ]
+  }
+}

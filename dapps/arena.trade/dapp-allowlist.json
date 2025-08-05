@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Arena",
+  "domain": "arena.trade",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x8315f1eb449dd4b779495c3a0b05e5d194446c6e"
+      }
+    ]
+  }
+}

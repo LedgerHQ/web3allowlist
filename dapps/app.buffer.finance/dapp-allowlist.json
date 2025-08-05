@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Buffer",
+  "domain": "app.buffer.finance",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x2baa48961c1cd376484b601278bf7a51e94293a9"
+      }
+    ]
+  }
+}

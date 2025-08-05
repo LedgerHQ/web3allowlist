@@ -96,6 +96,9 @@
       },
       {
         "address": "0x1f2fcf1d036b375b384012e61d3aa33f8c256bbe"
+      },
+      {
+        "address": "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
       }
     ],
     "fantom": [
@@ -133,6 +136,9 @@
       },
       {
         "address": "0x544ba588efd839d2692fc31ea991cd39993c135f"
+      },
+      {
+        "address": "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
       }
     ],
     "base": [

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Omni",
+  "domain": "omni.exchange",
+  "chains": {
+    "base": [
+      {
+        "address": "0xdc181bd607330aeebef6ea62e03e5e1fb4b6f7c7"
+      },
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xa45b5130f36cdca45667738e2a258ab09f4a5f7f"
+      },
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xe8cdf27acd73a434d661c84887215f7598e7d0d3"
+      },
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      }
+    ]
+  }
+}

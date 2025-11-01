@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Vvs",
+  "domain": "vvs.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xebd1e414ebb98522cfd932104ba41fac10a4ef35"
+      }
+    ]
+  }
+}

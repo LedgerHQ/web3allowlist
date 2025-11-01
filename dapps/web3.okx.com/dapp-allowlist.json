@@ -10,6 +10,9 @@
       },
       {
         "address": "0x9b9efa5efa731ea9bbb0369e91fa17abf249cfd4"
+      },
+      {
+        "address": "0x86f752f1f662f39bfbcbef95ee56b6c20d178969"
       }
     ],
     "base": [
@@ -18,6 +21,9 @@
       },
       {
         "address": "0x9b9efa5efa731ea9bbb0369e91fa17abf249cfd4"
+      },
+      {
+        "address": "0x5e2f47bd7d4b357fcfd0bb224eb665773b1b9801"
       }
     ],
     "arbitrum": [
@@ -26,6 +32,9 @@
       },
       {
         "address": "0x6088d94c5a40cecd3ae2d4e0710ca687b91c61d0"
+      },
+      {
+        "address": "0x5e2f47bd7d4b357fcfd0bb224eb665773b1b9801"
       }
     ],
     "zksync": [
@@ -34,6 +43,9 @@
       },
       {
         "address": "0x5058c498864795689fe41fb54f29a8b71f0a7201"
+      },
+      {
+        "address": "0x010bc6b1014e5ed8284ab0667b116aab99588159"
       }
     ],
     "scroll": [
@@ -42,6 +54,9 @@
       },
       {
         "address": "0x9b9efa5efa731ea9bbb0369e91fa17abf249cfd4"
+      },
+      {
+        "address": "0x86f752f1f662f39bfbcbef95ee56b6c20d178969"
       }
     ],
     "avalanche": [
@@ -50,6 +65,19 @@
       },
       {
         "address": "0x9b9efa5efa731ea9bbb0369e91fa17abf249cfd4"
+      },
+      {
+        "address": "0x79f7c6c6dc16ed3154e85a8ef9c1ef31cefaeb19"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x2e1dee213ba8d7af0934c49a23187babeaca8764"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x6f7c20464258c732577c87a9b467619e03e5c158"
       }
     ]
   }

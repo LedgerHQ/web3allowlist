@@ -28,6 +28,17 @@
       },
       {
         "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      {
+        "address": "0xb2ecc25c0b3af0039d4d9dddfcec19e958618963"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0xde1e598b81620773454588b85d6b5d4eec32573e"
       }
     ]
   }

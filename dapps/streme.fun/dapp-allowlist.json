@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Streme",
+  "domain": "streme.fun",
+  "chains": {
+    "base": [
+      {
+        "address": "0xf525ff21c370beb8d9f5c12dc0da2b583f4b949f"
+      }
+    ]
+  }
+}

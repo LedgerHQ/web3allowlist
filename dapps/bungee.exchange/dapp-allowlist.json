@@ -66,6 +66,16 @@
       {
         "address": "0x7ee459d7fde8b4a3c22b9c8c7aa52abaddd9ffd5"
       }
+    ],
+    "scroll": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      }
     ]
   }
 }

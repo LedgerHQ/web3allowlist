@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Shapeshift",
+  "domain": "private.shapeshift.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      }
+    ]
+  }
+}

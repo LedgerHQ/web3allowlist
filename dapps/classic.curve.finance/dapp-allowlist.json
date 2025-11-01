@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Curve",
+  "domain": "classic.curve.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7"
+      }
+    ]
+  }
+}

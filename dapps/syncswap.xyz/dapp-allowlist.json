@@ -16,11 +16,17 @@
       },
       {
         "address": "0x000000000000000000000000000000000000800a"
+      },
+      {
+        "address": "0x2c81df4f11a1c7e43acb972e73767b1f5d0d9edc"
       }
     ],
     "scroll": [
       {
         "address": "0xfd541d0e2773a189450a70f06bc7edd3c1dc9115"
+      },
+      {
+        "address": "0x88a0e09d40b021c0590cf106b7f87a909b9c508c"
       }
     ]
   }

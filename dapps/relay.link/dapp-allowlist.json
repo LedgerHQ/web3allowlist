@@ -10,16 +10,40 @@
       },
       {
         "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      },
+      {
+        "address": "0x4cd00e387622c35bddb9b4c962c136462338bc31"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0xed8a2a23bf9d6818651527daaf3bf4ffeb53945f"
       }
     ],
     "avalanche": [
       {
         "address": "0xe0b062d028236fa09fe33db8019ffeeee6bf79ed"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0xbbbfd134e9b44bfb5123898ba36b01de7ab93d98"
       }
     ],
     "optimism": [
       {
         "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0x4cd00e387622c35bddb9b4c962c136462338bc31"
+      },
+      {
+        "address": "0xbbbfd134e9b44bfb5123898ba36b01de7ab93d98"
       }
     ],
     "base": [
@@ -28,16 +52,40 @@
       },
       {
         "address": "0xa1bea5fe917450041748dbbbe7e9ac57a4bbebab"
+      },
+      {
+        "address": "0x4cd00e387622c35bddb9b4c962c136462338bc31"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0xbbbfd134e9b44bfb5123898ba36b01de7ab93d98"
       }
     ],
     "arbitrum": [
       {
         "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      },
+      {
+        "address": "0xbbbfd134e9b44bfb5123898ba36b01de7ab93d98"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0x4cd00e387622c35bddb9b4c962c136462338bc31"
       }
     ],
     "scroll": [
       {
         "address": "0xa1bea5fe917450041748dbbbe7e9ac57a4bbebab"
+      },
+      {
+        "address": "0x4cd00e387622c35bddb9b4c962c136462338bc31"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
       }
     ],
     "gnosis": [
@@ -51,6 +99,25 @@
       },
       {
         "address": "0xad822d7f6ba100f1a74834e5d3c24b95f1434cbb"
+      },
+      {
+        "address": "0x4cd00e387622c35bddb9b4c962c136462338bc31"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0xbbbfd134e9b44bfb5123898ba36b01de7ab93d98"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x59916da825d2d2ec1bf878d71c88826f6633ecca"
+      },
+      {
+        "address": "0x113a327221d2c4660684449bfc39bc14ad1aaf38"
       }
     ]
   }

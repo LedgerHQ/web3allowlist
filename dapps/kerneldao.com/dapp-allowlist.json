@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Kerneldao",
+  "domain": "kerneldao.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x036676389e48133b63a802f8635ad39e752d375d"
+      },
+      {
+        "address": "0xb185d98056419029dae7120ecbefa0dbc12c283a"
+      },
+      {
+        "address": "0xbf28c9fcb12a97441488f9c68faa49811a98688a"
+      },
+      {
+        "address": "0x9bb6d4b928645eda8f9c019495695ba98969eff1"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xaaa687e218f9b53183a6aa9639fbd9d6e69ecb73"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x41b300f5a619973b20931f0944c85db229d5e27f"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x291088312150482826b3a37d5a69a4c54daa9118"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x376a7564af88242d6b8598a5cfdd2e9759711b61"
+      },
+      {
+        "address": "0x77f5979d8ea6d72d6c6c451ec23c772d68211c5f"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xb80deaecd7f4bca934de201b11a8711644156a0a"
+      },
+      {
+        "address": "0x6c5513f8701a6e58c82d9a0585a2e533a7fc773b"
+      }
+    ]
+  }
+}

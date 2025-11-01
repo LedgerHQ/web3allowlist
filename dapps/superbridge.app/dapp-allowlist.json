@@ -54,11 +54,22 @@
     "base": [
       {
         "address": "0x4200000000000000000000000000000000000010"
+      },
+      {
+        "address": "0xf567c7b384c77c9c4a77e8a0a5f52ae37e8b74df"
       }
     ],
     "optimism": [
       {
         "address": "0x4200000000000000000000000000000000000010"
+      },
+      {
+        "address": "0xee42fe6a4f104e22c907884206129034a21c3ca9"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xf567c7b384c77c9c4a77e8a0a5f52ae37e8b74df"
       }
     ]
   }

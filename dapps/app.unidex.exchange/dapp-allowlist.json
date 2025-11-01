@@ -22,6 +22,12 @@
       },
       {
         "address": "0x3d1b389f1707db3d4c5344d5669dbda6b5d6ab51"
+      },
+      {
+        "address": "0xf525ff21c370beb8d9f5c12dc0da2b583f4b949f"
+      },
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
       }
     ],
     "avalanche": [
@@ -102,6 +108,15 @@
       },
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0xa6e941eab67569ca4522f70d343714ff51d571c4"
+      },
+      {
+        "address": "0xd07c4f45bc9b389d286cb094f97bb6ba45f4bb30"
+      },
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
       }
     ],
     "fantom": [
@@ -148,6 +163,18 @@
       },
       {
         "address": "0xbeb09000fa59627dc02bb55448ac1893eaa501a5"
+      },
+      {
+        "address": "0x69716e51e3f8bec9c3d4e1bb46396384ae11c594"
+      },
+      {
+        "address": "0x80a5a825b8bb07e355244a7de6384a064b0d601d"
+      },
+      {
+        "address": "0x552fcecc218158fff20e505c8f3ad24f8e1dd33c"
+      },
+      {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
       }
     ],
     "zksync": [
@@ -166,6 +193,11 @@
     "gnosis": [
       {
         "address": "0x40a50cf069e992aa4536211b23f286ef88752187"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
       }
     ]
   }

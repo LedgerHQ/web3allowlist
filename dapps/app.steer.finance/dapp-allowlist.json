@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Steer",
+  "domain": "app.steer.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0x16ba7102271dc83fff2f709691c2b601dad7668e"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x0914b58783e47fb72cfd88f4203628e966514e03"
+      }
+    ]
+  }
+}

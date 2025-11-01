@@ -13,11 +13,20 @@
       },
       {
         "address": "0x56404bbf3cc262fb9f365e7ab82ed142cb9d4a38"
+      },
+      {
+        "address": "0xf05bd4f8d61a3c0ba2b1ee6ed47f2d9b0e4edee1"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
       }
     ],
     "scroll": [
       {
         "address": "0xa33db50b90e35378faee4058deaab2b392989b65"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "avalanche": [
@@ -28,6 +37,16 @@
     "fantom": [
       {
         "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ]
   }

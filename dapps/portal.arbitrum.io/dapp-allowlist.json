@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Arbitrum",
+  "domain": "portal.arbitrum.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x0000000000000000000000000000000000000064"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f"
+      }
+    ]
+  }
+}

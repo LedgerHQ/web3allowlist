@@ -16,6 +16,11 @@
       {
         "address": "0x3191f40de6991b1bb1f61b7cec43d62bb337786b"
       }
+    ],
+    "linea": [
+      {
+        "address": "0x585d7e1f897f3d259415f35f5cfb7d81b9a0e2cf"
+      }
     ]
   }
 }

@@ -10,6 +10,9 @@
       },
       {
         "address": "0x77b2043768d28e9c9ab44e1abfc95944bce57931"
+      },
+      {
+        "address": "0x0736bdc975af0675b9a045384efed91360d25479"
       }
     ],
     "polygon": [
@@ -26,6 +29,9 @@
       },
       {
         "address": "0xa45b5130f36cdca45667738e2a258ab09f4a5f7f"
+      },
+      {
+        "address": "0xc6868edf1d2a7a8b759856cb8afa333210dfeda6"
       }
     ],
     "optimism": [
@@ -37,6 +43,9 @@
       },
       {
         "address": "0xe8cdf27acd73a434d661c84887215f7598e7d0d3"
+      },
+      {
+        "address": "0xc6868edf1d2a7a8b759856cb8afa333210dfeda6"
       }
     ],
     "bsc": [
@@ -56,6 +65,9 @@
       },
       {
         "address": "0x27a16dc786820b16e5c9028b75b99f6f604b5d26"
+      },
+      {
+        "address": "0xc6868edf1d2a7a8b759856cb8afa333210dfeda6"
       }
     ],
     "avalanche": [
@@ -66,6 +78,11 @@
     "scroll": [
       {
         "address": "0xc2b638cb5042c1b3c5d5c969361fb50569840583"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x81f6138153d473e8c5ecebd3dc8cd4903506b075"
       }
     ]
   }

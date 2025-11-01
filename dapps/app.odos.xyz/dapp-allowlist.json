@@ -12,11 +12,17 @@
     "optimism": [
       {
         "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+      },
+      {
+        "address": "0x4200000000000000000000000000000000000006"
       }
     ],
     "avalanche": [
       {
         "address": "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc"
+      },
+      {
+        "address": "0x0d05a7d3448512b78fa8a9e46c4872c88c4a0d05"
       }
     ],
     "ethereum": [
@@ -37,6 +43,9 @@
     "arbitrum": [
       {
         "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+      },
+      {
+        "address": "0x0d05a7d3448512b78fa8a9e46c4872c88c4a0d05"
       }
     ],
     "zksync": [
@@ -47,11 +56,19 @@
     "base": [
       {
         "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+      },
+      {
+        "address": "0x0d05a7d3448512b78fa8a9e46c4872c88c4a0d05"
       }
     ],
     "scroll": [
       {
         "address": "0xbfe03c9e20a9fc0b37de01a172f207004935e0b1"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x0d05a7d3448512b78fa8a9e46c4872c88c4a0d05"
       }
     ]
   }

@@ -10,6 +10,9 @@
       },
       {
         "address": "0xc92e8bdf79f0507f65a392b0ab4667716bfe0110"
+      },
+      {
+        "address": "0xba3cb449bd2b4adddbc894d8697f5170800eadec"
       }
     ],
     "gnosis": [
@@ -29,11 +32,17 @@
     "arbitrum": [
       {
         "address": "0x552fcecc218158fff20e505c8f3ad24f8e1dd33c"
+      },
+      {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
       }
     ],
     "base": [
       {
         "address": "0x3d1b389f1707db3d4c5344d5669dbda6b5d6ab51"
+      },
+      {
+        "address": "0x4200000000000000000000000000000000000006"
       }
     ],
     "avalanche": [

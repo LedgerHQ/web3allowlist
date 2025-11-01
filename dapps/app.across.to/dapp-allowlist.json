@@ -10,6 +10,9 @@
       },
       {
         "address": "0xe35e9842fceaca96570b734083f4a58e8f7c5f2a"
+      },
+      {
+        "address": "0x3fb9ced51e968594c87963a371ed90c39519f65a"
       }
     ],
     "optimism": [
@@ -18,11 +21,20 @@
       },
       {
         "address": "0x6f26bf09b1c792e3228e5467807a900a503c0281"
+      },
+      {
+        "address": "0x3fb9ced51e968594c87963a371ed90c39519f65a"
       }
     ],
     "ethereum": [
       {
         "address": "0x269727f088f16e1aea52cf5a97b1cd41daa3f02d"
+      },
+      {
+        "address": "0x3fb9ced51e968594c87963a371ed90c39519f65a"
+      },
+      {
+        "address": "0xc186fa914353c44b2e33ebe05f21846f1048beda"
       }
     ],
     "base": [
@@ -31,6 +43,9 @@
       },
       {
         "address": "0x09aea4b2242abc8bb4bb78d537a67a245a7bec64"
+      },
+      {
+        "address": "0x3fb9ced51e968594c87963a371ed90c39519f65a"
       }
     ],
     "polygon": [
@@ -46,6 +61,9 @@
     "scroll": [
       {
         "address": "0xb4a8d45647445ea9fc3e1058096142390683dbc2"
+      },
+      {
+        "address": "0x3fb9ced51e968594c87963a371ed90c39519f65a"
       }
     ]
   }

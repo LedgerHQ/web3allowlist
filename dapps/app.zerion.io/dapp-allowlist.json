@@ -48,6 +48,9 @@
       },
       {
         "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+      },
+      {
+        "address": "0x5813877cdda5f0f56eeab9326a42804a09e2cd8c"
       }
     ],
     "avalanche": [
@@ -56,6 +59,9 @@
       },
       {
         "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
       }
     ],
     "base": [
@@ -64,6 +70,9 @@
       },
       {
         "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+      },
+      {
+        "address": "0x0929222bc7cc533aecc1ccfe9d9bd6ecbb0cbf43"
       }
     ],
     "fantom": [
@@ -85,6 +94,9 @@
       },
       {
         "address": "0xadde7028e7ec226777e5dea5d53f6457c21ec7d6"
+      },
+      {
+        "address": "0xebd1e414ebb98522cfd932104ba41fac10a4ef35"
       }
     ]
   }

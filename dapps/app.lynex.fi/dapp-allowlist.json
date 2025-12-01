@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Lynex",
+  "domain": "app.lynex.fi",
+  "chains": {
+    "linea": [
+      {
+        "address": "0xde1e598b81620773454588b85d6b5d4eec32573e"
+      },
+      {
+        "address": "0x6f7c20464258c732577c87a9b467619e03e5c158"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x113a327221d2c4660684449bfc39bc14ad1aaf38"
+      },
+      {
+        "address": "0x2d8879046f1559e53eb052e949e9544bcb72f414"
+      },
+      {
+        "address": "0x00000000aa467eba42a3d604b3d74d63b2b6c6cb"
+      },
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      },
+      {
+        "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+      }
+    ]
+  }
+}

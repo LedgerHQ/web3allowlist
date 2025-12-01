@@ -7,6 +7,15 @@
     "arbitrum": [
       {
         "address": "0x6bb07337f4a7fc31403616414c73706f064a83cd"
+      },
+      {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
       }
     ]
   }

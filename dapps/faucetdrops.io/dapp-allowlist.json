@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Faucetdrops",
+  "domain": "faucetdrops.io",
+  "chains": {
+    "celo": [
+      {
+        "address": "0xb8de8f37b263324c44fd4874a7fb7a0c59d8c58e"
+      }
+    ]
+  }
+}

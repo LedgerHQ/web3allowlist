@@ -55,6 +55,20 @@
       },
       {
         "address": "0x41c914ee0c7e1a5edcd0295623e6dc557b5abf3c"
+      },
+      {
+        "address": "0x416b433906b1b72fa758e166e239c43d68dc6f29"
+      },
+      {
+        "address": "0x4200000000000000000000000000000000000006"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x991d5546c4b442b4c5fdc4c8b8b8d131deb24702"
+      },
+      {
+        "address": "0x01d40099fcd87c018969b0e8d4ab1633fb34763c"
       }
     ]
   }

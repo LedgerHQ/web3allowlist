@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Stabull",
+  "domain": "app.stabull.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0x4b82759d385e905c85d1fcf7811ed33b738965a0"
+      },
+      {
+        "address": "0x2a645d27efe5c8f5afc63856d2509ea20f81a0b2"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x871af97122d08890193e8d6465015f6d9e2889b2"
+      }
+    ]
+  }
+}

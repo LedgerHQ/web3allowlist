@@ -2,10 +2,30 @@
 This script pulls the latest confirmed entries from
 Kleros's Contract Domain Name registry and formats them into
 the structure needed for this repository.
-If you are iterating and need to repeat a pull,
-use "git reset --hard HEAD && git clean -fd"
-to reset the directory back to last commit.
-Then 'npx prettier --write "**/*.json"' to reformat all JSON files after the sync.
+
+Data Source:
+    The script supports two GraphQL endpoints with automatic fallback:
+    - The Graph: Requires THE_GRAPH_API_KEY (set in .env file)
+    - Envio: Free endpoint, no API key required (default if no key is set)
+
+Usage:
+    # Run with Envio endpoint (no API key required):
+    python kleros_cdn_to_github.py
+
+    # Run with The Graph endpoint (requires API key in .env):
+    # Set THE_GRAPH_API_KEY=your_api_key in .env file, then:
+    python kleros_cdn_to_github.py
+
+    # Complete workflow with prettification:
+    python kleros_cdn_to_github.py && npx prettier --write "**/*.json"
+
+Reset:
+    If you need to repeat a pull, use:
+    git reset --hard HEAD && git clean -fd
+
+Post-processing:
+    After sync, reformat all JSON files:
+    npx prettier --write "**/*.json"
 """
 
 # to the original state if it's needed to repeat a run
@@ -19,6 +39,11 @@ from dotenv import load_dotenv  # pylint: disable=import-error
 
 # Load environment variables from .env file
 load_dotenv()
+
+# Determine which endpoint to use
+USE_ENVIO = not os.getenv("THE_GRAPH_API_KEY")
+ENDPOINT_TYPE = "Envio" if USE_ENVIO else "The Graph"
+print(f"Using {ENDPOINT_TYPE} endpoint for data retrieval")
 
 # Helper function to deduce the website name from the domain
 
@@ -67,7 +92,26 @@ def send_graphql_query(api_url, query_str):
     headers = {"Content-Type": "application/json"}
     data = json.dumps({"query": query_str})
     response = requests.post(api_url, headers=headers, data=data, timeout=20)
-    return response.json()
+
+    # Debug: print response status and content if there's an issue
+    if response.status_code != 200:
+        print(f"Error: HTTP {response.status_code}")
+        print(f"Response: {response.text}")
+        return None
+
+    try:
+        json_response = response.json()
+        # Check for GraphQL errors in response
+        if "errors" in json_response:
+            print(f"GraphQL Error: {json_response['errors']}")
+            if USE_ENVIO:
+                print("Note: Envio endpoint may require different query format")
+                print(f"Query sent: {query_str[:200]}...")
+        return json_response
+    except json.JSONDecodeError as e:
+        print(f"JSON Decode Error: {e}")
+        print(f"Response text: {response.text}")
+        return None
 
 
 # Step 1: Poll the endpoint and store the results
@@ -89,30 +133,60 @@ def create_query(latest_request_submission_time):  # pylint: disable=W0621
     Returns:
         str: The GraphQL query to be used,
     """
-    return f"""
-    {{
-        litems(first: 1000, orderBy: latestRequestSubmissionTime,
-        orderDirection:asc, where: {{
-            registry: "0x957a53a994860be4750810131d9c876b2f52d6e1",
-            status_in: [Registered],
-            disputed: false,
-            latestRequestSubmissionTime_gt:
-             {latest_request_submission_time if latest_request_submission_time else 0}
-        }}) {{
-            itemID
-            latestRequestSubmissionTime
-            metadata {{
+    if USE_ENVIO:
+        # Envio/Hasura query format
+        # Try LItem (matching The Graph entity name)
+        return f"""
+        {{
+            LItem(
+                limit: 1000,
+                order_by: {{latestRequestSubmissionTime: asc}},
+                where: {{
+                    registryAddress: {{_eq: "0x957a53a994860be4750810131d9c876b2f52d6e1"}},
+                    status: {{_eq: "Registered"}},
+                    disputed: {{_eq: false}},
+                    latestRequestSubmissionTime: {{_gt: {latest_request_submission_time if latest_request_submission_time else 0}}}
+                }}
+            ) {{
+                itemID
+                latestRequestSubmissionTime
                 key0
                 key1
                 key2
             }}
         }}
-    }}
-    """
+        """
+    else:
+        # The Graph query format
+        return f"""
+        {{
+            litems(first: 1000, orderBy: latestRequestSubmissionTime,
+            orderDirection:asc, where: {{
+                registry: "0x957a53a994860be4750810131d9c876b2f52d6e1",
+                status_in: [Registered],
+                disputed: false,
+                latestRequestSubmissionTime_gt:
+                 {latest_request_submission_time if latest_request_submission_time else 0}
+            }}) {{
+                itemID
+                latestRequestSubmissionTime
+                metadata {{
+                    key0
+                    key1
+                    key2
+                }}
+            }}
+        }}
+        """
 
 
 # URL for the GraphQL endpoint
-URL = f"https://gateway.thegraph.com/api/{os.getenv('THE_GRAPH_API_KEY')}/subgraphs/id/9hHo5MpjpC1JqfD3BsgFnojGurXRHTrHWcUcZPPCo6m8"  # pylint: disable=line-too-long # noqa: E501
+if USE_ENVIO:
+    URL = "https://indexer.hyperindex.xyz/1a2f51c/v1/graphql"
+    print(f"Envio endpoint: {URL}")
+else:
+    URL = f"https://gateway.thegraph.com/api/{os.getenv('THE_GRAPH_API_KEY')}/subgraphs/id/9hHo5MpjpC1JqfD3BsgFnojGurXRHTrHWcUcZPPCo6m8"  # pylint: disable=line-too-long # noqa: E501
+    print(f"The Graph endpoint: {URL}")
 
 # Fetch all data with pagination
 all_query_results = []
@@ -120,7 +194,16 @@ while True:
     query = create_query(LATEST_REQUEST_SUBMISSION_TIME)
     response_data = send_graphql_query(URL, query)
 
-    query_results = response_data["data"]["litems"]
+    # Check if response is valid
+    if response_data is None or "data" not in response_data:
+        print("Error: Invalid response from GraphQL endpoint")
+        break
+
+    # Handle different response structures
+    if USE_ENVIO:
+        query_results = response_data["data"]["LItem"]
+    else:
+        query_results = response_data["data"]["litems"]
 
     if not query_results:
         break
@@ -128,7 +211,7 @@ while True:
     all_query_results.extend(query_results)
     LATEST_REQUEST_SUBMISSION_TIME = query_results[-1]["latestRequestSubmissionTime"]
 
-print(len(all_query_results))
+print(f"Total items retrieved: {len(all_query_results)}")
 # Step 2: Extract the key1 (domain) and key0 (EVM address)
 #  values from the query results
 domain_address_map = {}
@@ -161,12 +244,20 @@ added_contracts = set()
 
 for item in all_query_results:
     try:
-        domain = item["metadata"]["key1"].strip()
+        # Handle different data structures
+        if USE_ENVIO:
+            # Envio: keys are at the top level
+            domain = item["key1"].strip()
+            eip_155_info = item["key0"].split(":")
+        else:
+            # The Graph: keys are nested under metadata
+            domain = item["metadata"]["key1"].strip()
+            eip_155_info = item["metadata"]["key0"].split(":")
+
         # remove www. subdomain as per Ledger's requirements
         if domain.startswith("www."):
             domain = domain[4:]
 
-        eip_155_info = item["metadata"]["key0"].split(":")
         chain_id = eip_155_info[1]
         address = eip_155_info[2].lower()
 

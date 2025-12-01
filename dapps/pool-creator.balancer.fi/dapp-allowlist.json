@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Balancer",
+  "domain": "pool-creator.balancer.fi",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x44d33798dddcdabc93fe6a40c80588033dc502d3"
+      },
+      {
+        "address": "0x201efd508c8dfe9de1a13c2452863a78cb2a86cc"
+      },
+      {
+        "address": "0xd961e30156c2e0d0d925a0de45f931cb7815e970"
+      },
+      {
+        "address": "0x88ed12a90142fdbfe2a28f7d5b48927254c7e760"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x268e2ee1413d768b6e2dc3f5a4ddc9ae03d9af42"
+      },
+      {
+        "address": "0x3beb058de1a25dd24223fd9e1796df8589429ace"
+      },
+      {
+        "address": "0x0f08eef2c785aa5e7539684af04755dec1347b7c"
+      },
+      {
+        "address": "0x22625eedd92c81a219a83e1dc48f88d54786b017"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xc49ca921c4cd1117162eaeec0ee969649997950c"
+      },
+      {
+        "address": "0x8e3feaab11b7b351e3ea1e01247ab6ccc847dd52"
+      },
+      {
+        "address": "0x5cf4928a3205728bd12830e1840f7db85c62a4b9"
+      },
+      {
+        "address": "0x5f6848976c2914403b425f18b589a65772f082e3"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x161f4014c27773840ccb4ec1957113e6dd028846"
+      },
+      {
+        "address": "0x45fb5af0a1ad80ea16c803146eb81844d9972373"
+      },
+      {
+        "address": "0xeb1eeabf0126d813589c3d2cfeffe410d9ae3863"
+      },
+      {
+        "address": "0xea924b45a3fcdaadf4e5cfb1665823b8f8f2039b"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xeaedc32a51c510d35ebc11088fd5ff2b47aacf2e"
+      },
+      {
+        "address": "0x18cc3c68a5e64b40c846aa6e45312cbcbb94f71b"
+      },
+      {
+        "address": "0xd961e30156c2e0d0d925a0de45f931cb7815e970"
+      },
+      {
+        "address": "0x268e2ee1413d768b6e2dc3f5a4ddc9ae03d9af42"
+      }
+    ]
+  }
+}

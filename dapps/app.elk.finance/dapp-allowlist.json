@@ -26,6 +26,9 @@
       },
       {
         "address": "0x9e4aabd2b3e60ee1322e94307d0776f2c8e6cfbb"
+      },
+      {
+        "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
       }
     ],
     "fantom": [
@@ -55,6 +58,11 @@
       },
       {
         "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x7ae799fdbe4c330a4ac18d8d65765222a0d47e6d"
       }
     ]
   }

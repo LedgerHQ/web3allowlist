@@ -7,6 +7,12 @@
     "celo": [
       {
         "address": "0xe3d8bd6aed4f159bc8000a9cd47cffdb95f96121"
+      },
+      {
+        "address": "0x3c255ded9b25f0bfb4ef1d14234bd2514d7a7a0d"
+      },
+      {
+        "address": "0x897387c7b996485c3aaa85c94272cd6c506f8c8f"
       }
     ]
   }

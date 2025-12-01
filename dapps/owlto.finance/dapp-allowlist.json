@@ -65,6 +65,11 @@
       {
         "address": "0x0e83ded9f80e1c92549615d96842f5cb64a08762"
       }
+    ],
+    "linea": [
+      {
+        "address": "0xd7487d1ff3b2433b32e6d4c333f70a462b99f300"
+      }
     ]
   }
 }

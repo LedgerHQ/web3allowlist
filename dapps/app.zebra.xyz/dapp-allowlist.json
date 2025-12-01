@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zebra",
+  "domain": "app.zebra.xyz",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0xca9fbef94d7cc8662f4711a8612ff9dc1526e650"
+      },
+      {
+        "address": "0x0122960d6e391478bfe8fb2408ba412d5600f621"
+      }
+    ]
+  }
+}

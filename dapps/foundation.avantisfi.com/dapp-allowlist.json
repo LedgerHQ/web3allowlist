@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Avantisfi",
+  "domain": "foundation.avantisfi.com",
+  "chains": {
+    "base": [
+      {
+        "address": "0x37de046173f66f9538aa6bb69a987ac00163f17c"
+      }
+    ]
+  }
+}

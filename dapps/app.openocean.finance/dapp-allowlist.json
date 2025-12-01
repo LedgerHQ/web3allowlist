@@ -37,11 +37,17 @@
     "gnosis": [
       {
         "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+      },
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
       }
     ],
     "arbitrum": [
       {
         "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+      },
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
       }
     ],
     "zksync": [
@@ -50,6 +56,14 @@
       }
     ],
     "base": [
+      {
+        "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+      },
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      }
+    ],
+    "scroll": [
       {
         "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
       }

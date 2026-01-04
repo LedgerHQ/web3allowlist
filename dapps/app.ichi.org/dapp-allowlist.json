@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ichi",
+  "domain": "app.ichi.org",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xe6e32d20258f475baa8d0b39d4c391b96f0ef70a"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x64f359d90fc37edeea7fbe5929f903d43947b797"
+      }
+    ]
+  }
+}

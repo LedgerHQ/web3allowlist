@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ethena",
+  "domain": "app.ethena.fi",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x89c6340b1a1f4b25d36cd8b063d49045caf3f818"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x89c6340b1a1f4b25d36cd8b063d49045caf3f818"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x89c6340b1a1f4b25d36cd8b063d49045caf3f818"
+      }
+    ]
+  }
+}

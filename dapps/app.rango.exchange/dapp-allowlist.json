@@ -38,6 +38,21 @@
       {
         "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
       }
+    ],
+    "ethereum": [
+      {
+        "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x13598fd0986d0e33c402f6907f05acf720224527"
+      }
     ]
   }
 }

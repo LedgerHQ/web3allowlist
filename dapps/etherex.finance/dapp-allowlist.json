@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Etherex",
+  "domain": "etherex.finance",
+  "chains": {
+    "linea": [
+      {
+        "address": "0x2d8879046f1559e53eb052e949e9544bcb72f414"
+      },
+      {
+        "address": "0xa04a9f0a961f8fcc4a94bcf53e676b236cbb2f58"
+      },
+      {
+        "address": "0x85974429677c2a701af470b82f3118e74307826e"
+      },
+      {
+        "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+      },
+      {
+        "address": "0xc93b315971a4f260875103f5da84cb1e30f366cc"
+      }
+    ]
+  }
+}

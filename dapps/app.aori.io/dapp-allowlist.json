@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Aori",
+  "domain": "app.aori.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x0736bdc975af0675b9a045384efed91360d25479"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xc6868edf1d2a7a8b759856cb8afa333210dfeda6"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xc6868edf1d2a7a8b759856cb8afa333210dfeda6"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xc6868edf1d2a7a8b759856cb8afa333210dfeda6"
+      }
+    ]
+  }
+}

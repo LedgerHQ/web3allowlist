@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Velora",
+  "domain": "app.velora.xyz",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x0000000000bbf5c5fd284e657f01bd000933c96d"
+      }
+    ]
+  }
+}

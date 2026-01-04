@@ -36,6 +36,31 @@
       {
         "address": "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
       }
+    ],
+    "ethereum": [
+      {
+        "address": "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      }
     ]
   }
 }

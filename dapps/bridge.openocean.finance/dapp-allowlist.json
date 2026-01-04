@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Openocean",
+  "domain": "bridge.openocean.finance",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x89c6340b1a1f4b25d36cd8b063d49045caf3f818"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x89c6340b1a1f4b25d36cd8b063d49045caf3f818"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x2ec2c4c3dc212c990d1bc2b48b0392a3951d926e"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x89c6340b1a1f4b25d36cd8b063d49045caf3f818"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0xe5a89411c7ef1502123d84ec1f9da9d8574f4293"
+      }
+    ]
+  }
+}

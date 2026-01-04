@@ -51,6 +51,19 @@
       {
         "address": "0xb44958ff91b4b67d8d4db010e38ccffe52551ecb"
       }
+    ],
+    "ethereum": [
+      {
+        "address": "0xeb57de1f78304cf925405efc1089793aabddb0d5"
+      },
+      {
+        "address": "0xa6e941eab67569ca4522f70d343714ff51d571c4"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x52bebb970697476313ae2b3383f40d4afd4ad9d3"
+      }
     ]
   }
 }

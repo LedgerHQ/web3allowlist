@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Sailor",
+  "domain": "app.sailor.finance",
+  "chains": {
+    "celo": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x28b5a0e9c621a5badaa536219b3a228c8168cf5d"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x28b5a0e9c621a5badaa536219b3a228c8168cf5d"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x28b5a0e9c621a5badaa536219b3a228c8168cf5d"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x28b5a0e9c621a5badaa536219b3a228c8168cf5d"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x28b5a0e9c621a5badaa536219b3a228c8168cf5d"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0xde1e598b81620773454588b85d6b5d4eec32573e"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ]
+  }
+}

@@ -13,6 +13,9 @@
       },
       {
         "address": "0x2191718cd32d02b8e60badffea33e4b5dd9a0a0d"
+      },
+      {
+        "address": "0xa7cf5543a27badc3a74d51ea0a02e84799140e4e"
       }
     ],
     "avalanche": [
@@ -40,6 +43,12 @@
       },
       {
         "address": "0x98ee851a00abee0d95d08cf4ca2bdce32aeaaf7f"
+      },
+      {
+        "address": "0x32fd7e563c6521ab4d59ce3277bcfbe3317cfd63"
+      },
+      {
+        "address": "0x9be5da31c7a42d7e045189ac1822d1fa5838e635"
       }
     ],
     "gnosis": [
@@ -62,6 +71,44 @@
       },
       {
         "address": "0x0dcded3545d565ba3b19e683431381007245d983"
+      },
+      {
+        "address": "0x1337bedc9d22ecbe766df105c9623922a27963ec"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x45312ea0eff7e09c83cbe249fa1d7598c4c8cd4e"
+      },
+      {
+        "address": "0x6a8cbed756804b16e05e741edabd5cb544ae21bf"
+      },
+      {
+        "address": "0x98ee851a00abee0d95d08cf4ca2bdce32aeaaf7f"
+      },
+      {
+        "address": "0x1c91da0223c763d2e0173243eadaa0a2ea47e704"
+      },
+      {
+        "address": "0x4e59541306910ad6dc1dac0ac9dfb29bd9f15c67"
+      },
+      {
+        "address": "0xa920de414ea4ab66b97da1bfe9e6eca7d4219635"
+      },
+      {
+        "address": "0x100daa78fc509db39ef7d04de0c1abd299f4c6ce"
+      },
+      {
+        "address": "0xb576491f1e6e5e62f1d8f26062ee822b40b0e0d4"
+      },
+      {
+        "address": "0x8aca5a776a878ea1f8967e70a23b8563008f58ef"
+      },
+      {
+        "address": "0x652aea6b22310c89dcc506710cad24d2dba56b11"
+      },
+      {
+        "address": "0xf8c786b1064889ffd3c8a08b48d5e0c159f4cbe3"
       }
     ]
   }

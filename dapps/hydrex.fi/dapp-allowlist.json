@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Hydrex",
+  "domain": "hydrex.fi",
+  "chains": {
+    "base": [
+      {
+        "address": "0xc69e3ef39e3ffbce2a1c570f8d3adf76909ef17b"
+      },
+      {
+        "address": "0x9a0ebec47c85fd30f1fdc90f57d2b178e84dc8d8"
+      }
+    ]
+  }
+}

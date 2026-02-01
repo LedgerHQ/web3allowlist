@@ -8,6 +8,16 @@
       {
         "address": "0x0b5e6100243f793e480de6088de6ba70aa9f3872"
       }
+    ],
+    "optimism": [
+      {
+        "address": "0x89415a82d909a7238d69094c3dd1dcc1acbda85c"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x5c7bcd6e7de5423a257d81b442095a1a6ced35c5"
+      }
     ]
   }
 }

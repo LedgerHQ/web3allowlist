@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Lombard",
+  "domain": "lombard.finance",
+  "chains": {
+    "base": [
+      {
+        "address": "0xa869817b48b25eee986bdf4be04062e6fd2c418b"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xacb11bc20b1945e59976e3307d2a805faa126c31"
+      },
+      {
+        "address": "0x3a7647c1323144a16e7d0d71a581e3fe5bd95299"
+      }
+    ]
+  }
+}

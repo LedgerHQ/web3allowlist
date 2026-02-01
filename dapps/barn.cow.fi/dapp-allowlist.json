@@ -7,14 +7,35 @@
     "gnosis": [
       {
         "address": "0xd02de8da0b71e1b59489794f423fabba2adc4d93"
+      },
+      {
+        "address": "0x04501b9b1d52e67f6862d157e00d13419d2d6e95"
       }
     ],
     "arbitrum": [
       {
         "address": "0x6dfe75b5ddce1ade279d4fa6bd6aef3cbb6f49db"
+      },
+      {
+        "address": "0x04501b9b1d52e67f6862d157e00d13419d2d6e95"
       }
     ],
     "avalanche": [
+      {
+        "address": "0x04501b9b1d52e67f6862d157e00d13419d2d6e95"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x04501b9b1d52e67f6862d157e00d13419d2d6e95"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x04501b9b1d52e67f6862d157e00d13419d2d6e95"
+      }
+    ],
+    "linea": [
       {
         "address": "0x04501b9b1d52e67f6862d157e00d13419d2d6e95"
       }

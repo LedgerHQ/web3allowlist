@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Etherlink",
+  "domain": "bridge.etherlink.com",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x1f8e735f424b7a49a885571a2fa104e8c13c26c7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Onchaingm",
+  "domain": "onchaingm.com",
+  "chains": {
+    "base": [
+      {
+        "address": "0x34063854383c05588ff0cf3234959279bd785ff7"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x98f935ed6bd5b749adea581b50af2ff0c1f89dec"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x64bb647876101d5ebca969df017a6f058e0f3433"
+      },
+      {
+        "address": "0xde1e598b81620773454588b85d6b5d4eec32573e"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x085fb002c19471b3397e3d988788e2c3947f0411"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x90ae60562ec61afbaebe1f7c82ae2ccb596aef67"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x30b30e4a8a5b8057bd86edc82a9f9613e4ef08af"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x52cae778fed3b345f29293975f737233b84095a2"
+      },
+      {
+        "address": "0x341e94069f53234fe6dabef707ad424830525715"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x002d44f11be4a586d9ae7c2a406d99b0837b4bbf"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0xab5b23f689c37b644c2c0026a79d26bb9ffc64fa"
+      }
+    ]
+  }
+}

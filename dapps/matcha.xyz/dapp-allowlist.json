@@ -7,6 +7,9 @@
     "ethereum": [
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
       }
     ],
     "polygon": [
@@ -27,6 +30,9 @@
     "arbitrum": [
       {
         "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
       }
     ],
     "celo": [
@@ -61,6 +67,11 @@
       },
       {
         "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x000000000000175a8b9bc6d539b3708eed92ea6c"
       }
     ]
   }

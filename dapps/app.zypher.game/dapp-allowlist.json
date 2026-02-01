@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Zypher",
+  "domain": "app.zypher.game",
+  "chains": {
+    "linea": [
+      {
+        "address": "0x490d76b1e9418a78b5403740bd70dfd4f6007e0f"
+      }
+    ]
+  }
+}

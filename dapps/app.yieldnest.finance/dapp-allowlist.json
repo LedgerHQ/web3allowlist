@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Yieldnest",
+  "domain": "app.yieldnest.finance",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      }
+    ]
+  }
+}

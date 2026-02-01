@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Regenerative",
+  "domain": "app.regenerative.fi",
+  "chains": {
+    "celo": [
+      {
+        "address": "0xea280b39437a64473a0c77949759e6629ed1dc73"
+      }
+    ]
+  }
+}

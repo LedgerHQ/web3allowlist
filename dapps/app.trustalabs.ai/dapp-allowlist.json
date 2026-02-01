@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Trustalabs",
+  "domain": "app.trustalabs.ai",
+  "chains": {
+    "linea": [
+      {
+        "address": "0xb86b3e16b6b960fd822849fd4b4861d73805879b"
+      }
+    ]
+  }
+}

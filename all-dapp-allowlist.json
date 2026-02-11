@@ -20770,15 +20770,6 @@
         ]
       },
       {
-        "name" : "Linoswap",
-        "domain" : "linoswap.io",
-        "contracts" : [
-          {
-            "address" : "0xfad14f413f297d1190eb3f86ea88e6b2e78f7896"
-          }
-        ]
-      },
-      {
         "name" : "Liquidnfts",
         "domain" : "liquidnfts.com",
         "contracts" : [

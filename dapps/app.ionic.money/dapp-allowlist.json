@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ionic",
+  "domain": "app.ionic.money",
+  "chains": {
+    "base": [
+      {
+        "address": "0x5a32099837d89e3a794a44fb131cbbad41f87a8c"
+      },
+      {
+        "address": "0x23479229e52ab6aad312d0b03df9f33b46753b5e"
+      },
+      {
+        "address": "0xca11bde05977b3631167028862be2a173976ca11"
+      },
+      {
+        "address": "0x9ab2d181e4b87ba57d5ed564d3ef652c4e710707"
+      },
+      {
+        "address": "0xcd347c1e7d600a9a3e403497562edd0a7bc3ef21"
+      },
+      {
+        "address": "0xe8b364b6021544fd9d0bbbf8b28bb73da86dc226"
+      },
+      {
+        "address": "0x5de0e4719cda2abbd35677f54771083cab6fc32e"
+      },
+      {
+        "address": "0xced65fab0d5875080efe864be13465535a4edf4c"
+      },
+      {
+        "address": "0x923757a2c784df4526a09395069b4bebc5adf505"
+      },
+      {
+        "address": "0xdc9154a54b230f9940c11467922f9a18131fdd08"
+      }
+    ]
+  }
+}

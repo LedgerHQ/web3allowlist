@@ -7,6 +7,37 @@
     "polygon": [
       {
         "address": "0x0b5e6100243f793e480de6088de6ba70aa9f3872"
+      },
+      {
+        "address": "0x9295ee1d8c5b022be115a2ad3c30c72e34e7f096"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x89415a82d909a7238d69094c3dd1dcc1acbda85c"
+      },
+      {
+        "address": "0x6f26bf09b1c792e3228e5467807a900a503c0281"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x5c7bcd6e7de5423a257d81b442095a1a6ced35c5"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xe35e9842fceaca96570b734083f4a58e8f7c5f2a"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x09aea4b2242abc8bb4bb78d537a67a245a7bec64"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x3bad7ad0728f9917d1bf08af5782dcbd516cdd96"
       }
     ]
   }

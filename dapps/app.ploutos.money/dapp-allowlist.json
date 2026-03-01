@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ploutos",
+  "domain": "app.ploutos.money",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
+      }
+    ]
+  }
+}

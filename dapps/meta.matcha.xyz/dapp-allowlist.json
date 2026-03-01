@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Matcha",
+  "domain": "meta.matcha.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      },
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+      },
+      {
+        "address": "0xbbbbbbb520d69a9775e85b458c58c648259fad5f"
+      },
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      },
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+      },
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      },
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x2d8879046f1559e53eb052e949e9544bcb72f414"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x4409921ae43a39a11d90f7b7f96cfd0b8093d9fc"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+      }
+    ]
+  }
+}

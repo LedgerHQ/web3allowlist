@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Merkl",
+  "domain": "app.merkl.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae"
+      }
+    ]
+  }
+}

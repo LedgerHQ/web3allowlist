@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eth",
+  "domain": "velo.drome.eth.link",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0xa062ae8a9c5e11aaa026fc2670b0d65ccc8b2858"
+      },
+      {
+        "address": "0x416b433906b1b72fa758e166e239c43d68dc6f29"
+      },
+      {
+        "address": "0x4200000000000000000000000000000000000006"
+      }
+    ]
+  }
+}

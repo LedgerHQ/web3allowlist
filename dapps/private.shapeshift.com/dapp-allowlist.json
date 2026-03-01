@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Shapeshift",
+  "domain": "private.shapeshift.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      },
+      {
+        "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
+      },
+      {
+        "address": "0xd37bbe5744d730a1d98d8dc97c42f0ca46ad7146"
+      },
+      {
+        "address": "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+      },
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      },
+      {
+        "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
+      },
+      {
+        "address": "0xbbbbbbb520d69a9775e85b458c58c648259fad5f"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      }
+    ]
+  }
+}

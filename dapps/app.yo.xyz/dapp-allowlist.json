@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Yo",
+  "domain": "app.yo.xyz",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      }
+    ]
+  }
+}

@@ -10,6 +10,9 @@
       },
       {
         "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      },
+      {
+        "address": "0x1b81d678ffb9c0263b24a97847620c99d213eb14"
       }
     ],
     "base": [
@@ -24,6 +27,9 @@
       },
       {
         "address": "0x000000c51119e2bde2419c5e6fd273a81b79a8e3"
+      },
+      {
+        "address": "0x1b81d678ffb9c0263b24a97847620c99d213eb14"
       }
     ],
     "ethereum": [
@@ -32,6 +38,9 @@
       },
       {
         "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+      },
+      {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
       }
     ],
     "bsc": [
@@ -70,6 +79,11 @@
       },
       {
         "address": "0xb39002e4033b162fac607fc3471e205fa2ae5967"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
       }
     ]
   }

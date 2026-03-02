@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Symph",
+  "domain": "onboarding.symph.ag",
+  "chains": {
+    "gnosis": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0xde1e598b81620773454588b85d6b5d4eec32573e"
+      },
+      {
+        "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x341e94069f53234fe6dabef707ad424830525715"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ]
+  }
+}

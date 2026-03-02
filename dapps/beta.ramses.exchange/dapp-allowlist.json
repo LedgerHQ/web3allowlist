@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ramses",
+  "domain": "beta.ramses.exchange",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+      },
+      {
+        "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+      }
+    ]
+  }
+}

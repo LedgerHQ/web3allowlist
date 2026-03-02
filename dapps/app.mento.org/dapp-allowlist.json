@@ -7,6 +7,9 @@
     "celo": [
       {
         "address": "0x777a8255ca72412f0d706dc03c9d1987306b4cad"
+      },
+      {
+        "address": "0x471ece3750da237f93b8e339c536989b8978a438"
       }
     ]
   }

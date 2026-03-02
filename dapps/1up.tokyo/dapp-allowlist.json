@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "1up",
+  "domain": "1up.tokyo",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x32fa16745e4519a9139daf3dba39d40c120c8ceb"
+      },
+      {
+        "address": "0x95710bde45c8d384a976cc58cc7a7e489576b098"
+      }
+    ]
+  }
+}

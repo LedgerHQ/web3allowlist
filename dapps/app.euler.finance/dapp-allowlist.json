@@ -7,6 +7,12 @@
     "ethereum": [
       {
         "address": "0x1b808f49add4b8c6b5117d9681cf7312fcf0dc1d"
+      },
+      {
+        "address": "0x0c9a3dd6b8f28529d72d7f9ce918d493519ee383"
+      },
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
       }
     ],
     "base": [
@@ -22,6 +28,11 @@
     "avalanche": [
       {
         "address": "0xddcbe30a761edd2e19bba930a977475265f36fa1"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0xd8cecee9a04ea3d941a959f68fb4486f23271d09"
       }
     ]
   }

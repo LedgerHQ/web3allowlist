@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Eclipse",
+  "domain": "app.eclipse.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x867a8fcd5bb6774d4d37fb342d669a35ff789a51"
+      }
+    ]
+  }
+}

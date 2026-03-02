@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Horizondex",
+  "domain": "v2.horizondex.io",
+  "chains": {
+    "linea": [
+      {
+        "address": "0xc3454bcb7164a83549022ffea307352d4afc7a11"
+      }
+    ]
+  }
+}

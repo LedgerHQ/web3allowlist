@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Symbiotic",
+  "domain": "app.symbiotic.fi",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xe1f23869776c82f691d9cb34597ab1830fb0de58"
+      }
+    ]
+  }
+}

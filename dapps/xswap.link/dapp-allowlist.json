@@ -23,6 +23,11 @@
       {
         "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
       }
+    ],
+    "ethereum": [
+      {
+        "address": "0x0bb24c4302889ea0fb22dfacbb845e5602f35972"
+      }
     ]
   }
 }

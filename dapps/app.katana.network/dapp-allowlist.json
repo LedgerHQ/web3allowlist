@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Katana",
+  "domain": "app.katana.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xdea1992a2956c2f0ccc6e1f744d114a21280e8b1"
+      }
+    ]
+  }
+}

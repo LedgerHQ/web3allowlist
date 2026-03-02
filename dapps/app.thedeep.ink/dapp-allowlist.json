@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Thedeep",
+  "domain": "app.thedeep.ink",
+  "chains": {
+    "polygon": [
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      }
+    ]
+  }
+}

@@ -15,6 +15,9 @@
     "polygon": [
       {
         "address": "0xbf94ed69281709958c8f60bc15cd1bb6badcd4a4"
+      },
+      {
+        "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
       }
     ],
     "bsc": [

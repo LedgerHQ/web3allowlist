@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Dragonswap",
+  "domain": "bridge.dragonswap.app",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+      },
+      {
+        "address": "0x28b5a0e9c621a5badaa536219b3a228c8168cf5d"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      },
+      {
+        "address": "0x28b5a0e9c621a5badaa536219b3a228c8168cf5d"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x28b5a0e9c621a5badaa536219b3a228c8168cf5d"
+      },
+      {
+        "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+      },
+      {
+        "address": "0x28b5a0e9c621a5badaa536219b3a228c8168cf5d"
+      }
+    ]
+  }
+}

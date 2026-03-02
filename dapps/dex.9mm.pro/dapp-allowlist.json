@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "9mm",
+  "domain": "dex.9mm.pro",
+  "chains": {
+    "base": [
+      {
+        "address": "0xff112c8005e210cb77d3ea0198a0dc3ae3ccc107"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x30d678777cd126d498b21fd8916825b2aface90c"
+      }
+    ]
+  }
+}

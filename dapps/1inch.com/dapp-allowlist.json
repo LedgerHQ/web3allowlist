@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "1inch",
+  "domain": "1inch.com",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xe12e0f117d23a5ccc57f8935cd8c4e80cd91ff01"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xe12e0f117d23a5ccc57f8935cd8c4e80cd91ff01"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xe12e0f117d23a5ccc57f8935cd8c4e80cd91ff01"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xfd1d18173d2f179a45bf21f755a261aae7c2d769"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      },
+      {
+        "address": "0xe12e0f117d23a5ccc57f8935cd8c4e80cd91ff01"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xe12e0f117d23a5ccc57f8935cd8c4e80cd91ff01"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0xe12e0f117d23a5ccc57f8935cd8c4e80cd91ff01"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xe12e0f117d23a5ccc57f8935cd8c4e80cd91ff01"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xe12e0f117d23a5ccc57f8935cd8c4e80cd91ff01"
+      }
+    ]
+  }
+}

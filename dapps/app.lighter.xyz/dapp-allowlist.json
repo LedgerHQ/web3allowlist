@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Lighter",
+  "domain": "app.lighter.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x3b4d794a66304f130a4db8f2551b0070dfcf5ca7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Revox",
+  "domain": "lense.revox.ai",
+  "chains": {
+    "linea": [
+      {
+        "address": "0x9bceb46bbcea62dc326571de18da37e45e17c3ea"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x2c80179883217370f777e76c067eea91d8283c5c"
+      }
+    ]
+  }
+}

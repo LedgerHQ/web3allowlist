@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Turtle",
+  "domain": "app.turtle.xyz",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xc71ec84ee70a54000db3370807bfaf4309a67a1f"
+      }
+    ]
+  }
+}

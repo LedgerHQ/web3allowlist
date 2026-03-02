@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Almanak",
+  "domain": "app.almanak.co",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xdcd0f5ab30856f28385f641580bbd85f88349124"
+      },
+      {
+        "address": "0x5a97b0b97197299456af841f8605543b13b12ee3"
+      },
+      {
+        "address": "0xdee70834b073e0f732903610a1b93470e8f2ec6b"
+      }
+    ]
+  }
+}

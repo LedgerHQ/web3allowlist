@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gas",
+  "domain": "gas.zip",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x2a37d63eadfe4b4682a3c28c1c2cd4f109cc2762"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x2a37d63eadfe4b4682a3c28c1c2cd4f109cc2762"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x2a37d63eadfe4b4682a3c28c1c2cd4f109cc2762"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x2a37d63eadfe4b4682a3c28c1c2cd4f109cc2762"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x2a37d63eadfe4b4682a3c28c1c2cd4f109cc2762"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x2a37d63eadfe4b4682a3c28c1c2cd4f109cc2762"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x2a37d63eadfe4b4682a3c28c1c2cd4f109cc2762"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x2a37d63eadfe4b4682a3c28c1c2cd4f109cc2762"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x252fb662e4d7435d2a5ded8ec94d8932cf76c178"
+      }
+    ]
+  }
+}

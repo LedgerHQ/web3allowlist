@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Phala",
+  "domain": "bridge.phala.network",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x6a3444d11ca2697fe4a19ac8995abdd8dd301521"
+      }
+    ]
+  }
+}

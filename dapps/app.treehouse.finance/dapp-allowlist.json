@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Treehouse",
+  "domain": "app.treehouse.finance",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xefa3fa8e85d2b3cfdb250cdea156c2c6c90628f5"
+      },
+      {
+        "address": "0xba3cb449bd2b4adddbc894d8697f5170800eadec"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x5f4d2e6c118b5e3c74f0b61de40f627ca9873d6e"
+      },
+      {
+        "address": "0xba3cb449bd2b4adddbc894d8697f5170800eadec"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xba3cb449bd2b4adddbc894d8697f5170800eadec"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xba3cb449bd2b4adddbc894d8697f5170800eadec"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0xba3cb449bd2b4adddbc894d8697f5170800eadec"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xba3cb449bd2b4adddbc894d8697f5170800eadec"
+      }
+    ]
+  }
+}

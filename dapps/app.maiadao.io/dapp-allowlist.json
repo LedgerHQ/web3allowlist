@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Maiadao",
+  "domain": "app.maiadao.io",
+  "chains": {
+    "avalanche": [
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      },
+      {
+        "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x09aea4b2242abc8bb4bb78d537a67a245a7bec64"
+      },
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x6f26bf09b1c792e3228e5467807a900a503c0281"
+      },
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xe35e9842fceaca96570b734083f4a58e8f7c5f2a"
+      },
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+      },
+      {
+        "address": "0x7e63a5f1a8f0b4d0934b2f2327daed3f6bb2ee75"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x5c7bcd6e7de5423a257d81b442095a1a6ced35c5"
+      },
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0x6a000f20005980200259b80c5102003040001068"
+      }
+    ]
+  }
+}

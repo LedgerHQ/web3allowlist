@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Usdt0",
+  "domain": "usdt0.to",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x1f748c76de468e9d11bd340fa9d5cbadf315dfb0"
+      },
+      {
+        "address": "0x6c96de32cea08842dcc4058c14d3aaad7fa41dee"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x77652d5aba086137b595875263fc200182919b92"
+      },
+      {
+        "address": "0x14e4a1b13bf7f943c8ff7c51fb60fa964a298d92"
+      }
+    ],
+    "celo": [
+      {
+        "address": "0xf10e161027410128e63e75d0200fb6d34b2db243"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xf03b4d9ac1d5d1e7c4cef54c2a313b9fe051a0ad"
+      }
+    ]
+  }
+}

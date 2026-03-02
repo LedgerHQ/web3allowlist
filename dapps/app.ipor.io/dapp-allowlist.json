@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Ipor",
+  "domain": "app.ipor.io",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xb0f56bb0bf13ee05fef8cd2d8df5ffdfcac7a74f"
+      },
+      {
+        "address": "0x6f66b845604dad6e80b2a1472e6cacbbe66a8c40"
+      },
+      {
+        "address": "0x3151cee0cdb517c0e7db2b55ff5085e7d1809d90"
+      },
+      {
+        "address": "0xf6cd9e8415162c8fb3c52676c7ca68812a34f76e"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xebc6c7883ca32ef9484740ba32a816f5f88b7a41"
+      },
+      {
+        "address": "0xf2f8386b88cb15c5ceade069c44f57fd2fd35e95"
+      },
+      {
+        "address": "0xc4c00d8b323f37527eeda27c87412378be9f68ec"
+      }
+    ]
+  }
+}

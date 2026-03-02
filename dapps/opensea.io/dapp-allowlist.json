@@ -70,6 +70,18 @@
       },
       {
         "address": "0x0000000000000068f116a894984e2db1123eb395"
+      },
+      {
+        "address": "0xbbbfd134e9b44bfb5123898ba36b01de7ab93d98"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      },
+      {
+        "address": "0x4cd00e387622c35bddb9b4c962c136462338bc31"
       }
     ],
     "polygon": [
@@ -78,6 +90,9 @@
       },
       {
         "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+      },
+      {
+        "address": "0xb92fe925dc43a0ecde6c8b1a2709c170ec4fff4f"
       }
     ],
     "bsc": [
@@ -91,21 +106,45 @@
     "optimism": [
       {
         "address": "0x0000000000000068f116a894984e2db1123eb395"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
       }
     ],
     "arbitrum": [
       {
         "address": "0x0000000000000068f116a894984e2db1123eb395"
+      },
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0x4cd00e387622c35bddb9b4c962c136462338bc31"
       }
     ],
     "base": [
       {
         "address": "0x0000000000000068f116a894984e2db1123eb395"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
       }
     ],
     "avalanche": [
       {
         "address": "0x0000000000000068f116a894984e2db1123eb395"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0xb92fe925dc43a0ecde6c8b1a2709c170ec4fff4f"
       }
     ]
   }

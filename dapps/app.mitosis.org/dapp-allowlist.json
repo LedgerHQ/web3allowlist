@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Mitosis",
+  "domain": "app.mitosis.org",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x12481632fcf42878b5e478e430e2aeb6b1f62429"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x12481632fcf42878b5e478e430e2aeb6b1f62429"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x12481632ffbd6cd708a56dd238fa76f6ea9705ec"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x12481632fcf42878b5e478e430e2aeb6b1f62429"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0x12481632fcf42878b5e478e430e2aeb6b1f62429"
+      }
+    ]
+  }
+}

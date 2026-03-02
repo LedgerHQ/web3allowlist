@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Brownfi",
+  "domain": "app.brownfi.io",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x3240853b71c89209ea8764cddfa3b81766553e55"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x3240853b71c89209ea8764cddfa3b81766553e55"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x3f0bbeedea5e5f63a14cbda82718d4f25501fbea"
+      }
+    ]
+  }
+}

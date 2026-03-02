@@ -7,6 +7,9 @@
     "gnosis": [
       {
         "address": "0x6093aebac87d62b1a5a4ceec91204e35020e38be"
+      },
+      {
+        "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
       }
     ]
   }

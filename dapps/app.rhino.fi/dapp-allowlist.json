@@ -51,6 +51,19 @@
       },
       {
         "address": "0x4be1136247cdeca3775a7a32aff6a621c1c149eb"
+      },
+      {
+        "address": "0x87627c7e586441eef9ee3c28b66662e897513f33"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0xcf68a2721394dcf5dcf66f6265c1819720f24528"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x5e023c31e1d3dcd08a1b3e8c96f6ef8aa8fcacd1"
       }
     ]
   }

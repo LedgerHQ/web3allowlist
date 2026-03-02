@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Contango",
+  "domain": "app.contango.xyz",
+  "chains": {
+    "optimism": [
+      {
+        "address": "0x3f37c7d8e61c000085aac0515775b06a3412f36b"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x007606064f8a40745336f91a1e4345900143756b"
+      }
+    ],
+    "gnosis": [
+      {
+        "address": "0xa6a147946facac9e0b99824870b36088764f969f"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xa6a147946facac9e0b99824870b36088764f969f"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xa6a147946facac9e0b99824870b36088764f969f"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xa6a147946facac9e0b99824870b36088764f969f"
+      }
+    ]
+  }
+}

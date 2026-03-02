@@ -7,6 +7,9 @@
     "base": [
       {
         "address": "0x06a9376d079bac1c5a83c3fd4c5a25b72ce35273"
+      },
+      {
+        "address": "0xe530d28960d48708ccf3e62aa7b42a80bc427aef"
       }
     ],
     "optimism": [
@@ -15,6 +18,34 @@
       },
       {
         "address": "0x3191f40de6991b1bb1f61b7cec43d62bb337786b"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x585d7e1f897f3d259415f35f5cfb7d81b9a0e2cf"
+      },
+      {
+        "address": "0xe530d28960d48708ccf3e62aa7b42a80bc427aef"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xe530d28960d48708ccf3e62aa7b42a80bc427aef"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xe530d28960d48708ccf3e62aa7b42a80bc427aef"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0xe530d28960d48708ccf3e62aa7b42a80bc427aef"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xe530d28960d48708ccf3e62aa7b42a80bc427aef"
       }
     ]
   }

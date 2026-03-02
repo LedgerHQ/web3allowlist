@@ -7,6 +7,9 @@
     "ethereum": [
       {
         "address": "0xbeb09beb09e95e6febf0d6eeb1d0d46d1013cc3c"
+      },
+      {
+        "address": "0xbeb0b0623f66be8ce162ebdfa2ec543a522f4ea6"
       }
     ],
     "polygon": [
@@ -17,6 +20,26 @@
     "zksync": [
       {
         "address": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xbeb0b0623f66be8ce162ebdfa2ec543a522f4ea6"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xbeb0b0623f66be8ce162ebdfa2ec543a522f4ea6"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xbeb0b0623f66be8ce162ebdfa2ec543a522f4ea6"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xbeb0b0623f66be8ce162ebdfa2ec543a522f4ea6"
       }
     ]
   }

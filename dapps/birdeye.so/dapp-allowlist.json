@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Birdeye",
+  "domain": "birdeye.so",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x6088d94c5a40cecd3ae2d4e0710ca687b91c61d0"
+      },
+      {
+        "address": "0x0654874eb7f59c6f5b39931fc45dc45337c967c3"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x9b9efa5efa731ea9bbb0369e91fa17abf249cfd4"
+      },
+      {
+        "address": "0x5e2f47bd7d4b357fcfd0bb224eb665773b1b9801"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x2e1dee213ba8d7af0934c49a23187babeaca8764"
+      },
+      {
+        "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+      },
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Gooddapp",
+  "domain": "gooddapp.org",
+  "chains": {
+    "celo": [
+      {
+        "address": "0x000000000022d473030f116ddee9f6b43ac78ba3"
+      },
+      {
+        "address": "0x643770e279d5d0733f21d6dc03a8efbabf3255b4"
+      }
+    ]
+  }
+}

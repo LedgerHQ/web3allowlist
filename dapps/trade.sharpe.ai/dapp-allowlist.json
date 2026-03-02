@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Sharpe",
+  "domain": "trade.sharpe.ai",
+  "chains": {
+    "arbitrum": [
+      {
+        "address": "0x816f722424b49cf1275cc86da9840fbd5a6167e9"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x816f722424b49cf1275cc86da9840fbd5a6167e9"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x816f722424b49cf1275cc86da9840fbd5a6167e9"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0x816f722424b49cf1275cc86da9840fbd5a6167e9"
+      }
+    ]
+  }
+}

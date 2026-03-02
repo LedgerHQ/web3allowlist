@@ -37,6 +37,9 @@
       },
       {
         "address": "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "ethereum": [
@@ -57,6 +60,9 @@
       },
       {
         "address": "0xc2edad668740f1aa35e4d8f227fb8e17dca888cd"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "polygon": [
@@ -99,6 +105,9 @@
       },
       {
         "address": "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "fantom": [
@@ -139,6 +148,9 @@
       },
       {
         "address": "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "base": [
@@ -168,6 +180,9 @@
       },
       {
         "address": "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "avalanche": [
@@ -188,6 +203,9 @@
       },
       {
         "address": "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "celo": [
@@ -207,11 +225,25 @@
       },
       {
         "address": "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "zksync": [
       {
         "address": "0x35e98c2b3894d71d3d4d7edb8b30e4f36e2f9179"
+      },
+      {
+        "address": "0x341e94069f53234fe6dabef707ad424830525715"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
+      },
+      {
+        "address": "0xde1e598b81620773454588b85d6b5d4eec32573e"
       }
     ]
   }

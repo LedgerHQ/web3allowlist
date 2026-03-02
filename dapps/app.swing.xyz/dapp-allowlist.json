@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Swing",
+  "domain": "app.swing.xyz",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xfcb34b514dc2f89cc1daa72d78fa56a942de395e"
+      },
+      {
+        "address": "0x4d9cdb3f367a93ef942f1564fee5e58d2b68220e"
+      },
+      {
+        "address": "0xbbbbbbb520d69a9775e85b458c58c648259fad5f"
+      },
+      {
+        "address": "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
+      },
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0x337685fdab40d39bd02028545a4ffa7d287cc3e2"
+      },
+      {
+        "address": "0x967ec03dffdfb4a22c8c4b811b17ac135082fbdc"
+      },
+      {
+        "address": "0x800589bdafe1fd3c47d545b7012b471e7dfbd0a7"
+      },
+      {
+        "address": "0x72788af7fc87d14da73f94e353e52b76e230035b"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      },
+      {
+        "address": "0x57d92e96582c8b37fe5e34903557ebe86b7f25fa"
+      },
+      {
+        "address": "0xbbbbbbb520d69a9775e85b458c58c648259fad5f"
+      },
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      },
+      {
+        "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+      },
+      {
+        "address": "0x42f7c4240f399188775387314241dd132c6fbe10"
+      },
+      {
+        "address": "0x337685fdab40d39bd02028545a4ffa7d287cc3e2"
+      },
+      {
+        "address": "0x3f45a223faa0de47e2d4390c336320c68dc14e4e"
+      },
+      {
+        "address": "0x90f1ef9d2cde204c8494cf73130771b350070b53"
+      },
+      {
+        "address": "0x97fffffa57144bbfacf41251bd1763657e646667"
+      },
+      {
+        "address": "0xb91fffdf5c5f793ad24e1e82cdf31ef5dc4c9f18"
+      }
+    ],
+    "base": [
+      {
+        "address": "0x8b28dcb1165c4db81600ec49ac5d4ea756a85a29"
+      },
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      },
+      {
+        "address": "0xbeb0b0623f66be8ce162ebdfa2ec543a522f4ea6"
+      },
+      {
+        "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      },
+      {
+        "address": "0x36dddc5f8a063555a32e04425d68dcacedde0806"
+      },
+      {
+        "address": "0x337685fdab40d39bd02028545a4ffa7d287cc3e2"
+      },
+      {
+        "address": "0x90f1ef9d2cde204c8494cf73130771b350070b53"
+      },
+      {
+        "address": "0x97fffffa57144bbfacf41251bd1763657e646667"
+      },
+      {
+        "address": "0x966d754187179d25ff67ec70b0b49c3e0741eee2"
+      }
+    ],
+    "avalanche": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      },
+      {
+        "address": "0x337685fdab40d39bd02028545a4ffa7d287cc3e2"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0xe684eedd1f493945d7923e9156401e945211243d"
+      },
+      {
+        "address": "0x66de8c93512026bd943a8e99334804e6e8ee1f6c"
+      },
+      {
+        "address": "0x0a29e59538ef9a64d58817f272ccce478fa7874d"
+      },
+      {
+        "address": "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      },
+      {
+        "address": "0x39722d14d0a954d08350c9796658d18cd2c997d4"
+      },
+      {
+        "address": "0x0bdc471086a0afae5ac044d9989243c3416a20a2"
+      },
+      {
+        "address": "0x337685fdab40d39bd02028545a4ffa7d287cc3e2"
+      },
+      {
+        "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+      },
+      {
+        "address": "0xe6f3e069c914adec62d0e06708ce4e633e256703"
+      },
+      {
+        "address": "0x4c1a9d72f3d6b9e4a62ca8971dd3862fcb64ad64"
+      },
+      {
+        "address": "0x8b28dcb1165c4db81600ec49ac5d4ea756a85a29"
+      },
+      {
+        "address": "0xd1fb55c201734acf613d2c12deec63fcf0eeeba1"
+      },
+      {
+        "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+      },
+      {
+        "address": "0xbeb0b0623f66be8ce162ebdfa2ec543a522f4ea6"
+      }
+    ],
+    "scroll": [
+      {
+        "address": "0xe5a160ad0f16193c0fbf46458c762451d7a7b303"
+      },
+      {
+        "address": "0x46faf009d9128ed05577a893b66e55abbab13a1d"
+      },
+      {
+        "address": "0x00000000aa467eba42a3d604b3d74d63b2b6c6cb"
+      },
+      {
+        "address": "0x90f1ef9d2cde204c8494cf73130771b350070b53"
+      },
+      {
+        "address": "0x97fffffa57144bbfacf41251bd1763657e646667"
+      },
+      {
+        "address": "0xe684eedd1f493945d7923e9156401e945211243d"
+      },
+      {
+        "address": "0xf5042e6ffac5a625d4e7848e0b01373d8eb9e222"
+      },
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      },
+      {
+        "address": "0xbfe03c9e20a9fc0b37de01a172f207004935e0b1"
+      },
+      {
+        "address": "0xbeb0b0623f66be8ce162ebdfa2ec543a522f4ea6"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0xd5b3859cbce1582e7cb2631db465c0dd94f314d1"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x3ca700004aa08dd4c04a1d8595326a1de82da5bf"
+      },
+      {
+        "address": "0x941b6f986f76bc900a438505bd9cae443870a0b7"
+      },
+      {
+        "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+      },
+      {
+        "address": "0x00000000aa467eba42a3d604b3d74d63b2b6c6cb"
+      },
+      {
+        "address": "0x3dae641e75f790c158e6d15c1abc8ff11a6765e7"
+      },
+      {
+        "address": "0x0a29e59538ef9a64d58817f272ccce478fa7874d"
+      },
+      {
+        "address": "0xdc81b70a3b8226bf966371748821d1fd4155eb9e"
+      },
+      {
+        "address": "0x337685fdab40d39bd02028545a4ffa7d287cc3e2"
+      },
+      {
+        "address": "0xd3df7f6990cdb0c92d25228bf0aff0b0a5969d7f"
+      },
+      {
+        "address": "0x113a327221d2c4660684449bfc39bc14ad1aaf38"
+      },
+      {
+        "address": "0x2d8879046f1559e53eb052e949e9544bcb72f414"
+      }
+    ]
+  }
+}

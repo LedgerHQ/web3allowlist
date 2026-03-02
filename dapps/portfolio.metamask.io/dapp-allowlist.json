@@ -13,6 +13,15 @@
       },
       {
         "address": "0x67054183db455d74839d1ea11f7e497350f64c71"
+      },
+      {
+        "address": "0x0439e60f02a8900a951603950d8d4527f400c3f1"
+      },
+      {
+        "address": "0x4fef9d741011476750a243ac70b9789a63dd47df"
+      },
+      {
+        "address": "0x1f6692e78dde07ff8da75769b6d7c716215bc7d0"
       }
     ],
     "polygon": [
@@ -33,6 +42,9 @@
     "avalanche": [
       {
         "address": "0x1a1ec25dc08e98e5e93f1104b5e5cdd298707d31"
+      },
+      {
+        "address": "0x29106d08382d3c73bf477a94333c61db1142e1b6"
       }
     ],
     "optimism": [
@@ -43,6 +55,19 @@
     "zksync": [
       {
         "address": "0xf504c1fe13d14df615e66dcd0abf39e60c697f34"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x9dda6ef3d919c9bc8885d5560999a3640431e8e6"
+      },
+      {
+        "address": "0xe3d0d2607182af5b24f5c3c2e4990a053add64e3"
+      }
+    ],
+    "base": [
+      {
+        "address": "0xa20ecbc821fb54064aa7b5c6ac81173b8b34df71"
       }
     ]
   }

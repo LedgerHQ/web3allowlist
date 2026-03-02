@@ -7,6 +7,9 @@
     "ethereum": [
       {
         "address": "0xf7b75183a2829843db06266c114297dfbfaee2b6"
+      },
+      {
+        "address": "0xd03bd9ef8c72aee3dbb5b8df83c479d847622dba"
       }
     ],
     "base": [
@@ -20,6 +23,9 @@
     "arbitrum": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x1db04f01386c6be2d22b7947236d8acc05901219"
       }
     ],
     "optimism": [

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cometbridge",
+  "domain": "cometbridge.app",
+  "chains": {
+    "base": [
+      {
+        "address": "0x0fbcf4a62036e96c4f6770b38a9b536aa14d1846"
+      }
+    ],
+    "ethereum": [
+      {
+        "address": "0x0fbcf4a62036e96c4f6770b38a9b536aa14d1846"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0x0fbcf4a62036e96c4f6770b38a9b536aa14d1846"
+      }
+    ],
+    "optimism": [
+      {
+        "address": "0x20f7ffee1515233e9082d1e0fe4786ffe987d17f"
+      }
+    ],
+    "linea": [
+      {
+        "address": "0x0fbcf4a62036e96c4f6770b38a9b536aa14d1846"
+      }
+    ]
+  }
+}

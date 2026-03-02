@@ -221,6 +221,9 @@
       },
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      },
+      {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
       }
     ],
     "zksync": [

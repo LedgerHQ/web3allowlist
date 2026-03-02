@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Haven1",
+  "domain": "portal.haven1.org",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0x7e75d686e64bbcfe240370bd76802e621573cb0a"
+      }
+    ]
+  }
+}

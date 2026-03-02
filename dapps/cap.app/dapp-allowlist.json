@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Cap",
+  "domain": "cap.app",
+  "chains": {
+    "ethereum": [
+      {
+        "address": "0xcccc62962d17b8914c62d74ffb843d73b2a3cccc"
+      }
+    ]
+  }
+}

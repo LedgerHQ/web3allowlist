@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Rhomarkets",
+  "domain": "dapp.rhomarkets.xyz",
+  "chains": {
+    "scroll": [
+      {
+        "address": "0x639355f34ca9935e0004e30bd77b9ce2ada0e692"
+      }
+    ]
+  }
+}
